@@ -1,4 +1,4 @@
-# /home/funilrys/Projects/dead-hosts/hosts.extras--add.2o7Net@FadeMind/
+# add.2o7Net
 
 ## Execution
 ### Date
