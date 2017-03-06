@@ -116,12 +116,12 @@ generateList()
 
 while [ "$#" -gt 0 ]; do
     case "$1" in
-        # We catch domain
+        # We catch if you get list
         -getl)
             getListToTest
             shift 1
         ;;
-        # We catch if we show the execution time
+        # We catch if we generate raw list from result
         -genl)
             generateList
             shift 1
