@@ -19,7 +19,7 @@ regexDateOfDownload='Date:.*'
 dateToAppend="Date: **"$(date)"**"
 
 # list name
-listName='add.2o7Net.list'
+listName='add.Dead.list'
 
 # Default name for list
 basicListName='list'
