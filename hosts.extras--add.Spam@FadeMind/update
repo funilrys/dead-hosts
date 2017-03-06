@@ -1,0 +1,140 @@
+#!/bin/bash
+
+# _______           _        _______  _______  ______   _        _______
+# (  ____ \|\     /|( (    /|(  ____ \(  ____ \(  ___ \ ( \      (  ____ \
+# | (    \/| )   ( ||  \  ( || (    \/| (    \/| (   ) )| (      | (    \/
+# | (__    | |   | ||   \ | || |      | (__    | (__/ / | |      | (__
+# |  __)   | |   | || (\ \) || |      |  __)   |  __ (  | |      |  __)
+# | (      | |   | || | \   || |      | (      | (  \ \ | |      | (
+# | )      | (___) || )  \  || (____/\| (____/\| )___) )| (____/\| (____/\
+# |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
+
+# Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
+
+############################## Default Values ##################################
+# Regex to match
+regexTitle='Title-Or-Repo'
+regexURL='DownloadLink'
+regexDateOfDownload='Date:.*'
+dateToAppend="Date: **"$(date)"**"
+
+# list name
+listName='add.Spam.list'
+
+# Default name for list
+basicListName='list'
+
+# Repo name
+repoName='hosts.extras--add.Spam@FadeMind'
+
+# Github hosts file
+linkGithub='https://github.com/FadeMind/hosts.extras/blob/master/add.Spam/hosts'
+
+# list URL README
+readmeLink="[${listName}](${linkGithub})"
+
+# Origin List URL
+rawOriginURL='https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts'
+################################################################################
+############################# Directories & Files ##############################
+# list directory
+listDir='tested-list/'
+
+# Output list
+outputList=${listDir}${listName}
+
+# Output list
+outputList=${listDir}${listName}
+
+# Temporary file
+tempFile=${listDir}'funilrys'
+
+# Hosts file name
+hostsFileName='hosts'
+
+# Active directory
+activeDir='ACTIVE/'
+
+# Inactive directory
+inactiveDir='INACTIVE/'
+
+# Invalid directory
+invalidDir='INVALID/'
+
+# README.md file
+readmeMD='README.md'
+
+# README.md content
+readmeMDContent=$(cat ${readmeMD})
+################################################################################
+getListToTest()
+{
+    # Update badrefers.list
+    curl ${rawOriginURL} -o ${outputList}
+    # We delete comment line
+    grep -v "#" ${outputList} > ${tempFile}; mv ${tempFile} ${outputList}
+    # We cut the list
+    cat ${outputList} | cut -d ' ' -f2 >> ${tempFile}; mv ${tempFile} ${outputList}
+    # We delete blank line
+    cat ${outputList} | grep . >> ${tempFile}; mv ${tempFile} ${outputList}
+    # We cut the list
+    cat ${outputList} | cut -d ' ' -f2 >> ${tempFile}; mv ${tempFile} ${outputList}
+    # We convert the file
+    dos2unix ${outputList}
+
+    # we replace data in README
+    if [[ ${readmeMDContent} =~ ${regexTitle} ]]
+    then
+        # We replace data
+        sed -i "s|${regexTitle}|${repoName}|g" ${readmeMD}
+        sed -i "s|${regexURL}|${readmeLink}|g" ${readmeMD}
+    fi
+    if [[ ${readmeMDContent} =~ ${regexDateOfDownload} ]]
+    then
+        sed -i "s|${regexDateOfDownload}|${dateToAppend}|g" ${readmeMD}
+    fi
+}
+
+generateList()
+{
+    # Create list without the hosts part
+    if [[ -f ${activeDir}${hostsFileName} ]]
+    then
+        cat ${activeDir}${hostsFileName} | cut -d ' ' -f2 >> ${tempFile}; mv ${tempFile} ${activeDir}${basicListName}
+    fi
+
+    # Create list without the hosts part
+    if [[ -f ${inactiveDir}${hostsFileName} ]]
+    then
+        cat ${inactiveDir}${hostsFileName} | cut -d ' ' -f2 >> ${tempFile}; mv ${tempFile} ${inactiveDir}${basicListName}
+    fi
+
+    # Create list without the hosts part
+    if [[ -f ${invalidDir}${hostsFileName} ]]
+    then
+        cat ${$invalidDir}${hostsFileName} | cut -d ' ' -f2 >> ${tempFile}; mv ${tempFile} ${$invalidDir}${basicListName}
+    fi
+}
+
+while [ "$#" -gt 0 ]; do
+    case "$1" in
+        # We catch domain
+        -getl)
+            getListToTest
+            shift 1
+        ;;
+        # We catch if we show the execution time
+        -genl)
+            generateList
+            shift 1
+        ;;
+        -*)
+            echo "Unknown option: $1" >&2
+            exit 1
+        ;;
+        *)
+            echo "Unknown option: $1" >&2
+            exit 1
+        ;;
+    esac
+done
