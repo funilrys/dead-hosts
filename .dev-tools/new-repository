@@ -48,7 +48,7 @@ parentDir=$(dirname ${PWD})/
 rawLink=''
 
 # Default README.md location
-readmeDef="${PWD}/README.md"
+readmeDef="${PWD}/README"
 
 # Default value of repo name
 repoName=''
@@ -126,7 +126,7 @@ createRepository()
         fi
         
         # We copy the default files
-        cp ${readmeDef} ${dirToCreate}
+        cp ${readmeDef} ${dirToCreate}/README.md
         cp ${updateDef} ${dirToCreate}
         
         # We give execution permission
