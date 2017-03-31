@@ -145,7 +145,7 @@ checkList()
     # We initiate what we're gonna match/replace
     local regexOutputDir="outputDir='.*\/output\/'"
     local regexHostsDir="hostsDir=.*"
-    local regexExecutionDate='Date Of Execution:'
+    local regexExecutionDate='Date Of Execution:.*'
     local regexPercentageOutput='percentageLogOutput=.*'
     
     # We check if the script match something.
