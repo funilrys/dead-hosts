@@ -15,7 +15,7 @@ You're gonna find here the results of the lists tested with [Funceble](https://g
     ├── README.md
     ├── tested-list ==> Dir where list are saved
     │   └── badreferers.list
-    └── update ==> script used to update the dir
+    └── tool ==> script used to update the dir & check lists
 ```
 
 ___
