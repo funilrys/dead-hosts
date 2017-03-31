@@ -1,0 +1,250 @@
+#!/bin/bash
+
+# _______           _        _______  _______  ______   _        _______
+# (  ____ \|\     /|( (    /|(  ____ \(  ____ \(  ___ \ ( \      (  ____ \
+# | (    \/| )   ( ||  \  ( || (    \/| (    \/| (   ) )| (      | (    \/
+# | (__    | |   | ||   \ | || |      | (__    | (__/ / | |      | (__
+# |  __)   | |   | || (\ \) || |      |  __)   |  __ (  | |      |  __)
+# | (      | |   | || | \   || |      | (      | (  \ \ | |      | (
+# | )      | (___) || )  \  || (____/\| (____/\| )___) )| (____/\| (____/\
+# |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
+
+# Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
+# Github : https://github.com/funilrys/funceble
+
+###############################  Text Format ###################################
+# Red Color
+red=$(tput setaf 1)
+
+# White Color
+white=$(tput setaf 7)
+
+# Bold
+bold=$(tput bold)
+
+# Disable formating
+normal=$(tput sgr0)
+################################################################################
+############################## Default Values ##################################
+# Default active Dir
+activeDir='ACTIVE'
+
+# Default inactive Dir
+inactiveDir='INACTIVE'
+
+# Default invalid Dir
+invalidDir='INVALID'
+
+# Default list name
+listName=''
+
+# Default link to download
+linkToDownload=''
+
+# Parrent dirr
+parentDir=$(dirname ${PWD})/
+
+# Default rawLink
+rawLink=''
+
+# Default README.md location
+readmeDef="${PWD}/README.md"
+
+# Default value of repo name
+repoName=''
+
+# Update filename
+repoToolFileName='tool'
+
+# Default tested-list Dir
+testedDir='tested-list'
+
+# Default update location
+updateDef="${PWD}/${repoToolFileName}"
+################################################################################
+
+################################## Check Variables #############################
+# Used to check "integrity" of main variables
+#
+# @CalledBy createRepository
+################################################################################
+checkVariables()
+{
+    important=("${listName}" "${linkToDownload}" "${repoName}" "${rawLink}")
+    commands=('ln' 'l' 'dn' 'rl')
+    for i in ${!important[*]}
+    do
+        if [[ ${important[${i}]} == "" ]]
+        then
+            echo "${red}${bold}Please add ${white}-${commands[${i}]}${normal} ${red}${bold}to your statement${normal}"
+            echo ""
+            usage
+            exit 1
+        fi
+    done
+}
+
+################################## Create Dir ##################################
+# Used to apply DRY againt the creation of directory
+#
+# @CalledBy createRepository
+################################################################################
+createDir()
+{
+    # We initiate the variable we need
+    local mkdirectory="${1}"
+    
+    # We create directory
+    mkdir "${mkdirectory}"
+    # We create the file
+    touch "${mkdirectory}/.keep"
+}
+
+################################## Create Repository ###########################
+# logic aroung the creation of the sub-repository
+#
+# @CalledBy Arguments Handle section
+################################################################################
+createRepository()
+{
+    checkVariables
+    if [[ ${dirToCreate} != '' ]]
+    then
+        if [[ ! -d ${dirToCreate} ]]
+        then
+            # We create the main directory
+            mkdir ${dirToCreate}
+            
+            # We create directory
+            createDir ${dirToCreate}${activeDir}
+            createDir ${dirToCreate}${inactiveDir}
+            createDir ${dirToCreate}${invalidDir}
+            createDir ${dirToCreate}${testedDir}
+        else
+            echo 'Repo Already exist'
+            exit 1
+        fi
+        
+        # We copy the default files
+        cp ${readmeDef} ${dirToCreate}
+        cp ${updateDef} ${dirToCreate}
+        
+        # We give execution permission
+        chmod +x ${dirToCreate}${repoToolFileName}
+        
+        # We update the content of ${dirToCreate}${repoToolFileName}
+        toolContent
+    fi
+}
+
+################################ Replace Content ###############################
+# sed to apply DRY againt the replacement of the content
+#
+# @CalledBy toolContent
+################################################################################
+replaceContent()
+{
+    # We initiate the variable we need
+    local regex="${1}"
+    local replaceBy="${2}"
+    local file="${3}"
+    
+    # We replace the content of the given file with the given data
+    sed -i "s|${regex}|${replaceBy}|g" "${file}"
+}
+
+################################ Replace Content ###############################
+# sed to apply DRY againt the replacement of the content
+#
+# @CalledBy toolContent
+################################################################################
+toolContent()
+{
+    checkVariables
+    local updateLocation="${dirToCreate}${repoToolFileName}"
+    local readmeLocation="${dirToCreate}README.md"
+    
+    regexListName="%%listName%%"
+    regexRepoName='%%repoName%%'
+    regexLinkToDownload='%%DownloadLink%%'
+    regexRawLink='%%rawLink%%'
+    regexDownloadTime='%%downloadTime%%'
+    
+    # We replace/update the content of update script
+    
+    replaceContent ${regexListName} ${listName} "${updateLocation}"
+    replaceContent ${regexRepoName} ${repoName} "${updateLocation}"
+    replaceContent ${regexLinkToDownload} ${linkToDownload} "${updateLocation}"
+    replaceContent ${regexRawLink} ${rawLink} "${updateLocation}"
+    
+    # We replace/update the content of README.md
+    replaceContent ${regexRepoName} ${repoName} "${readmeLocation}"
+    
+    # Specific case for README.md
+    linkToDownload="[${listName}](${linkToDownload})"
+    replaceContent ${regexLinkToDownload} ${linkToDownload} "${readmeLocation}"
+}
+
+################################## Usage #######################################
+# Help function
+#
+# @CalledBy main, Arguments Handle Section
+################################################################################
+usage()
+{
+    echo "Usage: ${0}"
+    echo ""
+    echo "       {[ -l 'http://linktothelist.com' ]} && {[ -ln 'fileNameOfTheList' ]} && {[ -rl 'http://linktorawlist.com'  ]} && {[ -dn 'nameOfTheMainDirectory' ]}"
+    echo ""
+    echo "                             -dn              Name of the main directory"
+    echo "                             -l               Link to the list (${red}${bold}Must be before ${white}-dn${normal})"
+    echo "                             -ln              Name of the file that's gonna be downloaded (${red}${bold}Must be before ${white}-dn${normal})"
+    echo "                             -rl              Link to the raw format of the list (${red}${bold}Must be before ${white}-dn${normal})"
+    echo ""
+    echo "Examples:"
+    echo ""
+    echo "  ${0} ${red}-l${normal} ${bold}'https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/Pull_Requests_Here_Please/badreferers.list'${normal} ${red}-ln${normal} ${bold}'badreferers'${normal} ${red}-rl${normal} ${bold}'https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/Pull_Requests_Here_Please/badreferers.list'${normal} ${red}-dn${normal} ${bold}'Badd-Boyz-Hosts@mitchellkrogza'${normal}"
+    echo "           Generate the ${bold}'Badd-Boyz-Hosts@mitchellkrogza'${normal} directory with the list name ${bold}'badreferers.list'${normal}"
+    echo ""
+}
+
+
+############################### Arguments Handle ###############################
+# We use this part to get arguments from command line.
+#
+# @Requiredby All
+################################################################################
+while [ "$#" -gt 0 ]; do
+    case "$1" in
+        # We catch the download link
+        -l)
+            linkToDownload="${2}"
+            shift 2
+        ;;
+        # We catch the list name (whithout .list)
+        -ln)
+            listName="${2}"
+            shift 2
+        ;;
+        # We catch the repoName and create it's directory
+        -dn) # Need to be the last parameter to pass
+            dirToCreate="${parentDir}${2}/"
+            repoName="${2}"
+            createRepository
+            shift 2
+        ;;
+        # We catch the raw link
+        -rl)
+            rawLink="${2}"
+            shift 2
+        ;;
+        -*)
+            echo "Unknown option: $1" >&2
+            exit 1
+        ;;
+        *)
+            usage
+            exit 1
+        ;;
+    esac
+done
