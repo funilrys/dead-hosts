@@ -1,8 +1,6 @@
 # add.Risk
 
-## Execution
-### Date
-**Mon Mar  6 19:29:26 CET 2017**
+Date Of Execution: **Mon Mar  6 19:29:26 CET 2017**
 
 ## List
 ### Link

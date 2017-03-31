@@ -1,8 +1,6 @@
 # hosts.extras--add.Spam@FadeMind
 
-## Execution
-### Date
-**Mon Mar  6 21:18:37 CET 2017**
+Date Of Execution: **Mon Mar  6 21:18:37 CET 2017**
 
 ## List
 ### Link

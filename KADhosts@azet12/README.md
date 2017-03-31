@@ -1,8 +1,6 @@
 # KADhosts@azet12
 
-## Execution
-### Date
-**Mon Mar  6 21:37:47 CET 2017**
+Date Of Execution: **Mon Mar  6 21:37:47 CET 2017**
 
 ## List
 ### Link

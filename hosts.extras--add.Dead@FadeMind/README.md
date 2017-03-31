@@ -1,8 +1,6 @@
 # add.Dead
 
-## Execution
-### Date
-**Mon Mar  6 15:42:15 CET 2017**
+Date Of Execution: **Mon Mar  6 15:42:15 CET 2017**
 
 ## List
 ### Link

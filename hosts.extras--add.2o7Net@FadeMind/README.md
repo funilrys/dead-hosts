@@ -1,8 +1,6 @@
 # add.2o7Net
 
-## Execution
-### Date
-**Mon Mar  6 14:43:12 CET 2017**
+Date Of Execution: **Mon Mar  6 14:43:12 CET 2017**
 
 ## List
 ### Link

@@ -1,14 +1,12 @@
 # Bad-Boyz-Hosts
 
-## Execution
-### Date
-**Sun Mar  5 21:54:11 CET 2017**
+Date of Execution: **Sun Mar  5 21:54:11 CET 2017**
 
 ## List
 ### Link
 List downloaded from: **[badreferers.list](https://github.com/mitchellkrogza/nginx-badbot-blocker/blob/master/VERSION_2/Pull_Requests/badreferers.list)**
 ### Date of Download
-**Sun Mar  5 21:52:35 CET 2017**
+Date: **Sun Mar  5 21:52:35 CET 2017**
 
 ## NB
 * **ACTIVE**

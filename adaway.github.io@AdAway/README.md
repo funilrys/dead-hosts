@@ -1,8 +1,6 @@
 # adaway.github.io
 
-## Execution
-### Date
-**Mon Mar  6 12:32:48 CET 2017**
+Date Of Execution: **Mon Mar  6 12:32:48 CET 2017**
 
 ## List
 ### Link
