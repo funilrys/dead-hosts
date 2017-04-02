@@ -13,13 +13,13 @@
 
 ############################## Default Values ##################################
 # list name
-listName='%%listName%%.list'
+listName='badreferers.list'
 
 # Default name for list
 basicListName='list'
 
 # Repo name
-repoName='%%repoName%%'
+repoName='Badd-Boyz-Hosts@mitchellkrogza'
 
 # Github hosts file
 linkGithub='%%hostsFileLinkGithub%%'
@@ -28,7 +28,7 @@ linkGithub='%%hostsFileLinkGithub%%'
 readmeLink="[${listName}](${linkGithub})"
 
 # Origin List URL
-rawLink='%%rawLink%%'
+rawLink='https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/Pull_Requests_Here_Please/badreferers.list'
 ################################################################################
 ############################# Directories & Files ##############################
 # list directory

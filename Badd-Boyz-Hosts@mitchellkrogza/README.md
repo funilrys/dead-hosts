@@ -1,14 +1,16 @@
-# Bad-Boyz-Hosts
+# Badd-Boyz-Hosts@mitchellkrogza
 
-Date of Execution: **Sun Mar  5 21:54:11 CET 2017**
+## Execution
+### Date
+Date Of Execution: **Sun Apr  2 22:55:48 CEST 2017**
 
 ## List
 ### Link
-List downloaded from: **[badreferers.list](https://github.com/mitchellkrogza/nginx-badbot-blocker/blob/master/VERSION_2/Pull_Requests/badreferers.list)**
-### Date of Download
-Date: **Sun Mar  5 21:52:35 CET 2017**
+List downloaded from: **[badreferers](https://github.com/mitchellkrogza/nginx-badbot-blocker/blob/master/VERSION_2/Pull_Requests/badreferers.list)**
+### Download
+Date: **Sun Apr  2 22:52:55 CEST 2017**
 
-## NB
+## Status
 * **ACTIVE**
     * Date of expiration accessible per WHOIS-Server (`whois` command)
     * `nslookup` don't return "**server can't find domain-name.me: NXDOMAIN**"
