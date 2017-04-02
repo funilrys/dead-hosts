@@ -1,5 +1,5 @@
-# File Generated with https://github.com/funilrys/funceble
-# Date of Generation: Mon Mar  6 12:32:48 CET 2017
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Sun Apr  2 22:53:27 CEST 2017
 
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 tracking.klickthru.com
@@ -11,6 +11,7 @@
 0.0.0.0 apps.buzzcity.net
 0.0.0.0 ads.mobgold.com
 0.0.0.0 android.bcfads.com
+0.0.0.0 show.buzzcity.net
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 www.mmnetwork.mobi
@@ -21,7 +22,7 @@
 0.0.0.0 c.vrvm.com
 0.0.0.0 go.vrvm.com
 0.0.0.0 static.estebull.com
-0.0.0.0 mobile.Banzai.it
+0.0.0.0 mobile.banzai.it
 0.0.0.0 ads.xxxad.net
 0.0.0.0 img.ads.mojiva.com
 0.0.0.0 adcontent.saymedia.com
@@ -75,12 +76,10 @@
 0.0.0.0 admin.vserv.mobi
 0.0.0.0 c.vserv.mobi
 0.0.0.0 ads.vserv.mobi
-0.0.0.0 sf.vserv.mobi
 0.0.0.0 hybl9bazbc35.pflexads.com
 0.0.0.0 hhbekxxw5d9e.pflexads.com
 0.0.0.0 www.pflexads.com
 0.0.0.0 orencia.pflexads.com
-0.0.0.0 atti.velti.com
 0.0.0.0 ru.velti.com
 0.0.0.0 mwc.velti.com
 0.0.0.0 cdn.celtra.com

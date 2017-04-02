@@ -13,13 +13,13 @@
 
 ############################## Default Values ##################################
 # list name
-listName='%%listName%%.list'
+listName='hosts.list'
 
 # Default name for list
 basicListName='list'
 
 # Repo name
-repoName='%%repoName%%'
+repoName='adaway.github.io@AdAway'
 
 # Github hosts file
 linkGithub='%%hostsFileLinkGithub%%'
@@ -28,7 +28,7 @@ linkGithub='%%hostsFileLinkGithub%%'
 readmeLink="[${listName}](${linkGithub})"
 
 # Origin List URL
-rawLink='%%rawLink%%'
+rawLink='https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt'
 ################################################################################
 ############################# Directories & Files ##############################
 # list directory

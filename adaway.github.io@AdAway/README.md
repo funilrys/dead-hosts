@@ -1,14 +1,16 @@
-# adaway.github.io
+# adaway.github.io@AdAway
 
-Date Of Execution: **Mon Mar  6 12:32:48 CET 2017**
+## Execution
+### Date
+Date Of Execution: **Sun Apr  2 22:59:27 CEST 2017**
 
 ## List
 ### Link
-List downloaded from: **[AdAway.list](https://github.com/AdAway/adaway.github.io/blob/master/hosts.txt)**
+List downloaded from: **[hosts](https://github.com/AdAway/adaway.github.io/blob/master/hosts.txt)**
 ### Download
-Date: **Mon Mar  6 12:12:42 CET 2017**
+Date: **Sun Apr  2 22:53:27 CEST 2017**
 
-## NB
+## Status
 * **ACTIVE**
     * Date of expiration accessible per WHOIS-Server (`whois` command)
     * `nslookup` don't return "**server can't find domain-name.me: NXDOMAIN**"
