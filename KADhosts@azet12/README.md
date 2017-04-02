@@ -1,14 +1,16 @@
 # KADhosts@azet12
 
-Date Of Execution: **Mon Mar  6 21:37:47 CET 2017**
+## Execution
+### Date
+Date Of Execution: **Sun Apr  2 22:57:10 CEST 2017**
 
 ## List
 ### Link
-List downloaded from: **[KADhosts.list](https://github.com/azet12/KADhosts/blob/master/KADhosts.txt)**
+List downloaded from: **[KADhosts](https://github.com/azet12/KADhosts/blob/master/KADhosts.txt)**
 ### Download
-Date: **Mon Mar  6 21:35:27 CET 2017**
+Date: **Sun Apr  2 22:53:10 CEST 2017**
 
-## NB
+## Status
 * **ACTIVE**
     * Date of expiration accessible per WHOIS-Server (`whois` command)
     * `nslookup` don't return "**server can't find domain-name.me: NXDOMAIN**"
