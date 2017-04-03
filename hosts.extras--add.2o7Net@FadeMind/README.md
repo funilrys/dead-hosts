@@ -1,14 +1,16 @@
-# add.2o7Net
+# hosts.extras--add.2o7Net@FadeMind
 
-Date Of Execution: **Mon Mar  6 14:43:12 CET 2017**
+## Execution
+### Date
+Date Of Execution: **Mon Apr  3 12:05:47 CEST 2017**
 
 ## List
 ### Link
-List downloaded from: **[add.2o7Net.list](https://github.com/FadeMind/hosts.extras/blob/master/add.2o7Net/hosts)**
+List downloaded from: **[hosts](https://github.com/FadeMind/hosts.extras/blob/master/add.2o7Net/hosts)**
 ### Download
-Date: **Mon Mar  6 14:39:38 CET 2017**
+Date: **Mon Apr  3 12:01:19 CEST 2017**
 
-## NB
+## Status
 * **ACTIVE**
     * Date of expiration accessible per WHOIS-Server (`whois` command)
     * `nslookup` don't return "**server can't find domain-name.me: NXDOMAIN**"

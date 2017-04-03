@@ -13,13 +13,13 @@
 
 ############################## Default Values ##################################
 # list name
-listName='%%listName%%.list'
+listName='hosts.list'
 
 # Default name for list
 basicListName='list'
 
 # Repo name
-repoName='%%repoName%%'
+repoName='hosts.extras--add.2o7Net@FadeMind'
 
 # Github hosts file
 linkGithub='%%hostsFileLinkGithub%%'
@@ -28,7 +28,7 @@ linkGithub='%%hostsFileLinkGithub%%'
 readmeLink="[${listName}](${linkGithub})"
 
 # Origin List URL
-rawLink='%%rawLink%%'
+rawLink='https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts'
 ################################################################################
 ############################# Directories & Files ##############################
 # list directory
