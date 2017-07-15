@@ -95,7 +95,7 @@ createDir()
 {
     # We initiate the variable we need
     local mkdirectory="${1}"
-
+    
     # We create directory
     mkdir "${mkdirectory}"
     # We create the file
@@ -116,7 +116,7 @@ createRepository()
         then
             # We create the main directory
             mkdir ${dirToCreate}
-
+            
             # We create directory
             createDir ${dirToCreate}${activeDir}
             createDir ${dirToCreate}${inactiveDir}
@@ -129,14 +129,14 @@ createRepository()
             echo 'Repo Already exist'
             exit 1
         fi
-
+        
         # We copy the default files
         cp ${readmeDef} ${dirToCreate}/README.md
         cp ${updateDef} ${dirToCreate}
-
+        
         # We give execution permission
         chmod +x ${dirToCreate}${repoToolFileName}
-
+        
         # We update the content of ${dirToCreate}${repoToolFileName}
         toolContent
     fi
@@ -153,7 +153,7 @@ replaceContent()
     local regex="${1}"
     local replaceBy="${2}"
     local file="${3}"
-
+    
     # We replace the content of the given file with the given data
     sed -i "s|${regex}|${replaceBy}|g" "${file}"
 }
@@ -168,18 +168,18 @@ toolContent()
     checkVariables
     local updateLocation="${dirToCreate}${repoToolFileName}"
     local readmeLocation="${dirToCreate}README.md"
-
+    
     regexListName="%%listName%%"
     regexRepoName='%%repoName%%'
     regexRawLink='%%rawLink%%'
-
+    
     # We replace/update the content of update script
-
+    
     replaceContent "${regexListName}" "${listName}" "${updateLocation}"
     replaceContent "${regexRepoName}" "${repoName}" "${updateLocation}"
     replaceContent "${regexLinkToDownload}" "${linkToDownload}" "${updateLocation}"
     replaceContent "${regexRawLink}" "${rawLink}" "${updateLocation}"
-
+    
     # We replace/update the content of README.md
     replaceContent "${regexRepoName}" "${repoName}" "${readmeLocation}"
     replaceContent '%%DownloadLink%%' "${rawLink}" "${readmeLocation}"
