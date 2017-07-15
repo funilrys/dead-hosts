@@ -35,6 +35,9 @@ inactiveDir='INACTIVE'
 # Default invalid Dir
 invalidDir='INVALID'
 
+# Default logs dir
+logsDir='.logs'
+
 # Default list name
 listName=''
 
@@ -70,15 +73,14 @@ updateDef="${PWD}/${repoToolFileName}"
 ################################################################################
 checkVariables()
 {
-    important=("${listName}" "${linkToDownload}" "${repoName}" "${rawLink}")
-    commands=('ln' 'l' 'dn' 'rl')
+    important=("${listName}" "${rawLink}" "${repoName}")
+    commands=('n' 'l'  'd')
     for i in ${!important[*]}
     do
         if [[ ${important[${i}]} == "" ]]
         then
             echo "${red}${bold}Please add ${white}-${commands[${i}]}${normal} ${red}${bold}to your statement${normal}"
             echo ""
-            usage
             exit 1
         fi
     done
@@ -93,7 +95,7 @@ createDir()
 {
     # We initiate the variable we need
     local mkdirectory="${1}"
-    
+
     # We create directory
     mkdir "${mkdirectory}"
     # We create the file
@@ -114,24 +116,27 @@ createRepository()
         then
             # We create the main directory
             mkdir ${dirToCreate}
-            
+
             # We create directory
             createDir ${dirToCreate}${activeDir}
             createDir ${dirToCreate}${inactiveDir}
             createDir ${dirToCreate}${invalidDir}
             createDir ${dirToCreate}${testedDir}
+            createDir ${dirToCreate}${logsDir}
+            createDir ${dirToCreate}${logsDir}/'dateFormat'
+            createDir ${dirToCreate}${logsDir}/'whois'
         else
             echo 'Repo Already exist'
             exit 1
         fi
-        
+
         # We copy the default files
         cp ${readmeDef} ${dirToCreate}/README.md
         cp ${updateDef} ${dirToCreate}
-        
+
         # We give execution permission
         chmod +x ${dirToCreate}${repoToolFileName}
-        
+
         # We update the content of ${dirToCreate}${repoToolFileName}
         toolContent
     fi
@@ -148,7 +153,7 @@ replaceContent()
     local regex="${1}"
     local replaceBy="${2}"
     local file="${3}"
-    
+
     # We replace the content of the given file with the given data
     sed -i "s|${regex}|${replaceBy}|g" "${file}"
 }
@@ -163,26 +168,21 @@ toolContent()
     checkVariables
     local updateLocation="${dirToCreate}${repoToolFileName}"
     local readmeLocation="${dirToCreate}README.md"
-    
+
     regexListName="%%listName%%"
     regexRepoName='%%repoName%%'
-    regexLinkToDownload='%%DownloadLink%%'
     regexRawLink='%%rawLink%%'
-    regexDownloadTime='%%downloadTime%%'
-    
+
     # We replace/update the content of update script
-    
-    replaceContent ${regexListName} ${listName} "${updateLocation}"
-    replaceContent ${regexRepoName} ${repoName} "${updateLocation}"
-    replaceContent ${regexLinkToDownload} ${linkToDownload} "${updateLocation}"
-    replaceContent ${regexRawLink} ${rawLink} "${updateLocation}"
-    
+
+    replaceContent "${regexListName}" "${listName}" "${updateLocation}"
+    replaceContent "${regexRepoName}" "${repoName}" "${updateLocation}"
+    replaceContent "${regexLinkToDownload}" "${linkToDownload}" "${updateLocation}"
+    replaceContent "${regexRawLink}" "${rawLink}" "${updateLocation}"
+
     # We replace/update the content of README.md
-    replaceContent ${regexRepoName} ${repoName} "${readmeLocation}"
-    
-    # Specific case for README.md
-    linkToDownload="[${listName}](${linkToDownload})"
-    replaceContent ${regexLinkToDownload} ${linkToDownload} "${readmeLocation}"
+    replaceContent "${regexRepoName}" "${repoName}" "${readmeLocation}"
+    replaceContent '%%DownloadLink%%' "${rawLink}" "${readmeLocation}"
 }
 
 ################################## Usage #######################################
@@ -196,14 +196,13 @@ usage()
     echo ""
     echo "       {[ -l 'http://linktothelist.com' ]} && {[ -ln 'fileNameOfTheList' ]} && {[ -rl 'http://linktorawlist.com'  ]} && {[ -dn 'nameOfTheMainDirectory' ]}"
     echo ""
-    echo "                             -dn              Name of the main directory"
-    echo "                             -l               Link to the list (${red}${bold}Must be before ${white}-dn${normal})"
-    echo "                             -ln              Name of the file that's gonna be downloaded (${red}${bold}Must be before ${white}-dn${normal})"
-    echo "                             -rl              Link to the raw format of the list (${red}${bold}Must be before ${white}-dn${normal})"
+    echo "                             -d              Name of the main directory"
+    echo "                             -n              Name of the file that's gonna be downloaded (${red}${bold}Must be before ${white}-dn${normal})"
+    echo "                             -l              Link to the raw format of the list (${red}${bold}Must be before ${white}-dn${normal})"
     echo ""
     echo "Examples:"
     echo ""
-    echo "  ${0} ${red}-l${normal} ${bold}'https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/Pull_Requests_Here_Please/badreferers.list'${normal} ${red}-ln${normal} ${bold}'badreferers'${normal} ${red}-rl${normal} ${bold}'https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/Pull_Requests_Here_Please/badreferers.list'${normal} ${red}-dn${normal} ${bold}'Badd-Boyz-Hosts@mitchellkrogza'${normal}"
+    echo "  ${0} ${red}-ln${normal} ${bold}'badreferers'${normal} ${red}-rl${normal} ${bold}'https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/Pull_Requests_Here_Please/badreferers.list'${normal} ${red}-dn${normal} ${bold}'Badd-Boyz-Hosts@mitchellkrogza'${normal}"
     echo "           Generate the ${bold}'Badd-Boyz-Hosts@mitchellkrogza'${normal} directory with the list name ${bold}'badreferers.list'${normal}"
     echo ""
 }
@@ -216,31 +215,22 @@ usage()
 ################################################################################
 while [ "$#" -gt 0 ]; do
     case "$1" in
-        # We catch the download link
-        -l)
-            linkToDownload="${2}"
-            shift 2
-        ;;
         # We catch the list name (whithout .list)
-        -ln)
+        -n)
             listName="${2}"
             shift 2
         ;;
         # We catch the repoName and create it's directory
-        -dn) # Need to be the last parameter to pass
+        -d) # Need to be the last parameter to pass
             dirToCreate="${parentDir}${2}/"
             repoName="${2}"
             createRepository
             shift 2
         ;;
         # We catch the raw link
-        -rl)
+        -l)
             rawLink="${2}"
             shift 2
-        ;;
-        -*)
-            echo "Unknown option: $1" >&2
-            exit 1
         ;;
         *)
             usage
