@@ -1,0 +1,1157 @@
+====================================================================================================
+NOT FOUND
+>>> Last update of WHOIS database: 2017-07-16T18:10:01Z <<<
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: GREAT-FILES.ORG
+Registry Domain ID: D168452545-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.ovh.com
+Updated Date: 2017-04-17T05:06:07Z
+Creation Date: 2013-04-16T12:14:11Z
+Registry Expiry Date: 2018-04-16T12:14:11Z
+Registrar Registration Expiration Date:
+Registrar: OVH
+Registrar IANA ID: 433
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C191978482-LROR
+Registrant Name: Milosz Suchy
+Registrant Organization: Roaring Bits Media S.C.
+Registrant Street: ul. Szopkarzy 2/62
+Registrant City: Krakow
+Registrant State/Province:
+Registrant Postal Code: 31-228
+Registrant Country: PL
+Registrant Phone: +48.600507970
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: jdzbacsmrczprbohigko@a.o-w-o.info
+Registry Admin ID: C191978483-LROR
+Admin Name: Michal Nowak
+Admin Organization: J-MEDIA Michal Nowak
+Admin Street: Wyszynskiego 4/26
+Admin City: Sosnowiec
+Admin State/Province:
+Admin Postal Code: 41-200
+Admin Country: PL
+Admin Phone: +48.604147515
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: mrsqjvk9tawd6isoz9y9@c.o-w-o.info
+Registry Tech ID: C191978483-LROR
+Tech Name: Michal Nowak
+Tech Organization: J-MEDIA Michal Nowak
+Tech Street: Wyszynskiego 4/26
+Tech City: Sosnowiec
+Tech State/Province:
+Tech Postal Code: 41-200
+Tech Country: PL
+Tech Phone: +48.604147515
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: mrsqjvk9tawd6isoz9y9@c.o-w-o.info
+Name Server: NS-CLOUD-E1.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-E2.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-E3.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-E4.GOOGLEDOMAINS.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:11:42Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: ZARABIAJPIENIADZE.ORG
+Registry Domain ID: D173010174-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.enom.com
+Updated Date: 2017-06-01T09:19:45Z
+Creation Date: 2014-06-18T15:38:34Z
+Registry Expiry Date: 2018-06-18T15:38:34Z
+Registrar Registration Expiration Date:
+Registrar: eNom, Inc.
+Registrar IANA ID: 48
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C161906352-LROR
+Registrant Name: Alissa Ludanskaa
+Registrant Organization:
+Registrant Street: Hausstockweg 47
+Registrant City: Berlin
+Registrant State/Province: Berlin
+Registrant Postal Code: 12107
+Registrant Country: DE
+Registrant Phone: +972.547649021
+Registrant Phone Ext:
+Registrant Fax: +1.5555555555
+Registrant Fax Ext:
+Registrant Email: teus.ltd@gmail.com
+Registry Admin ID: C161906352-LROR
+Admin Name: Alissa Ludanskaa
+Admin Organization:
+Admin Street: Hausstockweg 47
+Admin City: Berlin
+Admin State/Province: Berlin
+Admin Postal Code: 12107
+Admin Country: DE
+Admin Phone: +972.547649021
+Admin Phone Ext:
+Admin Fax: +1.5555555555
+Admin Fax Ext:
+Admin Email: teus.ltd@gmail.com
+Registry Tech ID: C161906352-LROR
+Tech Name: Alissa Ludanskaa
+Tech Organization:
+Tech Street: Hausstockweg 47
+Tech City: Berlin
+Tech State/Province: Berlin
+Tech Postal Code: 12107
+Tech Country: DE
+Tech Phone: +972.547649021
+Tech Phone Ext:
+Tech Fax: +1.5555555555
+Tech Fax Ext:
+Tech Email: teus.ltd@gmail.com
+Name Server: DNS1.REGISTRAR-SERVERS.COM
+Name Server: DNS2.REGISTRAR-SERVERS.COM
+Name Server: DNS3.REGISTRAR-SERVERS.COM
+Name Server: DNS4.REGISTRAR-SERVERS.COM
+Name Server: DNS5.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:11:48Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: PS3EMULATOR.ORG
+Registry Domain ID: D175885435-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.enom.com
+Updated Date: 2017-05-02T09:18:51Z
+Creation Date: 2015-03-31T10:24:07Z
+Registry Expiry Date: 2018-03-31T10:24:07Z
+Registrar Registration Expiration Date:
+Registrar: eNom, Inc.
+Registrar IANA ID: 48
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C146914013-LROR
+Registrant Name: WhoisGuard Protected
+Registrant Organization: WhoisGuard, Inc.
+Registrant Street: P.O. Box 0823-03411
+Registrant City: Panama
+Registrant State/Province: Panama
+Registrant Postal Code: 00000
+Registrant Country: PA
+Registrant Phone: +507.8365503
+Registrant Phone Ext:
+Registrant Fax: +51.17057182
+Registrant Fax Ext:
+Registrant Email: legal@whoisguard.com
+Registry Admin ID: C146914013-LROR
+Admin Name: WhoisGuard Protected
+Admin Organization: WhoisGuard, Inc.
+Admin Street: P.O. Box 0823-03411
+Admin City: Panama
+Admin State/Province: Panama
+Admin Postal Code: 00000
+Admin Country: PA
+Admin Phone: +507.8365503
+Admin Phone Ext:
+Admin Fax: +51.17057182
+Admin Fax Ext:
+Admin Email: legal@whoisguard.com
+Registry Tech ID: C146914013-LROR
+Tech Name: WhoisGuard Protected
+Tech Organization: WhoisGuard, Inc.
+Tech Street: P.O. Box 0823-03411
+Tech City: Panama
+Tech State/Province: Panama
+Tech Postal Code: 00000
+Tech Country: PA
+Tech Phone: +507.8365503
+Tech Phone Ext:
+Tech Fax: +51.17057182
+Tech Fax Ext:
+Tech Email: legal@whoisguard.com
+Name Server: DNS1.REGISTRAR-SERVERS.COM
+Name Server: DNS2.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:13:34Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: XBOX1EMULATOR.ORG
+Registry Domain ID: D179013647-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.enom.com
+Updated Date: 2017-03-13T18:15:45Z
+Creation Date: 2015-12-30T05:27:00Z
+Registry Expiry Date: 2017-12-30T05:27:00Z
+Registrar Registration Expiration Date:
+Registrar: eNom, Inc.
+Registrar IANA ID: 48
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C168147634-LROR
+Registrant Name: WhoisGuard Protected
+Registrant Organization: WhoisGuard, Inc.
+Registrant Street: P.O. Box 0823-03411
+Registrant City: Panama
+Registrant State/Province: Panama
+Registrant Postal Code: 00000
+Registrant Country: PA
+Registrant Phone: +507.8365503
+Registrant Phone Ext:
+Registrant Fax: +51.17057182
+Registrant Fax Ext:
+Registrant Email: legal@whoisguard.com
+Registry Admin ID: C168147634-LROR
+Admin Name: WhoisGuard Protected
+Admin Organization: WhoisGuard, Inc.
+Admin Street: P.O. Box 0823-03411
+Admin City: Panama
+Admin State/Province: Panama
+Admin Postal Code: 00000
+Admin Country: PA
+Admin Phone: +507.8365503
+Admin Phone Ext:
+Admin Fax: +51.17057182
+Admin Fax Ext:
+Admin Email: legal@whoisguard.com
+Registry Tech ID: C168147634-LROR
+Tech Name: WhoisGuard Protected
+Tech Organization: WhoisGuard, Inc.
+Tech Street: P.O. Box 0823-03411
+Tech City: Panama
+Tech State/Province: Panama
+Tech Postal Code: 00000
+Tech Country: PA
+Tech Phone: +507.8365503
+Tech Phone Ext:
+Tech Fax: +51.17057182
+Tech Fax Ext:
+Tech Email: legal@whoisguard.com
+Name Server: LILA.NS.CLOUDFLARE.COM
+Name Server: DREW.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:13:36Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: DOWNLOADME.ORG
+Registry Domain ID: D162516702-LROR
+Registrar WHOIS Server:
+Registrar URL: www.namesilo.com
+Updated Date: 2017-07-16T08:54:40Z
+Creation Date: 2011-06-14T00:25:47Z
+Registry Expiry Date: 2018-06-14T00:25:47Z
+Registrar Registration Expiration Date:
+Registrar: Namesilo, LLC
+Registrar IANA ID: 1479
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: pendingDelete https://icann.org/epp#pendingDelete
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+Registry Registrant ID: C178107253-LROR
+Registrant Name: Domain Administrator
+Registrant Organization: See PrivacyGuardian.org
+Registrant Street: 1928 E. Highland Ave. Ste F104
+Registrant Street: PMB# 255
+Registrant City: Phoenix
+Registrant State/Province: AZ
+Registrant Postal Code: 85016
+Registrant Country: US
+Registrant Phone: +1.3478717726
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: pw-611c21cff208abde0cb9931db6d0bbd1@privacyguardian.org
+Registry Admin ID: C178107253-LROR
+Admin Name: Domain Administrator
+Admin Organization: See PrivacyGuardian.org
+Admin Street: 1928 E. Highland Ave. Ste F104
+Admin Street: PMB# 255
+Admin City: Phoenix
+Admin State/Province: AZ
+Admin Postal Code: 85016
+Admin Country: US
+Admin Phone: +1.3478717726
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: pw-611c21cff208abde0cb9931db6d0bbd1@privacyguardian.org
+Registry Tech ID: C178107253-LROR
+Tech Name: Domain Administrator
+Tech Organization: See PrivacyGuardian.org
+Tech Street: 1928 E. Highland Ave. Ste F104
+Tech Street: PMB# 255
+Tech City: Phoenix
+Tech State/Province: AZ
+Tech Postal Code: 85016
+Tech Country: US
+Tech Phone: +1.3478717726
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: pw-611c21cff208abde0cb9931db6d0bbd1@privacyguardian.org
+Name Server:
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:13:37Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: HKSFA.ORG
+Registry Domain ID: D63698187-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.networksolutions.com
+Updated Date: 2012-01-26T05:43:11Z
+Creation Date: 2001-02-23T02:14:28Z
+Registry Expiry Date: 2021-02-23T02:14:28Z
+Registrar Registration Expiration Date:
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C2467047-LROR
+Registrant Name: Hong Kong Society of Financial Analysts
+Registrant Organization: Hong Kong Society of Financial Analysts
+Registrant Street: 14/F, BOC Group Life Assurance Tower
+Registrant Street: 136 Des Voeux Road Central
+Registrant City: Hong Kong
+Registrant State/Province:
+Registrant Postal Code: --
+Registrant Country: HK
+Registrant Phone: +852.85225212543
+Registrant Phone Ext:
+Registrant Fax: +852.28694800
+Registrant Fax Ext:
+Registrant Email: info@hksfa.org
+Registry Admin ID: C2467047-LROR
+Admin Name: Hong Kong Society of Financial Analysts
+Admin Organization: Hong Kong Society of Financial Analysts
+Admin Street: 14/F, BOC Group Life Assurance Tower
+Admin Street: 136 Des Voeux Road Central
+Admin City: Hong Kong
+Admin State/Province:
+Admin Postal Code: --
+Admin Country: HK
+Admin Phone: +852.85225212543
+Admin Phone Ext:
+Admin Fax: +852.28694800
+Admin Fax Ext:
+Admin Email: info@hksfa.org
+Registry Tech ID: C2454571-LROR
+Tech Name: Stephen Wilcox
+Tech Organization: Network Solutions, LLC.
+Tech Street: 13861 SUNRISE VALLEY DR
+Tech City: Herndon
+Tech State/Province: VA
+Tech Postal Code: 20171-6124
+Tech Country: US
+Tech Phone: +1.8886429675
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: customerservice@networksolutions.com
+Name Server: SOUL.WORLDY.NET
+Name Server: NS2.WORLDY.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:13:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: GO2CLOUD.ORG
+Registry Domain ID: D160524319-LROR
+Registrar WHOIS Server:
+Registrar URL: http://registrar.1und1.de
+Updated Date: 2017-07-08T10:40:00Z
+Creation Date: 2010-10-28T05:46:30Z
+Registry Expiry Date: 2017-10-28T05:46:30Z
+Registrar Registration Expiration Date:
+Registrar: 1 & 1 Internet AG
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@1and1.com
+Registrar Abuse Contact Phone: +1.6105601459
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C173999127-LROR
+Registrant Name: Oneandone Private Registration
+Registrant Organization: 1&1 Internet Inc
+Registrant Street: 701 Lee Road Suite 300
+Registrant Street: ATTN
+Registrant City: Chesterbrook
+Registrant State/Province: PA
+Registrant Postal Code: 19087
+Registrant Country: US
+Registrant Phone: +1.8772064254
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: privacy@1and1.com
+Registry Admin ID: C173999127-LROR
+Admin Name: Oneandone Private Registration
+Admin Organization: 1&1 Internet Inc
+Admin Street: 701 Lee Road Suite 300
+Admin Street: ATTN
+Admin City: Chesterbrook
+Admin State/Province: PA
+Admin Postal Code: 19087
+Admin Country: US
+Admin Phone: +1.8772064254
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: privacy@1and1.com
+Registry Tech ID: C173999127-LROR
+Tech Name: Oneandone Private Registration
+Tech Organization: 1&1 Internet Inc
+Tech Street: 701 Lee Road Suite 300
+Tech Street: ATTN
+Tech City: Chesterbrook
+Tech State/Province: PA
+Tech Postal Code: 19087
+Tech Country: US
+Tech Phone: +1.8772064254
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: privacy@1and1.com
+Name Server: NS-1511.AWSDNS-60.ORG
+Name Server: NS-539.AWSDNS-03.NET
+Name Server: NS-237.AWSDNS-29.COM
+Name Server: NS-1897.AWSDNS-45.CO.UK
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:17:12Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+NOT FOUND
+>>> Last update of WHOIS database: 2017-07-16T18:18:18Z <<<
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+NOT FOUND
+>>> Last update of WHOIS database: 2017-07-16T18:18:20Z <<<
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: PREZENTOWO.ORG
+Registry Domain ID: D187551172-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.PublicDomainRegistry.com
+Updated Date: 2017-04-25T16:40:47Z
+Creation Date: 2016-04-25T10:52:20Z
+Registry Expiry Date: 2018-04-25T10:52:20Z
+Registrar Registration Expiration Date:
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C176232890-LROR
+Registrant Name: Karcz-Provider
+Registrant Organization: N/A
+Registrant Street: Mostowa 24a
+Registrant City: Sulkowice
+Registrant State/Province:
+Registrant Postal Code: 34-120
+Registrant Country: PL
+Registrant Phone: +48.787340253
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: karczowqa@gmail.com
+Registry Admin ID: C18889848-LROR
+Admin Name: Robert Siebielski
+Admin Organization: Consulting Service Robert Siebielski (csid2071283)
+Admin Street: ul. Domaniewska 35A lok 1B
+Admin City: Warszawa
+Admin State/Province:
+Admin Postal Code: 02-672
+Admin Country: PL
+Admin Phone: +48.228538888
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domeny@consultingservice.pl
+Registry Tech ID: C176232890-LROR
+Tech Name: Karcz-Provider
+Tech Organization: N/A
+Tech Street: Mostowa 24a
+Tech City: Sulkowice
+Tech State/Province:
+Tech Postal Code: 34-120
+Tech Country: PL
+Tech Phone: +48.787340253
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: karczowqa@gmail.com
+Name Server: DAVE.NS.CLOUDFLARE.COM
+Name Server: GAIL.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:24:54Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: BAZAFILMOWA.ORG
+Registry Domain ID: D189820325-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.godaddy.com
+Updated Date: 2017-07-04T01:08:15Z
+Creation Date: 2016-09-03T11:43:34Z
+Registry Expiry Date: 2017-09-03T11:43:34Z
+Registrar Registration Expiration Date:
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: pendingDelete https://icann.org/epp#pendingDelete
+Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+Registry Registrant ID: C182356448-LROR
+Registrant Name: Damian Kiljanczyk
+Registrant Organization:
+Registrant Street: K. Potockiej 51/220
+Registrant City: Poznan
+Registrant State/Province: wielkopolska
+Registrant Postal Code: 60-211
+Registrant Country: PL
+Registrant Phone: +48.794240264
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: kiljan2@gmail.com
+Registry Admin ID: C182356452-LROR
+Admin Name: Damian Kiljanczyk
+Admin Organization:
+Admin Street: K. Potockiej 51/220
+Admin City: Poznan
+Admin State/Province: wielkopolska
+Admin Postal Code: 60-211
+Admin Country: PL
+Admin Phone: +48.794240264
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: kiljan2@gmail.com
+Registry Tech ID: C182356451-LROR
+Tech Name: Damian Kiljanczyk
+Tech Organization:
+Tech Street: K. Potockiej 51/220
+Tech City: Poznan
+Tech State/Province: wielkopolska
+Tech Postal Code: 60-211
+Tech Country: PL
+Tech Phone: +48.794240264
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: kiljan2@gmail.com
+Name Server:
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:25:50Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: STREAMUJ.ORG
+Registry Domain ID: D189820956-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.godaddy.com
+Updated Date: 2017-07-04T01:08:15Z
+Creation Date: 2016-09-03T14:04:18Z
+Registry Expiry Date: 2017-09-03T14:04:18Z
+Registrar Registration Expiration Date:
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: pendingDelete https://icann.org/epp#pendingDelete
+Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+Registry Registrant ID: C182360662-LROR
+Registrant Name: Damian Kiljanczyk
+Registrant Organization:
+Registrant Street: K. Potockiej 51/220
+Registrant City: Poznan
+Registrant State/Province: wielkopolska
+Registrant Postal Code: 60-211
+Registrant Country: PL
+Registrant Phone: +48.794240264
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: kiljan2@gmail.com
+Registry Admin ID: C182360664-LROR
+Admin Name: Damian Kiljanczyk
+Admin Organization:
+Admin Street: K. Potockiej 51/220
+Admin City: Poznan
+Admin State/Province: wielkopolska
+Admin Postal Code: 60-211
+Admin Country: PL
+Admin Phone: +48.794240264
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: kiljan2@gmail.com
+Registry Tech ID: C182360663-LROR
+Tech Name: Damian Kiljanczyk
+Tech Organization:
+Tech Street: K. Potockiej 51/220
+Tech City: Poznan
+Tech State/Province: wielkopolska
+Tech Postal Code: 60-211
+Tech Country: PL
+Tech Phone: +48.794240264
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: kiljan2@gmail.com
+Name Server:
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:26:13Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: FILEENGINE.ORG
+Registry Domain ID: D174596126-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.PublicDomainRegistry.com
+Updated Date: 2016-07-14T08:14:44Z
+Creation Date: 2014-11-26T09:32:59Z
+Registry Expiry Date: 2017-11-26T09:32:59Z
+Registrar Registration Expiration Date:
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C171295278-LROR
+Registrant Name: INTERNATIONAL MEDIA INVESTMENTS Sp. z o.o.
+Registrant Organization: INTERNATIONAL MEDIA INVESTMENTS Sp. z o.o.
+Registrant Street: ul. PL. SOLNY, nr 14, lok. 3,
+Registrant City: Wroclaw
+Registrant State/Province: Other
+Registrant Postal Code: 50-062
+Registrant Country: PL
+Registrant Phone: +48.12561901123
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: obslugasubskrypcji@gmail.com
+Registry Admin ID: C171295278-LROR
+Admin Name: INTERNATIONAL MEDIA INVESTMENTS Sp. z o.o.
+Admin Organization: INTERNATIONAL MEDIA INVESTMENTS Sp. z o.o.
+Admin Street: ul. PL. SOLNY, nr 14, lok. 3,
+Admin City: Wroclaw
+Admin State/Province: Other
+Admin Postal Code: 50-062
+Admin Country: PL
+Admin Phone: +48.12561901123
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: obslugasubskrypcji@gmail.com
+Registry Tech ID: C171295278-LROR
+Tech Name: INTERNATIONAL MEDIA INVESTMENTS Sp. z o.o.
+Tech Organization: INTERNATIONAL MEDIA INVESTMENTS Sp. z o.o.
+Tech Street: ul. PL. SOLNY, nr 14, lok. 3,
+Tech City: Wroclaw
+Tech State/Province: Other
+Tech Postal Code: 50-062
+Tech Country: PL
+Tech Phone: +48.12561901123
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: obslugasubskrypcji@gmail.com
+Name Server: NS1.FILEENGINE.ORG
+Name Server: NS2.FILEENGINE.ORG
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:27:12Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: ASTROCASH.ORG
+Registry Domain ID: D164797284-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.key-systems.net
+Updated Date: 2017-02-20T02:23:08Z
+Creation Date: 2012-02-23T11:05:09Z
+Registry Expiry Date: 2018-02-23T11:05:09Z
+Registrar Registration Expiration Date:
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C159119229-LROR
+Registrant Name: Organization
+Registrant Organization: whoisproxy.com Ltd
+Registrant Street: Niedzialkowskiego 24 IX floor
+Registrant City: Szczecin
+Registrant State/Province:
+Registrant Postal Code: 71-410
+Registrant Country: PL
+Registrant Phone: +48.914243780
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: owner@astrocash.org.whoisproxy.org
+Registry Admin ID: C121445985-LROR
+Admin Name: Organization
+Admin Organization: whoisproxy.com Ltd
+Admin Street: Niedzialkowskiego 24 IX floor
+Admin City: Szczecin
+Admin State/Province:
+Admin Postal Code: 71-410
+Admin Country: PL
+Admin Phone: +48.914243780
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: admin@astrocash.org.whoisproxy.org
+Registry Tech ID: C121445986-LROR
+Tech Name: Organization
+Tech Organization: whoisproxy.com Ltd
+Tech Street: Niedzialkowskiego 24 IX floor
+Tech City: Szczecin
+Tech State/Province:
+Tech Postal Code: 71-410
+Tech Country: PL
+Tech Phone: +48.914243780
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: tech@astrocash.org.whoisproxy.org
+Name Server: BETH.NS.CLOUDFLARE.COM
+Name Server: BRAD.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:29:04Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: DOLADUJFONA.ORG
+Registry Domain ID: D189564454-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.godaddy.com
+Updated Date: 2017-07-10T20:23:37Z
+Creation Date: 2016-08-11T21:48:09Z
+Registry Expiry Date: 2017-08-11T21:48:09Z
+Registrar Registration Expiration Date:
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: C181432671-LROR
+Registrant Name: Check Afternic.com For Sale
+Registrant Organization: Domain Registries Foundation
+Registrant Street: Ramon Arias Avenue, Ropardi Building,
+Registrant Street: Office 3C, PO Box 0823-03015
+Registrant City: Panama City
+Registrant State/Province: Panama
+Registrant Postal Code: 0823
+Registrant Country: PA
+Registrant Phone: +507.8365439
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: admin@domainregistriesfoundation.com
+Registry Admin ID: C181432673-LROR
+Admin Name: Check Afternic.com For Sale
+Admin Organization: Domain Registries Foundation
+Admin Street: Ramon Arias Avenue, Ropardi Building,
+Admin Street: Office 3C, PO Box 0823-03015
+Admin City: Panama City
+Admin State/Province: Panama
+Admin Postal Code: 0823
+Admin Country: PA
+Admin Phone: +507.8365439
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: admin@domainregistriesfoundation.com
+Registry Tech ID: C181432672-LROR
+Tech Name: Check Afternic.com For Sale
+Tech Organization: Domain Registries Foundation
+Tech Street: Ramon Arias Avenue, Ropardi Building,
+Tech Street: Office 3C, PO Box 0823-03015
+Tech City: Panama City
+Tech State/Province: Panama
+Tech Postal Code: 0823
+Tech Country: PA
+Tech Phone: +507.8365439
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: admin@domainregistriesfoundation.com
+Name Server: NS1.PARKINGCREW.NET
+Name Server: NS2.PARKINGCREW.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:29:20Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: FILEBAY.ORG
+Registry Domain ID: D176129433-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.godaddy.com
+Updated Date: 2017-06-09T23:44:12Z
+Creation Date: 2015-04-28T20:40:41Z
+Registry Expiry Date: 2018-04-28T20:40:41Z
+Registrar Registration Expiration Date:
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C193999834-LROR
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 14455 N. Hayden Road
+Registrant City: Scottsdale
+Registrant State/Province: Arizona
+Registrant Postal Code: 85260
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: +1.4806242598
+Registrant Fax Ext:
+Registrant Email: filebay.org@domainsbyproxy.com
+Registry Admin ID: C193999832-LROR
+Admin Name: Registration Private
+Admin Organization: Domains By Proxy, LLC
+Admin Street: DomainsByProxy.com
+Admin Street: 14455 N. Hayden Road
+Admin City: Scottsdale
+Admin State/Province: Arizona
+Admin Postal Code: 85260
+Admin Country: US
+Admin Phone: +1.4806242599
+Admin Phone Ext:
+Admin Fax: +1.4806242598
+Admin Fax Ext:
+Admin Email: filebay.org@domainsbyproxy.com
+Registry Tech ID: C193999833-LROR
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 14455 N. Hayden Road
+Tech City: Scottsdale
+Tech State/Province: Arizona
+Tech Postal Code: 85260
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: +1.4806242598
+Tech Fax Ext:
+Tech Email: filebay.org@domainsbyproxy.com
+Name Server: NS63.DOMAINCONTROL.COM
+Name Server: NS64.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:29:32Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: FILESPEEDY.ORG
+Registry Domain ID: D169422212-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.key-systems.net
+Updated Date: 2016-08-10T12:55:07Z
+Creation Date: 2013-08-13T12:32:50Z
+Registry Expiry Date: 2017-08-13T12:32:50Z
+Registrar Registration Expiration Date:
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C154104623-LROR
+Registrant Name: Tymek Boron Tymek Boron
+Registrant Organization:
+Registrant Street: Rolna 20e/5
+Registrant City: Katowice
+Registrant State/Province:
+Registrant Postal Code: 40-555
+Registrant Country: PL
+Registrant Phone: +48.609244858
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: tymek.boron@gmail.com
+Registry Admin ID: C140984028-LROR
+Admin Name: Tymek Boron Tymek Boron
+Admin Organization:
+Admin Street: Rolna 20e/5
+Admin City: Katowice
+Admin State/Province:
+Admin Postal Code: 40-555
+Admin Country: PL
+Admin Phone: +48.609244858
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: tymek.boron@gmail.com
+Registry Tech ID: C140984030-LROR
+Tech Name: Tymek Boron Tymek Boron
+Tech Organization:
+Tech Street: Rolna 20e/5
+Tech City: Katowice
+Tech State/Province:
+Tech Postal Code: 40-555
+Tech Country: PL
+Tech Phone: +48.609244858
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: tymek.boron@gmail.com
+Name Server: BETH.NS.CLOUDFLARE.COM
+Name Server: BRAD.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:29:35Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: FIRECASH.ORG
+Registry Domain ID: D161555812-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.PublicDomainRegistry.com
+Updated Date: 2017-01-24T14:57:36Z
+Creation Date: 2011-02-19T23:53:06Z
+Registry Expiry Date: 2018-02-19T23:53:06Z
+Registrar Registration Expiration Date:
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C103371128-LROR
+Registrant Name: Damian Kiljanczyk
+Registrant Organization: N/A (csid7718937)
+Registrant Street: Galczynskiego 20/1/32
+Registrant City: Plock
+Registrant State/Province:
+Registrant Postal Code: 09-400
+Registrant Country: PL
+Registrant Phone: +48.794240264
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: kiljan2@gmail.com
+Registry Admin ID: C141569978-LROR
+Admin Name: Consulting Service Sp. z o.o.
+Admin Organization: Consulting Service Sp. z o.o.
+Admin Street: ul. Domaniewska 35A lok. 1B
+Admin City: Warsaw
+Admin State/Province:
+Admin Postal Code: 02-672
+Admin Country: PL
+Admin Phone: +48.228538888
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domeny@consultingservice.pl
+Registry Tech ID: C141569978-LROR
+Tech Name: Consulting Service Sp. z o.o.
+Tech Organization: Consulting Service Sp. z o.o.
+Tech Street: ul. Domaniewska 35A lok. 1B
+Tech City: Warsaw
+Tech State/Province:
+Tech Postal Code: 02-672
+Tech Country: PL
+Tech Phone: +48.228538888
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domeny@consultingservice.pl
+Name Server: ERIC.NS.CLOUDFLARE.COM
+Name Server: KIM.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:29:40Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================
+====================================================================================================
+Domain Name: UPSHARE.ORG
+Registry Domain ID: D162342004-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.PublicDomainRegistry.com
+Updated Date: 2017-05-04T07:09:50Z
+Creation Date: 2011-05-23T11:31:20Z
+Registry Expiry Date: 2018-05-23T11:31:20Z
+Registrar Registration Expiration Date:
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C103371128-LROR
+Registrant Name: Damian Kiljanczyk
+Registrant Organization: N/A (csid7718937)
+Registrant Street: Galczynskiego 20/1/32
+Registrant City: Plock
+Registrant State/Province:
+Registrant Postal Code: 09-400
+Registrant Country: PL
+Registrant Phone: +48.794240264
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: kiljan2@gmail.com
+Registry Admin ID: C141569978-LROR
+Admin Name: Consulting Service Sp. z o.o.
+Admin Organization: Consulting Service Sp. z o.o.
+Admin Street: ul. Domaniewska 35A lok. 1B
+Admin City: Warsaw
+Admin State/Province:
+Admin Postal Code: 02-672
+Admin Country: PL
+Admin Phone: +48.228538888
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domeny@consultingservice.pl
+Registry Tech ID: C141569978-LROR
+Tech Name: Consulting Service Sp. z o.o.
+Tech Organization: Consulting Service Sp. z o.o.
+Tech Street: ul. Domaniewska 35A lok. 1B
+Tech City: Warsaw
+Tech State/Province:
+Tech Postal Code: 02-672
+Tech Country: PL
+Tech Phone: +48.228538888
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domeny@consultingservice.pl
+Name Server: ERIC.NS.CLOUDFLARE.COM
+Name Server: KIM.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-07-16T18:30:42Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+====================================================================================================

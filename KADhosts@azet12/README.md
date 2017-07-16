@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **Sun Jul 16 17:49:01 UTC 2017**
+Date of Execution: **Sun Jul 16 18:10:57 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt**
 
-Date: **Sun Jul 16 17:49:01 UTC 2017**
+Date: **Sun Jul 16 18:10:57 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
