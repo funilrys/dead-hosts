@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **%%ExecutionTime%%**
+Date of Execution: **Sun Jul 16 22:55:15 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt**
 
-Date: **%%DownloadTime%%**
+Date: **Sun Jul 16 22:55:15 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
