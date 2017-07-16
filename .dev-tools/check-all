@@ -24,6 +24,9 @@ root=$(dirname ${PWD})
 
 # We set here the maximal of day between the last generation
 maximalDay=7
+
+# To match
+toMatch='justdomains@mirror1\.malwaredomains\.com'
 ################################################################################
 
 # We move to ${root}
@@ -92,19 +95,14 @@ dateDiff (){
 # We use this to look into every directory and execute an update :)
 for i in *
 do
-    # We check if the current readed data is a directory
-    if [[ -d ${i} ]]
+    if [[ ! "${i}" =~ ${toMatch} ]]
     then
-        # We move into it
-        cd ${i}
-        
-        # To match
-        toMatch='justdomains@mirror1\.malwaredomains\.com'
-        
-        if [[ "${i}" =~ ${toMatch} ]]
+        # We check if the current readed data is a directory
+        if [[ -d ${i} ]]
         then
-            continue
-        else
+            # We move into it
+            cd ${i}
+            
             # We check if percentage.txt exist
             if [[ -f "percentage.txt" ]]
             then
@@ -124,9 +122,13 @@ do
                 # We check it's hosts file
                 ./tool -c
             fi
+            
+            # We move back to ${root}
+            cd ${root}
+        else
+            # We continue our road :)
+            continue
         fi
-        # We move back to ${root}
-        cd ${root}
     else
         # We continue our road :)
         continue
