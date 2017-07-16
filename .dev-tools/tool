@@ -233,7 +233,7 @@ checkList()
         fi
         
         chmod +x funceble
-        rm ./.logs/*/*
+        rm ./.logs/*/* &> /dev/null
         ./funceble -a -t 5 -h -f ${outputList}
         rm funceble iana-domains-db
     fi
@@ -266,7 +266,6 @@ while [ "$#" -gt 0 ]; do
     case "$1" in
         # We get, check and generate list
         -c|--checklist)
-            replaceContent '%%ExecutionTime%%'
             getListToTest
             checkList
             generateList
