@@ -26,7 +26,7 @@ day=$(date +"%d")
 ################################################################################
 # Remove Remote Added by TravisCI
 ################################################################################
-
+cd $TRAVIS_BUILD_DIR
 git remote rm origin
 
 # **************************
@@ -66,7 +66,6 @@ sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
 git add -A
 git commit -am "${day}.${month}.${day}.$TRAVIS_BUILD_NUMBER"
 
-exit 0
 ################################################################################
 # Travis now moves to the before_deploy: section of .travis.yml
 ################################################################################
