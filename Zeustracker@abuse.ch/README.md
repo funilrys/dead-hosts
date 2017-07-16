@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **%%ExecutionTime%%**
+Date of Execution: **Sun Jul 16 22:36:26 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist**
 
-Date: **%%DownloadTime%%**
+Date: **Sun Jul 16 22:36:26 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
