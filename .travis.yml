@@ -1,0 +1,36 @@
+language: php
+env:
+  global:
+    - secure: ZcCCyEx4oZHrg7Y5Do2hePTam4VHqEM29O8ExFUOE9Lw2v0Qy19S4qbdVfJJBMgywtUtwBkRR9VIinCdCAs6eTH+wV9KPmeXROhoRYmEPEAi52yuwajdYAZQQKXr7MsPWI4gH71P79nPiSHTqXflPnXKdqDO8nBZMGGUEWSnCspOgWMy+fYKKc8pRgjPRCjeTJKeyKjMv2lwHmr5gBrBbKRMltz7tkA4kSxkiHhKMGNp5S6K4dWFlWzWnT0klu04j/b/tnJvUHRJF0+q8yaJMQUml8LJpwFBpwTKBRCPank8VsHhbwHkCaFLFkhxZpY5A15tN9h8MlkvV294vKhqiZain+HJCcZpslhklKR9dhY2QDzpASodTjUsiuDkEIdHpw4V19hrODCeFyYextoM8qCmapA8av4vPjRp/ig5RGstgnKlH3DPaxvtRzDi8Vf54vAUxm7wmgdCNNEWICrm0l1oXGzhT/GvtYgMZp3a2ylKxujIxfEHo11u6umvA7w9JcqEbmzPwem5Y+QkM8MpoQfccvnhENSas4GmPQyNs3y16iT56gDJ3W/4Ac512Ut1A2biO7wTdmYC7P5tUSWhi65a4gTTZZJ1fmtM47ZYoe1RFhhDiRBWiHl9541C6B7EBLHJkaVIspEXqQLMf5G+r7iTHl0Gn5U3yBAHBJV5xq8=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: funilrys@outlook.com
+    - TRAVIS_REPO_SLUG: funilrys/dead-hosts
+    - GIT_BRANCH: master
+
+dist: trusty
+sudo: required
+matrix:
+  fast_finish: true
+
+before_install:
+    - sudo apt-get -qq update
+    - sudo apt-get -y install expect
+    - sudo apt-get -y install whois
+
+cache:
+  - apt
+
+script:
+  - bash .dev-tools/pre-deploy
+
+before_deploy:
+  - bash .dev-tools/deploy-package
+
+deploy:
+  provider: releases
+  api_key:
+    secure: ZcCCyEx4oZHrg7Y5Do2hePTam4VHqEM29O8ExFUOE9Lw2v0Qy19S4qbdVfJJBMgywtUtwBkRR9VIinCdCAs6eTH+wV9KPmeXROhoRYmEPEAi52yuwajdYAZQQKXr7MsPWI4gH71P79nPiSHTqXflPnXKdqDO8nBZMGGUEWSnCspOgWMy+fYKKc8pRgjPRCjeTJKeyKjMv2lwHmr5gBrBbKRMltz7tkA4kSxkiHhKMGNp5S6K4dWFlWzWnT0klu04j/b/tnJvUHRJF0+q8yaJMQUml8LJpwFBpwTKBRCPank8VsHhbwHkCaFLFkhxZpY5A15tN9h8MlkvV294vKhqiZain+HJCcZpslhklKR9dhY2QDzpASodTjUsiuDkEIdHpw4V19hrODCeFyYextoM8qCmapA8av4vPjRp/ig5RGstgnKlH3DPaxvtRzDi8Vf54vAUxm7wmgdCNNEWICrm0l1oXGzhT/GvtYgMZp3a2ylKxujIxfEHo11u6umvA7w9JcqEbmzPwem5Y+QkM8MpoQfccvnhENSas4GmPQyNs3y16iT56gDJ3W/4Ac512Ut1A2biO7wTdmYC7P5tUSWhi65a4gTTZZJ1fmtM47ZYoe1RFhhDiRBWiHl9541C6B7EBLHJkaVIspEXqQLMf5G+r7iTHl0Gn5U3yBAHBJV5xq8=
+  file: ''
+  skip_cleanup: true
+  on:
+    repo: funilrys/dead-hosts
