@@ -1,36 +1,31 @@
 language: php
 env:
   global:
-    - secure: ZcCCyEx4oZHrg7Y5Do2hePTam4VHqEM29O8ExFUOE9Lw2v0Qy19S4qbdVfJJBMgywtUtwBkRR9VIinCdCAs6eTH+wV9KPmeXROhoRYmEPEAi52yuwajdYAZQQKXr7MsPWI4gH71P79nPiSHTqXflPnXKdqDO8nBZMGGUEWSnCspOgWMy+fYKKc8pRgjPRCjeTJKeyKjMv2lwHmr5gBrBbKRMltz7tkA4kSxkiHhKMGNp5S6K4dWFlWzWnT0klu04j/b/tnJvUHRJF0+q8yaJMQUml8LJpwFBpwTKBRCPank8VsHhbwHkCaFLFkhxZpY5A15tN9h8MlkvV294vKhqiZain+HJCcZpslhklKR9dhY2QDzpASodTjUsiuDkEIdHpw4V19hrODCeFyYextoM8qCmapA8av4vPjRp/ig5RGstgnKlH3DPaxvtRzDi8Vf54vAUxm7wmgdCNNEWICrm0l1oXGzhT/GvtYgMZp3a2ylKxujIxfEHo11u6umvA7w9JcqEbmzPwem5Y+QkM8MpoQfccvnhENSas4GmPQyNs3y16iT56gDJ3W/4Ac512Ut1A2biO7wTdmYC7P5tUSWhi65a4gTTZZJ1fmtM47ZYoe1RFhhDiRBWiHl9541C6B7EBLHJkaVIspEXqQLMf5G+r7iTHl0Gn5U3yBAHBJV5xq8=
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: funilrys@outlook.com
-    - TRAVIS_REPO_SLUG: funilrys/dead-hosts
-    - GIT_BRANCH: master
+  - secure: "${GH_TOKEN}"
+  - GIT_NAME: Travis CI
+  - GIT_EMAIL: funilrys@outlook.com
+  - TRAVIS_REPO_SLUG: funilrys/dead-hosts
+  - GIT_BRANCH: master
 
 dist: trusty
 sudo: required
 matrix:
   fast_finish: true
-
 before_install:
-    - sudo apt-get -qq update
-    - sudo apt-get -y install expect
-    - sudo apt-get -y install whois
-
+- sudo apt-get -qq update
+- sudo apt-get -y install expect
+- sudo apt-get -y install whois
+- sudo apt-get -y install dos2unix
 cache:
-  - apt
-
+- apt
 script:
-  - bash -x .dev-tools/pre-deploy
-
+- bash -x .dev-tools/pre-deploy
 before_deploy:
-  - bash -x .dev-tools/deploy-package
-
+- bash -x .dev-tools/deploy-package
 deploy:
   provider: releases
   api_key:
-    secure: ZcCCyEx4oZHrg7Y5Do2hePTam4VHqEM29O8ExFUOE9Lw2v0Qy19S4qbdVfJJBMgywtUtwBkRR9VIinCdCAs6eTH+wV9KPmeXROhoRYmEPEAi52yuwajdYAZQQKXr7MsPWI4gH71P79nPiSHTqXflPnXKdqDO8nBZMGGUEWSnCspOgWMy+fYKKc8pRgjPRCjeTJKeyKjMv2lwHmr5gBrBbKRMltz7tkA4kSxkiHhKMGNp5S6K4dWFlWzWnT0klu04j/b/tnJvUHRJF0+q8yaJMQUml8LJpwFBpwTKBRCPank8VsHhbwHkCaFLFkhxZpY5A15tN9h8MlkvV294vKhqiZain+HJCcZpslhklKR9dhY2QDzpASodTjUsiuDkEIdHpw4V19hrODCeFyYextoM8qCmapA8av4vPjRp/ig5RGstgnKlH3DPaxvtRzDi8Vf54vAUxm7wmgdCNNEWICrm0l1oXGzhT/GvtYgMZp3a2ylKxujIxfEHo11u6umvA7w9JcqEbmzPwem5Y+QkM8MpoQfccvnhENSas4GmPQyNs3y16iT56gDJ3W/4Ac512Ut1A2biO7wTdmYC7P5tUSWhi65a4gTTZZJ1fmtM47ZYoe1RFhhDiRBWiHl9541C6B7EBLHJkaVIspEXqQLMf5G+r7iTHl0Gn5U3yBAHBJV5xq8=
-  file: ''
+    secure: EFgVL9dEWPTx8goZcfVWwgqUauxeB6YH4J6b/1tuPW13E+r4FpWiIr2v6EvYMNPwKOl2tCiK9fiMRswtMYO3g/cOuFCHgQMnkyPRtweCcS6LuVGHIbHOBAc0qMpDyjNzX535amg8qcddcmqjhlwlT2BahONU4KLKhM5EsU0XH4VfLD2+gEu05ly+dKsVandBmo/THYUcX+57SHadOrEpbgGGpUAlXqp1OQ1nrDdYcjzxdl2RZFYw6vQndWv5AVCVMRsGWXS27t0ZTTPPkB/1qCEGbDAmNdV4dFn6irzeKeEo1nTV9cmvSqH2t4SdWCWD290rpSHP4saRDo2D0MPnjFhBYieRR4vCarHsXTxKYpi1W8+MLPkF7d3PGykR92TjGSW0CY8jsJEgkn7u5gDreUHPQEMw3bLpBjo/WRXrCX5z4iL8zdXRkHkarjrX9yE3WWuWvR5ipgak6fVa+l3JaoUNSm3whk7DA88J5sc+Yc3vt6CROD61V5iaxoePYWXIg/drCHzptLrwIfeJ3CXjDjAWxN/awJJeDnR5XVN5t135XVlY0lvtMauwVBjh6iECSzpMdXedMqapBpx8IGIKnodNz5ZeiWv5A/Oi+3Xw0sWgPPZcg3D3wRrAdSfWmyl84/hLZB4ibKZrIqqvLbbeNNO7/+2aWFIbqJGUVuIgqac=  file: ''
   skip_cleanup: true
   on:
     repo: funilrys/dead-hosts
