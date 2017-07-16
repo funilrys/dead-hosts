@@ -1,16 +1,16 @@
-language: php
+language:       php
 env:
   global:
-  - secure: "${GH_TOKEN}"
-  - GIT_NAME: Travis CI
-  - GIT_EMAIL: funilrys@outlook.com
+  - secure:     "${GH_TOKEN}"
+  - GIT_NAME:   Travis CI
+  - GIT_EMAIL:  funilrys@outlook.com
   - TRAVIS_REPO_SLUG: funilrys/dead-hosts
   - GIT_BRANCH: master
 
-dist: trusty
-sudo: required
+dist:           trusty
+sudo:           required
 matrix:
-  fast_finish: true
+  fast_finish:  true
 before_install:
 - sudo apt-get -qq update
 - sudo apt-get -y install expect
@@ -23,9 +23,9 @@ script:
 before_deploy:
 - bash -x .dev-tools/deploy-package
 deploy:
-  provider: releases
+  provider:     releases
   api_key:
     secure: EFgVL9dEWPTx8goZcfVWwgqUauxeB6YH4J6b/1tuPW13E+r4FpWiIr2v6EvYMNPwKOl2tCiK9fiMRswtMYO3g/cOuFCHgQMnkyPRtweCcS6LuVGHIbHOBAc0qMpDyjNzX535amg8qcddcmqjhlwlT2BahONU4KLKhM5EsU0XH4VfLD2+gEu05ly+dKsVandBmo/THYUcX+57SHadOrEpbgGGpUAlXqp1OQ1nrDdYcjzxdl2RZFYw6vQndWv5AVCVMRsGWXS27t0ZTTPPkB/1qCEGbDAmNdV4dFn6irzeKeEo1nTV9cmvSqH2t4SdWCWD290rpSHP4saRDo2D0MPnjFhBYieRR4vCarHsXTxKYpi1W8+MLPkF7d3PGykR92TjGSW0CY8jsJEgkn7u5gDreUHPQEMw3bLpBjo/WRXrCX5z4iL8zdXRkHkarjrX9yE3WWuWvR5ipgak6fVa+l3JaoUNSm3whk7DA88J5sc+Yc3vt6CROD61V5iaxoePYWXIg/drCHzptLrwIfeJ3CXjDjAWxN/awJJeDnR5XVN5t135XVlY0lvtMauwVBjh6iECSzpMdXedMqapBpx8IGIKnodNz5ZeiWv5A/Oi+3Xw0sWgPPZcg3D3wRrAdSfWmyl84/hLZB4ibKZrIqqvLbbeNNO7/+2aWFIbqJGUVuIgqac=  file: ''
   skip_cleanup: true
   on:
-    repo: funilrys/dead-hosts
+    repo:       funilrys/dead-hosts
