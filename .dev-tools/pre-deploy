@@ -63,12 +63,12 @@ sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
 ################################################################################
 # Add all the modified files and commit
 ################################################################################
-
-if ! git diff-index --quiet HEAD --; then
+if [[ `git status --porcelain` ]]
+then
     git add -A
     git commit -am "${day}.${month}.${day}.$TRAVIS_BUILD_NUMBER"
 else
-    exit 0
+        exit 0
 fi
 
 ################################################################################
