@@ -63,8 +63,13 @@ sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
 ################################################################################
 # Add all the modified files and commit
 ################################################################################
-git add -A
-git commit -am "${day}.${month}.${day}.$TRAVIS_BUILD_NUMBER"
+
+if ! git diff-index --quiet HEAD --; then
+    git add -A
+    git commit -am "${day}.${month}.${day}.$TRAVIS_BUILD_NUMBER"
+else
+    exit 0
+fi
 
 ################################################################################
 # Travis now moves to the before_deploy: section of .travis.yml
