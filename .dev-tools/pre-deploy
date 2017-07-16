@@ -67,8 +67,6 @@ if [[ `git status --porcelain` ]]
 then
     git add -A
     git commit -am "${day}.${month}.${day}.$TRAVIS_BUILD_NUMBER"
-else
-        exit 0
 fi
 
 ################################################################################
