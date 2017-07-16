@@ -98,26 +98,33 @@ do
         # We move into it
         cd ${i}
         
-        # We check if percentage.txt exist
-        if [[ -f "percentage.txt" ]]
+        # To match
+        toMatch='justdomains@mirror1\.malwaredomains\.com'
+        
+        if [[ "${i}" =~ ${toMatch} ]]
         then
-            # We get the date of percentage.txt
-            dateOfLastPercentage=$(date -r percentage.txt)
-            
-            # We get the difference between now and ${dateOfLastPercentage}
-            diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
-            
-            if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
+            continue
+        else
+            # We check if percentage.txt exist
+            if [[ -f "percentage.txt" ]]
             then
+                # We get the date of percentage.txt
+                dateOfLastPercentage=$(date -r percentage.txt)
+                
+                # We get the difference between now and ${dateOfLastPercentage}
+                diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
+                
+                if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
+                then
+                    # We check it's hosts file
+                    ./tool -c
+                fi
+            else
+                # If doesn't exist
                 # We check it's hosts file
                 ./tool -c
             fi
-        else
-            # If doesn't exist
-            # We check it's hosts file
-            ./tool -c
         fi
-        
         # We move back to ${root}
         cd ${root}
     else
