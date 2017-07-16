@@ -83,7 +83,7 @@ getListToTest()
     local dateToAppend="Date: **"$(date)"**"
     
     # Update badrefers.list
-    curl ${rawLink} -o ${outputList}
+    curl -s ${rawLink} -o ${outputList}
     # We delete comment line
     grep -v "#" ${outputList} > ${tempFile}
     mv ${tempFile} ${outputList}
@@ -176,8 +176,8 @@ checkList()
     # We get funceble tool
     
     # We get funceble & iana-domains-db
-    curl ${funcebleScript} -o funceble
-    curl ${ianaDomainsDB} -o iana-domains-db
+    curl -s ${funcebleScript} -o funceble
+    curl -s ${ianaDomainsDB} -o iana-domains-db
     
     # We save the content of the script into a varable in order to chech/match
     # it's content
