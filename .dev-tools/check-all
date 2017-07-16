@@ -1,0 +1,112 @@
+#!/bin/bash
+
+# _______           _        _______  _______  ______   _        _______
+# (  ____ \|\     /|( (    /|(  ____ \(  ____ \(  ___ \ ( \      (  ____ \
+# | (    \/| )   ( ||  \  ( || (    \/| (    \/| (   ) )| (      | (    \/
+# | (__    | |   | ||   \ | || |      | (__    | (__/ / | |      | (__
+# |  __)   | |   | || (\ \) || |      |  __)   |  __ (  | |      |  __)
+# | (      | |   | || | \   || |      | (      | (  \ \ | |      | (
+# | )      | (___) || )  \  || (____/\| (____/\| )___) )| (____/\| (____/\
+# |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
+
+# Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
+# Github : https://github.com/funilrys/funceble
+# Github : https://github.com/funilrys/dead-hosts
+
+################################ Contributors ##################################
+#  Let's contribute !!
+################################################################################
+
+
+##################################### Base #####################################
+# We get the parent directory which we're gonna call root
+root=$(dirname ${PWD})
+
+# We set here the maximal of day between the last generation
+maximalDay=7
+################################################################################
+
+# We move to ${root}
+cd ${root}
+
+
+
+
+date2stamp () {
+    date --utc --date "${1}" +%s
+}
+
+stamp2date (){
+    date --utc --date "1970-01-01 ${1} sec" "+%Y-%m-%d %T"
+}
+
+dateDiff (){
+    case ${1} in
+        -s)
+            sec=1;
+        shift;;
+        -m)
+            sec=60;
+        shift;;
+        -h)
+            sec=3600;
+        shift;;
+        -d)
+            sec=86400;
+        shift;;
+        *)
+        sec=86400;;
+    esac
+
+    dte1=$(date2stamp ${1})
+    dte2=$(date2stamp ${2})
+
+    diffSec=$((dte2-dte1))
+
+
+    if [[ ${diffSec} < 0 ]]
+    then
+        abs=-1
+    else
+        abs=1
+    fi
+
+    echo $((diffSec/sec*abs))
+}
+
+# We use this to look into every directory and execute an update :)
+for i in *
+do
+    # We check if the current readed data is a directory
+    if [[ -d ${i} ]]
+    then
+        # We move into it
+        cd ${i}
+
+        # We check if percentage.txt exist
+        if [[ -f "percentage.txt" ]]
+        then
+            # We get the date of percentage.txt
+            dateOfLastPercentage=$(date -r percentage.txt)
+
+            # We get the difference between now and ${dateOfLastPercentage}
+            diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
+
+            if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
+            then
+                # We check it's hosts file
+                ./tool -c
+            fi
+        else
+            # If doesn't exist
+            # We check it's hosts file
+            ./tool -c
+        fi
+
+        # We move back to ${root}
+        cd ${root}
+    else
+        # We continue our road :)
+        continue
+    fi
+done
