@@ -183,7 +183,6 @@ toolContent()
     
     replaceContent "${regexListName}" "${listName}" "${updateLocation}"
     replaceContent "${regexRepoName}" "${repoName}" "${updateLocation}"
-    replaceContent "${regexLinkToDownload}" "${linkToDownload}" "${updateLocation}"
     replaceContent "${regexRawLink}" "${rawLink}" "${updateLocation}"
     
     # We replace/update the content of README.md
