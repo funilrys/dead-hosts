@@ -1,0 +1,516 @@
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: DOK493D-NORID
+Domain Name................: doktoronline.no
+Domain Holder Handle.......: EHMA12O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: SF4992P-NORID
+Tech-c Handle..............: SF4992P-NORID
+Name Server Handle.........: NEIL1H-NORID
+Name Server Handle.........: TEGA1H-NORID
+
+Additional information:
+Created:         2012-06-27
+Last updated:    2017-05-28
+
+NORID Handle...............: EHMA12O-NORID
+Type.......................: organization
+Name.......................: EGMONT PUBLISHING AS
+Id Type....................: organization_number
+Id Number..................: 964441332
+Registrar Handle...........: REG42-NORID
+Post Address...............: Nydalsveien 12
+Postal Code................: NO-0484
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22772000
+Fax Number.................: +47.22772000
+Email Address..............: webmaster@egmont.no
+
+Additional information:
+Created:         2014-03-06
+Last updated:    2017-04-20
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HEL5006D-NORID
+Domain Name................: heliko.no
+Domain Holder Handle.......: HA5686O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: AK7187P-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+DNSSEC.....................: Signed
+DS Key Tag     1...........: 22443
+Algorithm      1...........: 13
+Digest Type    1...........: 2
+Digest         1...........: 22dcfee9c1015ccc177f1261274d3e1031b5daec034554df1ab8575272537102
+
+Additional information:
+Created:         2004-09-21
+Last updated:    2016-10-17
+
+NORID Handle...............: HA5686O-NORID
+Type.......................: organization
+Name.......................: HELIKO AS
+Id Type....................: organization_number
+Id Number..................: 985083924
+Registrar Handle...........: REG42-NORID
+Post Address...............: Vogtsgate 60
+Postal Code................: NO-0477
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22227270
+
+Additional information:
+Created:         2015-11-24
+Last updated:    2015-11-24
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: JAN672D-NORID
+Domain Name................: janavibekken.no
+Domain Holder Handle.......: JAVT2O-NORID
+Registrar Handle...........: REG672-NORID
+Legal-c Handle.............: JAV64P-NORID
+Tech-c Handle..............: ORH55P-NORID
+Name Server Handle.........: DNSC21H-NORID
+Name Server Handle.........: DNSC23H-NORID
+
+Additional information:
+Created:         2006-01-30
+Last updated:    2017-01-30
+
+NORID Handle...............: JAVT2O-NORID
+Type.......................: organization
+Name.......................: JAN A VIBEKKEN TØMRERMESTERFORRETNING
+Id Type....................: organization_number
+Id Number..................: 954743764
+Registrar Handle...........: REG672-NORID
+Post Address...............: Granv 6
+Postal Code................: NO-2213
+Postal Area................: KONGSVINGER
+Country....................: NO
+Phone Number...............: +47.62815594
+Email Address..............: vibekken@hotmail.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: LYN673D-NORID
+Domain Name................: lyngdalhudterapi.no
+Domain Holder Handle.......: LHGN2O-NORID
+Registrar Handle...........: REG672-NORID
+Legal-c Handle.............: GN886P-NORID
+Tech-c Handle..............: ORH55P-NORID
+Name Server Handle.........: DNSC21H-NORID
+Name Server Handle.........: DNSC23H-NORID
+
+Additional information:
+Created:         2009-11-04
+Last updated:    2016-11-04
+
+NORID Handle...............: LHGN2O-NORID
+Type.......................: organization
+Name.......................: LYNGDAL HUDTERAPI Gro Narvestad
+Id Type....................: organization_number
+Id Number..................: 980974855
+Registrar Handle...........: REG672-NORID
+Post Address...............: Postboks 193
+Postal Code................: NO-4576
+Postal Area................: Lyngdal
+Country....................: NO
+Phone Number...............: +47.38344310
+Email Address..............: gro@lyngdalhudterapi.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NAJ25D-NORID
+Domain Name................: najaden.no
+Domain Holder Handle.......: SOIV2O-NORID
+Registrar Handle...........: REG659-NORID
+Legal-c Handle.............: LEE104P-NORID
+Tech-c Handle..............: PGJ36P-NORID
+Name Server Handle.........: DNSM111H-NORID
+Name Server Handle.........: DNSM113H-NORID
+
+Additional information:
+Created:         2014-02-14
+Last updated:    2017-02-14
+
+NORID Handle...............: SOIV2O-NORID
+Type.......................: organization
+Name.......................: SEILSKUTEFORENINGEN ØST I VIKEN
+Id Type....................: organization_number
+Id Number..................: 896242962
+Registrar Handle...........: REG659-NORID
+Post Address...............: Mindre-Alvs vei 2
+Postal Code................: NO-1672
+Postal Area................: KRÅKERØY
+Country....................: NO
+Phone Number...............: +47.41545757
+Email Address..............: leif@flyt.no
+
+Additional information:
+Created:         2014-03-27
+Last updated:    2014-03-27
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NET3305D-NORID
+Domain Name................: netoil.no
+Domain Holder Handle.......: VOA48O-NORID
+Registrar Handle...........: REG529-NORID
+Legal-c Handle.............: AA2907P-NORID
+Tech-c Handle..............: VPH2R-NORID
+Name Server Handle.........: BJAR5H-NORID
+Name Server Handle.........: DNSV24H-NORID
+
+Additional information:
+Created:         2004-12-22
+Last updated:    2016-12-22
+
+NORID Handle...............: VOA48O-NORID
+Type.......................: organization
+Name.......................: VEST OLJE AS
+Id Type....................: organization_number
+Id Number..................: 954446689
+Registrar Handle...........: REG529-NORID
+Post Address...............: Postboks 414
+Postal Code................: NO-4067
+Postal Area................: STAVANGER
+Country....................: NO
+Phone Number...............: +47.51883020
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: RIB205D-NORID
+Domain Name................: ribieiendom.no
+Domain Holder Handle.......: REA516O-NORID
+Registrar Handle...........: REG406-NORID
+Legal-c Handle.............: IH1433P-NORID
+Tech-c Handle..............: IH27R-NORID
+Name Server Handle.........: DNSI145H-NORID
+Name Server Handle.........: DNSI152H-NORID
+Name Server Handle.........: DNSI74H-NORID
+
+Additional information:
+Created:         2009-02-25
+Last updated:    2017-05-15
+
+NORID Handle...............: REA516O-NORID
+Type.......................: organization
+Name.......................: Ribi Eiendom AS
+Id Type....................: organization_number
+Id Number..................: 992466383
+Registrar Handle...........: REG406-NORID
+Post Address...............: Hoemsnes
+Postal Code................: NO-6408
+Postal Area................: Aureosen
+Country....................: NO
+Mobile Phone Number........: +47.40006408
+Email Address..............: info@sveabyran.se
+
+Additional information:
+Created:         2010-12-17
+Last updated:    2010-12-17
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SBD8D-NORID
+Domain Name................: sbdl.no
+Domain Holder Handle.......: SBDL3O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: TA7460P-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+DNSSEC.....................: Signed
+DS Key Tag     1...........: 37041
+Algorithm      1...........: 13
+Digest Type    1...........: 2
+Digest         1...........: 6a5eb22dae08c7cb0e276658c59d8bcc5a907118a58e8dafcf1e679648f9c1bb
+
+Additional information:
+Created:         2001-07-25
+Last updated:    2017-06-25
+
+NORID Handle...............: SBDL3O-NORID
+Type.......................: organization
+Name.......................: ADVOKATFIRMAET STORENG, BECK & DUE LUND (SBDL) DA
+Id Type....................: organization_number
+Id Number..................: 947103415
+Registrar Handle...........: REG42-NORID
+Post Address...............: Hieronymus Heyerdahls gate 1
+Postal Code................: NO-0160
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.99545927
+Fax Number.................: +47.22017051
+Email Address..............: terje.andersen@sbdl.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2015-09-07
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SFJ21D-NORID
+Domain Name................: sfj-ror.no
+Domain Holder Handle.......: SRA549O-NORID
+Registrar Handle...........: REG672-NORID
+Legal-c Handle.............: MN1198P-NORID
+Tech-c Handle..............: ORH55P-NORID
+Name Server Handle.........: DNSC21H-NORID
+Name Server Handle.........: DNSC23H-NORID
+
+Additional information:
+Created:         2005-09-15
+Last updated:    2016-09-15
+
+NORID Handle...............: SRA549O-NORID
+Type.......................: organization
+Name.......................: SANDEFJORD RØRLEGGERSERVICE AS
+Id Type....................: organization_number
+Id Number..................: 985619301
+Registrar Handle...........: REG672-NORID
+Post Address...............: Østerøyveien 12
+Postal Code................: NO-3236
+Postal Area................: SANDEFJORD
+Country....................: NO
+Phone Number...............: +47.33480986
+Email Address..............: post@sfj-ror.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SR139D-NORID
+Domain Name................: sr-rekneskap.no
+Domain Holder Handle.......: SAS82O-NORID
+Registrar Handle...........: REG68-NORID
+Legal-c Handle.............: INK3P-NORID
+Tech-c Handle..............: HP4R-NORID
+Name Server Handle.........: NSPC12H-NORID
+Name Server Handle.........: NSPC20H-NORID
+Name Server Handle.........: NSPC60H-NORID
+
+Additional information:
+Created:         2001-03-05
+Last updated:    2017-03-05
+
+NORID Handle...............: SAS82O-NORID
+Type.......................: organization
+Name.......................: SR-REKNSKAP AS SYKKYLVEN
+Id Type....................: organization_number
+Id Number..................: 938367078
+Registrar Handle...........: REG68-NORID
+Post Address...............: Postboks 184
+Postal Code................: NO-6239
+Postal Area................: SYKKYLVEN
+Country....................: NO
+Phone Number...............: +47.70251624
+Email Address..............: ingunn@sr-rekneskap.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SYV94D-NORID
+Domain Name................: syvertsen-da.no
+Domain Holder Handle.......: SRSS11O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: SS16044P-NORID
+Tech-c Handle..............: ORH259P-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+DNSSEC.....................: Signed
+DS Key Tag     1...........: 25110
+Algorithm      1...........: 13
+Digest Type    1...........: 2
+Digest         1...........: 68a458b029eab252a6f41b4b7ee9c8fa83b43513265a1f68b6b36cb43397dc80
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2017-01-04
+
+NORID Handle...............: SRSS11O-NORID
+Type.......................: organization
+Name.......................: Statsautorisert Revisor Steinar Syvertsen DA
+Id Type....................: local_id_number
+Id Number..................: N.LEG.000004768
+Registrar Handle...........: REG42-NORID
+Post Address...............: Rosenkrantsgate 75
+Postal Code................: NO-3018
+Postal Area................: Drammen
+Country....................: NO
+Phone Number...............: +47.32894450
+Fax Number.................: +47.32894451
+Email Address..............: revisor@syvertsen-da.no
+
+Additional information:
+Created:         2016-09-27
+Last updated:    2016-09-27
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: UKK9D-NORID
+Domain Name................: ukkelberg.no
+Domain Holder Handle.......: MTA389O-NORID
+Registrar Handle...........: REG672-NORID
+Legal-c Handle.............: TU414P-NORID
+Tech-c Handle..............: ORH55P-NORID
+Name Server Handle.........: DNSC21H-NORID
+Name Server Handle.........: DNSC23H-NORID
+
+Additional information:
+Created:         2015-05-05
+Last updated:    2017-05-05
+
+NORID Handle...............: MTA389O-NORID
+Type.......................: organization
+Name.......................: MOLDE TAKTEKKING AS
+Id Type....................: organization_number
+Id Number..................: 979688970
+Registrar Handle...........: REG672-NORID
+Post Address...............: Gammelseterlia 11
+Postal Code................: NO-6402
+Postal Area................: Molde
+Country....................: NO
+Phone Number...............: +47.71203900
+Fax Number.................: +47.71203901
+Email Address..............: ukkelber@online.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: WIE47D-NORID
+Domain Name................: wieseversa.no
+Domain Holder Handle.......: WVA20O-NORID
+Registrar Handle...........: REG672-NORID
+Legal-c Handle.............: EW601P-NORID
+Tech-c Handle..............: ORH55P-NORID
+Name Server Handle.........: DNSC21H-NORID
+Name Server Handle.........: DNSC23H-NORID
+
+Additional information:
+Created:         2002-12-10
+Last updated:    2016-12-10
+
+NORID Handle...............: WVA20O-NORID
+Type.......................: organization
+Name.......................: WIESE VERSA AS
+Id Type....................: organization_number
+Id Number..................: 984528698
+Registrar Handle...........: REG672-NORID
+Post Address...............: FRAMVEIEN 2
+Postal Code................: NO-1177
+Postal Area................: OSLO
+Country....................: NO
+Mobile Phone Number........: +47.90021300
+Email Address..............: erik@wiese-hansen.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
+
+====================================================================================================

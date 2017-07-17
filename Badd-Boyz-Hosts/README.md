@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **%%ExecutionTime%%**
+Date of Execution: **Mon Jul 17 14:00:29 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt**
 
-Date: **%%DownloadTime%%**
+Date: **Mon Jul 17 14:00:29 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 

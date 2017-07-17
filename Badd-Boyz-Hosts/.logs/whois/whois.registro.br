@@ -1,0 +1,92 @@
+====================================================================================================
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2017-07-17 11:03:09 (BRT -03:00)
+
+domain:      senai.br
+owner:       Serviço Nacional de Aprendizagem Industrial
+owner-c:     CIT
+admin-c:     CIT
+tech-c:      CIT
+billing-c:   CIT
+nserver:     ns1.cni.org.br
+nsstat:      20170717 AA
+nslastaa:    20170717
+nserver:     ns2.cni.org.br
+nsstat:      20170717 NOT SYNC ZONE
+nslastaa:    20170717
+nserver:     ns3.cni.org.br
+nsstat:      20170717 AA
+nslastaa:    20170717
+nserver:     ns4.cni.org.br
+nsstat:      20170717 NOT SYNC ZONE
+nslastaa:    20170717
+created:     before 19950101
+changed:     20170131
+status:      published
+
+nic-hdl-br:  CIT
+person:      Confederação Nacional da Indústria
+created:     19980116
+changed:     20050728
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+
+====================================================================================================
+====================================================================================================
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2017-07-17 11:28:24 (BRT -03:00)
+
+domain:      ufop.br
+owner:       UNIVERSIDADE FEDERAL DE OURO PRETO
+owner-c:     VEA2
+admin-c:     VEA2
+tech-c:      VEA2
+billing-c:   VEA2
+nserver:     ns.ufop.br 200.239.128.81
+nsstat:      20170716 AA
+nslastaa:    20170716
+nserver:     ns.pop-mg.rnp.br
+nsstat:      20170716 AA
+nslastaa:    20170716
+nserver:     newton.ufop.br 200.239.146.11
+nsstat:      20170716 TIMEOUT
+nslastaa:    20160601
+nserver:     ficus.ufop.br 200.239.128.50
+nsstat:      20170716 AA
+nslastaa:    20170716
+created:     before 19950101
+changed:     20160129
+status:      published
+
+nic-hdl-br:  VEA2
+person:      Vitor Emanuel Rodrigues de Araujo
+created:     19980313
+changed:     20050605
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+
+====================================================================================================
