@@ -1,0 +1,264 @@
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 aircrack-ng.softonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 google-hacks.softonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 k.h.a.d.free.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 keygen-password-generator.softonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 pub.ftv-publicite.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 quad-registry-cleaner.softonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 rar-password-cracker.softonic.fr
+%%
+%% RL Net [##########] - RL IP [########..]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 serial-cloner.softonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 universal-downloader.softonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 warez.softonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 www.flashdem.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
+====================================================================================================
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [104.197.49.81 REQUEST] >> -V Md5.1 www.ojolink.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.
+
+
+====================================================================================================
