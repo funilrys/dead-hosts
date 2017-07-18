@@ -1,0 +1,303 @@
+#!/bin/bash
+
+# _______           _        _______  _______  ______   _        _______
+# (  ____ \|\     /|( (    /|(  ____ \(  ____ \(  ___ \ ( \      (  ____ \
+# | (    \/| )   ( ||  \  ( || (    \/| (    \/| (   ) )| (      | (    \/
+# | (__    | |   | ||   \ | || |      | (__    | (__/ / | |      | (__
+# |  __)   | |   | || (\ \) || |      |  __)   |  __ (  | |      |  __)
+# | (      | |   | || | \   || |      | (      | (  \ \ | |      | (
+# | )      | (___) || )  \  || (____/\| (____/\| )___) )| (____/\| (____/\
+# |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
+
+# Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
+# Github : https://github.com/funilrys/funceble
+# Github : https://github.com/funilrys/dead-hosts
+
+################################ Contributors ##################################
+#  Let's contribute !!
+################################################################################
+
+
+############################## Default Values ##################################
+# list name
+listName='yoyo.org.list'
+
+# Default name for list
+basicListName='list'
+
+# Repo name
+repoName='yoyo.org'
+
+# Origin List URL
+rawLink='https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts%%rawLink%%mimetype=plaintext%%rawLink%%useip=0.0.0.0'
+################################################################################
+############################# Directories & Files ##############################
+# list directory
+listDir='tested-list/'
+
+# Output list
+outputList=${listDir}${listName}
+
+# Temporary file
+tempFile=${listDir}'funilrys'
+
+# Hosts file name
+hostsFileName='hosts'
+
+# Active directory
+activeDir='ACTIVE/'
+
+# Inactive directory
+inactiveDir='INACTIVE/'
+
+# Invalid directory
+invalidDir='INVALID/'
+
+# README.md file
+readme='README.md'
+
+# README.md content
+readmeContent=$(cat ${readme})
+
+# Current Time
+currentTime=$(date)
+################################################################################
+
+################################ Replace Content ###############################
+# sed to apply DRY againt the replacement of the content
+#
+# @CalledBy toolContent
+################################################################################
+replaceContent()
+{
+    # We initiate the variable we need
+    local regex="${1}"
+    local replaceBy="${2}"
+    local file="${3}"
+
+    # We replace the content of the given file with the given data
+    sed -i "s|${regex}|${replaceBy}|g" "${file}"
+}
+
+############################### Get List to Test ###############################
+# Used to curl the list
+# @CalledBy Arguments Handle section
+################################################################################
+getListToTest()
+{
+    # We set what we need to match
+    local regexOutputDirDateOfDownload='Date:.*'
+    local dateToAppend="Date: **"$(date)"**"
+
+    # Update badrefers.list
+    curl -s ${rawLink} -o ${outputList}
+    # We delete comment line
+    grep -v "#" ${outputList} > ${tempFile}
+    mv ${tempFile} ${outputList}
+    # We cut the list
+    cat ${outputList} | cut -d ' ' -f2 >> ${tempFile}
+    mv ${tempFile} ${outputList}
+
+    # We delete blank line
+    cat ${outputList} | grep . >> ${tempFile}
+    mv ${tempFile} ${outputList}
+    # We cut the list
+    cat ${outputList} | cut -d ' ' -f2 >> ${tempFile}
+    mv ${tempFile} ${outputList}
+
+    # We convert the file
+    dos2unix ${outputList}
+
+    # we replace data in README
+    if [[ ${readmeContent} =~ ${regexOutputDirDateOfDownload} ]]
+    then
+        sed -i "s|${regexOutputDirDateOfDownload}|${dateToAppend}|g" ${readme}
+    fi
+}
+
+############################### Generate List ##################################
+# Just a function to make life easier :)
+# @CalledBy Arguments Handle section
+################################################################################
+generateList()
+{
+    # Create list without the hosts part
+    if [[ -f ${activeDir}${hostsFileName} ]]
+    then
+        while read -r line
+        do
+            if [[ ${line} =~ '#' ]]
+            then
+                echo "${line}" >> ${tempFile}
+            else
+                echo "${line}" |  cut -d ' ' -f2 >> ${tempFile}
+            fi
+        done < "${activeDir}${hostsFileName}"
+
+        mv ${tempFile} ${activeDir}${basicListName}
+    fi
+
+    # Create list without the hosts part
+    if [[ -f ${inactiveDir}${hostsFileName} ]]
+    then
+        while read -r line
+        do
+            if [[ ${line} =~ '#' ]]
+            then
+                echo "${line}" >> ${tempFile}
+            else
+                echo "${line}" |  cut -d ' ' -f2 >> ${tempFile}
+            fi
+        done < "${inactiveDir}${hostsFileName}"
+
+        mv ${tempFile} ${inactiveDir}${basicListName}
+    fi
+
+    # Create list without the hosts part
+    if [[ -f ${invalidDir}${hostsFileName} ]]
+    then
+        while read -r line
+        do
+            if [[ ${line} =~ '#' ]]
+            then
+                echo "${line}" >> ${tempFile}
+            else
+                echo "${line}" |  cut -d ' ' -f2 >> ${tempFile}
+            fi
+        done < "${$invalidDir}${basicListName}"
+
+        mv ${tempFile} ${$invalidDir}${basicListName}
+    fi
+}
+
+############################### Check List #####################################
+# We get funceble and test it against the downloaded list
+# @CalledBy Arguments Handle section
+################################################################################
+checkList()
+{
+    # We set the current script location
+    local funcebleScript="https://raw.githubusercontent.com/funilrys/funceble/master/funceble"
+    # We set the iana-domains-db location
+    local ianaDomainsDB="https://raw.githubusercontent.com/funilrys/funceble/master/iana-domains-db"
+    # We get funceble tool
+
+    # We get funceble & iana-domains-db
+    curl -s ${funcebleScript} -o funceble
+    curl -s ${ianaDomainsDB} -o iana-domains-db
+
+    # We save the content of the script into a varable in order to chech/match
+    # it's content
+    local scriptContent=$(cat funceble 2> /dev/null)
+
+    # We initiate what we're gonna match/replace
+    local regexOutputDir="outputDir='.*\/output\/'"
+    local regexHostsDir="hostsDir=.*"
+    local regexExecutionDate='Date of Execution:.*'
+    local regexPercentageOutput='percentageLogOutput=.*'
+    local regexPercentageFileName='\${percentageLogOutput}\${fileNameDate}'
+    local regexLogsDir="logOutput=.*"
+    local regexDebug="debugUnknown=false"
+
+    # We check if the script match something.
+    if [[ ${scriptContent} =~ ${regexOutputDir} ]]
+    then
+        # We initiate what the replacement of previously regex* set variables
+        local outputDir="outputDir='./'"
+        local hostDir='hostsDir=${outputDir}'
+        local dateOfExecution="Date of Execution: **${currentTime}**"
+        local percentageLogOutput="percentageLogOutput=''"
+        local percentageFileName='${percentageLogOutput}percentage.txt'
+        local logsDir='logOutput=${outputDir}.logs/'
+        local defaultDebug="debugUnknown=true"
+
+        # We replace the content of the script in order to fill the
+        # architecture of the repository
+        replaceContent ${regexOutputDir} ${outputDir} funceble
+        replaceContent ${regexHostsDir} ${hostDir} funceble
+        replaceContent ${regexPercentageOutput} ${percentageLogOutput} funceble
+        replaceContent ${regexPercentageFileName} ${percentageFileName} funceble
+        replaceContent ${regexLogsDir} ${logsDir} funceble
+        replaceContent ${regexDebug} ${defaultDebug} funceble
+        replaceContent "${regexExecutionDate}" "${dateOfExecution}" README.md
+
+        # We delete already existing file
+        if [[ -f ${activeDir}${hostsFileName} ]]
+        then
+            rm "${activeDir}${hostsFileName}" &> /dev/null
+            rm "${activeDir}list" &> /dev/null
+        fi
+
+        # We delete already existing file
+        if [[ -f ${inactiveDir}${hostsFileName} ]]
+        then
+            rm "${inactiveDir}${hostsFileName}"  &> /dev/null
+            rm "${inactiveDir}list"  &> /dev/null
+        fi
+
+        # We delete already existing file
+        if [[ -f ${invalidDir}${hostsFileName} ]]
+        then
+            rm "${$invalidDir}${hostsFileName}" &> /dev/null
+            rm "${$invalidDir}list" &> /dev/null
+        fi
+
+        chmod +x funceble
+        rm ./.logs/*/* &> /dev/null
+        ./funceble -a -t 5 -h -f ${outputList}
+        rm funceble iana-domains-db
+    fi
+}
+
+################################## Usage #######################################
+# Help function
+#
+# @CalledBy main, Arguments Handle Section
+################################################################################
+usage()
+{
+    echo "Usage: ${0}"
+    echo ""
+    echo "       {[ -c ]} || {[ -d ]} || {[ -g ]}"
+    echo ""
+    echo "  --checklist                -c              Check the downloaded list against funceble"
+    echo "  --download                 -d              Download the list"
+    echo "  --generate-list            -g              Generate a file with only domains (Not in hosts format)"
+    echo ""
+}
+
+
+############################### Arguments Handle ###############################
+# We use this part to get arguments from command line.
+#
+# @Requiredby All
+################################################################################
+while [ "$#" -gt 0 ]; do
+    case "$1" in
+        # We get, check and generate list
+        -c|--checklist)
+            getListToTest
+            checkList
+            generateList
+            shift 1
+        ;;
+        # We  catch if we need to get the list
+        -d|--download)
+            getListToTest
+            shift 1
+        ;;
+        # We catch if we need to generate list
+        -g|--generate-list)
+            generateList
+            shift 1
+        ;;
+        -*)
+            echo "Unknown option: $1" >&2
+            exit 1
+        ;;
+        *)
+            usage
+            exit 1
+        ;;
+    esac
+done
