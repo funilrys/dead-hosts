@@ -22,6 +22,7 @@
 year=$(date +"%Y")
 month=$(date +"%m")
 day=$(date +"%d")
+timestamp=$(date +"%s")
 
 ################################################################################
 # Remove Remote Added by TravisCI
@@ -66,7 +67,7 @@ sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
 if [[ `git status --porcelain` ]]
 then
     git add -A
-    git commit -am "${day}.${month}.${day}.$TRAVIS_BUILD_NUMBER [ci skip]"
+    git commit -am "${day}.${month}.${day}.${timestamp} [ci skip]"
 fi
 
 ################################################################################

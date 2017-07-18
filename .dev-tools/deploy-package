@@ -21,12 +21,13 @@
 year=$(date +"%Y")
 month=$(date +"%m")
 day=$(date +"%d")
+timestamp=$(date +"%s")
 
 # Make Sure we are in the Build Directory
 cd $TRAVIS_BUILD_DIR
 
 # Create our Version Number
-export GIT_TAG=${day}.${month}.${day}.$TRAVIS_BUILD_NUMBER
+export GIT_TAG=${day}.${month}.${day}.${timestamp}
 
 ################################################################################
 # Tag our release
