@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **%%ExecutionTime%%**
+Date of Execution: **Tue Jul 18 23:17:53 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts**
 
-Date: **%%DownloadTime%%**
+Date: **Tue Jul 18 23:17:53 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
