@@ -199,7 +199,7 @@ usage()
 {
     echo "Usage: ${0}"
     echo ""
-    echo "       {[ -l 'http://linktothelist.com' ]} && {[ -ln 'fileNameOfTheList' ]} && {[ -rl 'http://linktorawlist.com'  ]} && {[ -dn 'nameOfTheMainDirectory' ]}"
+    echo "       {[ -l 'http://linktothelist.com' ]} && {[ -n 'fileNameOfTheList' ]} && {[ -d 'nameOfTheMainDirectory' ]}"
     echo ""
     echo "                             -d              Name of the main directory"
     echo "                             -n              Name of the file that's gonna be downloaded (${red}${bold}Must be before ${white}-dn${normal})"
@@ -207,7 +207,7 @@ usage()
     echo ""
     echo "Examples:"
     echo ""
-    echo "  ${0} ${red}-ln${normal} ${bold}'badreferers'${normal} ${red}-rl${normal} ${bold}'https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/Pull_Requests_Here_Please/badreferers.list'${normal} ${red}-dn${normal} ${bold}'Badd-Boyz-Hosts@mitchellkrogza'${normal}"
+    echo "  ${0} ${red}-n${normal} ${bold}'badreferers'${normal} ${red}-l${normal} ${bold}'https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/Pull_Requests_Here_Please/badreferers.list'${normal} ${red}-d${normal} ${bold}'Badd-Boyz-Hosts@mitchellkrogza'${normal}"
     echo "           Generate the ${bold}'Badd-Boyz-Hosts@mitchellkrogza'${normal} directory with the list name ${bold}'badreferers.list'${normal}"
     echo ""
 }
