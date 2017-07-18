@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **%%ExecutionTime%%**
+Date of Execution: **Tue Jul 18 23:54:17 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts**
 
-Date: **%%DownloadTime%%**
+Date: **Tue Jul 18 23:54:17 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
