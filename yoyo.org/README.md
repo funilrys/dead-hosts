@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **%%ExecutionTime%%**
+Date of Execution: **Tue Jul 18 23:54:45 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts%%DownloadLink%%mimetype=plaintext%%DownloadLink%%useip=0.0.0.0**
 
-Date: **%%DownloadTime%%**
+Date: **Tue Jul 18 23:54:45 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
