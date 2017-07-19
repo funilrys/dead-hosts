@@ -164,9 +164,9 @@ generateList()
             else
                 echo "${line}" |  cut -d ' ' -f2 >> ${tempFile}
             fi
-        done < "${$invalidDir}${basicListName}"
+        done < "${invalidDir}${basicListName}"
 
-        mv ${tempFile} ${$invalidDir}${basicListName}
+        mv ${tempFile} ${invalidDir}${basicListName}
     fi
 }
 
@@ -238,8 +238,8 @@ checkList()
         # We delete already existing file
         if [[ -f ${invalidDir}${hostsFileName} ]]
         then
-            rm "${$invalidDir}${hostsFileName}" &> /dev/null
-            rm "${$invalidDir}list" &> /dev/null
+            rm "${invalidDir}${hostsFileName}" &> /dev/null
+            rm "${invalidDir}list" &> /dev/null
         fi
 
         chmod +x funceble
