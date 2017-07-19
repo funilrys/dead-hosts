@@ -139,7 +139,7 @@ do
                 
                 export GIT_TAG=${day}.${month}.${day}.${timestamp}
                 git tag ${GIT_TAG} -a -m "${GIT_TAG}"
-                sudo git pull
+                sudo git pull origin master
                 sudo git push origin master && git push origin master --tags
             fi
             
