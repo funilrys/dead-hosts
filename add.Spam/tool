@@ -244,6 +244,7 @@ checkList()
         
         chmod +x funceble
         rm ./.logs/*/* &> /dev/null
+        rm result.txt &> /dev/null
         ./funceble -a -t 5 -h -f ${outputList}
         rm funceble iana-domains-db
     fi
