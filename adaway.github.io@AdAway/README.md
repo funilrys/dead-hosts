@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **Sun Jul 16 18:08:49 UTC 2017**
+Date of Execution: **Thu Jul 20 22:17:00 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt**
 
-Date: **Sun Jul 16 18:08:49 UTC 2017**
+Date: **Thu Jul 20 22:17:00 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
