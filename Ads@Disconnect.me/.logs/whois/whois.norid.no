@@ -1,0 +1,60 @@
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+% No match
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+% No match
+
+
+====================================================================================================
+====================================================================================================
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: I647D-NORID
+Domain Name................: i1media.no
+Domain Holder Handle.......: IA4664O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: MS7859P-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+DNSSEC.....................: Signed
+DS Key Tag     1...........: 46171
+Algorithm      1...........: 13
+Digest Type    1...........: 2
+Digest         1...........: f4dc6c62a5fdae249a99b5220f512db4e3ed7094e9d68bd6d53805a488f9abff
+
+Additional information:
+Created:         2012-11-07
+Last updated:    2016-11-01
+
+NORID Handle...............: IA4664O-NORID
+Type.......................: organization
+Name.......................: I1.NO AS
+Id Type....................: organization_number
+Id Number..................: 999030092
+Registrar Handle...........: REG42-NORID
+Post Address...............: c/o Nordaaker, Youngstorget 3
+Postal Code................: NO-0181
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.99726728
+Email Address..............: matsbs@gmail.com
+
+Additional information:
+Created:         2012-11-07
+Last updated:    2012-11-07
+
+
+====================================================================================================
