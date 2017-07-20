@@ -1,0 +1,46 @@
+====================================================================================================
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+No match!!
+
+With JPRS WHOIS, you can query the following domain name information
+sponsored by JPRS.
+    - All of registered JP domain name
+    - gTLD domain name of which sponsoring registrar is JPRS
+Detail: https://jprs.jp/about/dom-search/jprs-whois/ (only in Japanese)
+
+For IP address information, please refer to the following WHOIS servers:
+    - JPNIC WHOIS (whois.nic.ad.jp)
+    - APNIC WHOIS (whois.apnic.net)
+    - ARIN WHOIS (whois.arin.net)
+    - RIPE WHOIS (whois.ripe.net)
+    - LACNIC WHOIS (whois.lacnic.net)
+    - AfriNIC WHOIS (whois.afrinic.net)
+
+
+====================================================================================================
+====================================================================================================
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                TEETH.CO.JP
+g. [Organization]               WADA PRECISION DENTAL LABORATORIES CO.,LTD.
+l. [Organization Type]          CO
+m. [Administrative Contact]     YH420JP
+n. [Technical Contact]          MY39395JP
+p. [Name Server]                ns4.cpi.ad.jp
+p. [Name Server]                ns5.cpi.ad.jp
+s. [Signing Key]                
+[State]                         Connected (2017/08/31)
+[Registered Date]               1997/08/04
+[Connected Date]                1997/10/23
+[Last Update]                   2016/09/01 01:12:23 (JST)
+
+
+====================================================================================================
