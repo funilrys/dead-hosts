@@ -11,6 +11,8 @@ dist:           trusty
 sudo:           required
 matrix:
   fast_finish:  true
+before_script:
+- phpenv config-rm xdebug.ini
 before_install:
 - sudo apt-get -qq update
 - sudo apt-get -y install expect
