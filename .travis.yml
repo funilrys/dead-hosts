@@ -1,4 +1,6 @@
 language:       php
+php:
+  - '7.1'
 env:
   global:
   - GIT_NAME:   Travis CI
@@ -12,18 +14,18 @@ sudo:           required
 matrix:
   fast_finish:  true
 before_script:
-- phpenv config-rm xdebug.ini
+    - phpenv config-rm xdebug.ini
 before_install:
-- sudo apt-get -qq update
-- sudo apt-get -y install expect
-- sudo apt-get -y install whois
-- sudo apt-get -y install dos2unix
+    - sudo apt-get -qq update
+    - sudo apt-get -y install expect
+    - sudo apt-get -y install whois
+    - sudo apt-get -y install dos2unix
 cache:
-- apt
+    - apt
 script:
-- bash .dev-tools/pre-deploy
+    - bash .dev-tools/pre-deploy
 before_deploy:
-- bash .dev-tools/deploy-package
+    - bash .dev-tools/deploy-package
 deploy:
   provider:     releases
   api_key:
