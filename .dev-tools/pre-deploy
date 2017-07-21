@@ -59,7 +59,7 @@ git checkout master
 # Run funceble to check for dead domains
 ################################################################################
 
-sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
 
 ################################################################################
 # Add all the modified files and commit
