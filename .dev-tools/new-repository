@@ -175,6 +175,8 @@ toolContent()
     local updateLocation="${dirToCreate}${repoToolFileName}"
     local readmeLocation="${dirToCreate}README.md"
     
+    listName=${listName// /_}
+    
     regexListName="%%listName%%"
     regexRepoName='%%repoName%%'
     regexRawLink='%%rawLink%%'
