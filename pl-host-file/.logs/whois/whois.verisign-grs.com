@@ -7,7 +7,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M1.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:08Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,7 +53,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M2.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:08Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -99,7 +99,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M3.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:08Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -145,7 +145,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M4.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:08Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -191,7 +191,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M5.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:08Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -237,7 +237,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M6.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:24Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -283,7 +283,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M7.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:24Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -329,7 +329,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M8.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:24Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -375,7 +375,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "M9.PL.2MDN.NET".
->>> Last update of whois database: 2017-07-22T08:50:21Z <<<
+>>> Last update of whois database: 2017-07-22T09:04:24Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -421,7 +421,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "AD.PL.DOUBLECLICK.NET".
->>> Last update of whois database: 2017-07-22T08:52:35Z <<<
+>>> Last update of whois database: 2017-07-22T09:06:23Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -467,7 +467,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "BBCDN.GO.PL.BBELEMENTS.COM".
->>> Last update of whois database: 2017-07-22T08:52:35Z <<<
+>>> Last update of whois database: 2017-07-22T09:06:23Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -513,7 +513,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "AD2.PL.MEDIAINTER.NET".
->>> Last update of whois database: 2017-07-22T08:52:51Z <<<
+>>> Last update of whois database: 2017-07-22T09:06:23Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -559,7 +559,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "GO.PL.BBELEMENTS.COM".
->>> Last update of whois database: 2017-07-22T08:53:06Z <<<
+>>> Last update of whois database: 2017-07-22T09:06:54Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -605,7 +605,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "GO.POL.BBELEMENTS.COM".
->>> Last update of whois database: 2017-07-22T08:53:06Z <<<
+>>> Last update of whois database: 2017-07-22T09:06:54Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -651,7 +651,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "CHIP.PL.INTELLITXT.COM".
->>> Last update of whois database: 2017-07-22T08:53:36Z <<<
+>>> Last update of whois database: 2017-07-22T09:07:09Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -697,7 +697,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for "UNBLOCK.ONAUDIENCE.COM".
->>> Last update of whois database: 2017-07-22T08:53:36Z <<<
+>>> Last update of whois database: 2017-07-22T09:07:09Z <<<
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
