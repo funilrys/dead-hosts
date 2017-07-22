@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **%%ExecutionTime%%**
+Date of Execution: **Sat Jul 22 08:50:03 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt**
 
-Date: **%%DownloadTime%%**
+Date: **Sat Jul 22 08:50:03 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
