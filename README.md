@@ -19,6 +19,7 @@ KADhosts                                 | [KAD](https://github.com/azet12)     
 SpotifyAds                               | [Tomasz Przybył](https://github.com/FadeMind)      | [Repository](https://github.com/FadeMind/hosts.extras/tree/master/SpotifyAds)              | [Raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts)
 The Big List of Hacked Malware Web Sites | [Mitchell Krog](https://github.com/mitchellkrogza) | [Repository](https://github.com//mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/) | [Raw](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/_strip_domains/domains.txt)
 UncheckyAds                              | [Tomasz Przybył](https://github.com/FadeMind)      | [Repository](https://github.com/FadeMind/hosts.extras/tree/master/UncheckyAds)             | [Raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts)
+Nginx Ultimate Bad Bot & Referrer Spam Blocker | [Mitchell Krog](https://github.com/mitchellkrogza) | [Repository](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/) | [Raw](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list)
 
 Your list or repository is not listed here ? Fill a new issue [here](https://github.com/funilrys/dead-hosts/issues/new?title=Please%20add%20my%20list%20or%20repository%20to%20the%20valuable%20links) :smile_cat:
 
