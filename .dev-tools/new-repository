@@ -131,6 +131,7 @@ createRepository()
             createDir ${dirToCreate}${logsDir}
             createDir ${dirToCreate}${logsDir}/'dateFormat'
             createDir ${dirToCreate}${logsDir}/'whois'
+            createDir ${dirToCreate}${logsDir}/'noReferer'
         else
             echo 'Repo Already exist'
             exit 1
