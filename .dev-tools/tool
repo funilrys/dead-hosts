@@ -209,7 +209,7 @@ checkList()
         local percentageLogOutput="percentageLogOutput=''"
         local percentageFileName='${percentageLogOutput}percentage.txt'
         local logsDir='logOutput=${outputDir}.logs/'
-        local defaultDebug="debugUnknown=true"
+        local defaultDebug="debugUnknown=false"
 
         # We replace the content of the script in order to fill the
         # architecture of the repository
