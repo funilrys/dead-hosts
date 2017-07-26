@@ -2,13 +2,13 @@
 
 ## Execution
 
-Date of Execution: **Wed Jul 19 21:22:30 UTC 2017**
+Date of Execution: **Wed Jul 26 12:18:07 UTC 2017**
 
 ## Download
 
 `hosts` file downloaded from: **https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts**
 
-Date: **Wed Jul 19 21:22:30 UTC 2017**
+Date: **Wed Jul 26 12:18:07 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
