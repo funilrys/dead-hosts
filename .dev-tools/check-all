@@ -23,7 +23,7 @@
 root=$(dirname ${PWD})
 
 # We set here the maximal of day between the last generation
-maximalDay=7
+maximalDay=5
 
 # To match
 toMatch='justdomains@mirror1\.malwaredomains\.com'

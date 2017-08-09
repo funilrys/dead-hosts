@@ -21,7 +21,7 @@ SpotifyAds                                     | [Tomasz Przybył](https://githu
 The Big List of Hacked Malware Web Sites       | [Mitchell Krog](https://github.com/mitchellkrogza) | [Repository](https://github.com//mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/) | [Raw](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/_strip_domains/domains.txt)
 UncheckyAds                                    | [Tomasz Przybył](https://github.com/FadeMind)      | [Repository](https://github.com/FadeMind/hosts.extras/tree/master/UncheckyAds)             | [Raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts)
 
-Your list or repository is not listed here ? Fill a new issue [here](https://github.com/funilrys/dead-hosts/issues/new?title=Please%20add%20my%20list%20or%20repository%20to%20the%20valuable%20links) :smile_cat:
+Your list or repository is not listed here? Fill a new issue [here](https://github.com/funilrys/dead-hosts/issues/new?title=Please%20add%20my%20list%20or%20repository%20to%20the%20valuable%20links) :smile_cat:
 
 --------------------------------------------------------------------------------
 
@@ -34,3 +34,13 @@ To quote the most active user of [Funceble](https://github.com/funilrys/funceble
 ## Need more information?
 
 You can get more informations from the [repository](https://github.com/funilrys/funceble) or Funceble's [Wiki](https://github.com/funilrys/funceble/wiki).
+
+--------------------------------------------------------------------------------
+
+# Supporting the project
+
+[Funceble](https://github.com/funilrys/funceble) and [dead-hosts](https://github.com/funilrys/dead-hosts) are powered by :coffee:!
+
+This project helps you and or you like it? Why don't you buy me a cup of :coffee: ? :smile_cat:
+
+[![Buy me a cup of coffee](https://img.shields.io/badge/Buy%20-me%20a%20cup%20of%20%E2%98%95-blue.svg)](https://www.paypal.me/funilrys/)
