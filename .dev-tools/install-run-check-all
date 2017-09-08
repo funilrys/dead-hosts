@@ -10,22 +10,17 @@
 # |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
 
 # Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
-# Github : https://github.com/funilrys/funceble
-# Github : https://github.com/funilrys/dead-hosts
+# GitHub : https://github.com/funilrys/funceble
+# GitHub : https://github.com/funilrys/dead-hosts
 
 ################################ Contributors ##################################
 #  Let's contribute !!
 ################################################################################
 
-
-# ################################################################################
-# # Install Funceble Dependencies
-# ################################################################################
-# sudo apt-get -y install expect
-# sudo apt-get -y install whois
-
-
-cd $TRAVIS_BUILD_DIR/.dev-tools/
+################################################################################
+# Move into the build directory
+################################################################################
+cd ${TRAVIS_BUILD_DIR}/.dev-tools/
 
 ################################################################################
 # Run check-all

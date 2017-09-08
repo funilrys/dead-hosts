@@ -10,30 +10,23 @@
 # |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
 
 # Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
-# Github : https://github.com/funilrys/funceble
-# Github : https://github.com/funilrys/dead-hosts
+# GitHub : https://github.com/funilrys/funceble
+# GitHub : https://github.com/funilrys/dead-hosts
 
 ################################ Contributors ##################################
 #  Let's contribute !!
 ################################################################################
 
-
-# Set the date
-year=$(date +"%Y")
-month=$(date +"%m")
-day=$(date +"%d")
-timestamp=$(date +"%s")
+cd ${TRAVIS_BUILD_DIR}
 
 ################################################################################
 # Remove Remote Added by TravisCI
 ################################################################################
-cd $TRAVIS_BUILD_DIR
 git remote rm origin
 
-# **************************
+################################################################################
 # Add Remote with Secure Key
-# **************************
-
+################################################################################
 git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
 
 ################################################################################
@@ -41,10 +34,9 @@ git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
 # git remote -v
 ################################################################################
 
-# *********************
+################################################################################
 # Set Our Git Variables
-# *********************
-
+################################################################################
 git config --global user.email "${GIT_EMAIL}"
 git config --global user.name "${GIT_NAME}"
 git config --global push.default simple
@@ -52,23 +44,12 @@ git config --global push.default simple
 ################################################################################
 # Make sure we have checked out master branch
 ################################################################################
-
 git checkout master
 
 ################################################################################
 # Run funceble to check for dead domains
 ################################################################################
-
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
-
-################################################################################
-# Add all the modified files and commit
-################################################################################
-if [[ `git status --porcelain` ]]
-then
-    git add -A
-    git commit -am "${day}.${month}.${day}.${timestamp} [ci skip]"
-fi
+sudo bash ${TRAVIS_BUILD_DIR}/.dev-tools/install-run-check-all
 
 ################################################################################
 # Travis now moves to the before_deploy: section of .travis.yml

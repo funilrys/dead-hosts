@@ -17,16 +17,30 @@
 #  Let's contribute !!
 ################################################################################
 
-################################################################################
-# Make Sure we are in the Build Directory
-################################################################################
-cd $TRAVIS_BUILD_DIR
+# Link of the raw file
+rawLink='%%rawLink%%'
 
-################################################################################
-# Push our commit and tags back to the repo
-################################################################################
-sudo git push origin master
+# list name
+listName='%%listName%%.list'
 
+# list directory
+listDir='tested-list/'
+
+# Output list
+outputList=${listDir}${listName}
+
+#################################### Update Me ################################
+# Update.me
+#
+# @CalledBy nobody
 ################################################################################
-# Now TravisCI moves into the deploy: section of TravisCI - see .travis.yml
-################################################################################
+updateMe()
+{
+    # We get the latest list
+    curl -s ${rawLink} -o ${outputList}
+
+    # We convert the file
+    dos2unix ${outputList} 2> /dev/null
+}
+
+updateMe

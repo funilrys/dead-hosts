@@ -32,18 +32,6 @@ bold=$(tput bold)
 normal=$(tput sgr0)
 ################################################################################
 ############################## Default Values ##################################
-# Default active Dir
-activeDir='ACTIVE'
-
-# Default inactive Dir
-inactiveDir='INACTIVE'
-
-# Default invalid Dir
-invalidDir='INVALID'
-
-# Default logs dir
-logsDir='.logs'
-
 # Default list name
 listName=''
 
@@ -62,14 +50,14 @@ readmeDef="${PWD}/README"
 # Default value of repo name
 repoName=''
 
-# Update filename
-repoToolFileName='tool'
-
 # Default tested-list Dir
 testedDir='tested-list'
 
+# Update.me filename
+updateMe='update.me'
+
 # Default update location
-updateDef="${PWD}/${repoToolFileName}"
+updateMeDef="${PWD}/${updateMe}"
 ################################################################################
 
 ################################## Check Variables #############################
@@ -101,7 +89,7 @@ createDir()
 {
     # We initiate the variable we need
     local mkdirectory="${1}"
-    
+
     # We create directory
     mkdir "${mkdirectory}"
     # We create the file
@@ -122,37 +110,30 @@ createRepository()
         then
             # We create the main directory
             mkdir ${dirToCreate}
-            
+
             # We create directory
-            createDir ${dirToCreate}${activeDir}
-            createDir ${dirToCreate}${inactiveDir}
-            createDir ${dirToCreate}${invalidDir}
             createDir ${dirToCreate}${testedDir}
-            createDir ${dirToCreate}${logsDir}
-            createDir ${dirToCreate}${logsDir}/'dateFormat'
-            createDir ${dirToCreate}${logsDir}/'whois'
-            createDir ${dirToCreate}${logsDir}/'noReferer'
         else
             echo 'Repo Already exist'
             exit 1
         fi
-        
+
         # We copy the default files
         cp ${readmeDef} ${dirToCreate}/README.md
-        cp ${updateDef} ${dirToCreate}
-        
+        cp ${updateMeDef} ${dirToCreate}
+
         # We give execution permission
-        chmod +x ${dirToCreate}${repoToolFileName}
-        
+        chmod +x ${dirToCreate}${updateMe}
+
         # We update the content of ${dirToCreate}${repoToolFileName}
-        toolContent
+        filesContent
     fi
 }
 
 ################################ Replace Content ###############################
 # sed to apply DRY againt the replacement of the content
 #
-# @CalledBy toolContent
+# @CalledBy filesContent
 ################################################################################
 replaceContent()
 {
@@ -160,7 +141,7 @@ replaceContent()
     local regex="${1}"
     local replaceBy="${2}"
     local file="${3}"
-    
+
     # We replace the content of the given file with the given data
     sed -i "s|${regex}|${replaceBy}|g" "${file}"
 }
@@ -168,26 +149,25 @@ replaceContent()
 ################################ Replace Content ###############################
 # sed to apply DRY againt the replacement of the content
 #
-# @CalledBy toolContent
+# @CalledBy filesContent
 ################################################################################
-toolContent()
+filesContent()
 {
     checkVariables
-    local updateLocation="${dirToCreate}${repoToolFileName}"
+    local updateLocation="${dirToCreate}${updateMe}"
     local readmeLocation="${dirToCreate}README.md"
-    
+
     listName=${listName// /_}
-    
+
     regexListName="%%listName%%"
     regexRepoName='%%repoName%%'
     regexRawLink='%%rawLink%%'
-    
+
     # We replace/update the content of update script
-    
+
     replaceContent "${regexListName}" "${listName}" "${updateLocation}"
-    replaceContent "${regexRepoName}" "${repoName}" "${updateLocation}"
     replaceContent "${regexRawLink}" "${rawLink}" "${updateLocation}"
-    
+
     # We replace/update the content of README.md
     replaceContent "${regexRepoName}" "${repoName}" "${readmeLocation}"
     replaceContent '%%DownloadLink%%' "${rawLink}" "${readmeLocation}"
@@ -205,8 +185,8 @@ usage()
     echo "       {[ -l 'http://linktothelist.com' ]} && {[ -n 'fileNameOfTheList' ]} && {[ -d 'nameOfTheMainDirectory' ]}"
     echo ""
     echo "                             -d              Name of the main directory"
-    echo "                             -n              Name of the file that's gonna be downloaded (${red}${bold}Must be before ${white}-dn${normal})"
-    echo "                             -l              Link to the raw format of the list (${red}${bold}Must be before ${white}-dn${normal})"
+    echo "                             -n              Name of the file that's gonna be downloaded (${red}${bold}Must be before ${white}-d${normal})"
+    echo "                             -l              Link to the raw format of the list (${red}${bold}Must be before ${white}-d${normal})"
     echo ""
     echo "Examples:"
     echo ""
