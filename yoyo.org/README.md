@@ -1,14 +1,6 @@
 # yoyo.org
 
-## Execution
-
-Date of Execution: **Tue Jul 18 23:54:45 UTC 2017**
-
-## Download
-
-`hosts` file downloaded from: **https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts%%DownloadLink%%mimetype=plaintext%%DownloadLink%%useip=0.0.0.0**
-
-Date: **Tue Jul 18 23:54:45 UTC 2017**
+`hosts` file downloaded from: **https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 

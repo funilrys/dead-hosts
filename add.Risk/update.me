@@ -1,0 +1,46 @@
+#!/bin/bash
+
+# _______           _        _______  _______  ______   _        _______
+# (  ____ \|\     /|( (    /|(  ____ \(  ____ \(  ___ \ ( \      (  ____ \
+# | (    \/| )   ( ||  \  ( || (    \/| (    \/| (   ) )| (      | (    \/
+# | (__    | |   | ||   \ | || |      | (__    | (__/ / | |      | (__
+# |  __)   | |   | || (\ \) || |      |  __)   |  __ (  | |      |  __)
+# | (      | |   | || | \   || |      | (      | (  \ \ | |      | (
+# | )      | (___) || )  \  || (____/\| (____/\| )___) )| (____/\| (____/\
+# |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
+
+# Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
+# Github : https://github.com/funilrys/funceble
+# Github : https://github.com/funilrys/dead-hosts
+
+################################ Contributors ##################################
+#  Let's contribute !!
+################################################################################
+
+# Link of the raw file
+rawLink='https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts'
+
+# list name
+listName='add.Risk'
+
+# list directory
+listDir='tested-list/'
+
+# Output list
+outputList=${listDir}${listName}
+
+#################################### Update Me ################################
+# Update.me
+#
+# @CalledBy nobody
+################################################################################
+updateMe()
+{
+    # We get the latest list
+    curl -s ${rawLink} -o ${outputList}
+
+    # We convert the file
+    dos2unix ${outputList} 2> /dev/null
+}
+
+updateMe

@@ -1,14 +1,6 @@
 # pl-host-file
 
-## Execution
-
-Date of Execution: **Sat Jul 22 09:04:04 UTC 2017**
-
-## Download
-
 `hosts` file downloaded from: **https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt**
-
-Date: **Sat Jul 22 09:04:04 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 

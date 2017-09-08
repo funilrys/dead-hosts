@@ -1,14 +1,6 @@
 # Zeustracker@abuse.ch
 
-## Execution
-
-Date of Execution: **Thu Jul 20 22:38:56 UTC 2017**
-
-## Download
-
 `hosts` file downloaded from: **https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist**
-
-Date: **Thu Jul 20 22:38:56 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 

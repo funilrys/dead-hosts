@@ -1,14 +1,6 @@
 # UncheckyAds
 
-## Execution
-
-Date of Execution: **Tue Jul 18 23:54:34 UTC 2017**
-
-## Download
-
 `hosts` file downloaded from: **https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts**
-
-Date: **Tue Jul 18 23:54:34 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 

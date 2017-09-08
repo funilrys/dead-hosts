@@ -1,14 +1,6 @@
 # add.2o7Net
 
-## Execution
-
-Date of Execution: **Wed Jul 26 12:18:07 UTC 2017**
-
-## Download
-
-`hosts` file downloaded from: **https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts**
-
-Date: **Wed Jul 26 12:18:07 UTC 2017**
+`hosts` file downloaded from: **<https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts>**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
@@ -30,7 +22,6 @@ Here you can find pieces of information about the current returned status.
 ### INVALID
 
 - Domain extension has an invalid format or is unregistered in **[IANA](https://www.iana.org/domains/root/db) Root Zone Database**.
-
 
 --------------------------------------------------------------------------------
 

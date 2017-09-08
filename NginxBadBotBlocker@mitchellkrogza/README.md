@@ -1,14 +1,6 @@
 # NginxBadBotBlocker@mitchellkrogza
 
-## Execution
-
-Date of Execution: **Fri Jul 21 16:16:21 UTC 2017**
-
-## Download
-
 `hosts` file downloaded from: **https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list**
-
-Date: **Fri Jul 21 16:16:21 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 

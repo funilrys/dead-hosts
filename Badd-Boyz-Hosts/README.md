@@ -1,14 +1,6 @@
 # Badd-Boyz-Hosts
 
-## Execution
-
-Date of Execution: **Wed Jul 26 09:25:37 UTC 2017**
-
-## Download
-
 `hosts` file downloaded from: **https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt**
-
-Date: **Wed Jul 26 09:25:37 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 

@@ -1,14 +1,6 @@
 # tyzbit
 
-## Execution
-
-Date of Execution: **Tue Jul 18 23:54:21 UTC 2017**
-
-## Download
-
 `hosts` file downloaded from: **https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts**
-
-Date: **Tue Jul 18 23:54:21 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 

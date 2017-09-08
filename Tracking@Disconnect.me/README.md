@@ -1,14 +1,6 @@
 # Tracking@Disconnect.me
 
-## Execution
-
-Date of Execution: **Thu Jul 20 23:27:37 UTC 2017**
-
-## Download
-
 `hosts` file downloaded from: **https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt**
-
-Date: **Thu Jul 20 23:27:37 UTC 2017**
 
 ## Status (From [Funceble Wiki](https://github.com/funilrys/funceble/wiki/Status/))
 
