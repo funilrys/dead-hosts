@@ -1,0 +1,22 @@
+Fri Sep  8 09:15:49 UTC 2017
+Creation of non existant files and directories  ✔
+
+Download of the script  ✔
+No need to update.Script exist  ✔
+Script readable  ✔
+Script executable  ✔
+awk installed  ✔
+curl installed  ✔
+date installed  ✔
+echo installed  ✔
+expect installed  ✔
+nslookup installed  ✔
+sed installed  ✔
+sha512sum installed  ✔
+tail installed  ✔
+tr installed  ✔
+whois installed  ✔
+Installation of working directory  ✔
+Update of iana-domains-db  ✔
+Creation of non existant files and directories  ✔
+
