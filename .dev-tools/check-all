@@ -116,7 +116,7 @@ do
                 curl -s ${toolLink} -o tool
 
                 # We update the tested-list/*.lists file(s)
-                ./update.me
+                chmod +x update.me && ./update.me
 
                 # We update funceble
                 ./tool --dev --directory-structure -u -i
