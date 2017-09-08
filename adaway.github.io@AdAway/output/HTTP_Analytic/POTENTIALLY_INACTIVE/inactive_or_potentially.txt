@@ -1,0 +1,69 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Fri Sep  8 08:41:54 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+stats.pflexads.com                                                                                   ACTIVE      403        Fri Sep  8 08:41:57 UTC 2017
+a.glcdn.co                                                                                           ACTIVE      404        Fri Sep  8 08:41:58 UTC 2017
+android.bcfads.com                                                                                   ACTIVE      403        Fri Sep  8 08:42:01 UTC 2017
+r.edge.inmobicdn.net                                                                                 ACTIVE      403        Fri Sep  8 08:42:03 UTC 2017
+s3.phluant.com                                                                                       ACTIVE      404        Fri Sep  8 08:42:05 UTC 2017
+c.vrvm.com                                                                                           ACTIVE      404        Fri Sep  8 08:42:06 UTC 2017
+go.vrvm.com                                                                                          ACTIVE      404        Fri Sep  8 08:42:06 UTC 2017
+mobile.banzai.it                                                                                     ACTIVE      403        Fri Sep  8 08:42:08 UTC 2017
+img.ads.mojiva.com                                                                                   ACTIVE      404        Fri Sep  8 08:42:09 UTC 2017
+ftpcontent.worldnow.com                                                                              ACTIVE      404        Fri Sep  8 08:42:10 UTC 2017
+s0.2mdn.net                                                                                          ACTIVE      404        Fri Sep  8 08:42:11 UTC 2017
+banners.bigmobileads.com                                                                             ACTIVE      403        Fri Sep  8 08:42:13 UTC 2017
+rs-staticart.ybcdn.net                                                                               ACTIVE      403        Fri Sep  8 08:42:21 UTC 2017
+c753738.r38.cf2.rackcdn.com                                                                          ACTIVE      404        Fri Sep  8 08:42:23 UTC 2017
+edge.reporo.net                                                                                      ACTIVE      404        Fri Sep  8 08:42:24 UTC 2017
+api.yp.com                                                                                           ACTIVE      404        Fri Sep  8 08:42:26 UTC 2017
+ads.admarvel.com                                                                                     ACTIVE      403        Fri Sep  8 08:42:29 UTC 2017
+ads.matomymobile.com                                                                                 ACTIVE      404        Fri Sep  8 08:42:39 UTC 2017
+media.mobpartner.mobi                                                                                ACTIVE      403        Fri Sep  8 08:42:41 UTC 2017
+mobiledl.adobe.com                                                                                   ACTIVE      400        Fri Sep  8 08:42:42 UTC 2017
+ads.flurry.com                                                                                       ACTIVE      404        Fri Sep  8 08:42:42 UTC 2017
+d2bgg7rjywcwsy.cloudfront.net                                                                        ACTIVE      403        Fri Sep  8 08:42:44 UTC 2017
+hybl9bazbc35.pflexads.com                                                                            ACTIVE      403        Fri Sep  8 08:42:47 UTC 2017
+hhbekxxw5d9e.pflexads.com                                                                            ACTIVE      403        Fri Sep  8 08:42:48 UTC 2017
+www.pflexads.com                                                                                     ACTIVE      403        Fri Sep  8 08:42:49 UTC 2017
+orencia.pflexads.com                                                                                 ACTIVE      403        Fri Sep  8 08:42:49 UTC 2017
+ads.celtra.com                                                                                       ACTIVE      404        Fri Sep  8 08:42:54 UTC 2017
+track.celtra.com                                                                                     ACTIVE      404        Fri Sep  8 08:42:55 UTC 2017
+wv.inner-active.mobi                                                                                 ACTIVE      400        Fri Sep  8 08:42:56 UTC 2017
+cdn1.inner-active.mobi                                                                               ACTIVE      403        Fri Sep  8 08:42:56 UTC 2017
+m2m1.inner-active.mobi                                                                               ACTIVE      400        Fri Sep  8 08:42:57 UTC 2017
+i.jumptap.com                                                                                        ACTIVE      403        Fri Sep  8 08:43:33 UTC 2017
+a.applovin.com                                                                                       ACTIVE      404        Fri Sep  8 08:43:34 UTC 2017
+d.applovin.com                                                                                       ACTIVE      404        Fri Sep  8 08:43:35 UTC 2017
+pdn.applovin.com                                                                                     ACTIVE      404        Fri Sep  8 08:43:36 UTC 2017
+an.yandex.ru                                                                                         ACTIVE      404        Fri Sep  8 08:44:01 UTC 2017
+campaign-tapad.s3.amazonaws.com                                                                      ACTIVE      403        Fri Sep  8 08:44:01 UTC 2017
+i.w.inmobi.com                                                                                       ACTIVE      404        Fri Sep  8 08:44:09 UTC 2017
+r.w.inmobi.com                                                                                       ACTIVE      403        Fri Sep  8 08:44:10 UTC 2017
+mdn1.phluantmobile.net                                                                               ACTIVE      404        Fri Sep  8 08:44:13 UTC 2017
+img.ads1.mojiva.com                                                                                  ACTIVE      404        Fri Sep  8 08:44:54 UTC 2017
+img.ads2.mojiva.com                                                                                  ACTIVE      404        Fri Sep  8 08:44:55 UTC 2017
+img.ads3.mojiva.com                                                                                  ACTIVE      404        Fri Sep  8 08:44:55 UTC 2017
+img.ads4.mojiva.com                                                                                  ACTIVE      404        Fri Sep  8 08:44:56 UTC 2017
+img.ads1.mocean.mobi                                                                                 ACTIVE      404        Fri Sep  8 08:44:56 UTC 2017
+img.ads2.mocean.mobi                                                                                 ACTIVE      404        Fri Sep  8 08:44:56 UTC 2017
+img.ads3.mocean.mobi                                                                                 ACTIVE      404        Fri Sep  8 08:44:57 UTC 2017
+cdn1.smartadserver.com                                                                               ACTIVE      404        Fri Sep  8 08:44:58 UTC 2017
+ads.mobclix.com                                                                                      ACTIVE      400        Fri Sep  8 08:45:15 UTC 2017
+data.mobclix.com                                                                                     ACTIVE      400        Fri Sep  8 08:45:16 UTC 2017
+s.mobclix.com                                                                                        ACTIVE      400        Fri Sep  8 08:45:16 UTC 2017
+aax-us-east.amazon-adsystem.com                                                                      ACTIVE      404        Fri Sep  8 08:45:19 UTC 2017
+s.amazon-adsystem.com                                                                                ACTIVE      404        Fri Sep  8 08:45:21 UTC 2017
+html5adkit.plusmo.s3.amazonaws.com                                                                   ACTIVE      403        Fri Sep  8 08:45:23 UTC 2017
+inneractive-assets.s3.amazonaws.com                                                                  ACTIVE      403        Fri Sep  8 08:45:24 UTC 2017
+strikeadcdn.s3.amazonaws.com                                                                         ACTIVE      403        Fri Sep  8 08:45:24 UTC 2017
+c.admob.com                                                                                          ACTIVE      404        Fri Sep  8 08:45:26 UTC 2017
+pagead2.googlesyndication.com                                                                        ACTIVE      404        Fri Sep  8 08:45:31 UTC 2017
+mobileads.msn.com                                                                                    ACTIVE      403        Fri Sep  8 08:45:34 UTC 2017
+thinknear-hosted.thinknearhub.com                                                                    ACTIVE      403        Fri Sep  8 08:45:50 UTC 2017
+ads.adadapted.com                                                                                    ACTIVE      404        Fri Sep  8 08:45:50 UTC 2017
+cdn.creative.medialytics.com                                                                         ACTIVE      403        Fri Sep  8 08:45:52 UTC 2017
+px.cdn.creative.medialytics.com                                                                      ACTIVE      400        Fri Sep  8 08:45:54 UTC 2017
