@@ -138,7 +138,6 @@ startFunceble(){
     chmod +x update.me && ./update.me
     
     pwd
-    ls -al
     
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep')"
