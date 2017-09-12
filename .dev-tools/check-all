@@ -90,6 +90,17 @@ dateDiff (){
     echo $((diffSec/sec*abs))
 }
 
+################################### Exit Status ################################
+# Port funceble status to check-all
+#
+# @CalledBy *
+################################################################################
+exitStatus() {
+    "$@"
+    local status=$?
+    exit ${status}
+}
+
 # We use this to look into every directory and execute an update :)
 for directory in *
 do
@@ -126,7 +137,7 @@ do
                 
                 # We update funceble
                 ./tool --dev --directory-structure -u -i
-                ./funceble --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot '${directory}'" --travis -a -ex --plain --split -h -f tested-list/*.list
+                exitStatus "./funceble --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot '${directory}'" --travis -a -ex --plain --split -h -f tested-list/*.list"
             fi
         else
             # We get the latest dev tool
@@ -143,7 +154,7 @@ do
             
             # We update funceble
             ./tool --dev --directory-structure -u -i
-            ./funceble --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot '${directory}'" --travis -a -ex --plain --split -h -f tested-list/*.list
+            exitStatus "./funceble --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot '${directory}'" --travis -a -ex --plain --split -h -f tested-list/*.list"
         fi
         
         # We move back to ${root}
