@@ -143,8 +143,8 @@ startFunceble(){
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep')"
     
-    echo "${funcebleToStart} --cmd-before-end '${cmdBeforeEnd}' --travis -a -ex --plain --split -h -f ${fileToLook}"
-    exitStatus "${funcebleToStart} --cmd-before-end '${cmdBeforeEnd}' --travis -a -ex --plain --split -h -f ${fileToLook}"
+    echo "${funcebleToStart} --cmd-before-end "${cmdBeforeEnd}" --travis -a -ex --plain --split -h -f ${fileToLook}"
+    exitStatus "${funcebleToStart} --cmd-before-end "${cmdBeforeEnd}" --travis -a -ex --plain --split -h -f ${fileToLook}"
 }
 
 # We use this to look into every directory and execute an update :)
