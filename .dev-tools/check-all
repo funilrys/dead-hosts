@@ -127,13 +127,15 @@ startFunceble(){
     # We update funceble
     ${directory}/tool --dev --directory-structure -u -i
     
+    
+    chown -R travis:travis ${root}
+    chgrp -R travis ${root}
+    chmod -R g+rwX ${root}
+    chmod 777 -Rf ${root}/.git
+    find ${root} -type d -exec chmod g+s '{}' +
+    chmod +x ${funcebleToStart}
     ls -al
     
-    chown -R travis:travis ${TRAVIS_BUILD_DIR}
-    chgrp -R travis ${TRAVIS_BUILD_DIR}
-    chmod -R g+rwX ${TRAVIS_BUILD_DIR}
-    chmod 777 -Rf ${TRAVIS_BUILD_DIR}/.git
-    find ${TRAVIS_BUILD_DIR} -type d -exec chmod g+s '{}' +
     
     
     exitStatus "${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f ${fileToLook}"
