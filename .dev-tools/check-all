@@ -112,7 +112,7 @@ startFunceble(){
     # We get funceble
     local funcebleToStart="${directory}/funceble"
     # We construct the command before end
-    local cmdBeforeEnd="'bash ${root}/.dev-tools/movetoroot ${1}'"
+    local cmdBeforeEnd=""bash ${root}/.dev-tools/movetoroot ${1}""
     # We contruct tool output
     local toolToStart="${directory}/tool"
     
