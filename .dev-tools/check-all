@@ -90,16 +90,6 @@ dateDiff (){
     echo $((diffSec/sec*abs))
 }
 
-################################### Exit Status ################################
-# Port funceble status to check-all
-#
-# @CalledBy *
-################################################################################
-exitStatus() {
-    $(${1})
-    exit $?
-}
-
 ################################## Start Funceble ##############################
 # Start funceble
 #
@@ -142,7 +132,8 @@ startFunceble(){
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep')"
     
-    exitStatus "${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f ${fileToLook}"
+    ${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f ${fileToLook}
+    exit $?
 }
 
 # We use this to look into every directory and execute an update :)
