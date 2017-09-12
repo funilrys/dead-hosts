@@ -136,7 +136,7 @@ do
                 
                 # We update funceble
                 ./tool --dev --directory-structure -u -i
-                exitStatus "./funceble --cmd-before-end \"bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot '${directory}'\" --travis -a -ex --plain --split -h -f tested-list/*.list"
+                exitStatus './funceble --cmd-before-end "bash '${TRAVIS_BUILD_DIR}'/.dev-tools/movetoroot '${directory}' --travis -a -ex --plain --split -h -f tested-list/*.list'
             fi
         else
             # We get the latest dev tool
@@ -153,7 +153,7 @@ do
             
             # We update funceble
             ./tool --dev --directory-structure -u -i
-            exitStatus "./funceble --cmd-before-end \"bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot '${directory}'\" --travis -a -ex --plain --split -h -f tested-list/*.list"
+            exitStatus './funceble --cmd-before-end "bash '${TRAVIS_BUILD_DIR}'/.dev-tools/movetoroot '${directory}' --travis -a -ex --plain --split -h -f tested-list/*.list'
         fi
         
         # We move back to ${root}
