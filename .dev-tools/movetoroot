@@ -26,20 +26,23 @@ root=${TRAVIS_BUILD_DIR}
 if [[ ${directoryToRestructure} != '' ]]
 then
     toSync=('domains' 'hosts' 'splited' 'HTTP_Analytic')
-
+    
     for i in ${!toSync[*]}
     do
-        if [[ -d ${root}/${directoryToRestructure}/${toSync[${i}]} && -d ${root}/${directoryToRestructure}/output/${toSync[${i}]} ]]
+        if [[ -f ${root}/${directoryToRestructure}/output/logs/percentage/percentage.txt ]]
         then
-            rsync -avz --delete ${root}/${directoryToRestructure}/output/${toSync[${i}]} ${root}/${directoryToRestructure}/${toSync[${i}]}
-            rm -R ${root}/${directoryToRestructure}/output/${toSync[${i}]}
-        elif [[ ! -d ${root}/${directoryToRestructure}/${toSync[${i}]} && -d ${root}/${directoryToRestructure}/output/${toSync[${i}]} ]]
-        then
-            mv ${root}/${directoryToRestructure}/output/${toSync[${i}]} ${root}/${directoryToRestructure}
+            if [[ -d ${root}/${directoryToRestructure}/${toSync[${i}]} && -d ${root}/${directoryToRestructure}/output/${toSync[${i}]} ]]
+            then
+                rsync -avz --delete ${root}/${directoryToRestructure}/output/${toSync[${i}]} ${root}/${directoryToRestructure}/${toSync[${i}]}
+                rm -R ${root}/${directoryToRestructure}/output/${toSync[${i}]}
+            elif [[ ! -d ${root}/${directoryToRestructure}/${toSync[${i}]} && -d ${root}/${directoryToRestructure}/output/${toSync[${i}]} ]]
+            then
+                mv ${root}/${directoryToRestructure}/output/${toSync[${i}]} ${root}/${directoryToRestructure}
+            fi
         fi
-
+        
         toDelete=('dir-structure' 'funceble' 'iana-domains-db')
-
+        
         for k in ${!toDelete[*]}
         do
             if [[ -f ${root}/${directoryToRestructure}/${toDelete[${k}]} ]]

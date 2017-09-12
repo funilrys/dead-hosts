@@ -73,20 +73,20 @@ dateDiff (){
             sec=86400
         ;;
     esac
-
+    
     # We convert the given dates
     dte1=$(date2stamp ${1})
     dte2=$(date2stamp ${2})
     diffSec=$((dte2-dte1))
-
-
+    
+    
     if [[ ${diffSec} < 0 ]]
     then
         abs=-1
     else
         abs=1
     fi
-
+    
     echo $((diffSec/sec*abs))
 }
 
@@ -98,26 +98,32 @@ do
     then
         # We move into it
         cd ${directory}
-
+        
         percentageFile="${directory}/output/logs/percentage/percentage.txt"
-
+        
         # We check if percentage.txt exist
         if [[ -f "${percentageFile}" ]]
         then
             # We get the date of percentage.txt
             dateOfLastPercentage=$(date -r ${percentageFile})
-
+            
             # We get the difference between now and ${dateOfLastPercentage}
             diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
-
+            
             if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
             then
                 # We get the latest dev tool
                 curl -s ${toolLink} -o tool
-
+                
+                chown -R travis:travis ${TRAVIS_BUILD_DIR}
+                chgrp -R travis ${TRAVIS_BUILD_DIR}
+                chmod -R g+rwX ${TRAVIS_BUILD_DIR}
+                chmod 777 -Rf ${TRAVIS_BUILD_DIR}/.git
+                find ${TRAVIS_BUILD_DIR} -type d -exec chmod g+s '{}' +
+                
                 # We update the tested-list/*.lists file(s)
                 chmod +x update.me && ./update.me
-
+                
                 # We update funceble
                 ./tool --dev --directory-structure -u -i
                 ./funceble --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot '${directory}'" --travis -a -ex --plain --split -h -f tested-list/*.list
@@ -125,15 +131,15 @@ do
         else
             # We get the latest dev tool
             curl -s ${toolLink} -o tool
-
+            
             # We update the tested-list/*.lists file(s)
             ./update.me
-
+            
             # We update funceble
             ./tool --dev --directory-structure -u -i
             ./funceble --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot '${directory}'" --travis -a -ex --plain --split -h -f tested-list/*.list
         fi
-
+        
         # We move back to ${root}
         cd ${root}
     else
