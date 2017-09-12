@@ -24,10 +24,3 @@ cache:
     - apt
 script:
     - bash .dev-tools/pre-deploy
-deploy:
-  provider:     releases
-  api_key:
-    secure:     ${GH_TOKEN}
-  skip_cleanup: true
-  on:
-    repo:       funilrys/dead-hosts
