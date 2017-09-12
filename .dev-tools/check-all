@@ -125,22 +125,30 @@ do
                 # We get the latest dev tool
                 curl -s ${toolLink} -o tool
                 
+                # We update the tested-list/*.lists file(s)
+                chmod +x update.me && ./update.me
+                
+                # We update funceble
+                ${TRAVIS_BUILD_DIR}/${directory}/tool --dev --directory-structure -u -i
+                
                 chown -R travis:travis ${TRAVIS_BUILD_DIR}
                 chgrp -R travis ${TRAVIS_BUILD_DIR}
                 chmod -R g+rwX ${TRAVIS_BUILD_DIR}
                 chmod 777 -Rf ${TRAVIS_BUILD_DIR}/.git
                 find ${TRAVIS_BUILD_DIR} -type d -exec chmod g+s '{}' +
                 
-                # We update the tested-list/*.lists file(s)
-                chmod +x update.me && ./update.me
                 
-                # We update funceble
-                ./tool --dev --directory-structure -u -i
                 exitStatus "${TRAVIS_BUILD_DIR}/${directory}/funceble --cmd-before-end 'bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot ${directory}' --travis -a -ex --plain --split -h -f tested-list/*.list"
             fi
         else
             # We get the latest dev tool
             curl -s ${toolLink} -o tool
+            
+            # We update the tested-list/*.lists file(s)
+            chmod +x update.me && ./update.me
+            
+            # We update funceble
+            ${TRAVIS_BUILD_DIR}/${directory}/tool --dev --directory-structure -u -i
             
             chown -R travis:travis ${TRAVIS_BUILD_DIR}
             chgrp -R travis ${TRAVIS_BUILD_DIR}
@@ -148,11 +156,7 @@ do
             chmod 777 -Rf ${TRAVIS_BUILD_DIR}/.git
             find ${TRAVIS_BUILD_DIR} -type d -exec chmod g+s '{}' +
             
-            # We update the tested-list/*.lists file(s)
-            chmod +x update.me && ./update.me
             
-            # We update funceble
-            ./tool --dev --directory-structure -u -i
             exitStatus "${TRAVIS_BUILD_DIR}/${directory}/funceble --cmd-before-end 'bash ${TRAVIS_BUILD_DIR}/.dev-tools/movetoroot ${directory}' --travis -a -ex --plain --split -h -f tested-list/*.list"
         fi
         
