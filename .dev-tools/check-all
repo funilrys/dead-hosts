@@ -113,19 +113,21 @@ startFunceble(){
     # We construct the command before end
     local cmdBeforeEnd="'bash ${root}/.dev-tools/movetoroot "${directory}"'"
     # We construct the file we have to look
-    local fileToLook="${directory}/tested-list/*.list"
+    local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep')"
+    # We contruct tool output
+    local toolToStart="${directory}/tool"
     
     # We move into the directory{directory}
     cd ${directory}
     
     # We get the latest dev tool
-    curl -s ${toolLink} -o tool
+    curl -s ${toolLink} -o ${toolToStart}
     
     # We update the tested-list/*.lists file(s)
     chmod +x update.me && ./update.me
     
     # We update funceble
-    ${directory}/tool --dev --directory-structure -u -i
+    ${toolToStart} --dev --directory-structure -u -i
     
     
     chown -R travis:travis ${root}
