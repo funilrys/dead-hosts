@@ -111,7 +111,7 @@ startFunceble(){
     # We get funceble
     local funcebleToStart="${directory}/funceble"
     # We construct the command before end
-    local cmdBeforeEnd="'bash ${root}/.dev-tools/movetoroot "${directory}"'"
+    local cmdBeforeEnd="bash ${root}/.dev-tools/movetoroot '${directory}'"
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep')"
     # We contruct tool output
@@ -136,11 +136,13 @@ startFunceble(){
     chmod 777 -Rf ${root}/.git
     find ${root} -type d -exec chmod g+s '{}' +
     chmod +x ${funcebleToStart}
+    
+    pwd
     ls -al
     
     
     
-    exitStatus "${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f ${fileToLook}"
+    exitStatus "${funcebleToStart} --cmd-before-end "${cmdBeforeEnd}" --travis -a -ex --plain --split -h -f ${fileToLook}"
 }
 
 # We use this to look into every directory and execute an update :)
