@@ -1,6 +1,6 @@
 language:       php
 php:
-  - '7.0.7'
+  - '7.1.9'
 env:
   global:
   - GIT_NAME:   Travis CI
