@@ -112,6 +112,8 @@ startFunceble(){
     local funcebleToStart="${directory}/funceble"
     # We construct the command before end
     local cmdBeforeEnd="'bash ${root}/.dev-tools/movetoroot "${directory}"'"
+    # We construct the file we have to look
+    local fileToLook="${directory}/tested-list/*.list"
     
     # We move into the directory{directory}
     cd ${directory}
@@ -134,7 +136,7 @@ startFunceble(){
     find ${TRAVIS_BUILD_DIR} -type d -exec chmod g+s '{}' +
     
     
-    exitStatus "${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f tested-list/*.list"
+    exitStatus "${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f ${fileToLook}"
 }
 
 # We use this to look into every directory and execute an update :)
