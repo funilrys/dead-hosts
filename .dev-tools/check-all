@@ -111,7 +111,7 @@ startFunceble(){
     # We get funceble
     local funcebleToStart="${directory}/funceble"
     # We construct the command before end
-    local cmdBeforeEnd="bash ${root}/.dev-tools/movetoroot '${directory}'"
+    local cmdBeforeEnd="bash ${root}/.dev-tools/movetoroot ${1}"
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep')"
     # We contruct tool output
@@ -142,7 +142,7 @@ startFunceble(){
     
     
     
-    exitStatus "${funcebleToStart} --cmd-before-end \"${cmdBeforeEnd}\" --travis -a -ex --plain --split -h -f ${fileToLook}"
+    bash -x exitStatus "${funcebleToStart} --cmd-before-end \"${cmdBeforeEnd}\" --travis -a -ex --plain --split -h -f ${fileToLook}"
 }
 
 # We use this to look into every directory and execute an update :)
