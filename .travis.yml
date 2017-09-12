@@ -24,8 +24,6 @@ cache:
     - apt
 script:
     - bash .dev-tools/pre-deploy
-before_deploy:
-    - bash .dev-tools/deploy-package
 deploy:
   provider:     releases
   api_key:
