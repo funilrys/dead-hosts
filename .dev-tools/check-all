@@ -96,7 +96,7 @@ dateDiff (){
 # @CalledBy *
 ################################################################################
 exitStatus() {
-    $("${1}")${directory}
+    $("${1}")
     exit $?
 }
 
@@ -111,9 +111,9 @@ startFunceble(){
     # We get funceble
     local funcebleToStart="${directory}/funceble"
     # We construct the command before end
-    local cmdBeforeEnd="'bash ${root}/.dev-tools/movetoroot '${directory}''"
+    local cmdBeforeEnd="'bash ${root}/.dev-tools/movetoroot "${directory}"'"
     
-    # We move into the directory
+    # We move into the directory{directory}
     cd ${directory}
     
     # We get the latest dev tool
