@@ -1,0 +1,1 @@
+/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list domoysshop.ru 1919 1918 1 0

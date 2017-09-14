@@ -1,0 +1,7 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Thu Sep 14 21:12:30 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+bugof.gq                                                                                             INACTIVE    000        Thu Sep 14 21:32:24 UTC 2017
