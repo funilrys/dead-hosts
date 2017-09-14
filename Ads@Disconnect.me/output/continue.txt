@@ -1,0 +1,1 @@
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list simpletexting.com 2303 2221 79 3
