@@ -101,7 +101,7 @@ startFunceble(){
     # We get funceble
     local funcebleToStart="${directory}/funceble"
     # We construct the command before end
-    local cmdBeforeEnd=""bash ${root}/.dev-tools/movetoroot ${1}""
+    local cmdBeforeEnd="bash ${root}/.dev-tools/copytoroot"
     # We contruct tool output
     local toolToStart="${directory}/tool"
     
@@ -132,7 +132,7 @@ startFunceble(){
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep')"
     
-    ${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f ${fileToLook}
+    ${funcebleToStart} --cmd-before-end "${cmdBeforeEnd}" --travis -a -ex --plain --split -h -f ${fileToLook}
     exit $?
 }
 

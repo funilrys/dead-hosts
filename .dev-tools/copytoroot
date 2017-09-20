@@ -1,0 +1,85 @@
+#!/bin/bash
+
+# _______           _        _______  _______  ______   _        _______
+# (  ____ \|\     /|( (    /|(  ____ \(  ____ \(  ___ \ ( \      (  ____ \
+# | (    \/| )   ( ||  \  ( || (    \/| (    \/| (   ) )| (      | (    \/
+# | (__    | |   | ||   \ | || |      | (__    | (__/ / | |      | (__
+# |  __)   | |   | || (\ \) || |      |  __)   |  __ (  | |      |  __)
+# | (      | |   | || | \   || |      | (      | (  \ \ | |      | (
+# | )      | (___) || )  \  || (____/\| (____/\| )___) )| (____/\| (____/\
+# |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
+
+# Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
+# GitHub : https://github.com/funilrys/funceble
+# GitHub : https://github.com/funilrys/dead-hosts
+
+################################ Contributors ##################################
+#  Let's contribute !!
+################################################################################
+
+# root directory
+root=${PWD}
+
+# list extension
+list_ext='.list'
+
+# hosts extension
+hosts_ext='.hosts'
+
+# Domain list directory
+domain_directory=${root}/output/domains/
+
+# Hosts files directory
+hosts_directory=${root}/output/hosts/
+
+# List of status to copy
+toCopy="ACTIVE INACTIVE INVALID"
+
+# list of file to delete
+toDelete="dir-structure funceble iana-domains-db tool"
+
+# percentage file
+percentageFile=${root}/output/logs/percentage/percentage.txt
+
+for status in $(echo ${toCopy})
+do
+    if [[ -f ${root}/${status}${list_ext} || -f ${root}/${status}${hosts_ext} ]]
+    then
+        rm ${status}*
+    fi
+done
+
+for list_to_copy in $(find ${domain_directory} -type f -not -name '.keep' -not -name '.gitignore')
+do
+    for status in $(echo ${toCopy})
+    do
+        if [[ ${list_to_copy} =~ ${status} ]]
+        then
+            cp ${list_to_copy} ${root}/${status}${list_ext}
+        fi
+    done
+done
+
+for hosts_to_copy in $(find ${hosts_directory} -type f -not -name '.keep' -not -name '.gitignore')
+do
+    for status in $(echo ${toCopy})
+    do
+        if [[ ${hosts_to_copy} =~ ${status} ]]
+        then
+            cp ${hosts_to_copy} ${root}/${status}${hosts_ext}
+        fi
+    done
+done
+
+for deleteMe in $(echo ${toDelete})
+do
+    if [[ -f ${root}/${deleteMe} ]]
+    then
+        rm ${root}/${deleteMe}
+    fi
+done
+
+if [[ -f ${percentageFile} ]]
+then
+    cp ${percentageFile} ${root}
+fi
