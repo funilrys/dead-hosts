@@ -73,20 +73,20 @@ dateDiff (){
             sec=86400
         ;;
     esac
-
+    
     # We convert the given dates
     dte1=$(date2stamp ${1})
     dte2=$(date2stamp ${2})
     diffSec=$((dte2-dte1))
-
-
+    
+    
     if [[ ${diffSec} < 0 ]]
     then
         abs=-1
     else
         abs=1
     fi
-
+    
     echo $((diffSec/sec*abs))
 }
 
@@ -104,42 +104,35 @@ startFunceble(){
     local cmdBeforeEnd="'${root}/.dev-tools/copytoroot'"
     # We contruct tool output
     local toolToStart="${directory}/tool"
-
+    
     # We move into the directory{directory}
     cd ${directory}
-
+    
     # We get the latest dev tool
     curl -s ${toolLink} -o ${toolToStart}
-
+    
     # We update funceble
     ${toolToStart} --dev --directory-structure -u -c -i
-
+    
     # We change permissions of all files
     chown -R travis:travis ${root}
     chgrp -R travis ${root}
     chmod -R g+rwX ${root}
     chmod 777 -Rf ${root}/.git
     find ${root} -type d -exec chmod g+s '{}' +
-
+    
     # We change permission of funceble
     chmod +x ${funcebleToStart}
-
+    
     # We update the tested-list/*.lists file(s)
     chmod +x update.me && ./update.me
-
+    
     pwd && ${funcebleToStart} -v
-
+    
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep' -not -name '.gitignore')"
-
+    
     ${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f ${fileToLook}
-
-    if [[ $? == 0 ]]
-    then
-        exit 0
-    else
-        exit 1
-    fi
 }
 
 # We use this to look into every directory and execute an update :)
@@ -149,16 +142,16 @@ do
     if [[ -d ${directory} ]]
     then
         percentageFile="${directory}/output/logs/percentage/percentage.txt"
-
+        
         # We check if percentage.txt exist
         if [[ -f "${percentageFile}" ]]
         then
             # We get the date of percentage.txt
             dateOfLastPercentage=$(date -r ${percentageFile})
-
+            
             # We get the difference between now and ${dateOfLastPercentage}
             diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
-
+            
             if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
             then
                 # We start funceble over the current directory
@@ -168,9 +161,10 @@ do
             # We start funceble over the current directory
             startFunceble "${directory}"
         fi
-
+        
         # We move back to ${root}
         cd ${root}
+        exit 0
     else
         # We continue our road :)
         continue
