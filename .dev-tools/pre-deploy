@@ -17,16 +17,18 @@
 #  Let's contribute !!
 ################################################################################
 
-cd ${TRAVIS_BUILD_DIR}
+cd $TRAVIS_BUILD_DIR
 
 ################################################################################
 # Remove Remote Added by TravisCI
 ################################################################################
+
 git remote rm origin
 
 ################################################################################
 # Add Remote with Secure Key
 ################################################################################
+
 git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
 
 ################################################################################
@@ -37,6 +39,7 @@ git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
 ################################################################################
 # Set Our Git Variables
 ################################################################################
+
 git config --global user.email "${GIT_EMAIL}"
 git config --global user.name "${GIT_NAME}"
 git config --global push.default simple
@@ -44,12 +47,14 @@ git config --global push.default simple
 ################################################################################
 # Make sure we have checked out master branch
 ################################################################################
+
 git checkout master
 
 ################################################################################
 # Run funceble to check for dead domains
 ################################################################################
-sudo bash ${TRAVIS_BUILD_DIR}/.dev-tools/install-run-check-all
+
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
 
 ################################################################################
 # Travis now moves to the before_deploy: section of .travis.yml
