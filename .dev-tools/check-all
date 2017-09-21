@@ -133,6 +133,11 @@ startFunceble(){
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep' -not -name '.gitignore')"
     
     ${funcebleToStart} --cmd-before-end ${cmdBeforeEnd} --travis -a -ex --plain --split -h -f ${fileToLook}
+    
+    if [[ $? == 0 ]]
+    then
+        exit 0
+    fi
 }
 
 # We use this to look into every directory and execute an update :)
@@ -164,7 +169,6 @@ do
         
         # We move back to ${root}
         cd ${root}
-        exit 0
     else
         # We continue our road :)
         continue
