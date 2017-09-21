@@ -125,7 +125,7 @@ startFunceble(){
     chmod +x ${toolToStart}
     
     # We update funceble
-    ${toolToStart} --dev --directory-structure -u -c -i
+    ${toolToStart} --dev --iana --directory-structure -u -c -i
     
     # We update the tested-list/*.lists file(s)
     chmod +x update.me && ./update.me
