@@ -111,9 +111,6 @@ startFunceble(){
     # We get the latest dev tool
     curl -s ${toolLink} -o ${toolToStart}
     
-    # We update funceble
-    ${toolToStart} --dev --directory-structure -u -c -i
-    
     # We change permissions of all files
     chown -R travis:travis ${root}
     chgrp -R travis ${root}
@@ -123,6 +120,12 @@ startFunceble(){
     
     # We change permission of funceble
     chmod +x ${funcebleToStart}
+    
+    # We change the permissions of tool
+    chmod +x ${toolToStart}
+    
+    # We update funceble
+    ${toolToStart} --dev --directory-structure -u -c -i
     
     # We update the tested-list/*.lists file(s)
     chmod +x update.me && ./update.me
