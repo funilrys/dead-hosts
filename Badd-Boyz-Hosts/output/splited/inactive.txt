@@ -1,7 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Sep 14 21:12:30 UTC 2017
-
-
-Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-bugof.gq                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep 14 21:32:24 UTC 2017
