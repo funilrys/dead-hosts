@@ -1,0 +1,1 @@
+/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list zyski-z-innowacji.pl 1533 1410 123 0
