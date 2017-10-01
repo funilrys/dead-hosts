@@ -125,7 +125,8 @@ startFunceble(){
     chmod +x ${toolToStart}
 
     # We update funceble
-    ${toolToStart} --dev --iana --directory-structure -u -c -i
+    ${toolToStart} --dev --iana --directory-structure -c
+    ${toolToStart} --dev --autosave-minutes 10 -u -i
 
     # We change permission of funceble
     chmod +x ${funcebleToStart}
@@ -141,6 +142,8 @@ startFunceble(){
 
     sort -i ${fileToLook} -o ${fileToLook}
     ${funcebleToStart} --cmd-before-end "${cmdBeforeEnd}" --travis -a -ex --plain --split -h -f ${fileToLook}
+
+    exit $?
 }
 
 # We use this to look into every directory and execute an update :)
@@ -177,5 +180,3 @@ do
         continue
     fi
 done
-
-exit 0
