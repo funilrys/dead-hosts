@@ -121,14 +121,15 @@ startFunceble(){
     chmod 777 -Rf ${root}/.git
     find ${root} -type d -exec chmod g+s '{}' +
 
-    # We change permission of funceble
-    chmod +x ${funcebleToStart}
-
     # We change the permissions of tool
     chmod +x ${toolToStart}
 
     # We update funceble
     ${toolToStart} --dev --iana --directory-structure -u -c -i
+
+    # We change permission of funceble
+    chmod +x ${funcebleToStart}
+
 
     # We update the tested-list/*.lists file(s)
     chmod +x update.me && ./update.me
