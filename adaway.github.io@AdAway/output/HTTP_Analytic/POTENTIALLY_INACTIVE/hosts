@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sun Sep 24 19:53:24 UTC 2017
+# Date of generation: Mon Oct  2 15:56:26 UTC 2017
 
 0.0.0.0 a.applovin.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -18,6 +18,7 @@
 0.0.0.0 c.admob.com
 0.0.0.0 campaign-tapad.s3.amazonaws.com
 0.0.0.0 cdn1.inner-active.mobi
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn.creative.medialytics.com
 0.0.0.0 c.vrvm.com
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
@@ -50,6 +51,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 px.cdn.creative.medialytics.com
+0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 rs-staticart.ybcdn.net
 0.0.0.0 r.w.inmobi.com
 0.0.0.0 s0.2mdn.net
