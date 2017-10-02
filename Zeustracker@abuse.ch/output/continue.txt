@@ -1,1 +1,0 @@
-/home/travis/build/funilrys/dead-hosts/Zeustracker@abuse.ch/tested-list/Zeustracker.list zetes.vdsinside.com 394 183 211 0
