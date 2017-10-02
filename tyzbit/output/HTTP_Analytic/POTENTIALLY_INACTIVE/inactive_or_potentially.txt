@@ -1,0 +1,15 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Mon Oct  2 07:34:14 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+cs1.wpc.v0cdn.net                                                                                    ACTIVE      404        Mon Oct  2 07:34:19 UTC 2017
+diagnostics.support.microsoft.com                                                                    ACTIVE      403        Mon Oct  2 07:34:20 UTC 2017
+redir.metaservices.microsoft.com                                                                     ACTIVE      404        Mon Oct  2 07:34:27 UTC 2017
+sqm.telemetry.microsoft.com                                                                          ACTIVE      404        Mon Oct  2 07:34:31 UTC 2017
+sqm.telemetry.microsoft.com.nsatc.net                                                                ACTIVE      404        Mon Oct  2 07:34:31 UTC 2017
+ssw.live.com                                                                                         ACTIVE      403        Mon Oct  2 07:34:32 UTC 2017
+statsfe1.ws.microsoft.com                                                                            ACTIVE      403        Mon Oct  2 07:34:32 UTC 2017
+statsfe2.update.microsoft.com.akadns.net                                                             ACTIVE      403        Mon Oct  2 07:34:33 UTC 2017
+telecommand.telemetry.microsoft.com                                                                  ACTIVE      404        Mon Oct  2 07:34:35 UTC 2017
