@@ -1,0 +1,12 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Mon Oct  2 11:00:11 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+accounts.pkr.com.invalid                                                                             INVALID     000        Mon Oct  2 11:00:32 UTC 2017
+ads.adultswim.com                                                                                    INACTIVE    000        Mon Oct  2 11:05:00 UTC 2017
+ads.batpmturner.com                                                                                  INACTIVE    000        Mon Oct  2 11:05:24 UTC 2017
+adserver.freenet.de                                                                                  INACTIVE    000        Mon Oct  2 11:07:07 UTC 2017
+ads.groundspeak.com                                                                                  INACTIVE    000        Mon Oct  2 11:08:22 UTC 2017
+ads.newsquest.co.uk                                                                                  INACTIVE    000        Mon Oct  2 11:09:41 UTC 2017
