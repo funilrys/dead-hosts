@@ -125,7 +125,7 @@ startFunceble(){
     chmod +x ${toolToStart}
 
     # We update funceble
-    ${toolToStart} --dev --iana --directory-structure -c
+    ${toolToStart} --dev --iana --directory-structure
     ${toolToStart} --dev --autosave-minutes 10 -u -i
 
     # We change permission of funceble
