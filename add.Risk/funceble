@@ -157,7 +157,7 @@ showPercentage=true
 travisMode=false
 
 # Minimum of minutes before we start commiting to upstream under travis
-travisAutoSaveMinutes=35
+travisAutoSaveMinutes=10
 
 # Default travis final commit message
 travisResultsCommitMessage='Funceble Test - Results'
@@ -169,7 +169,7 @@ travisAutoSaveCommitMessage='Funceble Test - Autosave'
 splitFiles=false
 
 # Version number
-versionNumber='dev-1.4.0+182'
+versionNumber='dev-1.4.0+189'
 
 # IANA whois server. The following is there to give use the whois
 # host we have to call to get a (valid) response.
@@ -827,7 +827,7 @@ generateStatusFile(){
             then
                 generateAnalyticFile 'Down' "${upStatus}"
                 case ${domain} in
-                    *.canalblog.com|*.doubleclick.net|*.liveadvert.com|*.tumblr.com)
+                    *.canalblog.com|*.doubleclick.net|*.liveadvert.com|*.skyrock.com|*.tumblr.com)
                         # We update the source
                         local source='SPECIAL'
                         # We generate the host file
@@ -840,7 +840,7 @@ generateStatusFile(){
                         local readStatus=${downStatus}
                         
                         # We assign the location of the splited file
-                        local putDataIntoMe=${outputUpResult}
+                        local putDataIntoMe=${outputDownResult}
                         
                         # We increment the percentage
                         percentage 'counter' 'inactive'
@@ -865,13 +865,36 @@ generateStatusFile(){
                             local readStatus=${downStatus}
                             
                             # We assign the location of the splited file
-                            local putDataIntoMe=${outputUpResult}
+                            local putDataIntoMe=${outputDownResult}
                             
                             # We increment the percentage
                             percentage 'counter' 'inactive'
                         fi
                     ;;
                 esac
+            elif [[ ${domain} =~ \.wordpress\.com && ${httpCode} == '301' ]]
+            then
+                local regexDoesntExist='doesn&#8217;t&nbsp;exist'
+                
+                if [[ $(curl -s -L ${domain}) =~ ${regexDoesntExist} ]]
+                then
+                    # We update the source
+                    local source='SPECIAL'
+                    # We generate the host file
+                    generateHostsFile 'inactive'
+                    
+                    # We update the status
+                    local type='INACTIVE'
+                    
+                    # We assign the new official status name
+                    local readStatus=${downStatus}
+                    
+                    # We assign the location of the splited file
+                    local putDataIntoMe=${outputDownResult}
+                    
+                    # We increment the percentage
+                    percentage 'counter' 'inactive'
+                fi
             elif [[ ${domain} =~ \.blogspot\. && ${httpCode} == '302' ]]
             then
                 # We set the regex to match if the subdomains doesn't exist
@@ -893,7 +916,7 @@ generateStatusFile(){
                     local readStatus=${downStatus}
                     
                     # We assign the location of the splited file
-                    local putDataIntoMe=${outputUpResult}
+                    local putDataIntoMe=${outputDownResult}
                     
                     # We increment the percentage
                     percentage 'counter' 'inactive'
@@ -1966,14 +1989,8 @@ travisAutoSave()
             # We print the percentage into percentage.txt
             percentageLog
             
-            # We make sure we are under master
-            git checkout master
-            
             # We check/change files permissions
             travisPermissions
-            
-            # We commit and push every changes
-            git add -A
             
             if [[ ${domain} =~ ${regexCheckPoint} && $(tail -1 ${file}) =~ "${domain}" ]]
             then
@@ -1982,9 +1999,9 @@ travisAutoSave()
                     $(${commandBeforeEnd})
                 fi
                 
-                git commit -a -m "${travisResultsCommitMessage} [ci skip]"
+                git add --all && git commit -a -m "${travisResultsCommitMessage} [ci skip]"
             else
-                git commit -a -m "${travisAutoSaveCommitMessage}"
+                git add --all && git commit -a -m "${travisAutoSaveCommitMessage}"
             fi
             
             git push origin master
@@ -2171,21 +2188,15 @@ bypass(){
         # We print the percentage into percentage.txt
         percentageLog
         
-        # We make sure we are under master
-        git checkout master
-        
         # We check/change files permissions
         travisPermissions
-        
-        # We commit and push every changes
-        git add -A
         
         if [[ ${commandBeforeEnd} != '' ]]
         then
             $(${commandBeforeEnd})
         fi
         
-        git commit -a -m "${travisResultsCommitMessage} [ci skip]"
+        git add --all && git commit -a -m "${travisResultsCommitMessage} [ci skip]"
         
         git push origin master
         exit 0
@@ -2432,6 +2443,9 @@ main()
                     travisAutoSave
                 done < ${file}
             fi
+            
+            # We commit if time += ${travisAutoSaveMinutes}
+            travisAutoSave
         else
             # We exit in case file don't exit or is not readable
             echo "File not found or unreadable"
