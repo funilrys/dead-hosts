@@ -103,8 +103,6 @@ startFunceble(){
     local directory="${root}/${1}"
     # We get funceble
     local funcebleToStart="${directory}/funceble"
-    # We construct the command before end
-    local cmdBeforeEnd="${root}/.dev-tools/copytoroot"
     # We contruct tool output
     local toolToStart="${directory}/tool"
 
@@ -141,7 +139,7 @@ startFunceble(){
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep' -not -name '.gitignore')"
 
     sort -i ${fileToLook} -o ${fileToLook}
-    ${funcebleToStart} --cmd-before-end "${cmdBeforeEnd}" --travis -a -ex --plain --split -h -f ${fileToLook}
+    ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/copytoroot" --travis -a -ex --plain --split -h -f ${fileToLook}
 
     exit $?
 }
