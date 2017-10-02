@@ -6,3 +6,5 @@ Domain                                                                          
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
 bango.combango.org                                                                                   INACTIVE    000        Mon Oct  2 03:46:18 UTC 2017
 custom-blacklisted-tracking-example.com                                                              INACTIVE    000        Mon Oct  2 03:46:23 UTC 2017
+bango.combango.org                                                                                   INACTIVE    000        Mon Oct  2 18:04:06 UTC 2017
+custom-blacklisted-tracking-example.com                                                              INACTIVE    000        Mon Oct  2 18:04:12 UTC 2017
