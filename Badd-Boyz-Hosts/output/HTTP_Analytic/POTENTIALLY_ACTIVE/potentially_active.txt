@@ -1,0 +1,7 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Mon Oct  2 16:50:36 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+arriendomesas.cl                                                                                     INACTIVE    000        Mon Oct  2 16:59:47 UTC 2017
