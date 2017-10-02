@@ -11,3 +11,10 @@ sls.update.microsoft.com.akadns.net                                             
 telecommand.telemetry.microsoft.com.nsatc.net                                                        INACTIVE    000        Mon Oct  2 07:34:36 UTC 2017
 vortex-bn2.metron.live.com.nsatc.net                                                                 INACTIVE    000        Mon Oct  2 07:34:38 UTC 2017
 vortex-cy2.metron.live.com.nsatc.net                                                                 INACTIVE    000        Mon Oct  2 07:34:38 UTC 2017
+compatexchange.cloudapp.net                                                                          INACTIVE    000        Mon Oct  2 20:35:33 UTC 2017
+i1.services.social.microsoft.com.nsatc.net                                                           INACTIVE    000        Mon Oct  2 20:35:38 UTC 2017
+oca.telemetry.microsoft.com.nsatc.net                                                                INACTIVE    000        Mon Oct  2 20:35:39 UTC 2017
+sls.update.microsoft.com.akadns.net                                                                  INACTIVE    000        Mon Oct  2 20:35:43 UTC 2017
+telecommand.telemetry.microsoft.com.nsatc.net                                                        INACTIVE    000        Mon Oct  2 20:35:48 UTC 2017
+vortex-bn2.metron.live.com.nsatc.net                                                                 INACTIVE    000        Mon Oct  2 20:35:49 UTC 2017
+vortex-cy2.metron.live.com.nsatc.net                                                                 INACTIVE    000        Mon Oct  2 20:35:50 UTC 2017
