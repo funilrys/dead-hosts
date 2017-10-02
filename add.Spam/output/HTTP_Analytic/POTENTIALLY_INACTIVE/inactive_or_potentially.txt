@@ -11,3 +11,9 @@ nero-us.com                                                                     
 www.credomobile.com                                                                                  ACTIVE      416        Mon Sep 25 02:43:47 UTC 2017
 www.defenderxtactical.com                                                                            ACTIVE      403        Mon Sep 25 02:43:48 UTC 2017
 www.tkdami.net                                                                                       ACTIVE      404        Mon Sep 25 02:44:24 UTC 2017
+defenderxtactical.com                                                                                ACTIVE      403        Mon Oct  2 16:35:02 UTC 2017
+email.otherinbox.com                                                                                 ACTIVE      404        Mon Oct  2 16:35:05 UTC 2017
+nero-us.com                                                                                          ACTIVE      404        Mon Oct  2 16:35:23 UTC 2017
+www.credomobile.com                                                                                  ACTIVE      416        Mon Oct  2 16:35:59 UTC 2017
+www.defenderxtactical.com                                                                            ACTIVE      403        Mon Oct  2 16:35:59 UTC 2017
+www.tkdami.net                                                                                       ACTIVE      404        Mon Oct  2 16:36:40 UTC 2017
