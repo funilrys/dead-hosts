@@ -6,3 +6,5 @@ Domain                                                                          
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
 analytic-google.com                                                                                  ACTIVE      403        Sun Sep 24 19:58:18 UTC 2017
 www.analytic-google.com                                                                              ACTIVE      403        Sun Sep 24 19:58:34 UTC 2017
+analytic-google.com                                                                                  ACTIVE      403        Mon Oct  2 16:21:01 UTC 2017
+www.analytic-google.com                                                                              ACTIVE      403        Mon Oct  2 16:21:13 UTC 2017
