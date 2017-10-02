@@ -6,3 +6,5 @@ Domain                                                                          
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
 securepubads.g.doubleclick.net                                                                       ACTIVE      404        Mon Oct  2 03:44:30 UTC 2017
 www.googletagservices.com                                                                            ACTIVE      404        Mon Oct  2 03:44:31 UTC 2017
+securepubads.g.doubleclick.net                                                                       ACTIVE      404        Mon Oct  2 18:02:09 UTC 2017
+www.googletagservices.com                                                                            ACTIVE      404        Mon Oct  2 18:02:10 UTC 2017
