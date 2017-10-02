@@ -1,0 +1,22 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Mon Oct  2 10:47:06 UTC 2017
+
+
+Domain                                                                                               Status      Expiration Date   Source     HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ----------------- ---------- ---------- -------------------------------
+cdn.appround.biz                                                                                     ACTIVE      Unknown           NSLOOKUP   302        Mon Oct  2 10:47:06 UTC 2017
+cdn.bigspeedpro.com                                                                                  ACTIVE      Unknown           NSLOOKUP   301        Mon Oct  2 10:47:07 UTC 2017
+cdn.bispd.com                                                                                        ACTIVE      Unknown           NSLOOKUP   301        Mon Oct  2 10:47:08 UTC 2017
+cdn.bisrv.com                                                                                        ACTIVE      Unknown           NSLOOKUP   000        Mon Oct  2 10:47:08 UTC 2017
+cdn.download.sweetpacks.com                                                                          ACTIVE      Unknown           NSLOOKUP   403        Mon Oct  2 10:47:09 UTC 2017
+cdn.guttastatdk.us                                                                                   ACTIVE      Unknown           NSLOOKUP   302        Mon Oct  2 10:47:10 UTC 2017
+cdn.insta.playbryte.com                                                                              ACTIVE      Unknown           NSLOOKUP   000        Mon Oct  2 10:47:11 UTC 2017
+cdn.msdwnld.com                                                                                      ACTIVE      Unknown           NSLOOKUP   403        Mon Oct  2 10:47:12 UTC 2017
+cdn.mypcbackup.com                                                                                   ACTIVE      Unknown           NSLOOKUP   200        Mon Oct  2 10:47:12 UTC 2017
+cdn.riceateastcach.us                                                                                ACTIVE      Unknown           NSLOOKUP   302        Mon Oct  2 10:47:13 UTC 2017
+d3oxtn1x3b8d7i.cloudfront.net                                                                        ACTIVE      Unknown           NSLOOKUP   200        Mon Oct  2 10:47:13 UTC 2017
+inno.bisrv.com                                                                                       ACTIVE      Unknown           NSLOOKUP   200        Mon Oct  2 10:47:14 UTC 2017
+installer.betterinstaller.com                                                                        ACTIVE      Unknown           NSLOOKUP   200        Mon Oct  2 10:47:15 UTC 2017
+installer.filebulldog.com                                                                            ACTIVE      Unknown           NSLOOKUP   200        Mon Oct  2 10:47:16 UTC 2017
+nsis.bisrv.com                                                                                       ACTIVE      Unknown           NSLOOKUP   200        Mon Oct  2 10:47:16 UTC 2017
+tracking.opencandy.com.s3.amazonaws.com                                                              ACTIVE      Unknown           NSLOOKUP   403        Mon Oct  2 10:47:17 UTC 2017
