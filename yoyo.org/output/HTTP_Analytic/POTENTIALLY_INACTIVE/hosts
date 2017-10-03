@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Oct  2 11:00:11 UTC 2017
+# Date of generation: Tue Oct  3 20:43:40 UTC 2017
 
 0.0.0.0 4d5.net
 0.0.0.0 51yes.com
@@ -8,11 +8,9 @@
 0.0.0.0 a.collective-media.net
 0.0.0.0 ad.a8.net
 0.0.0.0 ad.abum.com
-0.0.0.0 adaction.de
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.auditude.com
 0.0.0.0 ad.bnmla.com
-0.0.0.0 ad.caradisiac.com
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 ad.domainfactory.de
 0.0.0.0 adexchangeprediction.com
@@ -31,9 +29,13 @@
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 adrotate.de
 0.0.0.0 ads10.speedbit.com
+0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads3.contentabc.com
+0.0.0.0 ads3.virtual-nights.com
+0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.administrator.de
@@ -41,6 +43,7 @@
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amigos.com
+0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.asiafriendfinder.com
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.betfair.com
@@ -51,16 +54,17 @@
 0.0.0.0 ads.canalblog.com
 0.0.0.0 ads.cc
 0.0.0.0 ads.cc-dt.com
+0.0.0.0 ads.centraliprom.com
 0.0.0.0 ads.cgnetworks.com
 0.0.0.0 ads.contextweb.com
 0.0.0.0 ads.creative-serving.com
+0.0.0.0 ads.datingyes.com
 0.0.0.0 ads.dennisnet.co.uk
 0.0.0.0 ads.deviantart.com
 0.0.0.0 ads.domain.com
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.easy-forex.com
 0.0.0.0 ad.sensismediasmart.com.au
-0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver.bing.com
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.dotcommedia.de
@@ -87,9 +91,10 @@
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ad.smartclip.net
+0.0.0.0 adsmart.net
+0.0.0.0 ads.mcafee.com
 0.0.0.0 ads.moceanads.com
 0.0.0.0 ads.nationalgeographic.com
-0.0.0.0 ads.newmedia.cz
 0.0.0.0 ads.okcimg.com
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.passion.com

@@ -828,6 +828,7 @@
 0.0.0.0 adx.atnext.com
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
+0.0.0.0 adxprts.com
 0.0.0.0 adxvalue.com
 0.0.0.0 ad.yadro.ru
 0.0.0.0 adyea.com
@@ -2460,11 +2461,11 @@
 0.0.0.0 zv1.november-lax.com
 # Ad server list for use with hosts files to block ads
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-# entries:        2457
+# entries:        2458
 # format:         hosts (hosts -- in hosts file format)
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
-# last updated:   Sun, 24 Sep 2017 09:25:35 GMT
+# last updated:   Mon, 02 Oct 2017 15:58:35 GMT
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    Mon, 02 Oct 2017 00:00:00
+# start date:    Tue, 03 Oct 2017 00:00:00
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
