@@ -79,21 +79,46 @@ dateDiff (){
             sec=86400
         ;;
     esac
-    
+
     # We convert the given dates
     dte1=$(date2stamp ${1})
     dte2=$(date2stamp ${2})
     diffSec=$((dte2-dte1))
-    
-    
+
+
     if [[ ${diffSec} < 0 ]]
     then
         abs=-1
     else
         abs=1
     fi
-    
+
     echo $((diffSec/sec*abs))
+}
+
+############################# Travis Permissions ###############################
+# Used to manage/change permissions under travis
+#
+# @CalledBy startFunceble
+################################################################################
+travisPermissions()
+{
+    if [[ ${travisMode} == true ]]
+    then
+        # We set the permissions to avoid some errors
+        chown -R travis:travis ${TRAVIS_BUILD_DIR}
+        chgrp -R travis ${TRAVIS_BUILD_DIR}
+        chmod -R g+rwX ${TRAVIS_BUILD_DIR}
+        chmod 777 -Rf ${TRAVIS_BUILD_DIR}/.git
+        find ${TRAVIS_BUILD_DIR} -type d -exec chmod g+s '{}' +
+
+
+        if [[ $(git config core.sharedRepository) == '' ]]
+        then
+            # We make sure that it's right configured
+            git config core.sharedRepository group
+        fi
+    fi
 }
 
 ################################## Start Funceble ##############################
@@ -108,50 +133,45 @@ startFunceble(){
     local funcebleToStart="${directory}/funceble"
     # We contruct tool output
     local toolToStart="${directory}/tool"
-    
+
     echo "${1}" > ${root}/currently_under_test
-    
+
     # We move into the directory{directory}
     cd ${directory}
-    
+
     # We get the latest dev tool
     curl -s ${toolLink} -o ${toolToStart}
-    
+
     # We change permissions of all files
-    chown -R travis:travis ${root}
-    chgrp -R travis ${root}
-    chmod -R g+rwX ${root}
-    chmod 777 -Rf ${root}/.git
-    find ${root} -type d -exec chmod g+s '{}' +
-    
+    travisPermissions
+
     # We change the permissions of tool
     chmod +x ${toolToStart}
-    
+
     # We update funceble
     ${toolToStart} --dev --iana --directory-structure
     ${toolToStart} --dev --autosave-minutes 10 -u -i
-    
+
     # We change permission of funceble
     chmod +x ${funcebleToStart}
-    
-    
+
+
     # We update the tested-list/*.lists file(s)
     chmod +x update.me && ./update.me
-    
+
     pwd && ${funcebleToStart} -v
-    
+
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep' -not -name '.gitignore')"
-    
+
     sort -i ${fileToLook} -o ${fileToLook}
     ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/copytoroot" --travis -a -ex --plain --split -h -f ${fileToLook}
-    
+
     if [[ $(git log | head -5 | tail -1) =~ ${regexTravis} ]]
     then
-        git checkout master
-        date > ${root}/.dev-tools/trigger-build && git commit -a -m 'Launch build' && git push
+        date > ${root}/.dev-tools/trigger-build && git commit -a -m 'Launch build' && git push origin master
     fi
-    
+
     exit 0
 }
 
@@ -163,9 +183,10 @@ then
 else
     if [[ -f ${root}/currently_under_test ]]
     then
-        rm ${root}/currently_under_testd
+        travisPermissions
+        rm ${root}/currently_under_test
     fi
-    
+
     # We use this to look into every directory and execute an update :)
     for directory in *
     do
@@ -173,16 +194,16 @@ else
         if [[ -d ${directory} ]]
         then
             percentageFile="${directory}/output/logs/percentage/percentage.txt"
-            
+
             # We check if percentage.txt exist
             if [[ -f "${percentageFile}" ]]
             then
                 # We get the date of percentage.txt
                 dateOfLastPercentage=$(date -r ${percentageFile})
-                
+
                 # We get the difference between now and ${dateOfLastPercentage}
                 diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
-                
+
                 if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
                 then
                     # We start funceble over the current directory
@@ -192,7 +213,7 @@ else
                 # We start funceble over the current directory
                 startFunceble "${directory}"
             fi
-            
+
             # We move back to ${root}
             cd ${root}
         else
