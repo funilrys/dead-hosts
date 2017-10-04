@@ -75,3 +75,15 @@ counter.avtoindex.com                                                           
 creative.ak.facebook.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 15:51:35 UTC 2017
 dmtracking2.alibaba.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 15:52:07 UTC 2017
 dmtracking.alibaba.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 15:52:07 UTC 2017
+emonitor.takeit.cz                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct  4 20:15:35 UTC 2017
+engine.awaps.net                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct  4 20:15:37 UTC 2017
+euro-linkindex.de                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:15:52 UTC 2017
+gtop.ro                                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:17:14 UTC 2017
+idot.cz                                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct  4 20:18:08 UTC 2017
+memorix.sdv.fr                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:21:00 UTC 2017
+mobilewithsms.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:21:29 UTC 2017
+m.webtrends.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:21:42 UTC 2017
+network.business.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:22:15 UTC 2017
+ngs.impress.co.jp                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:22:23 UTC 2017
+p.adpdx.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:23:05 UTC 2017
+pr-ten.de                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 20:24:33 UTC 2017
