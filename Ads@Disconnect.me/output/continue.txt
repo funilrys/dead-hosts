@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list realteencash.com 2200 2115 83 2
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.nyx.cz 675 638 36 1
