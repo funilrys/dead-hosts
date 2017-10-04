@@ -169,6 +169,11 @@ startFunceble(){
 
     if [[ $(git log | head -5 | tail -1) =~ ${regexTravis} ]]
     then
+        if [[ -f ${root}/currently_under_test ]]
+        then
+            travisPermissions
+            rm ${root}/currently_under_test
+        fi
         date > ${root}/.dev-tools/trigger-build && git commit -a -m 'Launch build' && git push origin master
     fi
 
