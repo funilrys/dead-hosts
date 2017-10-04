@@ -149,7 +149,7 @@ startFunceble(){
     if [[ ! $(git log | head -5 | tail -1) =~ ${regexTravis} ]]
     then
         rm ${directory}/output/logs/percentage/percentage.txt
-    elif [[ $(git log | head -5 | tail -1) =~ ${regexTravis} =~ ${regexTravis} ]]
+    elif [[ $(git log | head -5 | tail -1) =~ ${regexTravis} ]]
     then
         date > ${root}/.dev-tools/trigger-build && git commit -a -m 'Launch build' && git push
     fi
