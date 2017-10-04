@@ -30,6 +30,9 @@ maximalDay=5
 
 # Latest dev tool link
 toolLink='https://raw.githubusercontent.com/funilrys/funceble/dev/tool'
+
+# Regex ci skip
+regexTravis='\[ci\sskip\]'
 ################################################################################
 
 ############################### We move to ${root} #############################
@@ -106,6 +109,8 @@ startFunceble(){
     # We contruct tool output
     local toolToStart="${directory}/tool"
 
+    echo "${1}" > ${root}/currently_under_test
+
     # We move into the directory{directory}
     cd ${directory}
 
@@ -141,40 +146,53 @@ startFunceble(){
     sort -i ${fileToLook} -o ${fileToLook}
     ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/copytoroot" --travis -a -ex --plain --split -h -f ${fileToLook}
 
-    exit $?
+    if [[ ! $(git log | head -5 | tail -1) =~ ${regexTravis} ]]
+    then
+        rm ${directory}/output/logs/percentage/percentage.txt
+    else
+        date > ${root}/.dev-tools/trigger-build && git commit -a -m 'Launch build' && git push
+    fi
+
+    exit 0
 }
 
-# We use this to look into every directory and execute an update :)
-for directory in *
-do
-    # We check if the current readed data is a directory
-    if [[ -d ${directory} ]]
-    then
-        percentageFile="${directory}/output/logs/percentage/percentage.txt"
-
-        # We check if percentage.txt exist
-        if [[ -f "${percentageFile}" ]]
+if [[ ! $(git log | head -5 | tail -1) =~ ${regexTravis} && ! $(git log | head -5 | tail -1) =~ Launch\sbuild && -f ${root}/currently_under_test ]]
+then
+    # We start funceble over the current directory
+    startFunceble "$(head -1 ${root}/currently_under_test)"
+else
+    # We use this to look into every directory and execute an update :)
+    for directory in *
+    do
+        # We check if the current readed data is a directory
+        if [[ -d ${directory} ]]
         then
-            # We get the date of percentage.txt
-            dateOfLastPercentage=$(date -r ${percentageFile})
+            percentageFile="${directory}/output/logs/percentage/percentage.txt"
 
-            # We get the difference between now and ${dateOfLastPercentage}
-            diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
-
-            if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
+            # We check if percentage.txt exist
+            if [[ -f "${percentageFile}" ]]
             then
+                # We get the date of percentage.txt
+                dateOfLastPercentage=$(date -r ${percentageFile})
+
+                # We get the difference between now and ${dateOfLastPercentage}
+                diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
+
+                if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
+                then
+                    # We start funceble over the current directory
+                    startFunceble "${directory}"
+                fi
+            else
                 # We start funceble over the current directory
                 startFunceble "${directory}"
             fi
-        else
-            # We start funceble over the current directory
-            startFunceble "${directory}"
-        fi
 
-        # We move back to ${root}
-        cd ${root}
-    else
-        # We continue our road :)
-        continue
-    fi
-done
+            # We move back to ${root}
+            cd ${root}
+        else
+            # We continue our road :)
+            continue
+        fi
+    done
+fi
