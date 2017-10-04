@@ -1,1 +1,0 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.newdream.net 661 626 34 1
