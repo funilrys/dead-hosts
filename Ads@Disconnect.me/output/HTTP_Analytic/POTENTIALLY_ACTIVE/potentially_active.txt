@@ -1,0 +1,37 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Wed Oct  4 13:15:16 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+accounts.pkr.com.invalid                                                                             INVALID     000        Wed Oct  4 13:15:46 UTC 2017
+ad2.ip.ro                                                                                            INACTIVE    000        Wed Oct  4 13:16:09 UTC 2017
+ad.980x.com                                                                                          INACTIVE    000        Wed Oct  4 13:16:17 UTC 2017
+ad.about.com                                                                                         INACTIVE    000        Wed Oct  4 13:16:20 UTC 2017
+ad-images.suntimes.com                                                                               INACTIVE    000        Wed Oct  4 13:18:03 UTC 2017
+adi.mainichi.co.jp                                                                                   INACTIVE    000        Wed Oct  4 13:18:04 UTC 2017
+admob.comadwhirl.com                                                                                 INACTIVE    000        Wed Oct  4 13:19:03 UTC 2017
+ads1.theglobeandmail.com                                                                             INACTIVE    000        Wed Oct  4 13:20:02 UTC 2017
+ads.adultswim.com                                                                                    INACTIVE    000        Wed Oct  4 13:20:33 UTC 2017
+ads.alwayson-network.com                                                                             INACTIVE    000        Wed Oct  4 13:20:38 UTC 2017
+ads.batpmturner.com                                                                                  INACTIVE    000        Wed Oct  4 13:20:56 UTC 2017
+ads.billiton.de                                                                                      INACTIVE    000        Wed Oct  4 13:21:04 UTC 2017
+ad.scanmedios.com                                                                                    INACTIVE    000        Wed Oct  4 13:21:17 UTC 2017
+ads.cimedia.com                                                                                      INACTIVE    000        Wed Oct  4 13:21:27 UTC 2017
+ads.discovery.com                                                                                    INACTIVE    000        Wed Oct  4 13:21:51 UTC 2017
+adserver1.mokono.com                                                                                 INACTIVE    000        Wed Oct  4 13:22:15 UTC 2017
+adserver2.popdata.de                                                                                 INACTIVE    000        Wed Oct  4 13:22:18 UTC 2017
+adserver.beggarspromo.com                                                                            INACTIVE    000        Wed Oct  4 13:22:26 UTC 2017
+adserver.clashmusic.com                                                                              INACTIVE    000        Wed Oct  4 13:22:31 UTC 2017
+adserver.freenet.de                                                                                  INACTIVE    000        Wed Oct  4 13:22:37 UTC 2017
+adserver.motorpresse.de                                                                              INACTIVE    000        Wed Oct  4 13:22:52 UTC 2017
+adserver.realhomesex.net                                                                             INACTIVE    000        Wed Oct  4 13:23:08 UTC 2017
+adserv.qconline.com                                                                                  INACTIVE    000        Wed Oct  4 13:23:22 UTC 2017
+adserv.quality-channel.de                                                                            INACTIVE    000        Wed Oct  4 13:23:22 UTC 2017
+ads.esmas.com                                                                                        INACTIVE    000        Wed Oct  4 13:23:23 UTC 2017
+ads.gameforgeads.de                                                                                  INACTIVE    000        Wed Oct  4 13:23:52 UTC 2017
+ads.globeandmail.com                                                                                 INACTIVE    000        Wed Oct  4 13:23:59 UTC 2017
+ads.groundspeak.com                                                                                  INACTIVE    000        Wed Oct  4 13:24:04 UTC 2017
+ads.horsehero.com                                                                                    INACTIVE    000        Wed Oct  4 13:24:14 UTC 2017
+ads.mediaturf.net                                                                                    INACTIVE    000        Wed Oct  4 13:24:55 UTC 2017
+ads.netclusive.de                                                                                    INACTIVE    000        Wed Oct  4 13:25:09 UTC 2017
