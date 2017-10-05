@@ -164,7 +164,9 @@ startFunceble(){
     # We construct the file we have to look
     local fileToLook="$(find ${directory}/tested-list/* -not -name '.keep' -not -name '.gitignore')"
 
+    # This line should disapear in the future (copyright respect)
     sort -i ${fileToLook} -o ${fileToLook}
+
     ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/copytoroot" --travis -a -ex --plain --split -h -f ${fileToLook}
 
     if [[ $(git log | head -5 | tail -1) =~ ${regexTravis} ]]
@@ -180,11 +182,14 @@ startFunceble(){
     exit 0
 }
 
-if [[ -f ${root}/currently_under_test && ! $(git log | head -5 | tail -1) =~ ${regexTravis} && ! $(git log | head -5 | tail -1) =~ Launch\sbuild ]]
+if [[ -f ${root}/currently_under_test ]]
 then
-    rm ${root}/$(head -1 ${root}/currently_under_test)/output/logs/percentage/percentage.txt
+    currentlyTested="$(head -1 ${root}/currently_under_test)"
+
+    find ${root}/${currentlyTested}/ -name 'percentage.txt' -exec rm {} \;
+
     # We start funceble over the current directory
-    startFunceble "$(head -1 ${root}/currently_under_test)"
+    startFunceble "${currentlyTested}"
 else
     if [[ -f ${root}/currently_under_test ]]
     then
