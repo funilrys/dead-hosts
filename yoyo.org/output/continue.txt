@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/yoyo.org/tested-list/yoyo.org.list ads.pennet.com 637 630 6 1
+/home/travis/build/funilrys/dead-hosts/yoyo.org/tested-list/yoyo.org.list ads.servebom.com 673 665 6 2
