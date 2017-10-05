@@ -1,13 +1,13 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Oct  2 20:35:30 UTC 2017
+# Date of generation: Thu Oct  5 00:15:05 UTC 2017
 
 
 Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-compatexchange.cloudapp.net                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 20:35:33 UTC 2017
-i1.services.social.microsoft.com.nsatc.net                                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 20:35:38 UTC 2017
-oca.telemetry.microsoft.com.nsatc.net                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 20:35:39 UTC 2017
-sls.update.microsoft.com.akadns.net                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 20:35:43 UTC 2017
-telecommand.telemetry.microsoft.com.nsatc.net                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 20:35:48 UTC 2017
-vortex-bn2.metron.live.com.nsatc.net                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 20:35:49 UTC 2017
-vortex-cy2.metron.live.com.nsatc.net                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 20:35:50 UTC 2017
+compatexchange.cloudapp.net                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 00:15:08 UTC 2017
+i1.services.social.microsoft.com.nsatc.net                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 00:15:14 UTC 2017
+oca.telemetry.microsoft.com.nsatc.net                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 00:15:16 UTC 2017
+sls.update.microsoft.com.akadns.net                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 00:15:20 UTC 2017
+telecommand.telemetry.microsoft.com.nsatc.net                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 00:15:26 UTC 2017
+vortex-bn2.metron.live.com.nsatc.net                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 00:15:28 UTC 2017
+vortex-cy2.metron.live.com.nsatc.net                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 00:15:28 UTC 2017
