@@ -1,5 +1,25 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Wed Oct  4 23:57:32 UTC 2017
+# Date of generation: Fri Oct  6 23:01:04 UTC 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 0.0.0.0 15minadlt.hit.gemius.pl
 0.0.0.0 15minlt.adocean.pl
@@ -307,6 +327,7 @@
 0.0.0.0 partner.ceneo.pl
 0.0.0.0 partner.pobieraczek.pl
 0.0.0.0 partner-ts.groupon.pl
+0.0.0.0 partner.wapacz.pl
 0.0.0.0 partner.wapster.pl
 0.0.0.0 playlink.pl
 0.0.0.0 pl.spanel.gem.pl
@@ -405,4 +426,3 @@
 0.0.0.0 xed.pl
 0.0.0.0 x.interia.pl
 0.0.0.0 xstatic.nk-net.pl
-0.0.0.0 255.255.255.255 broadcasthost

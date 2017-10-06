@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/pl-host-file/tested-list/pl-host-file.list 255.255.255.255 broadcasthost 410 405 4 1
+/home/travis/build/funilrys/dead-hosts/pl-host-file/tested-list/pl-host-file.list local 409 405 3 1
