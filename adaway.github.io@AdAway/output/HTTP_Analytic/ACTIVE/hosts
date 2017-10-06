@@ -1,0 +1,64 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Fri Oct  6 20:17:34 UTC 2017
+
+::1  localhost
+# 2013-03-14 Back from the dead
+# 2013-03-29 Integrated some hosts from
+# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
+# 2016-07-18 Now hosted on GitHub + Cloudflare
+# AdAway default blocklist
+# [Adinfuse]
+# [Admob]
+# [AdWhirl]
+# [Amazon]
+# ANALYTICS
+# [appads.com]
+# [applift]
+# [applovin]
+# Blocking mobile ad providers and some analytics providers
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+# [celtra.com]
+# Changelog:
+# Contribute:
+# Contributions by:
+# Create an issue at https://github.com/AdAway/AdAway/issues
+# [Doubleclick (Google)]
+# [EFF Tracker Detection]
+# [General]
+# [Google]
+# [Google]
+# [Greystripe]
+# [Hosted on Amazon AWS]
+# [hosted on cloudfront]
+#            http://adblock.gjtech.net/?format=hostfile
+# [http://play.google.com/store/apps/details?id=com.babjul.billboard]
+# [http://play.google.com/store/apps/details?id=com.chuangkai.phonehelper]
+# [http://play.google.com/store/apps/details?id=com.coconuts.webnavigator]
+# [http://play.google.com/store/apps/details?id=com.taeyang.billboardtop]
+# [https://play.google.com/store/apps/details?id=com.buymeapie.bmap]
+# [https://play.google.com/store/apps/details?id=myapp.devilbaby.android.music.newmusic]
+# [inmobi.com]
+# [inner-active.mobi]
+# [Jumptab]
+# Kicelo, Dominik Schuermann
+# [leadboltmobile]
+# License:
+# [MdotM, Inc.]
+# [Medialytics]
+# [Mobclix]
+# [Mobpartner]
+# [mocean.mobi]
+# [mojiva.com]
+# [mojiva.com]
+# [MSN Ads, in Skype]
+# [mydas.mobi]
+# [National Rail Enquiries, https://play.google.com/store/apps/details?id=uk.co.nationalrail.google]
+# [pflexads.com]
+# [phluantmobile.net]
+# [smaato.net]
+# [Smart Adserver]
+# [tapad]
+# use finer grained hostnames?
+# [velti.com]
+# [vserv.mobi]
+# [yandex.ru]
