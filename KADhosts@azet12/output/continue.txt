@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list kingprizes.pl 600 547 53 0
+/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list iphone-siedem.pl 564 513 51 0
