@@ -1,9 +1,11 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Wed Oct  4 21:44:27 UTC 2017
+# Date of generation: Fri Oct  6 20:35:49 UTC 2017
+
 
 0.0.0.0 ad2.ip.ro
 0.0.0.0 ad.980x.com
 0.0.0.0 ad.about.com
+# Ad filter list by Disconnect
 0.0.0.0 ad-images.suntimes.com
 0.0.0.0 adi.mainichi.co.jp
 0.0.0.0 adlink.de
@@ -67,7 +69,9 @@
 0.0.0.0 banners.lifeserv.com
 0.0.0.0 c.compete.com
 0.0.0.0 clients.tbo.com
+# Contact: support [at] disconnect.me
 0.0.0.0 count6.rbc.ru
 0.0.0.0 counter.avtoindex.com
-0.0.0.0 counter.fateback.com
 0.0.0.0 creative.ak.facebook.com
+0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 dmtracking.alibaba.com
