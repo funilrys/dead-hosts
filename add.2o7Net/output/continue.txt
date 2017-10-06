@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.2o7Net/tested-list/add.2o7Net.list 2o7.net 9 9 0 0
+/home/travis/build/funilrys/dead-hosts/add.2o7Net/tested-list/add.2o7Net.list 102.112.207.net 1 1 0 0
