@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Oct  7 17:12:01 UTC 2017
+# Date of generation: Sat Oct  7 17:20:34 UTC 2017
 
 
 
@@ -29,7 +29,6 @@
 adfiles.o2.pl.sds.o2.pl
 ad.filmweb.pl
 adidm.idmnet.pl
-adp.adview.pl
 adp.gazeta.pl
 ads.businessclick.pl
 adserver.gadu-gadu.pl
@@ -43,7 +42,6 @@ delivery.clickonometrics.pl
 emisjawidgeet.onet.pl
 g1.idg.pl
 geo.interia.pl
-googlenews.xorg.pl
 im.of.pl
 iwa.hit.interia.pl
 openx.xenium.pl
