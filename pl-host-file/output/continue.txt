@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/pl-host-file/tested-list/pl-host-file.list local 409 405 3 1
+/home/travis/build/funilrys/dead-hosts/pl-host-file/tested-list/pl-host-file.list local 409 404 4 1
