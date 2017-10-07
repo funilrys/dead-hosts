@@ -1,9 +1,9 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Oct  7 21:46:25 UTC 2017
+# Date of generation: Sat Oct  7 21:55:02 UTC 2017
 
 
 Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-ad2.pl.mediainter.net                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct  7 21:46:35 UTC 2017
-adserwer.intercon.pl                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct  7 21:47:35 UTC 2017
-spanel.gem.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct  7 21:52:30 UTC 2017
+ad2.pl.mediainter.net                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct  7 21:55:13 UTC 2017
+adserwer.intercon.pl                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct  7 21:56:10 UTC 2017
+spanel.gem.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct  7 22:00:56 UTC 2017
