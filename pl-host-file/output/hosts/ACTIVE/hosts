@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sun Oct  8 20:01:15 UTC 2017
+# Date of generation: Sun Oct  8 20:09:48 UTC 2017
 
 
 
@@ -95,6 +95,7 @@
 0.0.0.0 ads.novem.pl
 0.0.0.0 ads.o2.pl
 0.0.0.0 ads.open.pl
+0.0.0.0 adspiro.pl
 0.0.0.0 adsrv.lua.pl
 0.0.0.0 ad.stat.4u.pl
 0.0.0.0 adstat.4u.pl
