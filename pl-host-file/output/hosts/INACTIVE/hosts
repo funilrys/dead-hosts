@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sun Oct  8 14:38:44 UTC 2017
+# Date of generation: Sun Oct  8 14:46:57 UTC 2017
 
 
 
@@ -21,6 +21,9 @@
 
 
 
+0.0.0.0 2.googlenews.xorg.pl
+0.0.0.0 3.googlenews.xorg.pl
+0.0.0.0 4.googlenews.xorg.pl
 0.0.0.0 ad2.pl.mediainter.net
 0.0.0.0 adserwer.intercon.pl
 0.0.0.0 spanel.gem.pl
