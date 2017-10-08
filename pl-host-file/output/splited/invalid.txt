@@ -1,7 +1,7 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sun Oct  8 12:17:40 UTC 2017
+# Date of generation: Sun Oct  8 12:26:38 UTC 2017
 
 
 Domain                                                                                               Status      Source     HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- ---------- ----------------------------
-local                                                                                                INVALID     IANA       404        Sun Oct  8 12:24:36 UTC 2017
+local                                                                                                INVALID     IANA       404        Sun Oct  8 12:33:15 UTC 2017
