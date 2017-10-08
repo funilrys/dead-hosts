@@ -1,9 +1,9 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sun Oct  8 21:55:01 UTC 2017
+# Date of generation: Sun Oct  8 22:04:00 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-ad2.pl.mediainter.net                                                                                INACTIVE    000        Sun Oct  8 21:55:11 UTC 2017
-adserwer.intercon.pl                                                                                 INACTIVE    000        Sun Oct  8 21:56:10 UTC 2017
-spanel.gem.pl                                                                                        INACTIVE    000        Sun Oct  8 22:00:58 UTC 2017
+ad2.pl.mediainter.net                                                                                INACTIVE    000        Sun Oct  8 22:04:09 UTC 2017
+adserwer.intercon.pl                                                                                 INACTIVE    000        Sun Oct  8 22:05:08 UTC 2017
+spanel.gem.pl                                                                                        INACTIVE    000        Sun Oct  8 22:10:00 UTC 2017
