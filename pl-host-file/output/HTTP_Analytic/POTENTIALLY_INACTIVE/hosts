@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Oct  9 01:37:03 UTC 2017
+# Date of generation: Mon Oct  9 01:45:21 UTC 2017
 
 
 
@@ -29,12 +29,14 @@
 0.0.0.0 adfiles.o2.pl.sds.o2.pl
 0.0.0.0 ad.filmweb.pl
 0.0.0.0 adidm.idmnet.pl
+0.0.0.0 adp.adview.pl
 0.0.0.0 adp.gazeta.pl
 0.0.0.0 ads.businessclick.pl
 0.0.0.0 adserver.gadu-gadu.pl
 0.0.0.0 adseu.novem.pl
 0.0.0.0 analytics.gazeta.pl
 0.0.0.0 badv.wp.pl
+0.0.0.0 bi.adview.pl
 0.0.0.0 chip.pl.intellitxt.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 delivery.clickonometrics.pl
