@@ -1,42 +1,42 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Oct  9 02:53:47 UTC 2017
+# Date of generation: Mon Oct  9 03:03:02 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-1.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 02:53:49 UTC 2017
-2.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 02:53:51 UTC 2017
-3.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 02:53:52 UTC 2017
-4.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 02:53:53 UTC 2017
-5.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 02:53:54 UTC 2017
-adfiles.o2.pl.sds.o2.pl                                                                              ACTIVE      404        Mon Oct  9 02:54:06 UTC 2017
-ad.filmweb.pl                                                                                        ACTIVE      404        Mon Oct  9 02:54:07 UTC 2017
-adidm.idmnet.pl                                                                                      ACTIVE      403        Mon Oct  9 02:54:15 UTC 2017
-adp.gazeta.pl                                                                                        ACTIVE      404        Mon Oct  9 02:54:31 UTC 2017
-ads.businessclick.pl                                                                                 ACTIVE      403        Mon Oct  9 02:54:37 UTC 2017
-adserver.gadu-gadu.pl                                                                                ACTIVE      404        Mon Oct  9 02:54:45 UTC 2017
-adseu.novem.pl                                                                                       ACTIVE      403        Mon Oct  9 02:54:55 UTC 2017
-analytics.gazeta.pl                                                                                  ACTIVE      403        Mon Oct  9 02:55:19 UTC 2017
-badv.wp.pl                                                                                           ACTIVE      404        Mon Oct  9 02:55:34 UTC 2017
-bi.adview.pl                                                                                         ACTIVE      404        Mon Oct  9 02:55:46 UTC 2017
-chip.pl.intellitxt.com                                                                               ACTIVE      404        Mon Oct  9 02:55:58 UTC 2017
-csr.onet.pl                                                                                          ACTIVE      400        Mon Oct  9 02:56:06 UTC 2017
-delivery.clickonometrics.pl                                                                          ACTIVE      404        Mon Oct  9 02:56:17 UTC 2017
-emisjawidgeet.onet.pl                                                                                ACTIVE      404        Mon Oct  9 02:56:32 UTC 2017
-g1.idg.pl                                                                                            ACTIVE      404        Mon Oct  9 02:56:33 UTC 2017
-geo.interia.pl                                                                                       ACTIVE      403        Mon Oct  9 02:57:13 UTC 2017
-googlenews.xorg.pl                                                                                   ACTIVE      404        Mon Oct  9 02:57:24 UTC 2017
-im.of.pl                                                                                             ACTIVE      404        Mon Oct  9 02:57:48 UTC 2017
-iwa.hit.interia.pl                                                                                   ACTIVE      404        Mon Oct  9 02:57:56 UTC 2017
-openx.xenium.pl                                                                                      ACTIVE      403        Mon Oct  9 02:58:36 UTC 2017
-partner-ts.groupon.pl                                                                                ACTIVE      404        Mon Oct  9 02:58:41 UTC 2017
-pl.spanel.gem.pl                                                                                     ACTIVE      403        Mon Oct  9 02:58:45 UTC 2017
-rec.quartic.pl                                                                                       ACTIVE      403        Mon Oct  9 02:58:53 UTC 2017
-rek.www.wp.pl                                                                                        ACTIVE      404        Mon Oct  9 02:58:57 UTC 2017
-static.clickonometrics.pl                                                                            ACTIVE      403        Mon Oct  9 02:59:45 UTC 2017
-stats.asp24.pl                                                                                       ACTIVE      403        Mon Oct  9 02:59:46 UTC 2017
-stats.media.onet.pl                                                                                  ACTIVE      403        Mon Oct  9 02:59:48 UTC 2017
-xed.pl                                                                                               ACTIVE      403        Mon Oct  9 03:00:16 UTC 2017
-x.interia.pl                                                                                         ACTIVE      404        Mon Oct  9 03:00:17 UTC 2017
-xstatic.nk-net.pl                                                                                    ACTIVE      404        Mon Oct  9 03:00:18 UTC 2017
-local                                                                                                ACTIVE      404        Mon Oct  9 03:00:18 UTC 2017
+1.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 03:03:05 UTC 2017
+2.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 03:03:06 UTC 2017
+3.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 03:03:07 UTC 2017
+4.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 03:03:08 UTC 2017
+5.googlenews.xorg.pl                                                                                 ACTIVE      404        Mon Oct  9 03:03:09 UTC 2017
+adfiles.o2.pl.sds.o2.pl                                                                              ACTIVE      404        Mon Oct  9 03:03:22 UTC 2017
+ad.filmweb.pl                                                                                        ACTIVE      404        Mon Oct  9 03:03:23 UTC 2017
+adidm.idmnet.pl                                                                                      ACTIVE      403        Mon Oct  9 03:03:31 UTC 2017
+adp.adview.pl                                                                                        ACTIVE      404        Mon Oct  9 03:03:46 UTC 2017
+adp.gazeta.pl                                                                                        ACTIVE      404        Mon Oct  9 03:03:47 UTC 2017
+ads.businessclick.pl                                                                                 ACTIVE      403        Mon Oct  9 03:03:53 UTC 2017
+adserver.gadu-gadu.pl                                                                                ACTIVE      404        Mon Oct  9 03:04:02 UTC 2017
+adseu.novem.pl                                                                                       ACTIVE      403        Mon Oct  9 03:04:12 UTC 2017
+analytics.gazeta.pl                                                                                  ACTIVE      403        Mon Oct  9 03:04:36 UTC 2017
+badv.wp.pl                                                                                           ACTIVE      404        Mon Oct  9 03:04:50 UTC 2017
+chip.pl.intellitxt.com                                                                               ACTIVE      404        Mon Oct  9 03:05:14 UTC 2017
+csr.onet.pl                                                                                          ACTIVE      400        Mon Oct  9 03:05:23 UTC 2017
+delivery.clickonometrics.pl                                                                          ACTIVE      404        Mon Oct  9 03:05:33 UTC 2017
+emisjawidgeet.onet.pl                                                                                ACTIVE      404        Mon Oct  9 03:05:48 UTC 2017
+g1.idg.pl                                                                                            ACTIVE      404        Mon Oct  9 03:05:50 UTC 2017
+geo.interia.pl                                                                                       ACTIVE      403        Mon Oct  9 03:06:31 UTC 2017
+googlenews.xorg.pl                                                                                   ACTIVE      404        Mon Oct  9 03:06:41 UTC 2017
+im.of.pl                                                                                             ACTIVE      404        Mon Oct  9 03:07:04 UTC 2017
+iwa.hit.interia.pl                                                                                   ACTIVE      404        Mon Oct  9 03:07:13 UTC 2017
+openx.xenium.pl                                                                                      ACTIVE      403        Mon Oct  9 03:07:51 UTC 2017
+partner-ts.groupon.pl                                                                                ACTIVE      404        Mon Oct  9 03:07:56 UTC 2017
+pl.spanel.gem.pl                                                                                     ACTIVE      403        Mon Oct  9 03:08:00 UTC 2017
+rec.quartic.pl                                                                                       ACTIVE      403        Mon Oct  9 03:08:08 UTC 2017
+rek.www.wp.pl                                                                                        ACTIVE      404        Mon Oct  9 03:08:12 UTC 2017
+static.clickonometrics.pl                                                                            ACTIVE      403        Mon Oct  9 03:09:00 UTC 2017
+stats.asp24.pl                                                                                       ACTIVE      403        Mon Oct  9 03:09:01 UTC 2017
+stats.media.onet.pl                                                                                  ACTIVE      403        Mon Oct  9 03:09:03 UTC 2017
+xed.pl                                                                                               ACTIVE      403        Mon Oct  9 03:09:29 UTC 2017
+x.interia.pl                                                                                         ACTIVE      404        Mon Oct  9 03:09:30 UTC 2017
+xstatic.nk-net.pl                                                                                    ACTIVE      404        Mon Oct  9 03:09:31 UTC 2017
+local                                                                                                ACTIVE      404        Mon Oct  9 03:09:31 UTC 2017
