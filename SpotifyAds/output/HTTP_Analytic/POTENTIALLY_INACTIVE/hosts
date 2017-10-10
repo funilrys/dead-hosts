@@ -1,5 +1,7 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Oct  5 00:08:59 UTC 2017
+# Date of generation: Tue Oct 10 12:15:54 UTC 2017
+
 
 0.0.0.0 securepubads.g.doubleclick.net
+# 0.0.0.0 spclient.wg.spotify.com # GH-270
 0.0.0.0 www.googletagservices.com

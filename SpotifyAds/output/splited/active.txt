@@ -1,10 +1,10 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Oct  5 00:08:59 UTC 2017
+# Date of generation: Tue Oct 10 12:15:54 UTC 2017
 
 
 Domain                                                                                               Status      Expiration Date   Source     HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ----------------- ---------- ---------- -------------------------------
-ads.pubmatic.com                                                                                     ACTIVE      Unknown           NSLOOKUP   200        Thu Oct  5 00:09:00 UTC 2017
-gads.pubmatic.com                                                                                    ACTIVE      Unknown           NSLOOKUP   200        Thu Oct  5 00:09:00 UTC 2017
-pubads.g.doubleclick.net                                                                             ACTIVE      Unknown           NSLOOKUP   301        Thu Oct  5 00:09:00 UTC 2017
-www.googletagservices.com                                                                            ACTIVE      Unknown           NSLOOKUP   404        Thu Oct  5 00:09:02 UTC 2017
+ads.pubmatic.com                                                                                     ACTIVE      Unknown           NSLOOKUP   200        Tue Oct 10 12:15:54 UTC 2017
+gads.pubmatic.com                                                                                    ACTIVE      Unknown           NSLOOKUP   200        Tue Oct 10 12:15:55 UTC 2017
+pubads.g.doubleclick.net                                                                             ACTIVE      Unknown           NSLOOKUP   Unknown    Tue Oct 10 12:15:56 UTC 2017
+www.googletagservices.com                                                                            ACTIVE      Unknown           NSLOOKUP   404        Tue Oct 10 12:15:56 UTC 2017
