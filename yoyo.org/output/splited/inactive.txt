@@ -10,3 +10,8 @@ ads.canalblog.com                                                               
 ads.datingyes.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 10 12:30:28 UTC 2017
 ads.groundspeak.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 10 12:32:22 UTC 2017
 ads.newsquest.co.uk                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 10 12:33:26 UTC 2017
+ads.sift.co.uk                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 10 12:36:11 UTC 2017
+ads.trinitymirror.co.uk                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 10 12:36:30 UTC 2017
+clients.tbo.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 10 12:42:42 UTC 2017
+dmtracking2.alibaba.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 10 12:44:12 UTC 2017
+dmtracking.alibaba.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 10 12:44:12 UTC 2017

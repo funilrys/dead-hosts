@@ -6,3 +6,7 @@ Domain                                                                          
 ---------------------------------------------------------------------------------------------------- ----------- ---------- ---------- ----------------------------
 accounts.pkr.com.invalid                                                                             INVALID     IANA       000        Tue Oct 10 12:24:50 UTC 2017
 adfactor.nl.invalid                                                                                  INVALID     IANA       000        Tue Oct 10 12:26:21 UTC 2017
+bravenet.com.invalid                                                                                 INVALID     IANA       000        Tue Oct 10 12:41:40 UTC 2017
+cibleclick.com.invalid                                                                               INVALID     IANA       000        Tue Oct 10 12:42:16 UTC 2017
+gigya.com.invalid                                                                                    INVALID     IANA       000        Tue Oct 10 12:45:59 UTC 2017
+globaltrack.com.invalid                                                                              INVALID     IANA       000        Tue Oct 10 12:46:01 UTC 2017

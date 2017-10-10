@@ -10,3 +10,12 @@ ads.adultswim.com                                                               
 ads.batpmturner.com                                                                                  INACTIVE    000        Tue Oct 10 12:29:39 UTC 2017
 ads.groundspeak.com                                                                                  INACTIVE    000        Tue Oct 10 12:32:22 UTC 2017
 ads.newsquest.co.uk                                                                                  INACTIVE    000        Tue Oct 10 12:33:26 UTC 2017
+ads.sift.co.uk                                                                                       INACTIVE    000        Tue Oct 10 12:36:11 UTC 2017
+ads.trinitymirror.co.uk                                                                              INACTIVE    000        Tue Oct 10 12:36:30 UTC 2017
+bravenet.com.invalid                                                                                 INVALID     000        Tue Oct 10 12:41:40 UTC 2017
+cibleclick.com.invalid                                                                               INVALID     000        Tue Oct 10 12:42:16 UTC 2017
+clients.tbo.com                                                                                      INACTIVE    000        Tue Oct 10 12:42:42 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Tue Oct 10 12:44:12 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Tue Oct 10 12:44:12 UTC 2017
+gigya.com.invalid                                                                                    INVALID     000        Tue Oct 10 12:45:59 UTC 2017
+globaltrack.com.invalid                                                                              INVALID     000        Tue Oct 10 12:46:01 UTC 2017
