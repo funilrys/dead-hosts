@@ -4,6 +4,7 @@
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
+0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
 0.0.0.0 207.net
@@ -133,6 +134,7 @@
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
 0.0.0.0 ad.eurosport.com
+0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexcite.com
 0.0.0.0 adexpose.com
@@ -451,7 +453,6 @@
 0.0.0.0 adserver.finditquick.com
 0.0.0.0 adserver.flossiemediagroup.com
 0.0.0.0 adserver.freecity.de
-0.0.0.0 adserver.freenet.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 adserver.hardsextube.com
@@ -1145,6 +1146,7 @@
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
 0.0.0.0 click2freemoney.com
+0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 clickadz.com
@@ -1184,6 +1186,7 @@
 0.0.0.0 clients.tbo.com
 0.0.0.0 clikerz.net
 0.0.0.0 cliksolution.com
+0.0.0.0 cliqz.com
 0.0.0.0 clixgalore.com
 0.0.0.0 clkads.com
 0.0.0.0 clk.konflab.com
@@ -1220,6 +1223,7 @@
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.cz
+0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
@@ -1703,7 +1707,6 @@
 0.0.0.0 medleyads.com
 0.0.0.0 medyanetads.com
 0.0.0.0 megacash.de
-0.0.0.0 megago.com
 0.0.0.0 megastats.com
 0.0.0.0 megawerbung.de
 0.0.0.0 metaffiliation.com
@@ -2111,6 +2114,7 @@
 0.0.0.0 sonobi.com
 0.0.0.0 spacash.com
 0.0.0.0 sparkstudios.com
+0.0.0.0 specially4u.net
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificpop.com
 0.0.0.0 spectacularsnail.com
@@ -2271,6 +2275,8 @@
 0.0.0.0 track.anchorfree.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
+0.0.0.0 track.flexlinks.com
+0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.gawker.com
 0.0.0.0 tracking101.com
 0.0.0.0 tracking.crunchiemedia.com
@@ -2462,11 +2468,11 @@
 0.0.0.0 zv1.november-lax.com
 # Ad server list for use with hosts files to block ads
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-# entries:        2459
+# entries:        2465
 # format:         hosts (hosts -- in hosts file format)
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
-# last updated:   Wed, 04 Oct 2017 14:27:43 GMT
+# last updated:   Tue, 10 Oct 2017 12:55:35 GMT
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    Thu, 05 Oct 2017 00:00:00
+# start date:    Tue, 10 Oct 2017 00:00:00
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0

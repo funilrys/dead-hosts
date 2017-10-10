@@ -1,13 +1,12 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Oct  5 00:22:06 UTC 2017
+# Date of generation: Tue Oct 10 12:24:21 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-accounts.pkr.com.invalid                                                                             INVALID     000        Thu Oct  5 00:22:29 UTC 2017
-adfactor.nl.invalid                                                                                  INVALID     000        Thu Oct  5 00:23:55 UTC 2017
-ads.adultswim.com                                                                                    INACTIVE    000        Thu Oct  5 00:26:53 UTC 2017
-ads.batpmturner.com                                                                                  INACTIVE    000        Thu Oct  5 00:27:16 UTC 2017
-adserver.freenet.de                                                                                  INACTIVE    000        Thu Oct  5 00:28:43 UTC 2017
-ads.groundspeak.com                                                                                  INACTIVE    000        Thu Oct  5 00:29:55 UTC 2017
-ads.newsquest.co.uk                                                                                  INACTIVE    000        Thu Oct  5 00:31:07 UTC 2017
+accounts.pkr.com.invalid                                                                             INVALID     000        Tue Oct 10 12:24:50 UTC 2017
+adfactor.nl.invalid                                                                                  INVALID     000        Tue Oct 10 12:26:21 UTC 2017
+ads.adultswim.com                                                                                    INACTIVE    000        Tue Oct 10 12:29:13 UTC 2017
+ads.batpmturner.com                                                                                  INACTIVE    000        Tue Oct 10 12:29:39 UTC 2017
+ads.groundspeak.com                                                                                  INACTIVE    000        Tue Oct 10 12:32:22 UTC 2017
+ads.newsquest.co.uk                                                                                  INACTIVE    000        Tue Oct 10 12:33:26 UTC 2017

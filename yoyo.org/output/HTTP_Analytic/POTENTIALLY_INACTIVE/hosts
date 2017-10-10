@@ -1,6 +1,9 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Oct  5 00:22:06 UTC 2017
+# Date of generation: Tue Oct 10 12:24:21 UTC 2017
 
+#
+#
+# ----
 0.0.0.0 4d5.net
 0.0.0.0 51yes.com
 0.0.0.0 a32.g.a.yimg.com
@@ -15,6 +18,7 @@
 0.0.0.0 ad.bnmla.com
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 ad.domainfactory.de
+0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adext.inkclub.com
 0.0.0.0 ad.foxnetworks.com
@@ -24,6 +28,8 @@
 0.0.0.0 adimg1.chosun.com
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adjix.com
+0.0.0.0 ad.keenspace.com
+0.0.0.0 ad.lupa.cz
 0.0.0.0 adnet.asahi.com
 0.0.0.0 adnet-media.net
 0.0.0.0 adnetworkperformance.com
@@ -34,7 +40,6 @@
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads3.contentabc.com
-0.0.0.0 ads3.virtual-nights.com
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads.adfox.ru
@@ -56,11 +61,11 @@
 0.0.0.0 ads.cgnetworks.com
 0.0.0.0 ads.contextweb.com
 0.0.0.0 ads.creative-serving.com
-0.0.0.0 ads.datingyes.com
 0.0.0.0 ads.dennisnet.co.uk
 0.0.0.0 ads.deviantart.com
 0.0.0.0 ads.domain.com
 0.0.0.0 ads.eagletribune.com
+0.0.0.0 ads.easy-forex.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver.bing.com
@@ -101,4 +106,3 @@
 0.0.0.0 ads.rcs.it
 0.0.0.0 adsrvr.org
 0.0.0.0 ads.s3.sitepoint.com
-0.0.0.0 ads.seniorfriendfinder.com
