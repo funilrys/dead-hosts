@@ -1,5 +1,6 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Oct  5 00:12:49 UTC 2017
+# Date of generation: Tue Oct 10 12:18:13 UTC 2017
+
 
 0.0.0.0 adjust.io
 0.0.0.0 airbrake.io
@@ -8,11 +9,13 @@
 0.0.0.0 apsalar.com
 0.0.0.0 bango.net
 0.0.0.0 basic-check.disconnect.me
+# Basic tracking list by Disconnect
 0.0.0.0 bkrtx.com
 0.0.0.0 bluekai.com
 0.0.0.0 bugsense.com
 0.0.0.0 burstly.com
 0.0.0.0 chartboost.com
+# Contact: support [at] disconnect.me
 0.0.0.0 count.ly
 0.0.0.0 crashlytics.com
 0.0.0.0 crittercism.com
@@ -22,6 +25,7 @@
 0.0.0.0 getexceptional.com
 0.0.0.0 inmobi.com
 0.0.0.0 jumptap.com
+# License: GPLv3
 0.0.0.0 localytics.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mobileapptracking.com
