@@ -1,8 +1,13 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Oct  5 00:36:54 UTC 2017
+# Date of generation: Tue Oct 10 12:47:39 UTC 2017
 
+
+#                                                                            #
+##############################################################################
+##############################################################################
 0.0.0.0 0if1nl6.org
 0.0.0.0 0x.x.gg
+# abuse.ch ZeuS domain blocklist                                             #
 0.0.0.0 afobal.cl
 0.0.0.0 alvoportas.com.br
 0.0.0.0 anderlechti.com
@@ -28,6 +33,7 @@
 0.0.0.0 cy-m0ld.com
 0.0.0.0 cynthialemos1225.ddns.net
 0.0.0.0 danislenefc.info
+0.0.0.0 dasch.pl
 0.0.0.0 dau43vt5wtrd.tk
 0.0.0.0 dbimbem.axfree.com
 0.0.0.0 ddobnajanu.club
@@ -45,10 +51,11 @@
 0.0.0.0 dzitech.net
 0.0.0.0 ebesee.com
 0.0.0.0 eite.asia
-0.0.0.0 exploit0day.top
 0.0.0.0 felceconserve.com
 0.0.0.0 fenipourashava.com
+0.0.0.0 finalcrashtest.co.nz
 0.0.0.0 fmarchzeetequwxtw.wang
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
 0.0.0.0 foxmanwer.pw
 0.0.0.0 fretiolo.com
 0.0.0.0 frevolore.com
@@ -90,6 +97,7 @@
 0.0.0.0 lisovfoxcom.418.com1.ru
 0.0.0.0 liuz112.ddns.net
 0.0.0.0 luenhinpearl.com
+0.0.0.0 lukakuu.com
 0.0.0.0 lurdinha.psc.br
 0.0.0.0 lzediamike.trade
 0.0.0.0 machine.cu.ma
