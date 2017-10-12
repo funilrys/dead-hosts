@@ -1,8 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Oct 10 12:18:13 UTC 2017
-
-
-Domain                                                                                               Status      HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-bango.combango.org                                                                                   INACTIVE    000        Tue Oct 10 12:18:15 UTC 2017
-custom-blacklisted-tracking-example.com                                                              INACTIVE    000        Tue Oct 10 12:18:19 UTC 2017

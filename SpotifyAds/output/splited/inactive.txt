@@ -1,7 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Oct 10 12:15:54 UTC 2017
-
-
-Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Tue Oct 10 12:15:56 UTC 2017

@@ -167,6 +167,10 @@ startFunceble(){
     # This line should disapear in the future (copyright respect)
     sort -i ${fileToLook} -o ${fileToLook}
 
+    # We delete all commented line
+    sed -i -r '/^(\s*#|$)/d;' ${fileToLook}
+
+    # We launch funceble
     ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/copytoroot" --travis -a -ex --plain --split -h -f ${fileToLook}
 
     if [[ $(git log | head -5 | tail -1) =~ ${regexTravis} ]]

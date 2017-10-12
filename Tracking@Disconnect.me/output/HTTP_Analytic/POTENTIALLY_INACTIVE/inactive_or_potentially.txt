@@ -1,7 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Oct 10 12:18:13 UTC 2017
-
-
-Domain                                                                                               Status      HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-mobile-collector.newrelic.com                                                                        ACTIVE      404        Tue Oct 10 12:18:27 UTC 2017
