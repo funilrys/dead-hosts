@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.motormedia.nl 651 618 32 1
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list cpays.com 1350 1279 69 2
