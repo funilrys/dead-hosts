@@ -1,0 +1,17 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Thu Oct 12 11:27:59 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+6.bbnfaces.net                                                                                       INACTIVE    000        Thu Oct 12 11:28:53 UTC 2017
+aa.newsblock.dt00.net                                                                                INACTIVE    000        Thu Oct 12 11:29:07 UTC 2017
+absolutely-clean-up-pc-errors.com                                                                    INACTIVE    000        Thu Oct 12 11:29:09 UTC 2017
+ad.hizlireklam.com                                                                                   INACTIVE    000        Thu Oct 12 11:29:24 UTC 2017
+bar.mywebsearch.com                                                                                  INACTIVE    000        Thu Oct 12 11:31:37 UTC 2017
+b.bestcomputeradvisor.com                                                                            INACTIVE    000        Thu Oct 12 11:31:39 UTC 2017
+b.dotnetadvisor.info                                                                                 INACTIVE    000        Thu Oct 12 11:31:43 UTC 2017
+cadastrodacopa.net                                                                                   INACTIVE    000        Thu Oct 12 11:32:30 UTC 2017
+cazzigrossi.org                                                                                      INACTIVE    000        Thu Oct 12 11:32:42 UTC 2017
+cfg.mywebsearch.com                                                                                  INACTIVE    000        Thu Oct 12 11:32:58 UTC 2017
+checktraf.com                                                                                        INACTIVE    000        Thu Oct 12 11:33:04 UTC 2017

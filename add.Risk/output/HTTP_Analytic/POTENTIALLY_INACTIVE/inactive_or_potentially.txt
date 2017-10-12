@@ -1,0 +1,61 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Thu Oct 12 11:27:59 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+0iecfobt.com                                                                                         ACTIVE      403        Thu Oct 12 11:28:00 UTC 2017
+188838.parkingcrew.net                                                                               ACTIVE      403        Thu Oct 12 11:28:09 UTC 2017
+1.googlenews.xorg.pl                                                                                 ACTIVE      404        Thu Oct 12 11:28:11 UTC 2017
+2.googlenews.xorg.pl                                                                                 ACTIVE      404        Thu Oct 12 11:28:15 UTC 2017
+2.rubanners.com                                                                                      ACTIVE      403        Thu Oct 12 11:28:16 UTC 2017
+32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com                             ACTIVE      404        Thu Oct 12 11:28:17 UTC 2017
+3.googlenews.xorg.pl                                                                                 ACTIVE      404        Thu Oct 12 11:28:20 UTC 2017
+422653.parkingcrew.net                                                                               ACTIVE      403        Thu Oct 12 11:28:21 UTC 2017
+4.androidislamic.com                                                                                 ACTIVE      404        Thu Oct 12 11:28:23 UTC 2017
+4.collecorvino.org                                                                                   ACTIVE      404        Thu Oct 12 11:28:23 UTC 2017
+4.googlenews.xorg.pl                                                                                 ACTIVE      404        Thu Oct 12 11:28:27 UTC 2017
+5.googlenews.xorg.pl                                                                                 ACTIVE      404        Thu Oct 12 11:28:50 UTC 2017
+633642.parkingcrew.net                                                                               ACTIVE      403        Thu Oct 12 11:28:52 UTC 2017
+6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com                            ACTIVE      404        Thu Oct 12 11:28:53 UTC 2017
+6.bbnsmsgateway.com                                                                                  ACTIVE      404        Thu Oct 12 11:28:54 UTC 2017
+944279.parkingcrew.net                                                                               ACTIVE      403        Thu Oct 12 11:28:59 UTC 2017
+94uyvwwh.com                                                                                         ACTIVE      403        Thu Oct 12 11:28:59 UTC 2017
+adclickservice.com                                                                                   ACTIVE      404        Thu Oct 12 11:29:20 UTC 2017
+adcmtd.mac-torrent-download.net                                                                      ACTIVE      403        Thu Oct 12 11:29:21 UTC 2017
+adgtracker.com                                                                                       ACTIVE      404        Thu Oct 12 11:29:23 UTC 2017
+adnetworkperformance.com                                                                             ACTIVE      403        Thu Oct 12 11:29:26 UTC 2017
+ads.ztod.com                                                                                         ACTIVE      403        Thu Oct 12 11:29:40 UTC 2017
+advancedsoftwaresupport.com                                                                          ACTIVE      403        Thu Oct 12 11:29:43 UTC 2017
+aitligold.tripod.com                                                                                 ACTIVE      410        Thu Oct 12 11:30:03 UTC 2017
+anelkathe.tripod.com                                                                                 ACTIVE      410        Thu Oct 12 11:30:20 UTC 2017
+anzanish.tripod.com                                                                                  ACTIVE      410        Thu Oct 12 11:30:35 UTC 2017
+api.conduit.com                                                                                      ACTIVE      403        Thu Oct 12 11:30:35 UTC 2017
+av-clean.com                                                                                         ACTIVE      404        Thu Oct 12 11:30:59 UTC 2017
+a.zeroredirect1.com                                                                                  ACTIVE      400        Thu Oct 12 11:31:05 UTC 2017
+a.zeroredirect2.com                                                                                  ACTIVE      404        Thu Oct 12 11:31:05 UTC 2017
+a.zeroredirect.com                                                                                   ACTIVE      404        Thu Oct 12 11:31:06 UTC 2017
+banner.casinodelrio.com                                                                              ACTIVE      403        Thu Oct 12 11:31:14 UTC 2017
+banner.casinotropez.com                                                                              ACTIVE      403        Thu Oct 12 11:31:15 UTC 2017
+banner.clubdicecasino.com                                                                            ACTIVE      403        Thu Oct 12 11:31:16 UTC 2017
+banner.europacasino.com                                                                              ACTIVE      403        Thu Oct 12 11:31:16 UTC 2017
+banner.scasino.com                                                                                   ACTIVE      403        Thu Oct 12 11:31:19 UTC 2017
+banners.thirdmovies.com                                                                              ACTIVE      403        Thu Oct 12 11:31:27 UTC 2017
+banners.videosz.com                                                                                  ACTIVE      403        Thu Oct 12 11:31:30 UTC 2017
+banners.virtuagirlhd.com                                                                             ACTIVE      403        Thu Oct 12 11:31:30 UTC 2017
+banners.ztod.com                                                                                     ACTIVE      403        Thu Oct 12 11:31:31 UTC 2017
+banner.vegasred.com                                                                                  ACTIVE      403        Thu Oct 12 11:31:33 UTC 2017
+bbnaut.ibillboard.com                                                                                ACTIVE      404        Thu Oct 12 11:31:40 UTC 2017
+be-funk.com                                                                                          ACTIVE      403        Thu Oct 12 11:31:46 UTC 2017
+bigstoreoffers.co.uk                                                                                 ACTIVE      403        Thu Oct 12 11:31:56 UTC 2017
+briebailey.tripod.com                                                                                ACTIVE      410        Thu Oct 12 11:32:16 UTC 2017
+burnvirusnow33.xorg.pl                                                                               ACTIVE      404        Thu Oct 12 11:32:23 UTC 2017
+b.zeroredirect1.com                                                                                  ACTIVE      400        Thu Oct 12 11:32:26 UTC 2017
+b.zeroredirect2.com                                                                                  ACTIVE      404        Thu Oct 12 11:32:26 UTC 2017
+b.zeroredirect.com                                                                                   ACTIVE      404        Thu Oct 12 11:32:27 UTC 2017
+candidography.com                                                                                    ACTIVE      404        Thu Oct 12 11:32:39 UTC 2017
+cbanners.virtuagirlhd.com                                                                            ACTIVE      403        Thu Oct 12 11:32:43 UTC 2017
+cgi-view-item-co-uk.xf.cz                                                                            ACTIVE      404        Thu Oct 12 11:32:59 UTC 2017
+chsplantsales.co.uk                                                                                  ACTIVE      403        Thu Oct 12 11:33:06 UTC 2017
+cleanupit22p.xorg.pl                                                                                 ACTIVE      404        Thu Oct 12 11:33:18 UTC 2017
+clickbank.net                                                                                        ACTIVE      403        Thu Oct 12 11:33:22 UTC 2017

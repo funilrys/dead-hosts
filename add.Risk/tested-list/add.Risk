@@ -1,4 +1,3 @@
-
 0.0.0.0 050003.voodoo.com
 0.0.0.0 050005.voodoo.com
 0.0.0.0 0iecfobt.com
@@ -3061,6 +3060,3 @@
 0.0.0.0 zuverink.net
 0.0.0.0 z.zeroredirect.com
 0.0.0.0 zzz.clickbank.net
-### Extra rules for @StevenBlack 's hosts project 
-### https://github.com/FadeMind/hosts.extras
-### Risk: malware, adware and tracking sites based on http://www.hostsfile.org/hosts.html content.
