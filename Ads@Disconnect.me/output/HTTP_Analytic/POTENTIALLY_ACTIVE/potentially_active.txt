@@ -67,3 +67,14 @@ c.compete.com                                                                   
 clients.tbo.com                                                                                      INACTIVE    000        Thu Oct 12 11:58:43 UTC 2017
 count6.rbc.ru                                                                                        INACTIVE    000        Thu Oct 12 11:59:09 UTC 2017
 counter.avtoindex.com                                                                                INACTIVE    000        Thu Oct 12 11:59:11 UTC 2017
+creative.ak.facebook.com                                                                             INACTIVE    000        Thu Oct 12 12:01:36 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Thu Oct 12 12:02:05 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Thu Oct 12 12:02:05 UTC 2017
+euro-linkindex.de                                                                                    INACTIVE    000        Thu Oct 12 12:02:59 UTC 2017
+gtop.ro                                                                                              INACTIVE    000        Thu Oct 12 12:04:22 UTC 2017
+memorix.sdv.fr                                                                                       INACTIVE    000        Thu Oct 12 12:08:02 UTC 2017
+mobilewithsms.net                                                                                    INACTIVE    000        Thu Oct 12 12:08:24 UTC 2017
+m.webtrends.com                                                                                      INACTIVE    000        Thu Oct 12 12:08:37 UTC 2017
+network.business.com                                                                                 INACTIVE    000        Thu Oct 12 12:09:09 UTC 2017
+ngs.impress.co.jp                                                                                    INACTIVE    000        Thu Oct 12 12:09:18 UTC 2017
+p.adpdx.com                                                                                          INACTIVE    000        Thu Oct 12 12:10:04 UTC 2017

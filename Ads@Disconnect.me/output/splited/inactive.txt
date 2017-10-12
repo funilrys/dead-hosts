@@ -73,3 +73,16 @@ c.compete.com                                                                   
 clients.tbo.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 11:58:43 UTC 2017
 count6.rbc.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 11:59:09 UTC 2017
 counter.avtoindex.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 11:59:11 UTC 2017
+creative.ak.facebook.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:01:36 UTC 2017
+dmtracking2.alibaba.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:02:05 UTC 2017
+dmtracking.alibaba.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:02:05 UTC 2017
+emonitor.takeit.cz                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 12 12:02:36 UTC 2017
+engine.awaps.net                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 12 12:02:39 UTC 2017
+euro-linkindex.de                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:02:59 UTC 2017
+gtop.ro                                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:04:22 UTC 2017
+memorix.sdv.fr                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:08:02 UTC 2017
+mobilewithsms.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:08:24 UTC 2017
+m.webtrends.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:08:37 UTC 2017
+network.business.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:09:09 UTC 2017
+ngs.impress.co.jp                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:09:18 UTC 2017
+p.adpdx.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:10:04 UTC 2017
