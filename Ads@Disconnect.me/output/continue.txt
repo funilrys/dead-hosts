@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list promobenef.com 2134 2050 82 2
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list zumobi.com 2703 2601 99 3
