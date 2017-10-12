@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Oct  2 15:56:26 UTC 2017
+# Date of generation: Thu Oct 12 11:17:02 UTC 2017
 
 0.0.0.0 a.applovin.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -41,70 +41,7 @@
 0.0.0.0 img.ads.mojiva.com
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 0.0.0.0 i.w.inmobi.com
-0.0.0.0 m2m1.inner-active.mobi
-0.0.0.0 mdn1.phluantmobile.net
-0.0.0.0 media.mobpartner.mobi
-0.0.0.0 mobileads.msn.com
-0.0.0.0 mobile.banzai.it
-0.0.0.0 mobiledl.adobe.com
-0.0.0.0 orencia.pflexads.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pdn.applovin.com
-0.0.0.0 px.cdn.creative.medialytics.com
-0.0.0.0 r.edge.inmobicdn.net
-0.0.0.0 rs-staticart.ybcdn.net
-0.0.0.0 r.w.inmobi.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 s3.phluant.com
-0.0.0.0 s.amazon-adsystem.com
-0.0.0.0 s.mobclix.com
-0.0.0.0 stats.pflexads.com
-0.0.0.0 strikeadcdn.s3.amazonaws.com
-0.0.0.0 thinknear-hosted.thinknearhub.com
-0.0.0.0 track.celtra.com
-0.0.0.0 wv.inner-active.mobi
-0.0.0.0 www.pflexads.com
-0.0.0.0 a.applovin.com
-0.0.0.0 aax-us-east.amazon-adsystem.com
-0.0.0.0 ads.adadapted.com
-0.0.0.0 ads.admarvel.com
-0.0.0.0 ads.celtra.com
-0.0.0.0 ads.flurry.com
-0.0.0.0 ads.matomymobile.com
-0.0.0.0 ads.mobclix.com
-0.0.0.0 a.glcdn.co
-0.0.0.0 android.bcfads.com
-0.0.0.0 an.yandex.ru
-0.0.0.0 aos.wall.youmi.net
-0.0.0.0 api.yp.com
-0.0.0.0 banners.bigmobileads.com
-0.0.0.0 c753738.r38.cf2.rackcdn.com
-0.0.0.0 c.admob.com
-0.0.0.0 campaign-tapad.s3.amazonaws.com
-0.0.0.0 cdn1.inner-active.mobi
-0.0.0.0 cdn1.smartadserver.com
-0.0.0.0 cdn.creative.medialytics.com
-0.0.0.0 c.vrvm.com
-0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
-0.0.0.0 d.applovin.com
-0.0.0.0 data.mobclix.com
-0.0.0.0 edge.reporo.net
-0.0.0.0 ftpcontent.worldnow.com
-0.0.0.0 go.vrvm.com
-0.0.0.0 hhbekxxw5d9e.pflexads.com
-0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
-0.0.0.0 hybl9bazbc35.pflexads.com
-0.0.0.0 i.jumptap.com
-0.0.0.0 img.ads1.mocean.mobi
-0.0.0.0 img.ads1.mojiva.com
-0.0.0.0 img.ads2.mocean.mobi
-0.0.0.0 img.ads2.mojiva.com
-0.0.0.0 img.ads3.mocean.mobi
-0.0.0.0 img.ads3.mojiva.com
-0.0.0.0 img.ads4.mojiva.com
-0.0.0.0 img.ads.mojiva.com
-0.0.0.0 inneractive-assets.s3.amazonaws.com
-0.0.0.0 i.w.inmobi.com
+127.0.0.1  localhost
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 mdn1.phluantmobile.net
 0.0.0.0 media.mobpartner.mobi
@@ -129,63 +66,3 @@
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 www.pflexads.com
 ::1  localhost
-# 2013-03-14 Back from the dead
-# 2013-03-29 Integrated some hosts from
-# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
-# 2016-07-18 Now hosted on GitHub + Cloudflare
-# AdAway default blocklist
-# [Adinfuse]
-# [Admob]
-# [AdWhirl]
-# [Amazon]
-# ANALYTICS
-# [appads.com]
-# [applift]
-# [applovin]
-# Blocking mobile ad providers and some analytics providers
-# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
-# [celtra.com]
-# Changelog:
-# Contribute:
-# Contributions by:
-# Create an issue at https://github.com/AdAway/AdAway/issues
-# [Doubleclick (Google)]
-# [EFF Tracker Detection]
-# [General]
-# [Google]
-# [Google]
-# [Greystripe]
-# [Hosted on Amazon AWS]
-# [hosted on cloudfront]
-#            http://adblock.gjtech.net/?format=hostfile
-# [http://play.google.com/store/apps/details?id=com.babjul.billboard]
-# [http://play.google.com/store/apps/details?id=com.chuangkai.phonehelper]
-# [http://play.google.com/store/apps/details?id=com.coconuts.webnavigator]
-# [http://play.google.com/store/apps/details?id=com.taeyang.billboardtop]
-# [https://play.google.com/store/apps/details?id=com.buymeapie.bmap]
-# [https://play.google.com/store/apps/details?id=myapp.devilbaby.android.music.newmusic]
-# [inmobi.com]
-# [inner-active.mobi]
-# [Jumptab]
-# Kicelo, Dominik Schuermann
-# [leadboltmobile]
-# License:
-# [MdotM, Inc.]
-# [Medialytics]
-# [Mobclix]
-# [Mobpartner]
-# [mocean.mobi]
-# [mojiva.com]
-# [mojiva.com]
-# [MSN Ads, in Skype]
-# [mydas.mobi]
-# [National Rail Enquiries, https://play.google.com/store/apps/details?id=uk.co.nationalrail.google]
-# [pflexads.com]
-# [phluantmobile.net]
-# [smaato.net]
-# [Smart Adserver]
-# [tapad]
-# use finer grained hostnames?
-# [velti.com]
-# [vserv.mobi]
-# [yandex.ru]

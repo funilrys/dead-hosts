@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Wed Oct  4 21:00:11 UTC 2017
+# Date of generation: Thu Oct 12 11:17:02 UTC 2017
 
 a.applovin.com
 aax-us-east.amazon-adsystem.com
@@ -15,7 +15,6 @@ admarvel.s3.amazonaws.com
 admicro1.vcmedia.vn
 admin.vserv.mobi
 ad.mo.doubleclick.net
-ad.parrot.mable-inc.com
 ads1.mojiva.com
 ads2.greystripe.com
 ads2.mojiva.com
@@ -32,7 +31,6 @@ ads.mobclix.com
 ads.mobilityware.com
 ads.mopub.com
 ads.mp.mydas.mobi
-adsrv1.tapad.com
 ads.saymedia.com
 ads.vserv.mobi
 adsx.greystripe.com
@@ -163,6 +161,7 @@ itx5.smartadserver.com
 i.w.inmobi.com
 japan.inmobi.com
 lb.usemaxserver.de
+127.0.0.1  localhost
 lp.mp.mydas.mobi
 lp.mydas.mobi
 m2m1.inner-active.mobi
@@ -205,7 +204,6 @@ stats.pflexads.com
 strikeadcdn.s3.amazonaws.com
 suo.lp.mydas.mobi
 survey.foreseeresults.com
-swappit.tapad.com
 thinknear-hosted.thinknearhub.com
 track.celtra.com
 trackersimulator.org
@@ -237,63 +235,3 @@ www.mmnetwork.mobi
 www.pflexads.com
 www.smartadserver.com
 ::1  localhost
-# 2013-03-14 Back from the dead
-# 2013-03-29 Integrated some hosts from
-# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
-# 2016-07-18 Now hosted on GitHub + Cloudflare
-# AdAway default blocklist
-# [Adinfuse]
-# [Admob]
-# [AdWhirl]
-# [Amazon]
-# ANALYTICS
-# [appads.com]
-# [applift]
-# [applovin]
-# Blocking mobile ad providers and some analytics providers
-# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
-# [celtra.com]
-# Changelog:
-# Contribute:
-# Contributions by:
-# Create an issue at https://github.com/AdAway/AdAway/issues
-# [Doubleclick (Google)]
-# [EFF Tracker Detection]
-# [General]
-# [Google]
-# [Google]
-# [Greystripe]
-# [Hosted on Amazon AWS]
-# [hosted on cloudfront]
-#            http://adblock.gjtech.net/?format=hostfile
-# [http://play.google.com/store/apps/details?id=com.babjul.billboard]
-# [http://play.google.com/store/apps/details?id=com.chuangkai.phonehelper]
-# [http://play.google.com/store/apps/details?id=com.coconuts.webnavigator]
-# [http://play.google.com/store/apps/details?id=com.taeyang.billboardtop]
-# [https://play.google.com/store/apps/details?id=com.buymeapie.bmap]
-# [https://play.google.com/store/apps/details?id=myapp.devilbaby.android.music.newmusic]
-# [inmobi.com]
-# [inner-active.mobi]
-# [Jumptab]
-# Kicelo, Dominik Schuermann
-# [leadboltmobile]
-# License:
-# [MdotM, Inc.]
-# [Medialytics]
-# [Mobclix]
-# [Mobpartner]
-# [mocean.mobi]
-# [mojiva.com]
-# [mojiva.com]
-# [MSN Ads, in Skype]
-# [mydas.mobi]
-# [National Rail Enquiries, https://play.google.com/store/apps/details?id=uk.co.nationalrail.google]
-# [pflexads.com]
-# [phluantmobile.net]
-# [smaato.net]
-# [Smart Adserver]
-# [tapad]
-# use finer grained hostnames?
-# [velti.com]
-# [vserv.mobi]
-# [yandex.ru]
