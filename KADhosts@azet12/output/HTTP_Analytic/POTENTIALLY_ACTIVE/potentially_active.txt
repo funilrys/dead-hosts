@@ -1,0 +1,36 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Thu Oct 12 23:41:37 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+24klik.pl                                                                                            INACTIVE    000        Thu Oct 12 23:41:50 UTC 2017
+9sx.pl                                                                                               INACTIVE    000        Thu Oct 12 23:42:18 UTC 2017
+bonsy.waw.pl                                                                                         INACTIVE    000        Thu Oct 12 23:43:33 UTC 2017
+checkapi.xyz                                                                                         INACTIVE    000        Thu Oct 12 23:44:11 UTC 2017
+cinemastar.pl                                                                                        INACTIVE    000        Thu Oct 12 23:44:20 UTC 2017
+darmowe-doladowania.gsm.pl                                                                           INACTIVE    000        Thu Oct 12 23:44:46 UTC 2017
+doladuj-steam.pl                                                                                     INACTIVE    000        Thu Oct 12 23:45:29 UTC 2017
+dopeclothing.pl                                                                                      INACTIVE    000        Thu Oct 12 23:45:32 UTC 2017
+downloadfile.eu                                                                                      INACTIVE    000        Thu Oct 12 23:45:37 UTC 2017
+efun.net.pl                                                                                          INACTIVE    000        Thu Oct 12 23:45:53 UTC 2017
+enagrody24.pl                                                                                        INACTIVE    000        Thu Oct 12 23:46:03 UTC 2017
+faceszpieg.pl                                                                                        INACTIVE    000        Thu Oct 12 23:46:36 UTC 2017
+face-views.info.pl                                                                                   INACTIVE    000        Thu Oct 12 23:46:40 UTC 2017
+fifa17coins.com.pl                                                                                   INACTIVE    000        Thu Oct 12 23:47:17 UTC 2017
+fifa17-coins.pl                                                                                      INACTIVE    000        Thu Oct 12 23:47:18 UTC 2017
+files-host.pl                                                                                        INACTIVE    000        Thu Oct 12 23:47:31 UTC 2017
+followinsta.pl                                                                                       INACTIVE    000        Thu Oct 12 23:48:08 UTC 2017
+freehd.pl                                                                                            INACTIVE    000        Thu Oct 12 23:48:20 UTC 2017
+gamer24.pl                                                                                           INACTIVE    000        Thu Oct 12 23:48:45 UTC 2017
+gilgotka.pl                                                                                          INACTIVE    000        Thu Oct 12 23:49:02 UTC 2017
+goracezdobycze.pl                                                                                    INACTIVE    000        Thu Oct 12 23:49:14 UTC 2017
+herjacket.pl                                                                                         INACTIVE    000        Thu Oct 12 23:49:53 UTC 2017
+herssneakers.pl                                                                                      INACTIVE    000        Thu Oct 12 23:49:54 UTC 2017
+idzdalej.pl                                                                                          INACTIVE    000        Thu Oct 12 23:50:16 UTC 2017
+ifb-podgladacz.com.pl                                                                                INACTIVE    000        Thu Oct 12 23:50:17 UTC 2017
+ifb-viewer.pl                                                                                        INACTIVE    000        Thu Oct 12 23:50:18 UTC 2017
+instant-winner318.online                                                                             INACTIVE    000        Thu Oct 12 23:50:39 UTC 2017
+iqmilionera.pl                                                                                       INACTIVE    000        Thu Oct 12 23:51:00 UTC 2017
+jakie-iq.pl                                                                                          INACTIVE    000        Thu Oct 12 23:51:09 UTC 2017
+kadrymilosci.pl                                                                                      INACTIVE    000        Thu Oct 12 23:51:23 UTC 2017
