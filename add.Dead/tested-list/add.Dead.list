@@ -1,4 +1,3 @@
-
 0.0.0.0 analytic-google.com
 0.0.0.0 apple-updates.com
 0.0.0.0 blacksnake.com
@@ -30,6 +29,3 @@
 0.0.0.0 www.thesunonsunday.com
 0.0.0.0 www.thesunonsunday.co.uk
 0.0.0.0 www.wwwfacebook.com
-### Dead sites based on http://www.hostsfile.org/hosts.html content.
-### Extra rules for @StevenBlack 's hosts project 
-### https://github.com/FadeMind/hosts.extras
