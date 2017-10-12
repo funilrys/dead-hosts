@@ -68,3 +68,4 @@ verification56.helpfanspagea.tk                                                 
 virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 14:41:06 UTC 2017
 warrning-fanpa9e1.securittty4.tk                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 14:42:34 UTC 2017
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 14:43:36 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Oct 12 14:51:30 UTC 2017
