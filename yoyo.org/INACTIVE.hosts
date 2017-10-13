@@ -1,13 +1,9 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Oct 10 12:24:21 UTC 2017
+# Date of generation: Fri Oct 13 02:27:57 UTC 2017
 
-#
-#
-# ----
 0.0.0.0 ads.adultswim.com
 0.0.0.0 ads.batpmturner.com
 0.0.0.0 ads.canalblog.com
-0.0.0.0 ads.datingyes.com
 0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.newsquest.co.uk
 0.0.0.0 ads.sift.co.uk
@@ -15,3 +11,4 @@
 0.0.0.0 clients.tbo.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmtracking.alibaba.com
+0.0.0.0 touchclarity.natwest.com

@@ -14,3 +14,4 @@ ads.trinitymirror.co.uk                                                         
 clients.tbo.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 02:46:29 UTC 2017
 dmtracking2.alibaba.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 02:48:03 UTC 2017
 dmtracking.alibaba.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 02:48:04 UTC 2017
+touchclarity.natwest.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 03:06:20 UTC 2017

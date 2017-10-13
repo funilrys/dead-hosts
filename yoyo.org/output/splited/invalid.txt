@@ -14,3 +14,6 @@ naiadsystems.com.invalid                                                        
 parse.ly.invalid                                                                                     INVALID     IANA       000        Fri Oct 13 02:58:08 UTC 2017
 reedbusiness.com.invalid                                                                             INVALID     IANA       000        Fri Oct 13 02:59:58 UTC 2017
 seeq.com.invalid                                                                                     INVALID     IANA       000        Fri Oct 13 03:00:58 UTC 2017
+test.invalid                                                                                         INVALID     IANA       000        Fri Oct 13 03:05:34 UTC 2017
+top20.com.invalid                                                                                    INVALID     IANA       000        Fri Oct 13 03:05:57 UTC 2017
+topmmorpgsites.com.invalid                                                                           INVALID     IANA       000        Fri Oct 13 03:06:08 UTC 2017
