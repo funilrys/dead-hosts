@@ -1,25 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Oct 10 12:06:55 UTC 2017
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Date of generation: Fri Oct 13 02:08:42 UTC 2017
 
 0.0.0.0 1.googlenews.xorg.pl
 0.0.0.0 2.googlenews.xorg.pl
@@ -29,6 +9,7 @@
 0.0.0.0 adfiles.o2.pl.sds.o2.pl
 0.0.0.0 ad.filmweb.pl
 0.0.0.0 adidm.idmnet.pl
+0.0.0.0 adp.adview.pl
 0.0.0.0 adp.gazeta.pl
 0.0.0.0 ads.businessclick.pl
 0.0.0.0 adserver.gadu-gadu.pl
@@ -45,7 +26,6 @@
 0.0.0.0 googlenews.xorg.pl
 0.0.0.0 im.of.pl
 0.0.0.0 iwa.hit.interia.pl
-0.0.0.0 openx.xenium.pl
 0.0.0.0 partner-ts.groupon.pl
 0.0.0.0 pl.spanel.gem.pl
 0.0.0.0 rec.quartic.pl

@@ -1,23 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 0.0.0.0 15minadlt.hit.gemius.pl
 0.0.0.0 15minlt.adocean.pl
 0.0.0.0 1.googlenews.xorg.pl
@@ -431,14 +411,4 @@
 127.0.0.1 localhost.localdomain
 ::1 localhost
 255.255.255.255 broadcasthost
-# [adocean.pl]
 fe80::1%lo0 localhost
-# [gemius.pl]
-# [gostats.pl]
-# [interia.pl]
-# [o2.pl]
-# [onet.pl]
-# [Rest of *.pl]
-# [stat.pl]
-# [wp.pl]
-# [xorg.pl]
