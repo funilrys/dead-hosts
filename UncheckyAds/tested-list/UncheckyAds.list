@@ -1,4 +1,3 @@
-
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.bigspeedpro.com
 0.0.0.0 cdn.bispd.com
@@ -16,6 +15,3 @@
 0.0.0.0 installer.filebulldog.com
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
-### Extra rules for @StevenBlack 's hosts project 
-### https://github.com/FadeMind/hosts.extras
-### UncheckyAds
