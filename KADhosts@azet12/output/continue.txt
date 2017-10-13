@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list ustrzelskina.pl 1203 1102 101 0
+/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list zyski-z-innowacji.pl 1533 1393 140 0

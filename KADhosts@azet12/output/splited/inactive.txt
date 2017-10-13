@@ -105,3 +105,42 @@ tescikiq.pl                                                                     
 tvseriesmovies.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:03:13 UTC 2017
 twojepetycje.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:03:16 UTC 2017
 twoj-test-iq.blogspot.com                                                                                                                INACTIVE    SPECIAL    404        Fri Oct 13 00:03:19 UTC 2017
+vod-plex.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:06:04 UTC 2017
+walesa.pdns.download                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:06:08 UTC 2017
+watchonline24.pl                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:06:16 UTC 2017
+wideo-pryszcz.blogspot.com                                                                                                               INACTIVE    SPECIAL    404        Fri Oct 13 00:06:26 UTC 2017
+winner.online-co.xyz                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:06:38 UTC 2017
+www.congratulations.website                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:07:16 UTC 2017
+www.darmowedoladowanko.pl                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 13 00:07:21 UTC 2017
+www.data-smierci-na-telefon.pl                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:07:23 UTC 2017
+www.grakreatorkamody.pl                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:07:53 UTC 2017
+www.magiczneruny.pl                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:08:06 UTC 2017
+www.odpicujfure.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:08:29 UTC 2017
+www.plstation.pl                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:08:46 UTC 2017
+www.roslinkivsduchy.pl                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:08:52 UTC 2017
+www.rozrywkabox.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:08:54 UTC 2017
+www.twojnajlepszydeal.pl                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:13 UTC 2017
+wyciskanie-pryszcza.blogspot.com                                                                                                         INACTIVE    SPECIAL    404        Fri Oct 13 00:09:33 UTC 2017
+wygrajairpods.pl                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:34 UTC 2017
+wygrajfidgetspinner.pl                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:35 UTC 2017
+wygrajgiftcard.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:36 UTC 2017
+wygrajiiphone7.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:37 UTC 2017
+wygrajjacka.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:39 UTC 2017
+wygrajnike.blogspot.com                                                                                                                  INACTIVE    SPECIAL    404        Fri Oct 13 00:09:40 UTC 2017
+wygrajps4pro.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:41 UTC 2017
+wygrajriotsy.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:43 UTC 2017
+wygrajskiny.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:43 UTC 2017
+wygrajxboxones.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:45 UTC 2017
+wylosujgry.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:52 UTC 2017
+wyniki-konkursu.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:09:56 UTC 2017
+xn--kadrymioci-g0b51a.pl                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:10:02 UTC 2017
+yourfashions.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:10:10 UTC 2017
+yourmovies.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:10:14 UTC 2017
+zachomikowane.blogspot.com                                                                                                               INACTIVE    SPECIAL    404        Fri Oct 13 00:10:24 UTC 2017
+zaile-umrzesz.pl                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:10:28 UTC 2017
+zamow-najacze1.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 13 00:10:33 UTC 2017
+za-rejestrowany.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:10:39 UTC 2017
+zgarnijkonsole.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 13 00:10:56 UTC 2017
+zgarnijnike.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Fri Oct 13 00:10:58 UTC 2017
+zjesz-mnie.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:11:02 UTC 2017
+zmien-koolor.blogspot.com                                                                                                                INACTIVE    SPECIAL    404        Fri Oct 13 00:11:08 UTC 2017
