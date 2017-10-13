@@ -8,3 +8,9 @@ accounts.pkr.com.invalid                                                        
 adfactor.nl.invalid                                                                                  INVALID     IANA       000        Fri Oct 13 02:29:50 UTC 2017
 bravenet.com.invalid                                                                                 INVALID     IANA       000        Fri Oct 13 02:45:13 UTC 2017
 cibleclick.com.invalid                                                                               INVALID     IANA       000        Fri Oct 13 02:45:55 UTC 2017
+gigya.com.invalid                                                                                    INVALID     IANA       000        Fri Oct 13 02:52:43 UTC 2017
+globaltrack.com.invalid                                                                              INVALID     IANA       000        Fri Oct 13 02:52:45 UTC 2017
+naiadsystems.com.invalid                                                                             INVALID     IANA       000        Fri Oct 13 02:56:51 UTC 2017
+parse.ly.invalid                                                                                     INVALID     IANA       000        Fri Oct 13 02:58:08 UTC 2017
+reedbusiness.com.invalid                                                                             INVALID     IANA       000        Fri Oct 13 02:59:58 UTC 2017
+seeq.com.invalid                                                                                     INVALID     IANA       000        Fri Oct 13 03:00:58 UTC 2017
