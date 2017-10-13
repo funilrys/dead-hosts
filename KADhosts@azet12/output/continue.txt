@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list kingprizes.pl 600 542 58 0
+/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list ustrzelskina.pl 1203 1102 101 0

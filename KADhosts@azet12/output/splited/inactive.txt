@@ -62,3 +62,46 @@ iqmilionera.pl                                                                  
 jakie-iq.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:51:09 UTC 2017
 kadrymilosci.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:51:23 UTC 2017
 kingprizes.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 12 23:51:38 UTC 2017
+konkurs-iphone7.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:53:57 UTC 2017
+ktotopaczy.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:54:12 UTC 2017
+mega-download.eu                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:54:55 UTC 2017
+mega-zakupy.com.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:55:01 UTC 2017
+micartshop.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:55:05 UTC 2017
+motoawards.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:55:30 UTC 2017
+natkaaa1998.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Thu Oct 12 23:56:12 UTC 2017
+nowedoladowanie.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:56:23 UTC 2017
+odbierambony.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 12 23:56:32 UTC 2017
+odbierz-50pl.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:56:32 UTC 2017
+odbierzpokemon.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:56:36 UTC 2017
+odblokuj-iphone.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:56:38 UTC 2017
+odzyskajsnapy.blogspot.com                                                                                                               INACTIVE    SPECIAL    404        Thu Oct 12 23:56:47 UTC 2017
+onlinecalyfilm.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:57:04 UTC 2017
+pakiety-pokemon-go.blogspot.com                                                                                                          INACTIVE    SPECIAL    404        Thu Oct 12 23:57:19 UTC 2017
+playhd.pl                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:57:45 UTC 2017
+pliki-24.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:57:55 UTC 2017
+pobieramy-pliki.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 12 23:58:11 UTC 2017
+pobierz-to.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:58:25 UTC 2017
+podgladnijmnie.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:58:29 UTC 2017
+polkawlesie.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Thu Oct 12 23:58:43 UTC 2017
+pryszcz-wideo.blogspot.com                                                                                                               INACTIVE    SPECIAL    404        Thu Oct 12 23:59:15 UTC 2017
+redcloud.com.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:59:47 UTC 2017
+rejestrowanko.com.pl                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 23:59:48 UTC 2017
+rossmann2.wygraj-teraz.com                                                                           Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 13 00:00:02 UTC 2017
+seansuj.pl                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:00:23 UTC 2017
+serialoski.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:00:33 UTC 2017
+sex-fabryka.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Fri Oct 13 00:00:33 UTC 2017
+sexfabryka.blogspot.com                                                                                                                  INACTIVE    SPECIAL    404        Fri Oct 13 00:00:34 UTC 2017
+sexfabryki.blogspot.com                                                                                                                  INACTIVE    SPECIAL    404        Fri Oct 13 00:00:35 UTC 2017
+sledzememes.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:01:05 UTC 2017
+socialpeeper.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:01:20 UTC 2017
+steamdoladowanie.pl                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:01:47 UTC 2017
+streamsportowy.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:02:00 UTC 2017
+streamy.pl                                                                                           Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 13 00:02:03 UTC 2017
+strefasexlive.pl                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:02:03 UTC 2017
+szokinfor24.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Fri Oct 13 00:02:20 UTC 2017
+szybki-internet24.pl                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:02:27 UTC 2017
+tankuje-paliwo.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 13 00:02:34 UTC 2017
+tescikiq.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:02:45 UTC 2017
+tvseriesmovies.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:03:13 UTC 2017
+twojepetycje.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 00:03:16 UTC 2017
+twoj-test-iq.blogspot.com                                                                                                                INACTIVE    SPECIAL    404        Fri Oct 13 00:03:19 UTC 2017
