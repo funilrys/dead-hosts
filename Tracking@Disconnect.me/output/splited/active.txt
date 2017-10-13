@@ -1,0 +1,38 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Fri Oct 13 02:20:36 UTC 2017
+
+
+Domain                                                                                               Status      Expiration Date   Source     HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ----------------- ---------- ---------- -------------------------------
+adjust.io                                                                                            ACTIVE      24-may-2018       WHOIS      301        Fri Oct 13 02:20:36 UTC 2017
+airbrake.io                                                                                          ACTIVE      06-sep-2018       WHOIS      301        Fri Oct 13 02:20:37 UTC 2017
+appboy.com                                                                                           ACTIVE      06-oct-2020       WHOIS      301        Fri Oct 13 02:20:37 UTC 2017
+appsflyer.com                                                                                        ACTIVE      09-may-2019       WHOIS      301        Fri Oct 13 02:20:37 UTC 2017
+apsalar.com                                                                                          ACTIVE      28-jan-2021       WHOIS      301        Fri Oct 13 02:20:38 UTC 2017
+bango.net                                                                                            ACTIVE      13-jul-2019       WHOIS      302        Fri Oct 13 02:20:39 UTC 2017
+basic-check.disconnect.me                                                                            ACTIVE      Unknown           NSLOOKUP   301        Fri Oct 13 02:20:40 UTC 2017
+bkrtx.com                                                                                            ACTIVE      04-mar-2018       WHOIS      000        Fri Oct 13 02:20:40 UTC 2017
+bluekai.com                                                                                          ACTIVE      06-jul-2020       WHOIS      301        Fri Oct 13 02:20:40 UTC 2017
+bugsense.com                                                                                         ACTIVE      19-may-2018       WHOIS      302        Fri Oct 13 02:20:41 UTC 2017
+burstly.com                                                                                          ACTIVE      12-mar-2021       WHOIS      000        Fri Oct 13 02:20:41 UTC 2017
+chartboost.com                                                                                       ACTIVE      24-feb-2018       WHOIS      301        Fri Oct 13 02:20:41 UTC 2017
+count.ly                                                                                             ACTIVE      12-dec-2018       WHOIS      301        Fri Oct 13 02:20:42 UTC 2017
+crashlytics.com                                                                                      ACTIVE      21-jan-2019       WHOIS      301        Fri Oct 13 02:20:43 UTC 2017
+crittercism.com                                                                                      ACTIVE      18-aug-2024       WHOIS      301        Fri Oct 13 02:20:43 UTC 2017
+do-not-tracker.org                                                                                   ACTIVE      27-jul-2018       WHOIS      301        Fri Oct 13 02:20:44 UTC 2017
+eviltracker.net                                                                                      ACTIVE      20-jul-2018       WHOIS      Unknown    Fri Oct 13 02:20:46 UTC 2017
+flurry.com                                                                                           ACTIVE      03-may-2019       WHOIS      301        Fri Oct 13 02:20:46 UTC 2017
+getexceptional.com                                                                                   ACTIVE      25-apr-2023       WHOIS      301        Fri Oct 13 02:20:47 UTC 2017
+inmobi.com                                                                                           ACTIVE      15-may-2019       WHOIS      200        Fri Oct 13 02:20:47 UTC 2017
+jumptap.com                                                                                          ACTIVE      16-jun-2018       WHOIS      Unknown    Fri Oct 13 02:20:48 UTC 2017
+localytics.com                                                                                       ACTIVE      07-jul-2020       WHOIS      301        Fri Oct 13 02:20:49 UTC 2017
+mixpanel.com                                                                                         ACTIVE      13-mar-2024       WHOIS      301        Fri Oct 13 02:20:49 UTC 2017
+mobileapptracking.com                                                                                ACTIVE      05-aug-2026       WHOIS      301        Fri Oct 13 02:20:49 UTC 2017
+mobile-collector.newrelic.com                                                                        ACTIVE      Unknown           NSLOOKUP   404        Fri Oct 13 02:20:50 UTC 2017
+playtomic.com                                                                                        ACTIVE      28-may-2018       WHOIS      200        Fri Oct 13 02:20:50 UTC 2017
+stathat.com                                                                                          ACTIVE      28-oct-2017       WHOIS      301        Fri Oct 13 02:20:51 UTC 2017
+supercell.net                                                                                        ACTIVE      28-may-2021       WHOIS      302        Fri Oct 13 02:20:51 UTC 2017
+tapjoy.com                                                                                           ACTIVE      02-jan-2023       WHOIS      301        Fri Oct 13 02:20:52 UTC 2017
+trackersimulator.org                                                                                 ACTIVE      17-jun-2018       WHOIS      301        Fri Oct 13 02:20:52 UTC 2017
+usergrid.com                                                                                         ACTIVE      26-feb-2020       WHOIS      000        Fri Oct 13 02:20:52 UTC 2017
+vungle.com                                                                                           ACTIVE      26-oct-2022       WHOIS      301        Fri Oct 13 02:20:53 UTC 2017
