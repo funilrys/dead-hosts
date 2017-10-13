@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list worldhistory.biz 5536 5323 213 0
+/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list zzlgxh.com 5861 5635 226 0
