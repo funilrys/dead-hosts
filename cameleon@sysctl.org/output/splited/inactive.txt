@@ -454,3 +454,8 @@ ads10.liteweb.net                                                               
 ads110.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 17 19:18:53 UTC 2017
 ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Tue Oct 17 19:38:25 UTC 2017
 adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:42:47 UTC 2017
+ads.mail3x.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:49:28 UTC 2017
+ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:49:53 UTC 2017
+ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:51:22 UTC 2017
+ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:55:15 UTC 2017
+ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:55:23 UTC 2017
