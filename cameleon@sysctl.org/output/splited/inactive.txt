@@ -453,3 +453,8 @@ ad.hizlireklam.com                                                              
 ads166.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 08:14:45 UTC 2017
 ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Wed Oct 18 08:29:26 UTC 2017
 adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 08:33:40 UTC 2017
+ads.mail3x.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 08:41:18 UTC 2017
+ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 08:41:48 UTC 2017
+ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 08:43:17 UTC 2017
+ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 08:47:04 UTC 2017
+ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 08:47:13 UTC 2017
