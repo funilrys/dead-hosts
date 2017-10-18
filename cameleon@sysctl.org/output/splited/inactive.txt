@@ -501,3 +501,8 @@ s2.video.doubleclick.net                                                        
 securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Wed Oct 18 17:04:09 UTC 2017
 servedby.revcontent.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 17:04:51 UTC 2017
 ssl-hints.netflame.cc                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 17:08:37 UTC 2017
+stats.gamespy.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 17:13:32 UTC 2017
+st.n.ads1-adnow.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 17:14:46 UTC 2017
+st.n.ads3-adnow.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 17:14:48 UTC 2017
+tag.beanstock.co                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 17:16:25 UTC 2017
+tbdev.pickoftheweb.com                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 17:17:17 UTC 2017
