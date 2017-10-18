@@ -28,3 +28,5 @@ bst.reedbusiness.com                                                            
 c.adroll.com                                                                                         INACTIVE    000        Wed Oct 18 15:18:36 UTC 2017
 ch.p-digital-server.com                                                                              INACTIVE    000        Wed Oct 18 15:25:49 UTC 2017
 clicks.emarketmakers.com                                                                             INACTIVE    000        Wed Oct 18 15:27:07 UTC 2017
+counter.web-marketolog.ru                                                                            INACTIVE    000        Wed Oct 18 15:36:18 UTC 2017
+dns2.eguard.net                                                                                      INACTIVE    000        Wed Oct 18 15:43:46 UTC 2017
