@@ -470,3 +470,5 @@ c20.valary.com                                                                  
 c26.valary.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 09:42:30 UTC 2017
 c.adroll.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 09:43:47 UTC 2017
 ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 09:50:43 UTC 2017
+clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 10:46:28 UTC 2017
+counter.web-marketolog.ru                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 10:54:05 UTC 2017
