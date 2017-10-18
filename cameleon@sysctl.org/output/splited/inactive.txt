@@ -465,3 +465,7 @@ analytics.amilliamilli.com                                                      
 banner.adserverpub.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 09:18:14 UTC 2017
 b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 09:22:23 UTC 2017
 beta-hints.netflame.cc                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 09:23:38 UTC 2017
+c12.valary.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 09:42:04 UTC 2017
+c20.valary.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 09:42:23 UTC 2017
+c26.valary.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 09:42:30 UTC 2017
+c.adroll.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 09:43:47 UTC 2017
