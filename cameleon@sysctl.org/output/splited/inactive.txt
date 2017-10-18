@@ -452,3 +452,5 @@ adclick.g.doubleclick.net                                                       
 ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 12:47:52 UTC 2017
 ads110.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 12:54:00 UTC 2017
 ads111.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 12:54:07 UTC 2017
+ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Wed Oct 18 13:11:54 UTC 2017
+adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:15:51 UTC 2017
