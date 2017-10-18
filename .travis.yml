@@ -16,7 +16,8 @@ matrix:
 before_script:
     - phpenv config-rm xdebug.ini
 before_install:
-    - sudo apt-get -qq update
+    #- sudo apt-get -qq update
+    - sudo apt-get -y update
     - sudo apt-get -y install expect
     - sudo apt-get -y install whois
     - sudo apt-get -y install dos2unix
