@@ -21,3 +21,6 @@ atax.askmen.com                                                                 
 atax.gamermetrics.com                                                                                INACTIVE    000        Wed Oct 18 13:55:08 UTC 2017
 atax.ign.com                                                                                         INACTIVE    000        Wed Oct 18 13:55:09 UTC 2017
 atax.teamxbox.com                                                                                    INACTIVE    000        Wed Oct 18 13:55:09 UTC 2017
+banner.adserverpub.com                                                                               INACTIVE    000        Wed Oct 18 14:44:42 UTC 2017
+b.collective-media.net                                                                               INACTIVE    000        Wed Oct 18 14:48:34 UTC 2017
+beta-hints.netflame.cc                                                                               INACTIVE    000        Wed Oct 18 14:49:47 UTC 2017
