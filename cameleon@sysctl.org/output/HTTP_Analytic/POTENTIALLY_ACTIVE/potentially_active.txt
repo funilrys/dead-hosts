@@ -32,3 +32,4 @@ counter.web-marketolog.ru                                                       
 dns2.eguard.net                                                                                      INACTIVE    000        Wed Oct 18 15:43:46 UTC 2017
 hints.netflame.cc                                                                                    INACTIVE    000        Wed Oct 18 16:03:48 UTC 2017
 h.ppjol.com                                                                                          INACTIVE    000        Wed Oct 18 16:06:04 UTC 2017
+js.adserverpub.com                                                                                   INACTIVE    000        Wed Oct 18 16:15:13 UTC 2017

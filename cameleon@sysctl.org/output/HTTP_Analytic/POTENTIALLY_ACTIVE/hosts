@@ -29,3 +29,5 @@
 0.0.0.0 dns2.eguard.net
 0.0.0.0 hints.netflame.cc
 0.0.0.0 h.ppjol.com
+0.0.0.0 js.adserverpub.com
+127.0.0.1        localhost

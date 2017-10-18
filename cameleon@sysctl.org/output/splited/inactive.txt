@@ -486,3 +486,4 @@ fls.doubleclick.net                                                             
 fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Wed Oct 18 15:53:54 UTC 2017
 hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 16:03:48 UTC 2017
 h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 16:06:04 UTC 2017
+js.adserverpub.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 16:15:13 UTC 2017
