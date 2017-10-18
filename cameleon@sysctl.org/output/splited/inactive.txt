@@ -470,3 +470,8 @@ atax.teamxbox.com                                                               
 banner.adserverpub.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 14:44:42 UTC 2017
 b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 14:48:34 UTC 2017
 beta-hints.netflame.cc                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 14:49:47 UTC 2017
+bst.reedbusiness.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 15:16:03 UTC 2017
+c12.valary.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 15:16:53 UTC 2017
+c20.valary.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 15:17:16 UTC 2017
+c26.valary.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 15:17:26 UTC 2017
+c.adroll.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 15:18:36 UTC 2017
