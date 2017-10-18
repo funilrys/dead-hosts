@@ -461,3 +461,9 @@ ads.uniquemedia.net                                                             
 ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:28:12 UTC 2017
 adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:30:49 UTC 2017
 adx.g.doubleclick.net                                                                                                                    INACTIVE    SPECIAL    404        Wed Oct 18 13:41:32 UTC 2017
+a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:46:00 UTC 2017
+analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:49:37 UTC 2017
+atax.askmen.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:55:07 UTC 2017
+atax.gamermetrics.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:55:08 UTC 2017
+atax.ign.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:55:09 UTC 2017
+atax.teamxbox.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:55:09 UTC 2017

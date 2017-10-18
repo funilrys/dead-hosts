@@ -15,3 +15,9 @@ ads.pennyweb.com                                                                
 ads.uniquemedia.net                                                                                  INACTIVE    000        Wed Oct 18 13:28:04 UTC 2017
 ads.usermedia.net                                                                                    INACTIVE    000        Wed Oct 18 13:28:12 UTC 2017
 adtxt.prbn.ru                                                                                        INACTIVE    000        Wed Oct 18 13:30:49 UTC 2017
+a.goember.com                                                                                        INACTIVE    000        Wed Oct 18 13:46:00 UTC 2017
+analytics.amilliamilli.com                                                                           INACTIVE    000        Wed Oct 18 13:49:37 UTC 2017
+atax.askmen.com                                                                                      INACTIVE    000        Wed Oct 18 13:55:07 UTC 2017
+atax.gamermetrics.com                                                                                INACTIVE    000        Wed Oct 18 13:55:08 UTC 2017
+atax.ign.com                                                                                         INACTIVE    000        Wed Oct 18 13:55:09 UTC 2017
+atax.teamxbox.com                                                                                    INACTIVE    000        Wed Oct 18 13:55:09 UTC 2017
