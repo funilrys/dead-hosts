@@ -444,3 +444,5 @@ Domain                                                                          
 5362399.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Wed Oct 18 12:14:04 UTC 2017
 5582200.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Wed Oct 18 12:14:08 UTC 2017
 above-gw.liveadvert.com                                                                                                                  INACTIVE    SPECIAL    404        Wed Oct 18 12:17:05 UTC 2017
+acnetwork.flux.acsyndication.com                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 12:20:09 UTC 2017
+a.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 12:20:10 UTC 2017
