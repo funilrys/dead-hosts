@@ -48,3 +48,7 @@ wrapper.askmen.com                                                              
 wrapper.gamespyid.com                                                                                INACTIVE    000        Wed Oct 18 17:32:20 UTC 2017
 wrapper.ign.com                                                                                      INACTIVE    000        Wed Oct 18 17:32:22 UTC 2017
 wrapper.teamxbox.com                                                                                 INACTIVE    000        Wed Oct 18 17:32:23 UTC 2017
+www2.adserverpub.com                                                                                 INACTIVE    000        Wed Oct 18 17:36:13 UTC 2017
+www.burstnet.akadns.net                                                                              INACTIVE    000        Wed Oct 18 17:41:35 UTC 2017
+www.conceptsbyteupdate.com                                                                           INACTIVE    000        Wed Oct 18 17:42:42 UTC 2017
+www.flashgamejunkie.com                                                                              INACTIVE    000        Wed Oct 18 17:45:29 UTC 2017
