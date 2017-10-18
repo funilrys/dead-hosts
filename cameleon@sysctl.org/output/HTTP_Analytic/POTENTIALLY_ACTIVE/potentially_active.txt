@@ -36,3 +36,5 @@ js.adserverpub.com                                                              
 metrics.gamestop.com                                                                                 INACTIVE    000        Wed Oct 18 16:27:16 UTC 2017
 micosoft.com-web.support                                                                             INACTIVE    000        Wed Oct 18 16:29:15 UTC 2017
 ox-d.motogp.com                                                                                      INACTIVE    000        Wed Oct 18 16:42:01 UTC 2017
+pussygreen.com                                                                                       INACTIVE    000        Wed Oct 18 16:51:56 UTC 2017
+rewards.macandbumble.com                                                                             INACTIVE    000        Wed Oct 18 16:55:27 UTC 2017
