@@ -460,3 +460,4 @@ ads.pennyweb.com                                                                
 ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:28:04 UTC 2017
 ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:28:12 UTC 2017
 adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 13:30:49 UTC 2017
+adx.g.doubleclick.net                                                                                                                    INACTIVE    SPECIAL    404        Wed Oct 18 13:41:32 UTC 2017
