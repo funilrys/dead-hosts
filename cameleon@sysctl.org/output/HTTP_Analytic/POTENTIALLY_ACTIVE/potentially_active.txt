@@ -8,3 +8,4 @@ acnetwork.flux.acsyndication.com                                                
 a.collective-media.net                                                                               INACTIVE    000        Wed Oct 18 07:39:46 UTC 2017
 ad468.prbn.ru                                                                                        INACTIVE    000        Wed Oct 18 07:55:09 UTC 2017
 ad.hizlireklam.com                                                                                   INACTIVE    000        Wed Oct 18 08:04:33 UTC 2017
+adserver.nav2.net                                                                                    INACTIVE    000        Wed Oct 18 08:33:40 UTC 2017
