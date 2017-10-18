@@ -497,3 +497,7 @@ pagead.l.doubleclick.net                                                        
 partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Wed Oct 18 16:43:10 UTC 2017
 pussygreen.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 16:51:56 UTC 2017
 rewards.macandbumble.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 16:55:27 UTC 2017
+s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Wed Oct 18 17:00:44 UTC 2017
+securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Wed Oct 18 17:04:09 UTC 2017
+servedby.revcontent.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 17:04:51 UTC 2017
+ssl-hints.netflame.cc                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 17:08:37 UTC 2017
