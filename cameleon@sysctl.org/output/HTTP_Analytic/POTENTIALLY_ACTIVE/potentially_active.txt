@@ -13,3 +13,4 @@ ads.mail3x.com                                                                  
 ads.pennyweb.com                                                                                     INACTIVE    000        Wed Oct 18 08:43:17 UTC 2017
 ads.uniquemedia.net                                                                                  INACTIVE    000        Wed Oct 18 08:47:04 UTC 2017
 ads.usermedia.net                                                                                    INACTIVE    000        Wed Oct 18 08:47:13 UTC 2017
+adtxt.prbn.ru                                                                                        INACTIVE    000        Wed Oct 18 08:51:20 UTC 2017
