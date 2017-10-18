@@ -485,3 +485,7 @@
 0.0.0.0 h.ppjol.com
 0.0.0.0 js.adserverpub.com
 127.0.0.1        localhost
+0.0.0.0 metrics.gamestop.com
+0.0.0.0 micosoft.com-web.support
+0.0.0.0 motifcdn2.doubleclick.net
+0.0.0.0 motifcdn.doubleclick.net
