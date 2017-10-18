@@ -20,3 +20,4 @@ banner.adserverpub.com                                                          
 b.collective-media.net                                                                               INACTIVE    000        Wed Oct 18 09:22:23 UTC 2017
 beta-hints.netflame.cc                                                                               INACTIVE    000        Wed Oct 18 09:23:38 UTC 2017
 c.adroll.com                                                                                         INACTIVE    000        Wed Oct 18 09:43:47 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Wed Oct 18 09:50:43 UTC 2017
