@@ -1,0 +1,1 @@
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list abuebu.com 1173 733 440 0
