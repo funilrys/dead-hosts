@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list crmbuyer.us.intellitxt.com 10446 9978 468 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list emisjawidgeet.onet.pl 11237 10767 470 0

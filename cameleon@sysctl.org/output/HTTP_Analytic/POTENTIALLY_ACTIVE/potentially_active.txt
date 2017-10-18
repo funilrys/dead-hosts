@@ -22,3 +22,5 @@ beta-hints.netflame.cc                                                          
 c.adroll.com                                                                                         INACTIVE    000        Wed Oct 18 09:43:47 UTC 2017
 ch.p-digital-server.com                                                                              INACTIVE    000        Wed Oct 18 09:50:43 UTC 2017
 clicks.emarketmakers.com                                                                             INACTIVE    000        Wed Oct 18 10:46:28 UTC 2017
+delivery.usermedia.net                                                                               INACTIVE    000        Wed Oct 18 11:01:41 UTC 2017
+dns2.eguard.net                                                                                      INACTIVE    000        Wed Oct 18 11:03:46 UTC 2017
