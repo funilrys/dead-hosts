@@ -478,3 +478,5 @@ feedads.g.doubleclick.net                                                       
 fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Wed Oct 18 11:14:05 UTC 2017
 fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Wed Oct 18 11:14:05 UTC 2017
 fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Wed Oct 18 11:14:07 UTC 2017
+ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 11:29:23 UTC 2017
+clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 11:30:48 UTC 2017
