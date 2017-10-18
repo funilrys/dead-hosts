@@ -16,3 +16,6 @@ ads.usermedia.net                                                               
 adtxt.prbn.ru                                                                                        INACTIVE    000        Wed Oct 18 08:51:20 UTC 2017
 a.goember.com                                                                                        INACTIVE    000        Wed Oct 18 09:04:37 UTC 2017
 analytics.amilliamilli.com                                                                           INACTIVE    000        Wed Oct 18 09:08:23 UTC 2017
+banner.adserverpub.com                                                                               INACTIVE    000        Wed Oct 18 09:18:14 UTC 2017
+b.collective-media.net                                                                               INACTIVE    000        Wed Oct 18 09:22:23 UTC 2017
+beta-hints.netflame.cc                                                                               INACTIVE    000        Wed Oct 18 09:23:38 UTC 2017
