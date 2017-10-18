@@ -26,3 +26,7 @@ delivery.usermedia.net                                                          
 dns2.eguard.net                                                                                      INACTIVE    000        Wed Oct 18 11:03:46 UTC 2017
 ch.p-digital-server.com                                                                              INACTIVE    000        Wed Oct 18 11:29:23 UTC 2017
 clicks.emarketmakers.com                                                                             INACTIVE    000        Wed Oct 18 11:30:48 UTC 2017
+adserver.nav2.net                                                                                    INACTIVE    000        Wed Oct 18 11:49:41 UTC 2017
+ads.mail3x.com                                                                                       INACTIVE    000        Wed Oct 18 11:54:20 UTC 2017
+ads.mezimedia.com                                                                                    INACTIVE    000        Wed Oct 18 11:54:48 UTC 2017
+ads.pennyweb.com                                                                                     INACTIVE    000        Wed Oct 18 11:56:38 UTC 2017
