@@ -491,3 +491,7 @@ metrics.gamestop.com                                                            
 micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 16:29:15 UTC 2017
 motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Wed Oct 18 16:30:17 UTC 2017
 motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Wed Oct 18 16:30:18 UTC 2017
+ox-d.motogp.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 16:42:01 UTC 2017
+pagead46.l.doubleclick.net                                                                                                               INACTIVE    SPECIAL    404        Wed Oct 18 16:42:42 UTC 2017
+pagead.l.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Wed Oct 18 16:42:43 UTC 2017
+partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Wed Oct 18 16:43:10 UTC 2017
