@@ -173,7 +173,7 @@ startFunceble(){
     # We launch funceble
     ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/copytoroot" --travis -a -ex --plain --split -h -f ${fileToLook}
 
-    if [[ $(git log | head -5 | tail -1) =~ ${regexTravis} ]]
+    if [[ $(git log -1 | tail -1) =~ ${regexTravis} ]]
     then
         if [[ -f ${root}/currently_under_test ]]
         then
