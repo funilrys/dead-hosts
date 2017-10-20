@@ -163,7 +163,7 @@ startFunceble()
     chmod +x ${toolToStart}
     
     # We update funceble
-    ${toolToStart} --dev --iana --directory-structure
+    ${toolToStart} --dev --iana --directory-structure -u
     
     # We change permissions of all files
     travisPermissions
