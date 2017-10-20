@@ -1,1 +1,0 @@
-/home/travis/build/funilrys/dead-hosts/yoyo.org/tested-list/yoyo.org.list zv1.november-lax.com 2470 2446 11 13

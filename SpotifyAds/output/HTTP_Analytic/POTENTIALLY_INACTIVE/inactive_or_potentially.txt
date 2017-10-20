@@ -1,8 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Fri Oct 13 02:18:48 UTC 2017
-
-
-Domain                                                                                               Status      HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-securepubads.g.doubleclick.net                                                                       ACTIVE      404        Fri Oct 13 02:18:49 UTC 2017
-www.googletagservices.com                                                                            ACTIVE      404        Fri Oct 13 02:18:50 UTC 2017

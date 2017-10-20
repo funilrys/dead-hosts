@@ -1,1 +1,0 @@
-/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list zzqrt.com 7394 7329 65 0

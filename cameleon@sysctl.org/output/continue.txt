@@ -1,1 +1,0 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list zzz.clickbank.net 20629 20110 519 0

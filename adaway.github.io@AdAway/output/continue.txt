@@ -1,1 +1,0 @@
-/home/travis/build/funilrys/dead-hosts/adaway.github.io@AdAway/tested-list/adaway.github.io@AdAway.list  409 232 177 0
