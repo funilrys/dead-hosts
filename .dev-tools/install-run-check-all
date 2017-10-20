@@ -182,6 +182,10 @@ startFunceble(){
             travisPermissions
             rm ${root}/currently_under_test
         fi
+        echo date > ${directory}/last_execution_time
+        
+        travisPermissions
+        
         date > ${root}/.dev-tools/trigger-build && git add --all && commit -a -m 'Launch build' && git push origin master
     fi
     
@@ -209,16 +213,16 @@ else
         # We check if the current readed data is a directory
         if [[ -d ${directory} ]]
         then
-            percentageFile="${directory}/output/logs/percentage/percentage.txt"
+            executionTimeFile="${directory}/last_execution_time"
             
             # We check if percentage.txt exist
-            if [[ -f "${percentageFile}" ]]
+            if [[ -f "${executionTimeFile}" ]]
             then
                 # We get the date of percentage.txt
-                dateOfLastPercentage=$(date -r ${percentageFile})
+                dateOfLastExecution=$(cat ${executionTimeFile})
                 
                 # We get the difference between now and ${dateOfLastPercentage}
-                diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastPercentage}")
+                diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastExecution}")
                 
                 if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
                 then
