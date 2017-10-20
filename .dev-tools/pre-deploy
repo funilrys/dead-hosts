@@ -54,7 +54,7 @@ git checkout master
 # Run funceble to check for dead domains
 ################################################################################
 
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
+sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-check-all
 
 ################################################################################
 # Travis now moves to the before_deploy: section of .travis.yml
