@@ -187,15 +187,17 @@ startFunceble()
     
     # We delete all commented line
     sed -i -r '/^(\s*#|$)/d;' ${fileToLook}
-    sed -i -r '/^(\s*#|$)/d;' ${directory}/inactive_db
+    
     
     if [[ -f ${directory}/inactive_db && ! -f ${directory}/inactive_checked ]]
     then
+        sed -i -r '/^(\s*#|$)/d;' ${directory}/inactive_db
+        
         # We launch tool
         ${toolToStart} --dev --autosave-minutes 10 --commit-autosave-message "${1} inactive_db - Test" --commit-results-message "${1}'s inactive_db - Results" -u -i
         
         # We launch funceble
-        ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/append_to_original_list" --travis -a -ex --plain --split -h -f ${directory}/inactive_db
+        ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/append_to_original_list" --travis -a -ex --plain --split -h -f "${directory}/inactive_db"
         
         if [[ $(git log -1 | tail -1) =~ ${regexTravis} ]]
         then
