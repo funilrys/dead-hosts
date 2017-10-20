@@ -1,0 +1,49 @@
+#!/bin/bash
+
+# _______           _        _______  _______  ______   _        _______
+# (  ____ \|\     /|( (    /|(  ____ \(  ____ \(  ___ \ ( \      (  ____ \
+# | (    \/| )   ( ||  \  ( || (    \/| (    \/| (   ) )| (      | (    \/
+# | (__    | |   | ||   \ | || |      | (__    | (__/ / | |      | (__
+# |  __)   | |   | || (\ \) || |      |  __)   |  __ (  | |      |  __)
+# | (      | |   | || | \   || |      | (      | (  \ \ | |      | (
+# | )      | (___) || )  \  || (____/\| (____/\| )___) )| (____/\| (____/\
+# |/       (_______)|/    )_)(_______/(_______/|/ \___/ (_______/(_______/
+
+# Written by: @Funilrys, Nissar Chababy <contact at funilrys dot com>
+# GitHub : https://github.com/funilrys/funceble
+# GitHub : https://github.com/funilrys/dead-hosts
+
+################################ Contributors #################################
+#  Let's contribute !!
+###############################################################################
+
+# root directory
+root=${PWD}
+
+# Domain list directory
+directory=${root}/output/domains/ACTIVE
+
+# Tested-list directory
+testedList=$(find ${root}/tested-list/ -name '*.list')
+
+# Temp files
+tempfile=/var/tmp/appendTemp.$$
+tempFileDump=/var/tmp/toappend.$$
+tempOriginalList=/var/tmp/origin.$$
+
+if [[ -f ${directory}/list ]]
+then
+    
+    sed -r '/^(\s*#|$)/d;' ${directory}/list > ${tempfile}
+    
+    # Uncomment this line if there's issue with comment line (should not happens)
+    # sed -r '/^(\s*#|$)/d;' ${testedList} > ${tempOriginalList}
+    
+    
+    if [[ true == true ]]
+    then
+        join -v1 -v2 <(sort ${tempOriginalList}) <(sort ${tempfile}) >> ${tempFileDump}
+        
+        echo "$(cat ${tempFileDump})" >> ${testedList}
+    fi
+fi
