@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Fri Oct 20 23:02:55 UTC 2017
+# Date of generation: Fri Oct 20 23:34:11 UTC 2017
 
 a.applovin.com
 aax-us-east.amazon-adsystem.com
@@ -161,6 +161,8 @@ itx5.smartadserver.com
 i.w.inmobi.com
 japan.inmobi.com
 lb.usemaxserver.de
+127.0.0.1 localhost
+127.0.0.1 localhost
 127.0.0.1  localhost
 lp.mp.mydas.mobi
 lp.mydas.mobi
@@ -234,4 +236,6 @@ www.eltrafiko.com
 www.mmnetwork.mobi
 www.pflexads.com
 www.smartadserver.com
+::1 localhost
+::1 localhost
 ::1  localhost
