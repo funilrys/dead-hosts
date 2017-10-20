@@ -131,7 +131,7 @@ travisPermissions()
 ################################################################################
 launchBuild()
 {
-    date > ${root}/.dev-tools/trigger-build && git add --all && commit -a -m 'Launch build' && git push origin master
+    date > ${root}/.dev-tools/trigger-build && git add --all && git commit -a -m 'Launch build' && git push origin master
 }
 
 ################################## Start Funceble ##############################
