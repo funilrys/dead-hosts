@@ -43,7 +43,8 @@ cd ${root}
 #
 # @CalledBy *
 ################################################################################
-date2stamp () {
+date2stamp ()
+{
     date --utc --date "${1}" +%s
 }
 
@@ -52,7 +53,8 @@ date2stamp () {
 #
 # @CalledBy *
 ################################################################################
-stamp2date (){
+stamp2date ()
+{
     date --utc --date "1970-01-01 ${1} sec" "+%Y-%m-%d %T"
 }
 
@@ -61,7 +63,8 @@ stamp2date (){
 #
 # @CalledBy *
 ################################################################################
-dateDiff (){
+dateDiff ()
+{
     case ${1} in
         -s)
             sec=1
@@ -121,12 +124,23 @@ travisPermissions()
     fi
 }
 
+################################### Launch Build ###############################
+# Commit 'Launch build'
+#
+# @CalledBy startFunceble
+################################################################################
+launchBuild()
+{
+    date > ${root}/.dev-tools/trigger-build && git add --all && commit -a -m 'Launch build' && git push origin master
+}
+
 ################################## Start Funceble ##############################
 # Start funceble
 #
 # @CalledBy *
 ################################################################################
-startFunceble(){
+startFunceble()
+{
     # We get the directory
     local directory="${root}/${1}"
     # We get funceble
@@ -150,12 +164,11 @@ startFunceble(){
     
     # We update funceble
     ${toolToStart} --dev --iana --directory-structure
-    ${toolToStart} --dev --autosave-minutes 10 -u -i
     
     # We change permission of funceble
     chmod +x ${funcebleToStart}
     
-    if [[ $(git log -1 | tail -1) =~ ${regexTravis} ]]
+    if [[ $(git log -1 | tail -1) =~ ${regexTravis} || $(git log -1 | tail -1) =~ Launch\sbuild && ! -f ${directory}/inactive_checked ]]
     then
         # We update the tested-list/*.lists file(s)
         chmod +x update.me && ./update.me
@@ -171,9 +184,30 @@ startFunceble(){
     
     # We delete all commented line
     sed -i -r '/^(\s*#|$)/d;' ${fileToLook}
+    sed -i -r '/^(\s*#|$)/d;' ${directory}/inactive_db
     
-    # We launch funceble
-    ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/copytoroot" --travis -a -ex --plain --split -h -f ${fileToLook}
+    if [[ -f ${directory}/inactive_db && ! -f ${directory}/inactive_checked ]]
+    then
+        # We launch tool
+        ${toolToStart} --dev --autosave-minutes 10 --commit-autosave-message "${1} inactive_db - Test" --commit-results-message "${1}'s inactive_db - Results" -u -i
+        
+        # We launch funceble
+        ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/append_to_original_list" --travis -a -ex --plain --split -h -f ${directory}/inactive_db
+        
+        if [[ $(git log -1 | tail -1) =~ ${regexTravis} ]]
+        then
+            echo "${date}" > ${directory}/inactive_checked
+            travisPermissions
+            
+            launchBuild
+        fi
+        
+        exit 0
+        
+    else
+        ${toolToStart} --dev --autosave-minutes 10 --commit-autosave-message "${1} - Test" --commit-results-message "${1} - Results" -u -i
+        ${funcebleToStart} --cmd-before-end "bash ${root}/.dev-tools/copytoroot" --travis -a -ex --plain --split -h -f ${fileToLook}
+    fi
     
     if [[ $(git log -1 | tail -1) =~ ${regexTravis} ]]
     then
@@ -182,11 +216,16 @@ startFunceble(){
             travisPermissions
             rm ${root}/currently_under_test
         fi
-        echo date > ${directory}/last_execution_time
         
+        if [[ -f ${directory}/inactive_checked ]]
+        then
+            rm ${directory}/inactive_checked
+        fi
+        
+        echo date > ${directory}/last_execution_time
         travisPermissions
         
-        date > ${root}/.dev-tools/trigger-build && git add --all && commit -a -m 'Launch build' && git push origin master
+        launchBuild
     fi
     
     exit 0
