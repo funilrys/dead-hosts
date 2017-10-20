@@ -41,6 +41,12 @@ toDelete="dir-structure funceble iana-domains-db tool"
 # percentage file
 percentageFile=${root}/output/logs/percentage/percentage.txt
 
+# Temporary file
+tempfile=/var/tmp/inactive_db.$$
+
+# inactive database
+inactiveDB=${root}/inactive_db
+
 for status in $(echo ${toCopy})
 do
     if [[ -f ${root}/${status}${list_ext} || -f ${root}/${status}${hosts_ext} ]]
@@ -82,4 +88,19 @@ done
 if [[ -f ${percentageFile} ]]
 then
     cp ${percentageFile} ${root}
+fi
+
+if [[ -f ${root}/INACTIVE.list ]]
+then
+    tempFileDump=/var/tmp/toappendtodb.$$
+    
+    sed -r '/^(\s*#|$)/d;' ${root}/INACTIVE.list > ${tempfile}
+    
+    if [[ true == true ]]
+    then
+        touch ${inactiveDB}
+        join -v1 -v2 <(sort ${tempfile}) <(sort ${inactiveDB}) >> ${tempFileDump}
+    fi
+    
+    echo "$(cat ${tempFileDump})" >> ${inactiveDB}
 fi
