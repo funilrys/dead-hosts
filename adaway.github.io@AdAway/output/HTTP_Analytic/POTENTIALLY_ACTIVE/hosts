@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Fri Oct 20 23:26:07 UTC 2017
+# Date of generation: Fri Oct 20 23:31:25 UTC 2017
 
 127.0.0.1 localhost
 ::1 localhost
@@ -155,6 +155,7 @@
 0.0.0.0 neptune2.appads.com
 0.0.0.0 neptune3.appads.com
 0.0.0.0 neptune.appads.com
+0.0.0.0 orange-fr.adinfuse.com
 0.0.0.0 orangeuk-mc.adinfuse.com
 0.0.0.0 p.admob.com
 0.0.0.0 pagead1.googlesyndication.com
