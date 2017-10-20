@@ -182,7 +182,7 @@ startFunceble(){
             travisPermissions
             rm ${root}/currently_under_test
         fi
-        date > ${root}/.dev-tools/trigger-build && git commit -a -m 'Launch build' && git push origin master
+        date > ${root}/.dev-tools/trigger-build && git add --all && commit -a -m 'Launch build' && git push origin master
     fi
     
     exit 0
