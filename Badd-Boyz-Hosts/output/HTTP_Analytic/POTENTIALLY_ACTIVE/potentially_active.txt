@@ -1,0 +1,11 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Sat Oct 21 01:41:47 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+apple.com-webbrowsing-security.review                                                                INACTIVE    000        Sat Oct 21 01:50:16 UTC 2017
+apple.com-webbrowsing-security.science                                                               INACTIVE    000        Sat Oct 21 01:50:17 UTC 2017
+arriendomesas.cl                                                                                     INACTIVE    000        Sat Oct 21 01:51:04 UTC 2017
+artdestshop.eu                                                                                       INACTIVE    000        Sat Oct 21 01:51:11 UTC 2017
+aruplighting.com                                                                                     INACTIVE    000        Sat Oct 21 01:51:26 UTC 2017
