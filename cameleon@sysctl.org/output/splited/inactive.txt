@@ -470,3 +470,8 @@ adv758968.ru                                                                    
 adx.g.doubleclick.net                                                                                                                    INACTIVE    SPECIAL    404        Sat Oct 21 05:51:57 UTC 2017
 a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:54:00 UTC 2017
 analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:57:32 UTC 2017
+atax.askmen.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:04:56 UTC 2017
+atax.gamermetrics.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:04:57 UTC 2017
+atax.ign.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:04:58 UTC 2017
+atax.teamxbox.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:04:58 UTC 2017
+b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:11:06 UTC 2017
