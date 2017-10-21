@@ -1,0 +1,64 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Sat Oct 21 17:47:03 UTC 2017
+
+
+Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
+1kolorrfaceb.blogspot.com                                                                                                                INACTIVE    SPECIAL    404        Sat Oct 21 17:47:12 UTC 2017
+24klik.pl                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:47:17 UTC 2017
+9sx.pl                                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:47:45 UTC 2017
+afisz24.eu                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:48:08 UTC 2017
+bon1500.blogspot.com                                                                                                                     INACTIVE    SPECIAL    404        Sat Oct 21 17:49:03 UTC 2017
+bon-na-dzienkobiet2017.blogspot.com                                                                                                      INACTIVE    SPECIAL    302        Sat Oct 21 17:49:05 UTC 2017
+bonsy.waw.pl                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:49:06 UTC 2017
+bony-na-dzienkobiet2017.blogspot.com                                                                                                     INACTIVE    SPECIAL    404        Sat Oct 21 17:49:07 UTC 2017
+checkapi.xyz                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:49:44 UTC 2017
+cinemastar.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:49:53 UTC 2017
+darmowe-doladowania.gsm.pl                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:50:17 UTC 2017
+dodajlike.pl                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 17:50:42 UTC 2017
+doladowania50pln.blogspot.com                                                                                                            INACTIVE    SPECIAL    404        Sat Oct 21 17:50:43 UTC 2017
+doladowanie50pln.blogspot.com                                                                                                            INACTIVE    SPECIAL    404        Sat Oct 21 17:50:47 UTC 2017
+doladuj-steam.pl                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:50:59 UTC 2017
+doladuj-tutaj.blogspot.com                                                                                                               INACTIVE    SPECIAL    404        Sat Oct 21 17:51:01 UTC 2017
+dopeclothing.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:51:02 UTC 2017
+downloaded.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 17:51:06 UTC 2017
+downloadfile.eu                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:51:08 UTC 2017
+e-bony-1500zl.blogspot.com                                                                                                               INACTIVE    SPECIAL    302        Sat Oct 21 17:51:15 UTC 2017
+efun.net.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:51:24 UTC 2017
+enagrody24.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:51:33 UTC 2017
+euro2016-doladowanie.blogspot.com                                                                                                        INACTIVE    SPECIAL    404        Sat Oct 21 17:51:43 UTC 2017
+euro-doladowania.blogspot.com                                                                                                            INACTIVE    SPECIAL    404        Sat Oct 21 17:51:43 UTC 2017
+fabryka-chinczykow.blogspot.com                                                                                                          INACTIVE    SPECIAL    404        Sat Oct 21 17:51:50 UTC 2017
+facebook-kolor.blogspot.com                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 21 17:51:57 UTC 2017
+faceszpieg.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:52:04 UTC 2017
+faceviewe.blogspot.com                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 21 17:52:06 UTC 2017
+face-views.info.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:52:08 UTC 2017
+fbcolor0141.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 21 17:52:14 UTC 2017
+fbcolor0156.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 21 17:52:15 UTC 2017
+fbviewerv75.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 21 17:52:29 UTC 2017
+fifa17coins.com.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:52:45 UTC 2017
+fifa17-coins.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:52:46 UTC 2017
+files-host.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:53:03 UTC 2017
+followinsta.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:53:42 UTC 2017
+freedoladowania.pl                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 17:53:51 UTC 2017
+freehd.pl                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:53:54 UTC 2017
+friendslistfbb.blogspot.com                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 21 17:54:00 UTC 2017
+gamer24.pl                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:54:20 UTC 2017
+generatorfreegames.blogspot.com                                                                                                          INACTIVE    SPECIAL    404        Sat Oct 21 17:54:26 UTC 2017
+gilgotka.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:54:37 UTC 2017
+goracezdobycze.pl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:54:50 UTC 2017
+gry-za-darmo.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:54:58 UTC 2017
+hdstream.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 17:55:21 UTC 2017
+hdvod.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 17:55:25 UTC 2017
+herjacket.pl                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:55:29 UTC 2017
+herssneakers.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:55:29 UTC 2017
+idzdalej.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:55:52 UTC 2017
+ifb-podgladacz.com.pl                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:55:53 UTC 2017
+ifb-viewer.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:55:53 UTC 2017
+infoszook24.blogspot.com                                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 21 17:56:06 UTC 2017
+instant-winner318.online                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:56:16 UTC 2017
+internet-lte-5gb.blogspot.com                                                                                                            INACTIVE    SPECIAL    404        Sat Oct 21 17:56:19 UTC 2017
+iphone7.wygraj-teraz.com                                                                             Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 17:56:31 UTC 2017
+iqmilionera.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:56:37 UTC 2017
+jakie-iq.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:56:47 UTC 2017
+kadrymilosci.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 17:57:01 UTC 2017
