@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.coolfreehost.com 2113 2071 42 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.target.cm 2758 2696 62 0
