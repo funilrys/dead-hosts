@@ -16,3 +16,4 @@ ads.trinitymirror.co.uk                                                         
 clients.tbo.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:50:00 UTC 2017
 dmtracking2.alibaba.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:51:39 UTC 2017
 dmtracking.alibaba.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:51:40 UTC 2017
+lct.salesforce.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:56:56 UTC 2017

@@ -19,3 +19,10 @@ cibleclick.com.invalid                                                          
 clients.tbo.com                                                                                      INACTIVE    000        Sat Oct 21 20:50:00 UTC 2017
 dmtracking2.alibaba.com                                                                              INACTIVE    000        Sat Oct 21 20:51:39 UTC 2017
 dmtracking.alibaba.com                                                                               INACTIVE    000        Sat Oct 21 20:51:40 UTC 2017
+gigya.com.invalid                                                                                    INVALID     000        Sat Oct 21 20:54:59 UTC 2017
+globaltrack.com.invalid                                                                              INVALID     000        Sat Oct 21 20:55:01 UTC 2017
+lct.salesforce.com                                                                                   INACTIVE    000        Sat Oct 21 20:56:56 UTC 2017
+naiadsystems.com.invalid                                                                             INVALID     000        Sat Oct 21 20:58:39 UTC 2017
+parse.ly.invalid                                                                                     INVALID     000        Sat Oct 21 21:00:07 UTC 2017
+reedbusiness.com.invalid                                                                             INVALID     000        Sat Oct 21 21:02:09 UTC 2017
+seeq.com.invalid                                                                                     INVALID     000        Sat Oct 21 21:02:59 UTC 2017
