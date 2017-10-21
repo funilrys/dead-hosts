@@ -32,3 +32,5 @@ beta-hints.netflame.cc                                                          
 cdn1.eyewonder.com                                                                                   INACTIVE    000        Sat Oct 21 06:32:08 UTC 2017
 cdn4.eyewonder.com                                                                                   INACTIVE    000        Sat Oct 21 06:32:22 UTC 2017
 cdn.eyewonder.com                                                                                    INACTIVE    000        Sat Oct 21 06:33:18 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Sat Oct 21 06:37:15 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Sat Oct 21 06:38:48 UTC 2017
