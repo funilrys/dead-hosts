@@ -484,3 +484,7 @@ clicks.emarketmakers.com                                                        
 counter.web-marketolog.ru                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 06:45:58 UTC 2017
 delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:53:24 UTC 2017
 dns2.eguard.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:55:23 UTC 2017
+feedads.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Sat Oct 21 07:04:33 UTC 2017
+fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 21 07:05:33 UTC 2017
+fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Sat Oct 21 07:05:33 UTC 2017
+fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 21 07:05:34 UTC 2017
