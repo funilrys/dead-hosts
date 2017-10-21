@@ -40,3 +40,5 @@ hints.netflame.cc                                                               
 h.ppjol.com                                                                                          INACTIVE    000        Sat Oct 21 07:19:03 UTC 2017
 metrics.gamestop.com                                                                                 INACTIVE    000        Sat Oct 21 07:40:03 UTC 2017
 micosoft.com-web.support                                                                             INACTIVE    000        Sat Oct 21 07:41:58 UTC 2017
+ox-d.motogp.com                                                                                      INACTIVE    000        Sat Oct 21 07:54:35 UTC 2017
+perso.estat.com                                                                                      INACTIVE    000        Sat Oct 21 07:56:47 UTC 2017

@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list nmmclatchy.112.2o7.net 14440 13950 490 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list poponthepop.us.intellitxt.com 15359 14864 495 0
