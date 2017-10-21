@@ -51,3 +51,7 @@ stats.gamespy.com                                                               
 st.n.ads1-adnow.com                                                                                  INACTIVE    000        Sat Oct 21 08:26:30 UTC 2017
 st.n.ads3-adnow.com                                                                                  INACTIVE    000        Sat Oct 21 08:26:32 UTC 2017
 tag.beanstock.co                                                                                     INACTIVE    000        Sat Oct 21 08:28:18 UTC 2017
+wrapper.askmen.com                                                                                   INACTIVE    000        Sat Oct 21 08:44:01 UTC 2017
+wrapper.gamespyid.com                                                                                INACTIVE    000        Sat Oct 21 08:44:02 UTC 2017
+wrapper.ign.com                                                                                      INACTIVE    000        Sat Oct 21 08:44:04 UTC 2017
+wrapper.teamxbox.com                                                                                 INACTIVE    000        Sat Oct 21 08:44:05 UTC 2017
