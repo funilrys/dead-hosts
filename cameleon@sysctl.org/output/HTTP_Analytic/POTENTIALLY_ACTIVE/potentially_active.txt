@@ -36,3 +36,5 @@ ch.p-digital-server.com                                                         
 clicks.emarketmakers.com                                                                             INACTIVE    000        Sat Oct 21 06:38:48 UTC 2017
 delivery.usermedia.net                                                                               INACTIVE    000        Sat Oct 21 06:53:24 UTC 2017
 dns2.eguard.net                                                                                      INACTIVE    000        Sat Oct 21 06:55:23 UTC 2017
+hints.netflame.cc                                                                                    INACTIVE    000        Sat Oct 21 07:16:51 UTC 2017
+h.ppjol.com                                                                                          INACTIVE    000        Sat Oct 21 07:19:03 UTC 2017

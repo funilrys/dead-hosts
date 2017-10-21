@@ -488,3 +488,5 @@ feedads.g.doubleclick.net                                                       
 fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 21 07:05:33 UTC 2017
 fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Sat Oct 21 07:05:33 UTC 2017
 fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 21 07:05:34 UTC 2017
+hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 07:16:51 UTC 2017
+h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 07:19:03 UTC 2017
