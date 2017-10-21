@@ -482,3 +482,5 @@ cdn.eyewonder.com                                                               
 ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:37:15 UTC 2017
 clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:38:48 UTC 2017
 counter.web-marketolog.ru                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 06:45:58 UTC 2017
+delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:53:24 UTC 2017
+dns2.eguard.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 06:55:23 UTC 2017
