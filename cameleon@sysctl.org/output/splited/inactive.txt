@@ -456,3 +456,10 @@ ads00.liteweb.net                                                               
 ads.advertisingz.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:19:25 UTC 2017
 ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Sat Oct 21 05:21:13 UTC 2017
 adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:24:38 UTC 2017
+adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:26:53 UTC 2017
+ads.katz.ws                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:31:21 UTC 2017
+ads.mail3x.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:31:54 UTC 2017
+ads.maroonspider.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:32:05 UTC 2017
+ads.mdotm.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:32:12 UTC 2017
+ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:32:20 UTC 2017
+ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 05:33:52 UTC 2017

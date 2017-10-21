@@ -11,3 +11,10 @@ ad.germark.net                                                                  
 ad.hizlireklam.com                                                                                   INACTIVE    000        Sat Oct 21 04:57:18 UTC 2017
 ads.advertisingz.com                                                                                 INACTIVE    000        Sat Oct 21 05:19:25 UTC 2017
 adserver.dotcommedia.de                                                                              INACTIVE    000        Sat Oct 21 05:24:38 UTC 2017
+adserver.nav2.net                                                                                    INACTIVE    000        Sat Oct 21 05:26:53 UTC 2017
+ads.katz.ws                                                                                          INACTIVE    000        Sat Oct 21 05:31:21 UTC 2017
+ads.mail3x.com                                                                                       INACTIVE    000        Sat Oct 21 05:31:54 UTC 2017
+ads.maroonspider.com                                                                                 INACTIVE    000        Sat Oct 21 05:32:05 UTC 2017
+ads.mdotm.com                                                                                        INACTIVE    000        Sat Oct 21 05:32:12 UTC 2017
+ads.mezimedia.com                                                                                    INACTIVE    000        Sat Oct 21 05:32:20 UTC 2017
+ads.pennyweb.com                                                                                     INACTIVE    000        Sat Oct 21 05:33:52 UTC 2017
