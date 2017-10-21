@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list kasa-sms.pl 590 532 58 0
+/home/travis/build/funilrys/dead-hosts/KADhosts@azet12/tested-list/KADhosts@azet12.list uio7.pl 1194 1092 102 0
