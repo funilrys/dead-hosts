@@ -499,3 +499,7 @@ pagead46.l.doubleclick.net                                                      
 pagead.l.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 21 07:55:20 UTC 2017
 partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 21 07:55:52 UTC 2017
 perso.estat.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 07:56:47 UTC 2017
+ptsd.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 08:03:03 UTC 2017
+pussygreen.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 08:03:41 UTC 2017
+rewards.macandbumble.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 08:06:51 UTC 2017
+s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 21 08:10:26 UTC 2017

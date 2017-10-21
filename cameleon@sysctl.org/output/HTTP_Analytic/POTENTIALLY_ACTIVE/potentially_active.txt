@@ -42,3 +42,6 @@ metrics.gamestop.com                                                            
 micosoft.com-web.support                                                                             INACTIVE    000        Sat Oct 21 07:41:58 UTC 2017
 ox-d.motogp.com                                                                                      INACTIVE    000        Sat Oct 21 07:54:35 UTC 2017
 perso.estat.com                                                                                      INACTIVE    000        Sat Oct 21 07:56:47 UTC 2017
+ptsd.eyewonder.com                                                                                   INACTIVE    000        Sat Oct 21 08:03:03 UTC 2017
+pussygreen.com                                                                                       INACTIVE    000        Sat Oct 21 08:03:41 UTC 2017
+rewards.macandbumble.com                                                                             INACTIVE    000        Sat Oct 21 08:06:51 UTC 2017
