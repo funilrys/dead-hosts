@@ -70,3 +70,15 @@ c.compete.com                                                                   
 clients.tbo.com                                                                                      INACTIVE    000        Sat Oct 21 01:15:33 UTC 2017
 count6.rbc.ru                                                                                        INACTIVE    000        Sat Oct 21 01:15:58 UTC 2017
 counter.avtoindex.com                                                                                INACTIVE    000        Sat Oct 21 01:16:00 UTC 2017
+creative.ak.facebook.com                                                                             INACTIVE    000        Sat Oct 21 01:18:35 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Sat Oct 21 01:19:08 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Sat Oct 21 01:19:09 UTC 2017
+euro-linkindex.de                                                                                    INACTIVE    000        Sat Oct 21 01:20:06 UTC 2017
+lct.salesforce.com                                                                                   INACTIVE    000        Sat Oct 21 01:23:44 UTC 2017
+memorix.sdv.fr                                                                                       INACTIVE    000        Sat Oct 21 01:25:15 UTC 2017
+mobilewithsms.net                                                                                    INACTIVE    000        Sat Oct 21 01:25:39 UTC 2017
+m.webtrends.com                                                                                      INACTIVE    000        Sat Oct 21 01:25:54 UTC 2017
+network.business.com                                                                                 INACTIVE    000        Sat Oct 21 01:26:30 UTC 2017
+ngs.impress.co.jp                                                                                    INACTIVE    000        Sat Oct 21 01:26:40 UTC 2017
+p.adpdx.com                                                                                          INACTIVE    000        Sat Oct 21 01:27:32 UTC 2017
+pagerank4u.eu                                                                                        INACTIVE    000        Sat Oct 21 01:27:33 UTC 2017
