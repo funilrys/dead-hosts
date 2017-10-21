@@ -1,0 +1,27 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Fri Oct 20 23:57:38 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+6.bbnfaces.net                                                                                       INACTIVE    000        Fri Oct 20 23:58:42 UTC 2017
+aa.newsblock.dt00.net                                                                                INACTIVE    000        Fri Oct 20 23:58:55 UTC 2017
+absolutely-clean-up-pc-errors.com                                                                    INACTIVE    000        Fri Oct 20 23:58:57 UTC 2017
+ad.hizlireklam.com                                                                                   INACTIVE    000        Fri Oct 20 23:59:10 UTC 2017
+arecio.work                                                                                          INACTIVE    000        Sat Oct 21 00:00:34 UTC 2017
+bar.mywebsearch.com                                                                                  INACTIVE    000        Sat Oct 21 00:01:32 UTC 2017
+b.bestcomputeradvisor.com                                                                            INACTIVE    000        Sat Oct 21 00:01:35 UTC 2017
+b.dotnetadvisor.info                                                                                 INACTIVE    000        Sat Oct 21 00:01:40 UTC 2017
+cadastrodacopa.net                                                                                   INACTIVE    000        Sat Oct 21 00:02:45 UTC 2017
+cazzigrossi.org                                                                                      INACTIVE    000        Sat Oct 21 00:02:58 UTC 2017
+cfg.mywebsearch.com                                                                                  INACTIVE    000        Sat Oct 21 00:03:14 UTC 2017
+checktraf.com                                                                                        INACTIVE    000        Sat Oct 21 00:03:21 UTC 2017
+coreclickhoo.com                                                                                     INACTIVE    000        Sat Oct 21 00:04:17 UTC 2017
+cp.pleasedontslaymy.download                                                                         INACTIVE    000        Sat Oct 21 00:04:20 UTC 2017
+down.guangsu.cn                                                                                      INACTIVE    000        Sat Oct 21 00:05:37 UTC 2017
+download.cdn.downloadquick.net                                                                       INACTIVE    000        Sat Oct 21 00:05:42 UTC 2017
+download.downloadquick.net                                                                           INACTIVE    000        Sat Oct 21 00:05:44 UTC 2017
+download.mywebsearch.com                                                                             INACTIVE    000        Sat Oct 21 00:05:48 UTC 2017
+download.ttrili.com                                                                                  INACTIVE    000        Sat Oct 21 00:05:52 UTC 2017
+files4.downloadnet1188.com                                                                           INACTIVE    000        Sat Oct 21 00:07:05 UTC 2017
+files5.downloadnet1188.com                                                                           INACTIVE    000        Sat Oct 21 00:07:07 UTC 2017
