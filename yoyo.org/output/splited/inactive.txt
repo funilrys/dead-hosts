@@ -1,0 +1,13 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Sat Oct 21 20:31:07 UTC 2017
+
+
+Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
+a.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:31:30 UTC 2017
+ads.adultswim.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:35:48 UTC 2017
+ads.batpmturner.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:36:14 UTC 2017
+ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Sat Oct 21 20:36:34 UTC 2017
+adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:37:44 UTC 2017
+ads.groundspeak.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:38:57 UTC 2017
+ads.newsquest.co.uk                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 20:40:12 UTC 2017
