@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list ie.57883.net 2453 2339 114 0
+/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list magento-crew.net 3019 2885 134 0
