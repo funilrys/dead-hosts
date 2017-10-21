@@ -514,3 +514,7 @@ wrapper.askmen.com                                                              
 wrapper.gamespyid.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 08:44:02 UTC 2017
 wrapper.ign.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 08:44:04 UTC 2017
 wrapper.teamxbox.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 08:44:05 UTC 2017
+www.adcomplete.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 08:49:01 UTC 2017
+www.conceptsbyteupdate.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 08:53:43 UTC 2017
+www.ezaza.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 08:56:15 UTC 2017
+www.flashgamejunkie.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 08:56:34 UTC 2017
