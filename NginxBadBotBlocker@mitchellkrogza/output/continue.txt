@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list symbaloo.com 4809 4608 201 0
+/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list websitevaluebot.com 5445 5227 218 0
