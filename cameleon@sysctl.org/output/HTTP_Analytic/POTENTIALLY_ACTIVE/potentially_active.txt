@@ -7,3 +7,5 @@ Domain                                                                          
 acnetwork.flux.acsyndication.com                                                                     INACTIVE    000        Sat Oct 21 04:29:04 UTC 2017
 a.collective-media.net                                                                               INACTIVE    000        Sat Oct 21 04:29:05 UTC 2017
 ad468.prbn.ru                                                                                        INACTIVE    000        Sat Oct 21 04:46:40 UTC 2017
+ad.germark.net                                                                                       INACTIVE    000        Sat Oct 21 04:57:01 UTC 2017
+ad.hizlireklam.com                                                                                   INACTIVE    000        Sat Oct 21 04:57:18 UTC 2017
