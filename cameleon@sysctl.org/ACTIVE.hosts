@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Wed Oct 18 12:07:15 UTC 2017
+# Date of generation: Sat Oct 21 04:15:55 UTC 2017
 
 0.0.0.0 000dom.revenuedirect.com
 0.0.0.0 000info.com
@@ -2345,7 +2345,6 @@
 0.0.0.0 adgebra.co.in
 0.0.0.0 ad.gen.tbn.ru
 0.0.0.0 adgeo.163.com
-0.0.0.0 ad.germark.net
 0.0.0.0 ad.globalismedia.com
 0.0.0.0 ad.globe7.com
 0.0.0.0 ad.glossymedia.pl
@@ -2472,7 +2471,6 @@
 0.0.0.0 adlik.akavita.com
 0.0.0.0 adlink.deh.nl
 0.0.0.0 adlink.preferences.net
-0.0.0.0 adlink.ro
 0.0.0.0 ad.linkstorms.com
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.lista.cz
@@ -2709,7 +2707,6 @@
 0.0.0.0 adrunnr.com
 0.0.0.0 ads00.hpg.com.br
 0.0.0.0 ads00.hpg.ig.com.br
-0.0.0.0 ads00.liteweb.net
 0.0.0.0 ads01.focalink.com
 0.0.0.0 ads01.hpg.com.br
 0.0.0.0 ads01.hpg.ig.com.br
@@ -2787,8 +2784,10 @@
 0.0.0.0 ads10.speedbit.com
 0.0.0.0 ads110.hpg.com.br
 0.0.0.0 ads110.hpg.ig.com.br
+0.0.0.0 ads110.liteweb.net
 0.0.0.0 ads111.hpg.com.br
 0.0.0.0 ads111.hpg.ig.com.br
+0.0.0.0 ads111.liteweb.net
 0.0.0.0 ads112.hpg.com.br
 0.0.0.0 ads112.hpg.ig.com.br
 0.0.0.0 ads112.liteweb.net
@@ -3723,7 +3722,6 @@
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.advertise.net
 0.0.0.0 ads.advertisingnemesis.com
-0.0.0.0 ads.advertisingz.com
 0.0.0.0 ads.adviva.net
 0.0.0.0 ads.adwitserver.com
 0.0.0.0 ads.adworldnetwork.com
@@ -4097,7 +4095,6 @@
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.directcorp.de
 0.0.0.0 adserver.directforce.com
-0.0.0.0 adserver.dotcommedia.de
 0.0.0.0 adserver-e7.com
 0.0.0.0 adserver.economic.bg
 0.0.0.0 adserver.emulation64.com
@@ -4436,7 +4433,6 @@
 0.0.0.0 ads.kanal3.bg
 0.0.0.0 adskape.ru
 0.0.0.0 ads.kartu.lt
-0.0.0.0 ads.katz.ws
 0.0.0.0 ads.kidssports.bg
 0.0.0.0 ads.kiosked.com
 0.0.0.0 ads.kmdisplay.com
@@ -4490,7 +4486,6 @@
 0.0.0.0 ad.sma.punto.org
 0.0.0.0 ads.marica.bg
 0.0.0.0 ads.mariuana.it
-0.0.0.0 ads.maroonspider.com
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.de
 0.0.0.0 ad.smartgroups.com
@@ -4500,7 +4495,6 @@
 0.0.0.0 ads.matchbin.com
 0.0.0.0 ads.matiro.com
 0.0.0.0 ads.mcafee.com
-0.0.0.0 ads.mdotm.com
 0.0.0.0 ads.mediacapital.pt
 0.0.0.0 ads.mediaforge.com
 0.0.0.0 ads.mediamayhemcorp.com
@@ -5165,7 +5159,6 @@
 0.0.0.0 adv2.eblocs.com
 0.0.0.0 adv2.expres.ua
 0.0.0.0 adv.440network.com
-0.0.0.0 adv758968.ru
 0.0.0.0 adv.abv.bg
 0.0.0.0 advaction.ru
 0.0.0.0 adv.adultpartnership.com
@@ -6867,6 +6860,7 @@
 0.0.0.0 banner3.inet-traffic.com
 0.0.0.0 banner.50megs.com
 0.0.0.0 banner.ad.nu
+0.0.0.0 banner.adserverpub.com
 0.0.0.0 bannerads.mantecabulletin.com
 0.0.0.0 banner.adswap.se
 0.0.0.0 banner.adtrgt.com
@@ -8503,6 +8497,7 @@
 0.0.0.0 b.sli-spark.com
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs.serving-sys.com
+0.0.0.0 bst.reedbusiness.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 btbilgisayarkursu.com
 0.0.0.0 btcom.112.2o7.net
@@ -8569,6 +8564,7 @@
 0.0.0.0 c10.statcounter.com
 0.0.0.0 c11.statcounter.com
 0.0.0.0 c12.statcounter.com
+0.0.0.0 c12.valary.com
 0.0.0.0 c13.statcounter.com
 0.0.0.0 c14.statcounter.com
 0.0.0.0 c14.zedo.com
@@ -8594,6 +8590,7 @@
 0.0.0.0 c1.zedo.com
 0.0.0.0 c1.zxxds.net
 0.0.0.0 c20.statcounter.com
+0.0.0.0 c20.valary.com
 0.0.0.0 c21.statcounter.com
 0.0.0.0 c22i.categoria.hpg.com.br
 0.0.0.0 c22.statcounter.com
@@ -8601,6 +8598,7 @@
 0.0.0.0 c24.statcounter.com
 0.0.0.0 c25.statcounter.com
 0.0.0.0 c26.statcounter.com
+0.0.0.0 c26.valary.com
 0.0.0.0 c27.statcounter.com
 0.0.0.0 c28.statcounter.com
 0.0.0.0 c29.statcounter.com
@@ -8712,6 +8710,7 @@
 0.0.0.0 cad.chosun.com
 0.0.0.0 cadillacforums.us.intellitxt.com
 0.0.0.0 c.admob.com
+0.0.0.0 c.adroll.com
 0.0.0.0 c.adverpages.com
 0.0.0.0 caea4e.r.axf8.net
 0.0.0.0 caea4e.t.axf8.net
@@ -8848,7 +8847,6 @@
 0.0.0.0 cdn1.clkoffers.com
 0.0.0.0 cdn1.clkrev.com
 0.0.0.0 cdn-1.convertexperiments.com
-0.0.0.0 cdn1.eyewonder.com
 0.0.0.0 cdn1ht.traffichaus.com
 0.0.0.0 cdn1sitescout.edgesuite.net
 0.0.0.0 cdn1.skinected.com
@@ -8866,7 +8864,6 @@
 0.0.0.0 cdn3.adexprts.com
 0.0.0.0 cdn3.emediate.eu
 0.0.0.0 cdn3.optimizely.com
-0.0.0.0 cdn4.eyewonder.com
 0.0.0.0 cdn4s.steelhousemedia.com
 0.0.0.0 cdn5.js.ad.dotandad.com
 0.0.0.0 cdn5.tribalfusion.com
@@ -8958,7 +8955,6 @@
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exoticads.com
-0.0.0.0 cdn.eyewonder.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.firstlook.com
@@ -12505,6 +12501,7 @@
 0.0.0.0 js.adpremium.org
 0.0.0.0 js.adscale.de
 0.0.0.0 js.ad-score.com
+0.0.0.0 js.adserverpub.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 js.adsrvr.org
 0.0.0.0 jsads.sina.com.hk
@@ -14659,7 +14656,6 @@
 0.0.0.0 perezhilton.us.intellitxt.com
 0.0.0.0 perfectgirls.net
 0.0.0.0 perfspot.crwdcntrl.net
-0.0.0.0 perso.estat.com
 0.0.0.0 petakfc.112.2o7.net
 0.0.0.0 petamain.112.2o7.net
 0.0.0.0 petfooddirect.d1.sc.omtrdc.net
@@ -15036,7 +15032,6 @@
 0.0.0.0 p_third.cpmtrafficker.com
 0.0.0.0 ptp4ever.net
 0.0.0.0 pt.peerius.com
-0.0.0.0 ptsd.eyewonder.com
 0.0.0.0 pub12.bravenet.com
 0.0.0.0 pub13.bravenet.com
 0.0.0.0 pub16.bravenet.com
@@ -16865,6 +16860,7 @@
 0.0.0.0 tattoobest.com
 0.0.0.0 taz.adspirit.de
 0.0.0.0 t.bbtrack.net
+0.0.0.0 tbdev.pickoftheweb.com
 0.0.0.0 t.beanstalkdata.com
 0.0.0.0 t.blogreaderproject.com
 0.0.0.0 tbl.tradedoubler.com
@@ -18138,6 +18134,7 @@
 0.0.0.0 www2.acint.net
 0.0.0.0 www2.addfreestats.com
 0.0.0.0 www2.adhost.com
+0.0.0.0 www2.adserverpub.com
 0.0.0.0 www2a.sitetracker.com
 0.0.0.0 www2.autopartswarehouse.com
 0.0.0.0 www2.clustrmaps.com
@@ -18247,6 +18244,7 @@
 0.0.0.0 www.adadvisor.net
 0.0.0.0 www.adbars.com
 0.0.0.0 www.adbid.pl
+0.0.0.0 www.adblick.com
 0.0.0.0 www.adblockanalytics.com
 0.0.0.0 www.adbonus.com
 0.0.0.0 www.adbooth.com
@@ -18257,7 +18255,6 @@
 0.0.0.0 www.adcell.de
 0.0.0.0 www.adchimp.com
 0.0.0.0 www.adclick.lv
-0.0.0.0 www.adcomplete.com
 0.0.0.0 www.adcycle.com
 0.0.0.0 www.addaim.com
 0.0.0.0 www.addbags.com
@@ -18527,6 +18524,7 @@
 0.0.0.0 www.bullseye-media.net
 0.0.0.0 www.bundlerepositorycontent.com
 0.0.0.0 www.bunnyteens.com
+0.0.0.0 www.burstnet.akadns.net
 0.0.0.0 www.burstnet.com
 0.0.0.0 www.buscamundo.com
 0.0.0.0 www.business.lbn.ru
@@ -18797,7 +18795,6 @@
 0.0.0.0 www.exitforcash.com
 0.0.0.0 www.exitmoney.com
 0.0.0.0 www.experteerads.com
-0.0.0.0 www.ezaza.com
 0.0.0.0 www.ezdialeronline.com
 0.0.0.0 www.ezthemes.com
 0.0.0.0 www.ez-tracks.com

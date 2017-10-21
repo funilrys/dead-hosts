@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list www.traffz.com 20236 19717 519 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list zzz.clickbank.net 20629 20107 522 0
