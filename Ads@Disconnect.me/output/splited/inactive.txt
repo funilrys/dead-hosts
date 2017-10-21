@@ -1,0 +1,41 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Sat Oct 21 00:54:45 UTC 2017
+
+
+Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
+a.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:55:18 UTC 2017
+ad2.ip.ro                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:55:38 UTC 2017
+ad.980x.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:55:45 UTC 2017
+ad.about.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:55:48 UTC 2017
+ad-images.suntimes.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:57:24 UTC 2017
+adi.mainichi.co.jp                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:57:25 UTC 2017
+adlink.de                                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 00:57:51 UTC 2017
+admob.comadwhirl.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:58:26 UTC 2017
+ads1.theglobeandmail.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:59:26 UTC 2017
+ads.adultswim.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 00:59:55 UTC 2017
+ads.alwayson-network.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:00:00 UTC 2017
+ads.batpmturner.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:00:22 UTC 2017
+ads.billiton.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:00:29 UTC 2017
+ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Sat Oct 21 01:00:45 UTC 2017
+ad.scanmedios.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:00:46 UTC 2017
+ads.cimedia.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:00:57 UTC 2017
+ads.discovery.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:01:23 UTC 2017
+adserver1.mokono.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:01:47 UTC 2017
+adserver2.popdata.de                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:01:51 UTC 2017
+adserver.beggarspromo.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:01:58 UTC 2017
+adserver.clashmusic.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:02:03 UTC 2017
+adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:02:05 UTC 2017
+adserver.freenet.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:02:09 UTC 2017
+adserver-live.yoc.mobi                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 01:02:23 UTC 2017
+adserver.motorpresse.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:02:24 UTC 2017
+adserver.realhomesex.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:02:39 UTC 2017
+adserv.qconline.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:02:54 UTC 2017
+adserv.quality-channel.de                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:02:54 UTC 2017
+ads.esmas.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:02:55 UTC 2017
+ads.gameforgeads.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:03:24 UTC 2017
+ads.globeandmail.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:03:30 UTC 2017
+ads.groundspeak.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:03:34 UTC 2017
+ads.horsehero.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:03:45 UTC 2017
+ads.mdotm.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:04:33 UTC 2017
+ads.mediaturf.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 01:04:35 UTC 2017
