@@ -61,3 +61,38 @@ compliance-andrew.xyz                                                           
 compliance-barak.xyz                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:39:08 UTC 2017
 compliance-brian.xyz                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:39:11 UTC 2017
 compliance-donald.xyz                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:39:13 UTC 2017
+compliance-don.xyz                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 18:41:05 UTC 2017
+compliance-elena.xyz                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:07 UTC 2017
+compliance-fred.xyz                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:09 UTC 2017
+compliance-george.xyz                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 18:41:11 UTC 2017
+compliance-irvin.xyz                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:13 UTC 2017
+compliance-ivan.xyz                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:16 UTC 2017
+compliance-john.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:19 UTC 2017
+compliance-josh.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:19 UTC 2017
+compliance-julianna.top                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:20 UTC 2017
+compliance-julia.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:21 UTC 2017
+compliance-margo.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:21 UTC 2017
+compliance-mark.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:22 UTC 2017
+compliance-mary.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:23 UTC 2017
+compliance-nelson.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:23 UTC 2017
+compliance-olga.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:24 UTC 2017
+compliance-viktor.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:25 UTC 2017
+compliance-walter.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:26 UTC 2017
+compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:26 UTC 2017
+compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:27 UTC 2017
+cookie-law-enforcement-aa.xyz                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:46 UTC 2017
+cookie-law-enforcement-ee.xyz                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:47 UTC 2017
+cookie-law-enforcement-ff.xyz                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:48 UTC 2017
+cookie-law-enforcement-hh.xyz                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:41:50 UTC 2017
+cosmeticswomens-womensports.rhcloud.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:42:06 UTC 2017
+cyclobenzaprinevstizanidine.blogspot.com                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 21 18:43:06 UTC 2017
+cymbaltaandtizanidine.blogspot.com                                                                                                       INACTIVE    SPECIAL    404        Sat Oct 21 18:43:06 UTC 2017
+dikqlyremy.info                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:44:47 UTC 2017
+dogsrun.net                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:45:29 UTC 2017
+elektrischezi.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 21 18:47:34 UTC 2017
+elmifarhangi.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:48:06 UTC 2017
+erectile.bid                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:48:41 UTC 2017
+esfchat.tk                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:48:56 UTC 2017
+eu-cookie-law.blogspot.com                                                                                                               INACTIVE    SPECIAL    404        Sat Oct 21 18:49:11 UTC 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:49:38 UTC 2017
+eywords-monitoring-your-success.com                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 18:49:58 UTC 2017

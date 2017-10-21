@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list compliance-don.top 1203 1146 57 0
+/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list favoritemoney.ru 1817 1725 92 0
