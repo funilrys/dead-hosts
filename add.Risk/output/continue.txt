@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk search.brainfox.com 1387 1357 30 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.coolfreehost.com 2113 2071 42 0
