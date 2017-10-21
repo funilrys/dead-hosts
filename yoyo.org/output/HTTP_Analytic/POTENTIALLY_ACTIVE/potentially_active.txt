@@ -12,3 +12,10 @@ ads.batpmturner.com                                                             
 adserver.dotcommedia.de                                                                              INACTIVE    000        Sat Oct 21 20:37:44 UTC 2017
 ads.groundspeak.com                                                                                  INACTIVE    000        Sat Oct 21 20:38:57 UTC 2017
 ads.newsquest.co.uk                                                                                  INACTIVE    000        Sat Oct 21 20:40:12 UTC 2017
+ads.sift.co.uk                                                                                       INACTIVE    000        Sat Oct 21 20:42:57 UTC 2017
+ads.trinitymirror.co.uk                                                                              INACTIVE    000        Sat Oct 21 20:43:17 UTC 2017
+bravenet.com.invalid                                                                                 INVALID     000        Sat Oct 21 20:48:46 UTC 2017
+cibleclick.com.invalid                                                                               INVALID     000        Sat Oct 21 20:49:28 UTC 2017
+clients.tbo.com                                                                                      INACTIVE    000        Sat Oct 21 20:50:00 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Sat Oct 21 20:51:39 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Sat Oct 21 20:51:40 UTC 2017
