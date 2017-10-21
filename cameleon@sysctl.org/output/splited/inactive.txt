@@ -452,3 +452,4 @@ adclick.g.doubleclick.net                                                       
 ad.germark.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 04:57:01 UTC 2017
 ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 21 04:57:18 UTC 2017
 adlink.ro                                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 04:58:59 UTC 2017
+ads00.liteweb.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 21 05:04:03 UTC 2017
