@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Fri Oct 20 23:34:11 UTC 2017
+# Date of generation: Wed Oct 25 07:23:14 UTC 2017
 
 a.admob.com
 ad1.adinfuse.com
@@ -11,6 +11,7 @@ ads2.mediaarmor.com
 ads.adiquity.com
 ads.admoda.com
 adserver.ubiyoo.com
+ads.mdotm.com
 ads.mobgold.com
 ads.n-ws.org
 ads.ookla.com
@@ -142,11 +143,13 @@ f59.smaato.net
 f60.smaato.net
 funnel0.adinfuse.com
 go.adinfuse.com
+img.ads.huntmad.com
 intouch.adinfuse.com
 jupiter1.appads.com
 jupiter2.appads.com
 jupiter3.appads.com
 jupiter.appads.com
+127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1  localhost
@@ -181,6 +184,7 @@ t.medialytics.com
 uk-ad2.adinfuse.com
 uk-go.adinfuse.com
 wwww.adleads.com
+::1 localhost
 ::1 localhost
 ::1 localhost
 ::1  localhost

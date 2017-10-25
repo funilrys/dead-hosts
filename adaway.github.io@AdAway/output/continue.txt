@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/adaway.github.io@AdAway/inactive_db wwww.adleads.com 177 0 177 0
+/home/travis/build/funilrys/dead-hosts/adaway.github.io@AdAway/tested-list/adaway.github.io@AdAway.list  409 230 179 0

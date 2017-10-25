@@ -306,6 +306,7 @@
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 localhost
 127.0.0.1 localhost
+127.0.0.1 localhost
 127.0.0.1  localhost
 127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 lp.mydas.mobi
@@ -412,6 +413,5 @@
 127.0.0.1 wwww.adleads.com
 ::1 localhost
 ::1 localhost
-::1  localhost
-127.0.0.1 localhost
 ::1 localhost
+::1  localhost

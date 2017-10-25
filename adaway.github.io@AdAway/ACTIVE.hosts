@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Fri Oct 20 23:34:11 UTC 2017
+# Date of generation: Wed Oct 25 07:23:14 UTC 2017
 
 0.0.0.0 a.applovin.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -26,7 +26,6 @@
 0.0.0.0 ads.celtra.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.matomymobile.com
-0.0.0.0 ads.mdotm.com
 0.0.0.0 ads.mobclix.com
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mopub.com
@@ -149,7 +148,6 @@
 0.0.0.0 img.ads3.mojiva.com
 0.0.0.0 img.ads4.mocean.mobi
 0.0.0.0 img.ads4.mojiva.com
-0.0.0.0 img.ads.huntmad.com
 0.0.0.0 img.ads.mobilefuse.net
 0.0.0.0 img.ads.mocean.mobi
 0.0.0.0 img.ads.mojiva.com
@@ -161,6 +159,7 @@
 0.0.0.0 i.w.inmobi.com
 0.0.0.0 japan.inmobi.com
 0.0.0.0 lb.usemaxserver.de
+127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1  localhost
@@ -236,6 +235,7 @@
 0.0.0.0 www.mmnetwork.mobi
 0.0.0.0 www.pflexads.com
 0.0.0.0 www.smartadserver.com
+::1 localhost
 ::1 localhost
 ::1 localhost
 ::1  localhost
