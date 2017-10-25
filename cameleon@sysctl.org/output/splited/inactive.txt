@@ -447,3 +447,8 @@ above-gw.liveadvert.com                                                         
 acnetwork.flux.acsyndication.com                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 16:00:16 UTC 2017
 a.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 16:00:16 UTC 2017
 ad468.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 16:19:14 UTC 2017
+ad-ace.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Wed Oct 25 16:26:10 UTC 2017
+adclick.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Wed Oct 25 16:28:05 UTC 2017
+ad.germark.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 16:30:00 UTC 2017
+ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 16:30:16 UTC 2017
+adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 16:30:39 UTC 2017
