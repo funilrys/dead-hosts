@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk free-game-downloads.mosw.com 690 666 24 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk sandbox.tk 1370 1337 33 0
