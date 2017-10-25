@@ -487,3 +487,8 @@ clicks.emarketmakers.com                                                        
 delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 18:38:05 UTC 2017
 deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 18:38:10 UTC 2017
 dns2.eguard.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 18:39:51 UTC 2017
+feedads.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Wed Oct 25 18:49:29 UTC 2017
+fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Wed Oct 25 18:50:29 UTC 2017
+fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Wed Oct 25 18:50:29 UTC 2017
+fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Wed Oct 25 18:50:31 UTC 2017
+hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 18:58:33 UTC 2017
