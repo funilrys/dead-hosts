@@ -227,7 +227,8 @@ startFunceble()
             rm ${directory}/inactive_checked
         fi
         
-        echo date > ${directory}/last_execution_time
+        date > ${directory}/last_execution_time
+       
         travisPermissions
         
         launchBuild
@@ -263,8 +264,15 @@ else
             if [[ -f "${executionTimeFile}" ]]
             then
                 # We get the date of percentage.txt
-                dateOfLastExecution=$(cat ${executionTimeFile})
+                dateOfLastExecution="$(head -1 ${executionTimeFile})"
                 
+                
+                if [[ ${dateOfLastExecution} == 'date' ]]
+                then
+                   # We manage the case that 'date' has been printed into ${executionTimeFile}
+                   dateOfLastExecution=${maximalDay}+2
+                fi
+               
                 # We get the difference between now and ${dateOfLastPercentage}
                 diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastExecution}")
                 
