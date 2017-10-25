@@ -29,3 +29,10 @@ atax.ign.com                                                                    
 atax.teamxbox.com                                                                                    INACTIVE    000        Wed Oct 25 17:41:42 UTC 2017
 b.collective-media.net                                                                               INACTIVE    000        Wed Oct 25 17:50:43 UTC 2017
 beta-hints.netflame.cc                                                                               INACTIVE    000        Wed Oct 25 17:52:10 UTC 2017
+c.adroll.com                                                                                         INACTIVE    000        Wed Oct 25 18:13:56 UTC 2017
+cdn1.eyewonder.com                                                                                   INACTIVE    000        Wed Oct 25 18:15:35 UTC 2017
+cdn4.eyewonder.com                                                                                   INACTIVE    000        Wed Oct 25 18:15:45 UTC 2017
+cdn.eyewonder.com                                                                                    INACTIVE    000        Wed Oct 25 18:16:40 UTC 2017
+cgi.declicnet.com                                                                                    INACTIVE    000        Wed Oct 25 18:18:39 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Wed Oct 25 18:19:07 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Wed Oct 25 18:20:33 UTC 2017
