@@ -71,3 +71,11 @@ www.pussygreen.com                                                              
 www.registrycleanerpro.net                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:37:29 UTC 2017
 www.searchatomic.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:38:08 UTC 2017
 www.sijmp.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 08:38:35 UTC 2017
+www.sonyplaystion.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:40:29 UTC 2017
+www.stressx.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 08:40:45 UTC 2017
+www.surch.co.uk                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:40:52 UTC 2017
+www.ukantivirus.co.uk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:41:52 UTC 2017
+www.vroll.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:42:20 UTC 2017
+www.xtds.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:43:23 UTC 2017
+zeus.rhsystems.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:44:37 UTC 2017
+ztb.cztv.tv                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 08:44:57 UTC 2017
