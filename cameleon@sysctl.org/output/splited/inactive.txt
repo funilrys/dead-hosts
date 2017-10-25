@@ -455,3 +455,12 @@ adimage.asiaone.com.sg                                                          
 ads100.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 16:37:24 UTC 2017
 ads.advertisingz.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 16:53:20 UTC 2017
 ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Wed Oct 25 16:55:30 UTC 2017
+adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 17:01:49 UTC 2017
+adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 17:02:33 UTC 2017
+ads.fiat-bg.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 17:04:08 UTC 2017
+ads.katz.ws                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 17:06:49 UTC 2017
+ads.mail3x.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 17:07:23 UTC 2017
+ads.maroonspider.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 17:07:33 UTC 2017
+ads.mdotm.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 17:07:39 UTC 2017
+ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 17:07:47 UTC 2017
+ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 17:09:27 UTC 2017
