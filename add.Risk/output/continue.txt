@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk zzz.clickbank.net 3062 2994 68 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/inactive_db ztb.cztv.tv 68 2 66 0
