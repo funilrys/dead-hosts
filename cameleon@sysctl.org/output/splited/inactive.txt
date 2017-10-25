@@ -494,3 +494,7 @@ fls.uk.doubleclick.net                                                          
 hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 18:58:33 UTC 2017
 h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 19:04:07 UTC 2017
 metrics.gamestop.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 19:24:40 UTC 2017
+mfas.safesslredirect.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 19:28:07 UTC 2017
+micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 19:28:27 UTC 2017
+motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Wed Oct 25 19:29:39 UTC 2017
+motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Wed Oct 25 19:29:40 UTC 2017
