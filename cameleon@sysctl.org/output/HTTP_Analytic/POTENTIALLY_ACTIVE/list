@@ -38,3 +38,6 @@ deluxe.spy-kill.com
 dns2.eguard.net
 hints.netflame.cc
 h.ppjol.com
+127.0.0.1 localhost
+127.0.0.1        localhost
+metrics.gamestop.com

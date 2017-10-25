@@ -41,3 +41,4 @@ deluxe.spy-kill.com                                                             
 dns2.eguard.net                                                                                      INACTIVE    000        Wed Oct 25 18:39:51 UTC 2017
 hints.netflame.cc                                                                                    INACTIVE    000        Wed Oct 25 18:58:33 UTC 2017
 h.ppjol.com                                                                                          INACTIVE    000        Wed Oct 25 19:04:07 UTC 2017
+metrics.gamestop.com                                                                                 INACTIVE    000        Wed Oct 25 19:24:40 UTC 2017
