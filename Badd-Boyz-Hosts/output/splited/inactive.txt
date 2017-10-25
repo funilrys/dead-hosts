@@ -33,3 +33,4 @@ iccornacircri.cf                                                                
 iskunvaimenninhuolto.fi                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 14:14:41 UTC 2017
 jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 14:16:21 UTC 2017
 kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 14:19:04 UTC 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 14:26:13 UTC 2017
