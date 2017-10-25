@@ -266,15 +266,14 @@ else
                 # We get the date of percentage.txt
                 dateOfLastExecution="$(head -1 ${executionTimeFile})"
                 
+                # We get the difference between now and ${dateOfLastPercentage}
+                diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastExecution}")
                 
                 if [[ ${dateOfLastExecution} == 'date' ]]
                 then
                    # We manage the case that 'date' has been printed into ${executionTimeFile}
-                   dateOfLastExecution=${maximalDay}+2
+                   diffenrenceInDay=${maximalDay}+2
                 fi
-               
-                # We get the difference between now and ${dateOfLastPercentage}
-                diffenrenceInDay=$(dateDiff "$(date)" "${dateOfLastExecution}")
                 
                 if [[ "${diffenrenceInDay}" -ge ${maximalDay} ]]
                 then
