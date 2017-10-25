@@ -1,6 +1,7 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Oct 21 04:27:44 UTC 2017
+# Date of generation: Wed Oct 25 15:43:25 UTC 2017
 
+127.0.0.1 localhost
 acnetwork.flux.acsyndication.com
 a.collective-media.net
 ad468.prbn.ru
@@ -9,13 +10,13 @@ ad.hizlireklam.com
 ads.advertisingz.com
 adserver.dotcommedia.de
 adserver.nav2.net
-ads.katz.ws
 ads.mail3x.com
 ads.maroonspider.com
 ads.mdotm.com
 ads.mezimedia.com
 ads.pennyweb.com
 ads.uniquemedia.net
+ads.usermedia.net
 adtxt.prbn.ru
 adv758968.ru
 a.goember.com
@@ -35,7 +36,6 @@ delivery.usermedia.net
 dns2.eguard.net
 hints.netflame.cc
 h.ppjol.com
-127.0.0.1        localhost
 metrics.gamestop.com
 micosoft.com-web.support
 ox-d.motogp.com
@@ -43,7 +43,6 @@ perso.estat.com
 ptsd.eyewonder.com
 pussygreen.com
 rewards.macandbumble.com
-servedby.revcontent.com
 ssl-hints.netflame.cc
 stats.gamespy.com
 st.n.ads1-adnow.com
