@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list zzqrt.com 7394 7321 73 0
+/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/inactive_db zigarettenonl.canalblog.com 73 12 61 0
