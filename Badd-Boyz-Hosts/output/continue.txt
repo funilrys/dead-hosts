@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list fidelity.com.secure.onlinebanking.com-accountverification.com.rosepena.com 2345 2325 20 0
+/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list herokuapp.com 2932 2909 23 0
