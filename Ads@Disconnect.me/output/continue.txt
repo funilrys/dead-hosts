@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list zumobi.com 2703 2596 104 3
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db wads.webteh.com 104 2 102 0
