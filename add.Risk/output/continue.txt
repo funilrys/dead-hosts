@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/inactive_db ztb.cztv.tv 68 2 66 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk free-game-downloads.mosw.com 690 666 24 0
