@@ -44,3 +44,6 @@ h.ppjol.com                                                                     
 metrics.gamestop.com                                                                                 INACTIVE    000        Wed Oct 25 19:24:40 UTC 2017
 mfas.safesslredirect.com                                                                             INACTIVE    000        Wed Oct 25 19:28:07 UTC 2017
 micosoft.com-web.support                                                                             INACTIVE    000        Wed Oct 25 19:28:27 UTC 2017
+ox-d.motogp.com                                                                                      INACTIVE    000        Fri Oct 27 07:36:21 UTC 2017
+perso.estat.com                                                                                      INACTIVE    000        Fri Oct 27 07:38:34 UTC 2017
+ptsd.eyewonder.com                                                                                   INACTIVE    000        Fri Oct 27 07:42:50 UTC 2017

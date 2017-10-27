@@ -498,3 +498,11 @@ mfas.safesslredirect.com                                                        
 micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 19:28:27 UTC 2017
 motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Wed Oct 25 19:29:39 UTC 2017
 motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Wed Oct 25 19:29:40 UTC 2017
+ox-d.motogp.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 07:36:21 UTC 2017
+pagead46.l.doubleclick.net                                                                                                               INACTIVE    SPECIAL    404        Fri Oct 27 07:37:04 UTC 2017
+pagead.l.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Fri Oct 27 07:37:06 UTC 2017
+partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Fri Oct 27 07:37:38 UTC 2017
+perso.estat.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 07:38:34 UTC 2017
+playon.domplayer.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 07:40:06 UTC 2017
+p_third.advertmedias.com                                                                             Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 07:42:46 UTC 2017
+ptsd.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 07:42:50 UTC 2017
