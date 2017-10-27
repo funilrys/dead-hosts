@@ -103,3 +103,8 @@ virtualcard.brunst.dk                                                           
 wantospo.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 13:35:44 UTC 2017
 warrning-fanpa9e1.securittty4.tk                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 13:35:49 UTC 2017
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 13:36:56 UTC 2017
+wiprint.co.id                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 13:40:04 UTC 2017
+wjttowell.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 13:40:08 UTC 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 13:44:42 UTC 2017
+zebramart.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 13:45:32 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Fri Oct 27 13:45:59 UTC 2017
