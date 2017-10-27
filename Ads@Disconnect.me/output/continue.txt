@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list counter.bloke.com 1332 1257 73 2
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list partnerad.l.google.com 2059 1968 89 2
