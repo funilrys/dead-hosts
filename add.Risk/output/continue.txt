@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.securetracking2.com 2684 2610 74 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk zzz.clickbank.net 3062 2976 86 0
