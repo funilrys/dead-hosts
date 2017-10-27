@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk search2007.info 1383 1348 35 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.cle.kr 2084 2035 49 0
