@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.motormedia.nl 653 617 35 1
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list counter.bloke.com 1332 1257 73 2
