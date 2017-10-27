@@ -163,10 +163,10 @@ travisMode=false
 travisAutoSaveMinutes=10
 
 # Default travis final commit message
-travisResultsCommitMessage='Badd-Boyz-Hosts inactive_db - Results'
+travisResultsCommitMessage='Badd-Boyz-Hosts - Results'
 
 # Default travis autosave commit message
-travisAutoSaveCommitMessage='Badd-Boyz-Hosts inactive_db - Test'
+travisAutoSaveCommitMessage='Badd-Boyz-Hosts - Test'
 
 # If set to false, we generate only one file with the results
 splitFiles=false
