@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk zzz.clickbank.net 3062 2987 75 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/inactive_db x3.xclicks.net 66 2 64 0
