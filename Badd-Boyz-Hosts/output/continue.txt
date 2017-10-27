@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list askmets.com 606 596 10 0
+/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list camorg.net 1191 1177 14 0
