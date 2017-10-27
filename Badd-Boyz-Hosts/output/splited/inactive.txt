@@ -18,3 +18,7 @@ axbocz.net                                                                      
 bb-acesso-web.ml                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 11:30:13 UTC 2017
 bitcoins-live.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 11:32:34 UTC 2017
 blisshealth.ca                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 11:33:07 UTC 2017
+chrklr.eu                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 11:42:41 UTC 2017
+confirmupdatepage.cf                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 11:44:42 UTC 2017
+confirmyourspage.cf                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 11:44:42 UTC 2017
+cos.entrope.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 11:45:23 UTC 2017

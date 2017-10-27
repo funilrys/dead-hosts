@@ -17,3 +17,6 @@ axbocz.net                                                                      
 bb-acesso-web.ml                                                                                     INACTIVE    000        Fri Oct 27 11:30:13 UTC 2017
 bitcoins-live.ru                                                                                     INACTIVE    000        Fri Oct 27 11:32:34 UTC 2017
 blisshealth.ca                                                                                       INACTIVE    000        Fri Oct 27 11:33:07 UTC 2017
+chrklr.eu                                                                                            INACTIVE    000        Fri Oct 27 11:42:41 UTC 2017
+confirmupdatepage.cf                                                                                 INACTIVE    000        Fri Oct 27 11:44:42 UTC 2017
+confirmyourspage.cf                                                                                  INACTIVE    000        Fri Oct 27 11:44:42 UTC 2017
