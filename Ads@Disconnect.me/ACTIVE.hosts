@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Wed Oct 25 08:58:18 UTC 2017
+# Date of generation: Fri Oct 27 10:23:00 UTC 2017
 
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -561,6 +561,7 @@
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horsehero.com
+0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
 0.0.0.0 adshost1.com
 0.0.0.0 ads.iafrica.com
@@ -739,7 +740,6 @@
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.virtualcountries.com
 0.0.0.0 ads.virtual-nights.com
-0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.weather.ca
@@ -821,7 +821,6 @@
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
