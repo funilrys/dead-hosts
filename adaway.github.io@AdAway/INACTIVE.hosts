@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Wed Oct 25 07:23:14 UTC 2017
+# Date of generation: Fri Oct 27 08:46:33 UTC 2017
 
 0.0.0.0 a.admob.com
 0.0.0.0 ad1.adinfuse.com
@@ -152,6 +152,7 @@
 127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1 localhost
+127.0.0.1 localhost
 127.0.0.1  localhost
 0.0.0.0 medrx.sensis.com.au
 0.0.0.0 met.adwhirl.com
@@ -184,6 +185,7 @@
 0.0.0.0 uk-ad2.adinfuse.com
 0.0.0.0 uk-go.adinfuse.com
 0.0.0.0 wwww.adleads.com
+::1 localhost
 ::1 localhost
 ::1 localhost
 ::1 localhost

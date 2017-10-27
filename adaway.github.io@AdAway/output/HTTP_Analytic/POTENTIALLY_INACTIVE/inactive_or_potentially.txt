@@ -1,0 +1,70 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Fri Oct 27 08:46:33 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+a.applovin.com                                                                                       ACTIVE      404        Fri Oct 27 08:46:34 UTC 2017
+aax-us-east.amazon-adsystem.com                                                                      ACTIVE      404        Fri Oct 27 08:46:35 UTC 2017
+admarvel.s3.amazonaws.com                                                                            ACTIVE      403        Fri Oct 27 08:46:45 UTC 2017
+ads.adadapted.com                                                                                    ACTIVE      404        Fri Oct 27 08:46:57 UTC 2017
+ads.admarvel.com                                                                                     ACTIVE      403        Fri Oct 27 08:46:58 UTC 2017
+ads.celtra.com                                                                                       ACTIVE      404        Fri Oct 27 08:46:59 UTC 2017
+ads.flurry.com                                                                                       ACTIVE      404        Fri Oct 27 08:47:00 UTC 2017
+ads.matomymobile.com                                                                                 ACTIVE      404        Fri Oct 27 08:47:01 UTC 2017
+ads.mobclix.com                                                                                      ACTIVE      400        Fri Oct 27 08:47:02 UTC 2017
+a.glcdn.co                                                                                           ACTIVE      404        Fri Oct 27 08:47:10 UTC 2017
+android.bcfads.com                                                                                   ACTIVE      403        Fri Oct 27 08:47:13 UTC 2017
+an.yandex.ru                                                                                         ACTIVE      404        Fri Oct 27 08:47:15 UTC 2017
+api.yp.com                                                                                           ACTIVE      404        Fri Oct 27 08:47:18 UTC 2017
+banners.bigmobileads.com                                                                             ACTIVE      403        Fri Oct 27 08:47:26 UTC 2017
+c753738.r38.cf2.rackcdn.com                                                                          ACTIVE      404        Fri Oct 27 08:48:20 UTC 2017
+c.admob.com                                                                                          ACTIVE      404        Fri Oct 27 08:48:23 UTC 2017
+campaign-tapad.s3.amazonaws.com                                                                      ACTIVE      403        Fri Oct 27 08:48:24 UTC 2017
+cdn1.inner-active.mobi                                                                               ACTIVE      403        Fri Oct 27 08:48:26 UTC 2017
+cdn1.smartadserver.com                                                                               ACTIVE      404        Fri Oct 27 08:48:27 UTC 2017
+cdn.creative.medialytics.com                                                                         ACTIVE      403        Fri Oct 27 08:48:31 UTC 2017
+c.vrvm.com                                                                                           ACTIVE      404        Fri Oct 27 08:48:40 UTC 2017
+d2bgg7rjywcwsy.cloudfront.net                                                                        ACTIVE      403        Fri Oct 27 08:48:43 UTC 2017
+d.applovin.com                                                                                       ACTIVE      404        Fri Oct 27 08:48:45 UTC 2017
+data.mobclix.com                                                                                     ACTIVE      400        Fri Oct 27 08:48:46 UTC 2017
+edge.reporo.net                                                                                      ACTIVE      404        Fri Oct 27 08:48:51 UTC 2017
+ftpcontent.worldnow.com                                                                              ACTIVE      404        Fri Oct 27 08:49:21 UTC 2017
+go.vrvm.com                                                                                          ACTIVE      404        Fri Oct 27 08:49:26 UTC 2017
+hhbekxxw5d9e.pflexads.com                                                                            ACTIVE      403        Fri Oct 27 08:49:30 UTC 2017
+html5adkit.plusmo.s3.amazonaws.com                                                                   ACTIVE      403        Fri Oct 27 08:49:30 UTC 2017
+hybl9bazbc35.pflexads.com                                                                            ACTIVE      403        Fri Oct 27 08:49:31 UTC 2017
+i.jumptap.com                                                                                        ACTIVE      403        Fri Oct 27 08:49:34 UTC 2017
+img.ads1.mocean.mobi                                                                                 ACTIVE      404        Fri Oct 27 08:49:39 UTC 2017
+img.ads1.mojiva.com                                                                                  ACTIVE      404        Fri Oct 27 08:49:40 UTC 2017
+img.ads2.mocean.mobi                                                                                 ACTIVE      404        Fri Oct 27 08:49:40 UTC 2017
+img.ads2.mojiva.com                                                                                  ACTIVE      404        Fri Oct 27 08:49:41 UTC 2017
+img.ads3.mocean.mobi                                                                                 ACTIVE      404        Fri Oct 27 08:49:41 UTC 2017
+img.ads3.mojiva.com                                                                                  ACTIVE      404        Fri Oct 27 08:49:42 UTC 2017
+img.ads4.mojiva.com                                                                                  ACTIVE      404        Fri Oct 27 08:49:43 UTC 2017
+img.ads.mojiva.com                                                                                   ACTIVE      404        Fri Oct 27 08:49:46 UTC 2017
+inneractive-assets.s3.amazonaws.com                                                                  ACTIVE      403        Fri Oct 27 08:49:48 UTC 2017
+i.w.inmobi.com                                                                                       ACTIVE      404        Fri Oct 27 08:49:51 UTC 2017
+m2m1.inner-active.mobi                                                                               ACTIVE      400        Fri Oct 27 08:49:57 UTC 2017
+mdn1.phluantmobile.net                                                                               ACTIVE      404        Fri Oct 27 08:49:59 UTC 2017
+media.mobpartner.mobi                                                                                ACTIVE      403        Fri Oct 27 08:50:05 UTC 2017
+mobileads.msn.com                                                                                    ACTIVE      403        Fri Oct 27 08:50:08 UTC 2017
+mobile.banzai.it                                                                                     ACTIVE      403        Fri Oct 27 08:50:09 UTC 2017
+mobiledl.adobe.com                                                                                   ACTIVE      400        Fri Oct 27 08:50:10 UTC 2017
+orencia.pflexads.com                                                                                 ACTIVE      403        Fri Oct 27 08:50:17 UTC 2017
+pagead2.googlesyndication.com                                                                        ACTIVE      404        Fri Oct 27 08:50:18 UTC 2017
+pdn.applovin.com                                                                                     ACTIVE      404        Fri Oct 27 08:50:19 UTC 2017
+px.cdn.creative.medialytics.com                                                                      ACTIVE      400        Fri Oct 27 08:50:21 UTC 2017
+r.edge.inmobicdn.net                                                                                 ACTIVE      403        Fri Oct 27 08:50:21 UTC 2017
+rs-staticart.ybcdn.net                                                                               ACTIVE      403        Fri Oct 27 08:50:24 UTC 2017
+r.w.inmobi.com                                                                                       ACTIVE      403        Fri Oct 27 08:50:26 UTC 2017
+s0.2mdn.net                                                                                          ACTIVE      404        Fri Oct 27 08:50:26 UTC 2017
+s3.phluant.com                                                                                       ACTIVE      404        Fri Oct 27 08:50:27 UTC 2017
+s.amazon-adsystem.com                                                                                ACTIVE      404        Fri Oct 27 08:50:27 UTC 2017
+s.mobclix.com                                                                                        ACTIVE      400        Fri Oct 27 08:50:31 UTC 2017
+stats.pflexads.com                                                                                   ACTIVE      403        Fri Oct 27 08:50:41 UTC 2017
+strikeadcdn.s3.amazonaws.com                                                                         ACTIVE      403        Fri Oct 27 08:50:41 UTC 2017
+thinknear-hosted.thinknearhub.com                                                                    ACTIVE      403        Fri Oct 27 08:50:43 UTC 2017
+track.celtra.com                                                                                     ACTIVE      404        Fri Oct 27 08:50:44 UTC 2017
+wv.inner-active.mobi                                                                                 ACTIVE      400        Fri Oct 27 08:50:54 UTC 2017
+www.pflexads.com                                                                                     ACTIVE      403        Fri Oct 27 08:51:08 UTC 2017
