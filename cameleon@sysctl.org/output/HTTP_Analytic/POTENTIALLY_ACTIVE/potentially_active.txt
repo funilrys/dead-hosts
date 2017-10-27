@@ -52,3 +52,6 @@ rewards.macandbumble.com                                                        
 rpt.rad.msn.com                                                                                      INACTIVE    000        Fri Oct 27 07:50:16 UTC 2017
 rtt.adrolays.de                                                                                      INACTIVE    000        Fri Oct 27 07:50:40 UTC 2017
 screensavers.lookoutsoft.net                                                                         INACTIVE    000        Fri Oct 27 07:54:53 UTC 2017
+secure.signup-processor.com                                                                          INACTIVE    000        Fri Oct 27 07:58:52 UTC 2017
+ssl-hints.netflame.cc                                                                                INACTIVE    000        Fri Oct 27 08:03:20 UTC 2017
+stats.gamespy.com                                                                                    INACTIVE    000        Fri Oct 27 08:06:33 UTC 2017

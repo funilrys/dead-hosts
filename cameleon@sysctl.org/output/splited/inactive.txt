@@ -513,3 +513,10 @@ rtt.adrolays.de                                                                 
 s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Fri Oct 27 07:52:26 UTC 2017
 screensavers.lookoutsoft.net                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 07:54:53 UTC 2017
 scripts.conversionattribution.com                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 07:55:10 UTC 2017
+securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Fri Oct 27 07:58:49 UTC 2017
+secure.signup-processor.com                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 07:58:52 UTC 2017
+servedby.fathomtech.com                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 07:59:30 UTC 2017
+ssl-hints.netflame.cc                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 08:03:20 UTC 2017
+stats.adisn.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 08:06:04 UTC 2017
+stats.atoshonetwork.com                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Oct 27 08:06:11 UTC 2017
+stats.gamespy.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 27 08:06:33 UTC 2017
