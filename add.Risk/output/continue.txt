@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/inactive_db x3.xclicks.net 66 2 64 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk freenew.net 694 668 26 0
