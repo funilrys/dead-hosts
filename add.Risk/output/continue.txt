@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.cle.kr 2084 2035 49 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.securetracking2.com 2684 2610 74 0
