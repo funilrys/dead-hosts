@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list q.azcentral.com 3557 3415 139 3
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list zumobi.com 4101 3942 155 4
