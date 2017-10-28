@@ -452,3 +452,7 @@ ad.hizlireklam.com                                                              
 adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 06:21:11 UTC 2017
 ads219.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 06:33:47 UTC 2017
 ads21.liteweb.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 06:33:54 UTC 2017
+ads44.liteweb.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 06:39:47 UTC 2017
+ads.advertisingz.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 06:43:31 UTC 2017
+ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Sat Oct 28 06:45:22 UTC 2017
+adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 06:48:52 UTC 2017

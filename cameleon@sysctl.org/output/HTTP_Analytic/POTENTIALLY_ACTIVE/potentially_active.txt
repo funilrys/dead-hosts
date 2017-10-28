@@ -10,3 +10,5 @@ ad468.prbn.ru                                                                   
 ad.germark.net                                                                                       INACTIVE    000        Sat Oct 28 06:20:30 UTC 2017
 ad.hizlireklam.com                                                                                   INACTIVE    000        Sat Oct 28 06:20:47 UTC 2017
 adimage.asiaone.com.sg                                                                               INACTIVE    000        Sat Oct 28 06:21:11 UTC 2017
+ads.advertisingz.com                                                                                 INACTIVE    000        Sat Oct 28 06:43:31 UTC 2017
+adserver.dotcommedia.de                                                                              INACTIVE    000        Sat Oct 28 06:48:52 UTC 2017
