@@ -308,6 +308,7 @@
 127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1 localhost
+127.0.0.1 localhost
 127.0.0.1  localhost
 127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 lp.mydas.mobi
@@ -416,7 +417,6 @@
 ::1 localhost
 ::1 localhost
 ::1 localhost
-::1  localhost
-127.0.0.1 localhost
 ::1 localhost
+::1  localhost
 img.ads.huntmad.com
