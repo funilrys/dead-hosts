@@ -12,3 +12,9 @@ ad.hizlireklam.com                                                              
 adimage.asiaone.com.sg                                                                               INACTIVE    000        Sat Oct 28 06:21:11 UTC 2017
 ads.advertisingz.com                                                                                 INACTIVE    000        Sat Oct 28 06:43:31 UTC 2017
 adserver.dotcommedia.de                                                                              INACTIVE    000        Sat Oct 28 06:48:52 UTC 2017
+adserver.nav2.net                                                                                    INACTIVE    000        Sat Oct 28 06:51:21 UTC 2017
+ads.mail3x.com                                                                                       INACTIVE    000        Sat Oct 28 06:56:05 UTC 2017
+ads.maroonspider.com                                                                                 INACTIVE    000        Sat Oct 28 06:56:15 UTC 2017
+ads.mdotm.com                                                                                        INACTIVE    000        Sat Oct 28 06:56:22 UTC 2017
+ads.mezimedia.com                                                                                    INACTIVE    000        Sat Oct 28 06:56:30 UTC 2017
+ads.pennyweb.com                                                                                     INACTIVE    000        Sat Oct 28 06:58:09 UTC 2017
