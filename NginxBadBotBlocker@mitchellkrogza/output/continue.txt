@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list onlineslotmaschine.com 3575 3408 167 0
+/home/travis/build/funilrys/dead-hosts/NginxBadBotBlocker@mitchellkrogza/tested-list/Nginx_Bad_Bot_Blocker.list roll123.com 4183 3998 185 0
