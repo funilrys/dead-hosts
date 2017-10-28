@@ -595,3 +595,7 @@ tag.beanstock.co                                                                
 tracking.intermundomedia.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 13:15:28 UTC 2017
 ts1.lsfinteractive.com                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 13:17:26 UTC 2017
 update.smart-browser.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 13:19:13 UTC 2017
+wrapper.askmen.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 13:25:53 UTC 2017
+wrapper.gamespyid.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 13:25:54 UTC 2017
+wrapper.ign.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 13:25:55 UTC 2017
+wrapper.teamxbox.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 13:25:56 UTC 2017
