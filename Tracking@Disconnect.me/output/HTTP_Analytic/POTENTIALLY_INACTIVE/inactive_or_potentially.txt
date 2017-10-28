@@ -4,5 +4,4 @@
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-bango.combango.org                                                                                   INACTIVE    000        Sat Oct 28 17:39:22 UTC 2017
-custom-blacklisted-tracking-example.com                                                              INACTIVE    000        Sat Oct 28 17:39:28 UTC 2017
+mobile-collector.newrelic.com                                                                        ACTIVE      404        Sat Oct 28 17:39:35 UTC 2017

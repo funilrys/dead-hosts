@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Tracking@Disconnect.me/inactive_db custom-blacklisted-tracking-example.com 2 0 2 0
+/home/travis/build/funilrys/dead-hosts/Tracking@Disconnect.me/tested-list/Disconnect.list vungle.com 34 32 2 0

@@ -1,8 +1,8 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Oct 28 17:36:48 UTC 2017
+# Date of generation: Sat Oct 28 17:39:20 UTC 2017
 
 
 Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-bango.combango.org                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:36:48 UTC 2017
-custom-blacklisted-tracking-example.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:36:49 UTC 2017
+bango.combango.org                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:39:22 UTC 2017
+custom-blacklisted-tracking-example.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:39:28 UTC 2017
