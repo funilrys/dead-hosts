@@ -244,3 +244,21 @@ turizm.bz                                                                       
 u17795.netangels.ru                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:04:56 UTC 2017
 varikozdok.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 17:06:59 UTC 2017
 voluumtracker1.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:08:57 UTC 2017
+vysigy.su                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:11:16 UTC 2017
+watchmyfb.pl                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:11:38 UTC 2017
+weightatraining.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:12:32 UTC 2017
+williamrobsonproperty.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:13:17 UTC 2017
+xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:14:51 UTC 2017
+xn----7sbaphztdjeboffeiof6c.xn--p1ai                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:15:12 UTC 2017
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:17:18 UTC 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:17:24 UTC 2017
+zapiszto.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:17:57 UTC 2017
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:18:07 UTC 2017
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:18:07 UTC 2017
+zebramart.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:18:12 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 17:18:36 UTC 2017
+zigarettenonlinekaufen.tumblr.com                                                                                                        INACTIVE    SPECIAL    404        Sat Oct 28 17:18:42 UTC 2017
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:18:45 UTC 2017
+zmoda.hostreo.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:18:49 UTC 2017
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:18:56 UTC 2017
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 17:19:23 UTC 2017
