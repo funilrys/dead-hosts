@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.2o7Net/tested-list/add.2o7Net.list zipzoomfly.122.2o7.net 1108 1108 0 0
+/home/travis/build/funilrys/dead-hosts/add.2o7Net/tested-list/add.2o7Net.list webroot.tt.omtrdc.net 1071 1071 0 0
