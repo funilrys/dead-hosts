@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list count.rin.ru 1353 1279 72 2
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list pheedo.com 2092 2001 89 2
