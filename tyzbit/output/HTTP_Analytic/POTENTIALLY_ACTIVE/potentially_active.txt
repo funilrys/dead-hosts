@@ -1,13 +1,13 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Oct 28 17:42:16 UTC 2017
+# Date of generation: Sat Oct 28 17:43:59 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-compatexchange.cloudapp.net                                                                          INACTIVE    000        Sat Oct 28 17:42:16 UTC 2017
-i1.services.social.microsoft.com.nsatc.net                                                           INACTIVE    000        Sat Oct 28 17:42:17 UTC 2017
-oca.telemetry.microsoft.com.nsatc.net                                                                INACTIVE    000        Sat Oct 28 17:42:17 UTC 2017
-sls.update.microsoft.com.akadns.net                                                                  INACTIVE    000        Sat Oct 28 17:42:18 UTC 2017
-telecommand.telemetry.microsoft.com.nsatc.net                                                        INACTIVE    000        Sat Oct 28 17:42:18 UTC 2017
-vortex-bn2.metron.live.com.nsatc.net                                                                 INACTIVE    000        Sat Oct 28 17:42:19 UTC 2017
-vortex-cy2.metron.live.com.nsatc.net                                                                 INACTIVE    000        Sat Oct 28 17:42:19 UTC 2017
+compatexchange.cloudapp.net                                                                          INACTIVE    000        Sat Oct 28 17:44:03 UTC 2017
+i1.services.social.microsoft.com.nsatc.net                                                           INACTIVE    000        Sat Oct 28 17:44:09 UTC 2017
+oca.telemetry.microsoft.com.nsatc.net                                                                INACTIVE    000        Sat Oct 28 17:44:11 UTC 2017
+sls.update.microsoft.com.akadns.net                                                                  INACTIVE    000        Sat Oct 28 17:44:15 UTC 2017
+telecommand.telemetry.microsoft.com.nsatc.net                                                        INACTIVE    000        Sat Oct 28 17:44:23 UTC 2017
+vortex-bn2.metron.live.com.nsatc.net                                                                 INACTIVE    000        Sat Oct 28 17:44:25 UTC 2017
+vortex-cy2.metron.live.com.nsatc.net                                                                 INACTIVE    000        Sat Oct 28 17:44:25 UTC 2017
