@@ -578,3 +578,11 @@ partnerad.l.doubleclick.net                                                     
 perso.estat.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:39:16 UTC 2017
 ptsd.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:43:17 UTC 2017
 pussygreen.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:43:56 UTC 2017
+rewards.macandbumble.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:48:32 UTC 2017
+rpt.rad.msn.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:49:31 UTC 2017
+rtt.adrolays.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:49:56 UTC 2017
+s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 28 12:51:36 UTC 2017
+screensavers.lookoutsoft.net                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:53:28 UTC 2017
+securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Sat Oct 28 12:55:23 UTC 2017
+secure.signup-processor.com                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:55:26 UTC 2017
+servedby.revcontent.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:56:09 UTC 2017
