@@ -1,32 +1,19 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Oct 21 20:31:07 UTC 2017
+# Date of generation: Sat Oct 28 17:52:39 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-accounts.pkr.com.invalid                                                                             INVALID     000        Sat Oct 21 20:31:30 UTC 2017
-a.collective-media.net                                                                               INACTIVE    000        Sat Oct 21 20:31:30 UTC 2017
-adfactor.nl.invalid                                                                                  INVALID     000        Sat Oct 21 20:32:59 UTC 2017
-ads.adultswim.com                                                                                    INACTIVE    000        Sat Oct 21 20:35:48 UTC 2017
-ads.batpmturner.com                                                                                  INACTIVE    000        Sat Oct 21 20:36:14 UTC 2017
-adserver.dotcommedia.de                                                                              INACTIVE    000        Sat Oct 21 20:37:44 UTC 2017
-ads.groundspeak.com                                                                                  INACTIVE    000        Sat Oct 21 20:38:57 UTC 2017
-ads.newsquest.co.uk                                                                                  INACTIVE    000        Sat Oct 21 20:40:12 UTC 2017
-ads.sift.co.uk                                                                                       INACTIVE    000        Sat Oct 21 20:42:57 UTC 2017
-ads.trinitymirror.co.uk                                                                              INACTIVE    000        Sat Oct 21 20:43:17 UTC 2017
-bravenet.com.invalid                                                                                 INVALID     000        Sat Oct 21 20:48:46 UTC 2017
-cibleclick.com.invalid                                                                               INVALID     000        Sat Oct 21 20:49:28 UTC 2017
-clients.tbo.com                                                                                      INACTIVE    000        Sat Oct 21 20:50:00 UTC 2017
-dmtracking2.alibaba.com                                                                              INACTIVE    000        Sat Oct 21 20:51:39 UTC 2017
-dmtracking.alibaba.com                                                                               INACTIVE    000        Sat Oct 21 20:51:40 UTC 2017
-gigya.com.invalid                                                                                    INVALID     000        Sat Oct 21 20:54:59 UTC 2017
-globaltrack.com.invalid                                                                              INVALID     000        Sat Oct 21 20:55:01 UTC 2017
-lct.salesforce.com                                                                                   INACTIVE    000        Sat Oct 21 20:56:56 UTC 2017
-naiadsystems.com.invalid                                                                             INVALID     000        Sat Oct 21 20:58:39 UTC 2017
-parse.ly.invalid                                                                                     INVALID     000        Sat Oct 21 21:00:07 UTC 2017
-reedbusiness.com.invalid                                                                             INVALID     000        Sat Oct 21 21:02:09 UTC 2017
-seeq.com.invalid                                                                                     INVALID     000        Sat Oct 21 21:02:59 UTC 2017
-test.invalid                                                                                         INVALID     000        Sat Oct 21 21:06:31 UTC 2017
-top20.com.invalid                                                                                    INVALID     000        Sat Oct 21 21:06:48 UTC 2017
-topmmorpgsites.com.invalid                                                                           INVALID     000        Sat Oct 21 21:07:01 UTC 2017
-touchclarity.natwest.com                                                                             INACTIVE    000        Sat Oct 21 21:07:10 UTC 2017
+a.collective-media.net                                                                               INACTIVE    000        Sat Oct 28 17:52:40 UTC 2017
+ads.adultswim.com                                                                                    INACTIVE    000        Sat Oct 28 17:52:40 UTC 2017
+ads.batpmturner.com                                                                                  INACTIVE    000        Sat Oct 28 17:52:41 UTC 2017
+adserver.dotcommedia.de                                                                              INACTIVE    000        Sat Oct 28 17:52:42 UTC 2017
+ads.groundspeak.com                                                                                  INACTIVE    000        Sat Oct 28 17:52:43 UTC 2017
+ads.newsquest.co.uk                                                                                  INACTIVE    000        Sat Oct 28 17:52:44 UTC 2017
+ads.sift.co.uk                                                                                       INACTIVE    000        Sat Oct 28 17:52:45 UTC 2017
+ads.trinitymirror.co.uk                                                                              INACTIVE    000        Sat Oct 28 17:52:45 UTC 2017
+clients.tbo.com                                                                                      INACTIVE    000        Sat Oct 28 17:52:46 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Sat Oct 28 17:52:46 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Sat Oct 28 17:52:47 UTC 2017
+lct.salesforce.com                                                                                   INACTIVE    000        Sat Oct 28 17:52:48 UTC 2017
+touchclarity.natwest.com                                                                             INACTIVE    000        Sat Oct 28 17:52:48 UTC 2017
