@@ -12,3 +12,8 @@ ads.canalblog.com                                                               
 adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:01:49 UTC 2017
 ads.groundspeak.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:03:05 UTC 2017
 ads.newsquest.co.uk                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:04:21 UTC 2017
+ads.sift.co.uk                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:07:23 UTC 2017
+ads.trinitymirror.co.uk                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:07:42 UTC 2017
+clients.tbo.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:14:14 UTC 2017
+dmtracking2.alibaba.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:15:42 UTC 2017
+dmtracking.alibaba.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:15:43 UTC 2017
