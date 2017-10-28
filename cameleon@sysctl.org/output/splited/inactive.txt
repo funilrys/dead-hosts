@@ -488,3 +488,9 @@ ch.p-digital-server.com                                                         
 clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 08:06:46 UTC 2017
 delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 08:21:17 UTC 2017
 deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 08:21:23 UTC 2017
+dns2.eguard.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 08:24:59 UTC 2017
+feedads.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Sat Oct 28 08:32:45 UTC 2017
+fertyu.allgreatvideo.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 08:33:01 UTC 2017
+fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 28 08:33:37 UTC 2017
+fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Sat Oct 28 08:33:37 UTC 2017
+fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 28 08:33:39 UTC 2017
