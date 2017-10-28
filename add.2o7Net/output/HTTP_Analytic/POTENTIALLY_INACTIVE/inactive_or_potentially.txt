@@ -59,3 +59,5 @@ verizonwireless.tt.omtrdc.net                                                   
 virginmobileusa.tt.omtrdc.net                                                                        ACTIVE      404        Sat Oct 28 00:34:57 UTC 2017
 webmdcom.tt.omtrdc.net                                                                               ACTIVE      404        Sat Oct 28 00:35:11 UTC 2017
 webroot.tt.omtrdc.net                                                                                ACTIVE      404        Sat Oct 28 00:35:13 UTC 2017
+westernunion.tt.omtrdc.net                                                                           ACTIVE      404        Sat Oct 28 00:37:01 UTC 2017
+wpni.tt.omtrdc.net                                                                                   ACTIVE      404        Sat Oct 28 00:37:07 UTC 2017
