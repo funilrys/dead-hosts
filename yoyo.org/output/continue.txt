@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/yoyo.org/tested-list/yoyo.org.list stickyadstv.com 2174 2150 14 10
+/home/travis/build/funilrys/dead-hosts/yoyo.org/tested-list/yoyo.org.list zv1.november-lax.com 2470 2442 15 13
