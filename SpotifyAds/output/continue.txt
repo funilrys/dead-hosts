@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/SpotifyAds/tested-list/SpotifyAds.list www.googletagservices.com 5 4 1 0
+/home/travis/build/funilrys/dead-hosts/SpotifyAds/inactive_db securepubads.g.doubleclick.net 1 0 1 0
