@@ -109,3 +109,4 @@ wrapper.askmen.com                                                              
 wrapper.gamespyid.com                                                                                INACTIVE    000        Sat Oct 28 13:25:54 UTC 2017
 wrapper.ign.com                                                                                      INACTIVE    000        Sat Oct 28 13:25:55 UTC 2017
 wrapper.teamxbox.com                                                                                 INACTIVE    000        Sat Oct 28 13:25:56 UTC 2017
+www.conceptsbyteupdate.com                                                                           INACTIVE    000        Sat Oct 28 13:35:55 UTC 2017
