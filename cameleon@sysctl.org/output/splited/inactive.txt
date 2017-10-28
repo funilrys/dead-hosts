@@ -568,3 +568,6 @@ h.ppjol.com                                                                     
 media.intermundomedia.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:17:53 UTC 2017
 metrics.gamestop.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:19:35 UTC 2017
 mfas.safesslredirect.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:21:15 UTC 2017
+micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 12:24:17 UTC 2017
+motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Sat Oct 28 12:25:34 UTC 2017
+motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Sat Oct 28 12:25:35 UTC 2017
