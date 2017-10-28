@@ -510,3 +510,7 @@ h.ppjol.com                                                                     
 above-gw.liveadvert.com                                                                                                                  INACTIVE    SPECIAL    404        Sat Oct 28 09:05:13 UTC 2017
 acnetwork.flux.acsyndication.com                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 09:06:09 UTC 2017
 a.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 09:06:10 UTC 2017
+ad468.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 09:25:58 UTC 2017
+ad-ace.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 28 09:30:26 UTC 2017
+ad.ad2-one.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 09:30:34 UTC 2017
+adclick.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Sat Oct 28 09:32:36 UTC 2017
