@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list dev3lop2er.fanpage112.cf 1782 1765 17 0
+/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list fermosur.com 2349 2330 19 0

@@ -20,3 +20,5 @@ blisshealth.ca                                                                  
 chrklr.eu                                                                                            INACTIVE    000        Sat Oct 28 03:30:04 UTC 2017
 confirmupdatepage.cf                                                                                 INACTIVE    000        Sat Oct 28 03:31:57 UTC 2017
 confirmyourspage.cf                                                                                  INACTIVE    000        Sat Oct 28 03:31:57 UTC 2017
+dev.maiomall.com                                                                                     INACTIVE    000        Sat Oct 28 03:38:11 UTC 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Sat Oct 28 03:45:58 UTC 2017

@@ -21,3 +21,5 @@ chrklr.eu                                                                       
 confirmupdatepage.cf                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 03:31:57 UTC 2017
 confirmyourspage.cf                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 03:31:57 UTC 2017
 cos.entrope.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 03:32:38 UTC 2017
+dev.maiomall.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 03:38:11 UTC 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 03:45:58 UTC 2017
