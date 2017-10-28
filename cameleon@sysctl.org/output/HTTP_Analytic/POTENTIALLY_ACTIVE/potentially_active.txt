@@ -64,3 +64,8 @@ adtxt.prbn.ru                                                                   
 adzone.stltoday.com                                                                                  INACTIVE    000        Sat Oct 28 10:32:09 UTC 2017
 affiliates.date-connected.com                                                                        INACTIVE    000        Sat Oct 28 10:33:00 UTC 2017
 a.goember.com                                                                                        INACTIVE    000        Sat Oct 28 10:33:59 UTC 2017
+analytics.amilliamilli.com                                                                           INACTIVE    000        Sat Oct 28 10:39:24 UTC 2017
+atax.askmen.com                                                                                      INACTIVE    000        Sat Oct 28 10:44:52 UTC 2017
+atax.gamermetrics.com                                                                                INACTIVE    000        Sat Oct 28 10:44:53 UTC 2017
+atax.ign.com                                                                                         INACTIVE    000        Sat Oct 28 10:44:54 UTC 2017
+atax.teamxbox.com                                                                                    INACTIVE    000        Sat Oct 28 10:44:55 UTC 2017

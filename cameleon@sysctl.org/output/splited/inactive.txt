@@ -540,3 +540,8 @@ adx.g.doubleclick.net                                                           
 adzone.stltoday.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:32:09 UTC 2017
 affiliates.date-connected.com                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:33:00 UTC 2017
 a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:33:59 UTC 2017
+analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:39:24 UTC 2017
+atax.askmen.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:44:52 UTC 2017
+atax.gamermetrics.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:44:53 UTC 2017
+atax.ign.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:44:54 UTC 2017
+atax.teamxbox.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:44:55 UTC 2017
