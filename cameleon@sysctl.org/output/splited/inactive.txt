@@ -555,3 +555,6 @@ cdn.eyewonder.com                                                               
 cgi.declicnet.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 11:19:09 UTC 2017
 ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 11:19:38 UTC 2017
 clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 11:21:08 UTC 2017
+delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 11:37:18 UTC 2017
+deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 11:37:24 UTC 2017
+dns2.eguard.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 11:39:04 UTC 2017
