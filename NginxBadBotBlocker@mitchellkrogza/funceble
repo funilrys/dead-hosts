@@ -163,10 +163,10 @@ travisMode=false
 travisAutoSaveMinutes=10
 
 # Default travis final commit message
-travisResultsCommitMessage='NginxBadBotBlocker@mitchellkrogza inactive_db - Results'
+travisResultsCommitMessage='NginxBadBotBlocker@mitchellkrogza - Results'
 
 # Default travis autosave commit message
-travisAutoSaveCommitMessage='NginxBadBotBlocker@mitchellkrogza inactive_db - Test'
+travisAutoSaveCommitMessage='NginxBadBotBlocker@mitchellkrogza - Test'
 
 # If set to false, we generate only one file with the results
 splitFiles=false
