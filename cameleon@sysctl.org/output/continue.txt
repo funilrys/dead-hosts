@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list adult.yellow-pages.ws 18189 17658 531 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list ai-gb.marketgid.com 18966 18430 536 0

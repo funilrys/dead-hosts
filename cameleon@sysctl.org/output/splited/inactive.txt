@@ -535,3 +535,8 @@ adsrv2.ihlassondakika.com                                                       
 ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:19:07 UTC 2017
 ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:19:14 UTC 2017
 adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:21:45 UTC 2017
+adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 10:24:33 UTC 2017
+adx.g.doubleclick.net                                                                                                                    INACTIVE    SPECIAL    404        Sat Oct 28 10:31:44 UTC 2017
+adzone.stltoday.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:32:09 UTC 2017
+affiliates.date-connected.com                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:33:00 UTC 2017
+a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 10:33:59 UTC 2017
