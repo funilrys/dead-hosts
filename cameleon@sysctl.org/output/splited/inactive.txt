@@ -514,3 +514,8 @@ ad468.prbn.ru                                                                   
 ad-ace.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 28 09:30:26 UTC 2017
 ad.ad2-one.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 09:30:34 UTC 2017
 adclick.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Sat Oct 28 09:32:36 UTC 2017
+ad.germark.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 09:36:43 UTC 2017
+ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 09:36:57 UTC 2017
+adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 09:37:22 UTC 2017
+ads136.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 09:44:24 UTC 2017
+ads137.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 09:44:31 UTC 2017
