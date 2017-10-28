@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk sijmp.com 1440 1405 35 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.contniental.com 2112 2065 47 0
