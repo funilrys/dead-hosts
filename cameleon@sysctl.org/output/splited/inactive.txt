@@ -468,3 +468,8 @@ ads.usermedia.net                                                               
 ads.website-guru.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 07:04:58 UTC 2017
 adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 07:06:35 UTC 2017
 adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 07:07:48 UTC 2017
+adx.g.doubleclick.net                                                                                                                    INACTIVE    SPECIAL    404        Sat Oct 28 07:17:03 UTC 2017
+adzone.stltoday.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 07:17:24 UTC 2017
+affiliates.date-connected.com                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 07:18:19 UTC 2017
+a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 07:19:26 UTC 2017
+analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 07:23:20 UTC 2017
