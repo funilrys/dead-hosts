@@ -75,3 +75,9 @@ www.sijmp.com                                                                   
 www.sonyplaystion.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 01:31:26 UTC 2017
 www.stressx.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 01:31:43 UTC 2017
 www.surch.co.uk                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 01:31:51 UTC 2017
+www.ukantivirus.co.uk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 01:34:56 UTC 2017
+www.vroll.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 01:35:21 UTC 2017
+www.xtds.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 01:36:20 UTC 2017
+www.zoophil.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 01:36:35 UTC 2017
+zeus.rhsystems.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 01:37:22 UTC 2017
+ztb.cztv.tv                                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 01:37:46 UTC 2017
