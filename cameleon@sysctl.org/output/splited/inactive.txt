@@ -463,3 +463,8 @@ ads.maroonspider.com                                                            
 ads.mdotm.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 06:56:22 UTC 2017
 ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 06:56:30 UTC 2017
 ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 06:58:09 UTC 2017
+ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 07:04:02 UTC 2017
+ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 07:04:08 UTC 2017
+ads.website-guru.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 07:04:58 UTC 2017
+adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 07:06:35 UTC 2017
+adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 07:07:48 UTC 2017

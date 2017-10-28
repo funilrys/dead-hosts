@@ -18,3 +18,6 @@ ads.maroonspider.com                                                            
 ads.mdotm.com                                                                                        INACTIVE    000        Sat Oct 28 06:56:22 UTC 2017
 ads.mezimedia.com                                                                                    INACTIVE    000        Sat Oct 28 06:56:30 UTC 2017
 ads.pennyweb.com                                                                                     INACTIVE    000        Sat Oct 28 06:58:09 UTC 2017
+ads.uniquemedia.net                                                                                  INACTIVE    000        Sat Oct 28 07:04:02 UTC 2017
+ads.usermedia.net                                                                                    INACTIVE    000        Sat Oct 28 07:04:08 UTC 2017
+adtxt.prbn.ru                                                                                        INACTIVE    000        Sat Oct 28 07:06:35 UTC 2017
