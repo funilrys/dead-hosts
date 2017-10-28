@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/yoyo.org/tested-list/yoyo.org.list free-banners.com 1423 1406 13 4
+/home/travis/build/funilrys/dead-hosts/yoyo.org/tested-list/yoyo.org.list stickyadstv.com 2174 2150 14 10
