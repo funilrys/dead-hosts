@@ -44,3 +44,5 @@ dns2.eguard.net                                                                 
 fertyu.allgreatvideo.com                                                                             INACTIVE    000        Sat Oct 28 08:33:01 UTC 2017
 hints.netflame.cc                                                                                    INACTIVE    000        Sat Oct 28 08:42:58 UTC 2017
 h.ppjol.com                                                                                          INACTIVE    000        Sat Oct 28 08:45:02 UTC 2017
+acnetwork.flux.acsyndication.com                                                                     INACTIVE    000        Sat Oct 28 09:06:09 UTC 2017
+a.collective-media.net                                                                               INACTIVE    000        Sat Oct 28 09:06:10 UTC 2017

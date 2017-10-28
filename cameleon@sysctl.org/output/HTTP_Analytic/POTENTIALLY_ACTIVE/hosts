@@ -44,3 +44,5 @@
 127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1        localhost
+0.0.0.0 acnetwork.flux.acsyndication.com
+0.0.0.0 a.collective-media.net

@@ -496,3 +496,17 @@ fls.doubleclick.net                                                             
 fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Oct 28 08:33:39 UTC 2017
 hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 08:42:58 UTC 2017
 h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 08:45:02 UTC 2017
+3642305.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:00:39 UTC 2017
+3765329.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:00:42 UTC 2017
+4053494.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:04 UTC 2017
+4236808.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:17 UTC 2017
+4360661.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:17 UTC 2017
+4488352.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:17 UTC 2017
+4514783.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:18 UTC 2017
+4684100.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:21 UTC 2017
+4923503.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:23 UTC 2017
+5362399.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:48 UTC 2017
+5582200.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 09:01:52 UTC 2017
+above-gw.liveadvert.com                                                                                                                  INACTIVE    SPECIAL    404        Sat Oct 28 09:05:13 UTC 2017
+acnetwork.flux.acsyndication.com                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 09:06:09 UTC 2017
+a.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 09:06:10 UTC 2017
