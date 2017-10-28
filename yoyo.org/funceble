@@ -163,10 +163,10 @@ travisMode=false
 travisAutoSaveMinutes=10
 
 # Default travis final commit message
-travisResultsCommitMessage='yoyo.org inactive_db - Results'
+travisResultsCommitMessage='yoyo.org - Results'
 
 # Default travis autosave commit message
-travisAutoSaveCommitMessage='yoyo.org inactive_db - Test'
+travisAutoSaveCommitMessage='yoyo.org - Test'
 
 # If set to false, we generate only one file with the results
 splitFiles=false
