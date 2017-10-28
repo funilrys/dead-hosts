@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/UncheckyAds/inactive_db cdn.inskinmedia.com 1 0 1 0
+/home/travis/build/funilrys/dead-hosts/UncheckyAds/tested-list/UncheckyAds.list tracking.opencandy.com.s3.amazonaws.com 17 14 3 0
