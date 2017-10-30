@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk guaranty.com.cn 2182 2117 65 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk slimxxxtubekrn.ddns.name 2890 2813 77 0
