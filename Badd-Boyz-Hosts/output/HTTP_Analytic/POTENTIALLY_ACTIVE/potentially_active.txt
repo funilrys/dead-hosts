@@ -23,3 +23,8 @@ confirmupdatepage.cf                                                            
 confirmyourspage.cf                                                                                  INACTIVE    000        Mon Oct 30 10:51:11 UTC 2017
 dev.maiomall.com                                                                                     INACTIVE    000        Mon Oct 30 10:57:44 UTC 2017
 exhibitionplus.eu                                                                                    INACTIVE    000        Mon Oct 30 11:05:46 UTC 2017
+floridamhca.org                                                                                      INACTIVE    000        Mon Oct 30 11:10:28 UTC 2017
+free-social-buttons.com                                                                              INACTIVE    000        Mon Oct 30 11:11:50 UTC 2017
+get-your-social-buttons.info                                                                         INACTIVE    000        Mon Oct 30 11:14:11 UTC 2017
+gok-kasten.net                                                                                       INACTIVE    000        Mon Oct 30 11:15:29 UTC 2017
+gsvx.5gbfree.com                                                                                     INACTIVE    000        Mon Oct 30 11:17:08 UTC 2017
