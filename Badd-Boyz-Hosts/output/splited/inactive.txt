@@ -50,3 +50,5 @@ morconsultoria.cl                                                               
 my-cash-bot.co                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 11:49:52 UTC 2017
 nboxidmsg.freetzi.com                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 30 11:51:35 UTC 2017
 nefpcme.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 11:51:39 UTC 2017
+pochemychka.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 12:02:53 UTC 2017
+popander.mobi                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 12:03:17 UTC 2017
