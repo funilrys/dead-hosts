@@ -469,3 +469,7 @@ ads.uniquemedia.net                                                             
 ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:27:13 UTC 2017
 adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:30:05 UTC 2017
 adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:31:33 UTC 2017
+adx.g.doubleclick.net                                                                                                                    INACTIVE    SPECIAL    404        Mon Oct 30 14:41:06 UTC 2017
+adzone.stltoday.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:41:30 UTC 2017
+affiliates.date-connected.com                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:42:29 UTC 2017
+a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:43:28 UTC 2017
