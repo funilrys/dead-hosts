@@ -5,3 +5,5 @@
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
 aa.toshiba.bavesinyourface.com                                                                       INACTIVE    000        Mon Oct 30 13:09:13 UTC 2017
+acnetwork.flux.acsyndication.com                                                                     INACTIVE    000        Mon Oct 30 13:12:34 UTC 2017
+a.collective-media.net                                                                               INACTIVE    000        Mon Oct 30 13:12:35 UTC 2017
