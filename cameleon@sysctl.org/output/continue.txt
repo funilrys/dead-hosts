@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list clicks.bannerboxes.com 9760 9276 484 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list cttracking08.com 10495 10010 485 0

@@ -488,3 +488,4 @@ cdn.appendad.com                                                                
 cdn.eyewonder.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 19:37:21 UTC 2017
 cgi.declicnet.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 19:39:26 UTC 2017
 ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 19:39:57 UTC 2017
+clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 21:56:06 UTC 2017
