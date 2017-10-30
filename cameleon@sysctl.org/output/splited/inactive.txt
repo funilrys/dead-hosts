@@ -457,3 +457,11 @@ adimage.asiaone.com.sg                                                          
 ad.reklama.nu                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 30 13:51:01 UTC 2017
 ads.advertisingz.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:06:29 UTC 2017
 ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Mon Oct 30 14:08:32 UTC 2017
+adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:13:44 UTC 2017
+adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:14:23 UTC 2017
+ads.geornmd.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:16:43 UTC 2017
+ads.mail3x.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:19:21 UTC 2017
+ads.maroonspider.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:19:31 UTC 2017
+ads.mdotm.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:19:38 UTC 2017
+ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:19:46 UTC 2017
+ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 14:21:21 UTC 2017
