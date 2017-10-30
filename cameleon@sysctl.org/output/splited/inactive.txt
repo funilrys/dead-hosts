@@ -454,3 +454,4 @@ adclick.g.doubleclick.net                                                       
 ad.germark.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 13:43:47 UTC 2017
 ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 13:44:04 UTC 2017
 adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 13:44:27 UTC 2017
+ad.reklama.nu                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 30 13:51:01 UTC 2017
