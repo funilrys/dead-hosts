@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list www.ezaza.com 31894 31298 596 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/inactive_db www.zhopa.net 522 7 515 0
