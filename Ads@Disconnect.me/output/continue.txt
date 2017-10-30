@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db adverts.carltononline.com 110 7 103 0
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.livenation.com 641 607 33 1
