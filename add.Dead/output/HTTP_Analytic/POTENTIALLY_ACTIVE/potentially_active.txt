@@ -1,13 +1,11 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Oct 30 07:58:04 UTC 2017
+# Date of generation: Mon Oct 30 07:59:43 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-disney-movie.org                                                                                     INACTIVE    000        Mon Oct 30 07:58:04 UTC 2017
-malwaredomainlists.com                                                                               INACTIVE    000        Mon Oct 30 07:58:05 UTC 2017
-www.apple-updates.com                                                                                INACTIVE    000        Mon Oct 30 07:58:05 UTC 2017
-www.blacksnake.com                                                                                   INACTIVE    000        Mon Oct 30 07:58:06 UTC 2017
-www.disney-movie.org                                                                                 INACTIVE    000        Mon Oct 30 07:58:06 UTC 2017
-www.thesunonsunday.co.uk                                                                             INACTIVE    000        Mon Oct 30 07:58:11 UTC 2017
-www.wwwfacebook.com                                                                                  INACTIVE    000        Mon Oct 30 07:58:11 UTC 2017
+disney-movie.org                                                                                     INACTIVE    000        Mon Oct 30 07:59:46 UTC 2017
+malwaredomainlists.com                                                                               INACTIVE    000        Mon Oct 30 07:59:51 UTC 2017
+www.apple-updates.com                                                                                INACTIVE    000        Mon Oct 30 07:59:58 UTC 2017
+www.disney-movie.org                                                                                 INACTIVE    000        Mon Oct 30 08:00:00 UTC 2017
+www.wwwfacebook.com                                                                                  INACTIVE    000        Mon Oct 30 08:00:11 UTC 2017
