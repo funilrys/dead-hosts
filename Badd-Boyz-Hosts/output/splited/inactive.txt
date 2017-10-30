@@ -43,3 +43,6 @@ hostme.ge                                                                       
 iccornacircri.cf                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 11:23:44 UTC 2017
 iskunvaimenninhuolto.fi                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 11:26:40 UTC 2017
 jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 11:28:12 UTC 2017
+kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 11:32:38 UTC 2017
+kinezist.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 11:32:42 UTC 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 11:38:11 UTC 2017
