@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk primosearch.com 1442 1401 41 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk guaranty.com.cn 2182 2117 65 0
