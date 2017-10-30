@@ -48,3 +48,16 @@ readersdigest.tt.omtrdc.net                                                     
 registercom.tt.omtrdc.net                                                                            ACTIVE      404        Mon Oct 30 07:51:53 UTC 2017
 rentcom.tt.omtrdc.net                                                                                ACTIVE      404        Mon Oct 30 07:51:55 UTC 2017
 reunion.tt.omtrdc.net                                                                                ACTIVE      404        Mon Oct 30 07:51:57 UTC 2017
+searsholdings.tt.omtrdc.net                                                                          ACTIVE      404        Mon Oct 30 07:54:11 UTC 2017
+skype.tt.omtrdc.net                                                                                  ACTIVE      404        Mon Oct 30 07:54:16 UTC 2017
+symantec.tt.omtrdc.net                                                                               ACTIVE      404        Mon Oct 30 07:54:33 UTC 2017
+tdameritrade.tt.omtrdc.net                                                                           ACTIVE      404        Mon Oct 30 07:54:36 UTC 2017
+tirerack.tt.omtrdc.net                                                                               ACTIVE      404        Mon Oct 30 07:54:53 UTC 2017
+toysrus.tt.omtrdc.net                                                                                ACTIVE      404        Mon Oct 30 07:54:57 UTC 2017
+usbank.tt.omtrdc.net                                                                                 ACTIVE      404        Mon Oct 30 07:55:06 UTC 2017
+verizonwireless.tt.omtrdc.net                                                                        ACTIVE      404        Mon Oct 30 07:55:11 UTC 2017
+virginmobileusa.tt.omtrdc.net                                                                        ACTIVE      404        Mon Oct 30 07:55:32 UTC 2017
+webmdcom.tt.omtrdc.net                                                                               ACTIVE      404        Mon Oct 30 07:55:40 UTC 2017
+webroot.tt.omtrdc.net                                                                                ACTIVE      404        Mon Oct 30 07:55:42 UTC 2017
+westernunion.tt.omtrdc.net                                                                           ACTIVE      404        Mon Oct 30 07:55:44 UTC 2017
+wpni.tt.omtrdc.net                                                                                   ACTIVE      404        Mon Oct 30 07:55:51 UTC 2017
