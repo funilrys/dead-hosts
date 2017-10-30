@@ -20,3 +20,8 @@ bb-acesso-web.ml                                                                
 bitcoins-live.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 30 10:39:11 UTC 2017
 blisshealth.ca                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 10:39:43 UTC 2017
 bvlgariring.xyz                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 30 10:42:53 UTC 2017
+cartierlove.xyz                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 30 10:46:40 UTC 2017
+chrklr.eu                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 10:49:16 UTC 2017
+confirmupdatepage.cf                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 10:51:10 UTC 2017
+confirmyourspage.cf                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 10:51:11 UTC 2017
+cos.entrope.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 30 10:51:55 UTC 2017
