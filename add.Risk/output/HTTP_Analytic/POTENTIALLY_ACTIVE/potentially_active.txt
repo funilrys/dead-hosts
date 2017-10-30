@@ -107,3 +107,6 @@ www.sonyplaystion.com                                                           
 www.surch.co.uk                                                                                      INACTIVE    000        Mon Oct 30 09:13:16 UTC 2017
 www.ukantivirus.co.uk                                                                                INACTIVE    000        Mon Oct 30 09:14:19 UTC 2017
 www.vroll.net                                                                                        INACTIVE    000        Mon Oct 30 09:14:48 UTC 2017
+www.xtds.info                                                                                        INACTIVE    000        Mon Oct 30 09:17:45 UTC 2017
+www.zoophil.com                                                                                      INACTIVE    000        Mon Oct 30 09:18:00 UTC 2017
+zeus.rhsystems.ru                                                                                    INACTIVE    000        Mon Oct 30 09:18:54 UTC 2017
