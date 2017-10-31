@@ -516,3 +516,10 @@ pagead.l.doubleclick.net                                                        
 partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Tue Oct 31 04:43:36 UTC 2017
 perso.estat.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:44:31 UTC 2017
 pomeranian99.sitetracker.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:46:28 UTC 2017
+ptsd.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:52:03 UTC 2017
+pussygreen.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:52:45 UTC 2017
+rewards.macandbumble.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:55:44 UTC 2017
+rpt.rad.msn.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:56:45 UTC 2017
+rtt.adrolays.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:57:15 UTC 2017
+s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Tue Oct 31 04:58:56 UTC 2017
+screensavers.lookoutsoft.net                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 05:01:01 UTC 2017
