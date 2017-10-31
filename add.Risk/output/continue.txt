@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk server1.extra-web.cz 1427 1390 37 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.cnnnew.com 2099 2048 51 0
