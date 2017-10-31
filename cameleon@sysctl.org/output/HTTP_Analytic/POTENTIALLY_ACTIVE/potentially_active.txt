@@ -49,3 +49,5 @@ dsa.csdata1.com                                                                 
 fertyu.allgreatvideo.com                                                                             INACTIVE    000        Tue Oct 31 01:24:15 UTC 2017
 hints.netflame.cc                                                                                    INACTIVE    000        Tue Oct 31 02:35:46 UTC 2017
 h.ppjol.com                                                                                          INACTIVE    000        Tue Oct 31 02:37:50 UTC 2017
+load.passionfruitads.com                                                                             INACTIVE    000        Tue Oct 31 03:16:17 UTC 2017
+media.intermundomedia.com                                                                            INACTIVE    000        Tue Oct 31 03:21:21 UTC 2017
