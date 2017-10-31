@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.cnnnew.com 2099 2048 51 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.tavelscape.com 2760 2680 80 0
