@@ -494,3 +494,8 @@ deluxe.spy-kill.com                                                             
 dns2.eguard.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 23:58:00 UTC 2017
 dsa.csdata1.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 30 23:59:21 UTC 2017
 error.freewebsites.com                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 00:02:55 UTC 2017
+feedads.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Tue Oct 31 01:23:57 UTC 2017
+fertyu.allgreatvideo.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 01:24:15 UTC 2017
+fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Tue Oct 31 01:24:54 UTC 2017
+fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Tue Oct 31 01:24:54 UTC 2017
+fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Tue Oct 31 01:24:56 UTC 2017
