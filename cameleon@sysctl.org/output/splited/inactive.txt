@@ -510,3 +510,9 @@ motifcdn2.doubleclick.net                                                       
 motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Tue Oct 31 04:27:11 UTC 2017
 mt.lsfinteractive.com                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 04:28:07 UTC 2017
 network.maxifiles.com                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 04:30:18 UTC 2017
+ox-d.motogp.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:42:28 UTC 2017
+pagead46.l.doubleclick.net                                                                                                               INACTIVE    SPECIAL    404        Tue Oct 31 04:43:13 UTC 2017
+pagead.l.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Tue Oct 31 04:43:13 UTC 2017
+partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Tue Oct 31 04:43:36 UTC 2017
+perso.estat.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:44:31 UTC 2017
+pomeranian99.sitetracker.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:46:28 UTC 2017
