@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db iliilllio00oo0.321.cn 131 27 104 0
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.livenation.com 657 623 33 1
