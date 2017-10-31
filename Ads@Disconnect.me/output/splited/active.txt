@@ -2619,3 +2619,10 @@ zde-affinity.edgecaching.net                                                    
 zedo.com                                                                                             ACTIVE      03-oct-2018       WHOIS      302        Tue Oct 31 11:35:48 UTC 2017
 zeepmedia.com                                                                                        ACTIVE      01-apr-2018       WHOIS      Unknown    Tue Oct 31 11:35:49 UTC 2017
 zencudo.co.uk                                                                                        ACTIVE      02-jan-2018       WHOIS      Unknown    Tue Oct 31 11:35:51 UTC 2017
+zenkreka.com                                                                                         ACTIVE      23-mar-2018       WHOIS      500        Tue Oct 31 11:37:35 UTC 2017
+zenzuu.com                                                                                           ACTIVE      10-dec-2017       WHOIS      Unknown    Tue Oct 31 11:37:37 UTC 2017
+zeusclicks.com                                                                                       ACTIVE      27-may-2018       WHOIS      200        Tue Oct 31 11:37:38 UTC 2017
+zeus.developershed.com                                                                               ACTIVE      Unknown           NSLOOKUP   Unknown    Tue Oct 31 11:37:39 UTC 2017
+zintext.com                                                                                          ACTIVE      12-mar-2018       WHOIS      200        Tue Oct 31 11:37:40 UTC 2017
+zmedia.com                                                                                           ACTIVE      27-jul-2018       WHOIS      301        Tue Oct 31 11:37:41 UTC 2017
+zumobi.com                                                                                           ACTIVE      05-may-2018       WHOIS      200        Tue Oct 31 11:37:42 UTC 2017
