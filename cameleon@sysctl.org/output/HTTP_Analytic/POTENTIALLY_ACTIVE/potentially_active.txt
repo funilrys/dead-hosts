@@ -66,3 +66,8 @@ screensavers.lookoutsoft.net                                                    
 secure.signup-processor.com                                                                          INACTIVE    000        Tue Oct 31 05:09:24 UTC 2017
 servedby.revcontent.com                                                                              INACTIVE    000        Tue Oct 31 05:10:09 UTC 2017
 ssl-hints.netflame.cc                                                                                INACTIVE    000        Tue Oct 31 05:14:35 UTC 2017
+stats.gamespy.com                                                                                    INACTIVE    000        Tue Oct 31 05:32:02 UTC 2017
+st.n.ads1-adnow.com                                                                                  INACTIVE    000        Tue Oct 31 05:33:26 UTC 2017
+st.n.ads3-adnow.com                                                                                  INACTIVE    000        Tue Oct 31 05:33:27 UTC 2017
+tag.beanstock.co                                                                                     INACTIVE    000        Tue Oct 31 05:35:14 UTC 2017
+tracking.intermundomedia.com                                                                         INACTIVE    000        Tue Oct 31 05:41:11 UTC 2017
