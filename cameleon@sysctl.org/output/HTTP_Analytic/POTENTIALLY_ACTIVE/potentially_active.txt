@@ -47,3 +47,5 @@ delivery.usermedia.net                                                          
 dns2.eguard.net                                                                                      INACTIVE    000        Mon Oct 30 23:58:00 UTC 2017
 dsa.csdata1.com                                                                                      INACTIVE    000        Mon Oct 30 23:59:21 UTC 2017
 fertyu.allgreatvideo.com                                                                             INACTIVE    000        Tue Oct 31 01:24:15 UTC 2017
+hints.netflame.cc                                                                                    INACTIVE    000        Tue Oct 31 02:35:46 UTC 2017
+h.ppjol.com                                                                                          INACTIVE    000        Tue Oct 31 02:37:50 UTC 2017
