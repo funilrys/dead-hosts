@@ -52,3 +52,6 @@
 127.0.0.1 localhost
 127.0.0.1        localhost
 0.0.0.0 media.intermundomedia.com
+0.0.0.0 metrics.gamestop.com
+0.0.0.0 mfas.safesslredirect.com
+0.0.0.0 micosoft.com-web.support

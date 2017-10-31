@@ -51,3 +51,6 @@ hints.netflame.cc                                                               
 h.ppjol.com                                                                                          INACTIVE    000        Tue Oct 31 02:37:50 UTC 2017
 load.passionfruitads.com                                                                             INACTIVE    000        Tue Oct 31 03:16:17 UTC 2017
 media.intermundomedia.com                                                                            INACTIVE    000        Tue Oct 31 03:21:21 UTC 2017
+metrics.gamestop.com                                                                                 INACTIVE    000        Tue Oct 31 04:23:58 UTC 2017
+mfas.safesslredirect.com                                                                             INACTIVE    000        Tue Oct 31 04:25:33 UTC 2017
+micosoft.com-web.support                                                                             INACTIVE    000        Tue Oct 31 04:25:53 UTC 2017

@@ -503,3 +503,10 @@ hints.netflame.cc                                                               
 h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 02:37:50 UTC 2017
 load.passionfruitads.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 03:16:17 UTC 2017
 media.intermundomedia.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 03:21:21 UTC 2017
+metrics.gamestop.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:23:58 UTC 2017
+mfas.safesslredirect.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:25:33 UTC 2017
+micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:25:53 UTC 2017
+motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Tue Oct 31 04:27:10 UTC 2017
+motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Tue Oct 31 04:27:11 UTC 2017
+mt.lsfinteractive.com                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 04:28:07 UTC 2017
+network.maxifiles.com                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 04:30:18 UTC 2017
