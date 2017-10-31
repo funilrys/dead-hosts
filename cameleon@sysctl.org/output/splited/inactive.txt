@@ -539,3 +539,5 @@ wrapper.gamespyid.com                                                           
 wrapper.ign.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 05:51:47 UTC 2017
 wrapper.teamxbox.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 05:51:47 UTC 2017
 www2a.sitetracker.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 05:53:23 UTC 2017
+www.conceptsbyteupdate.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 06:01:57 UTC 2017
+www.disable-uac.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 06:03:11 UTC 2017
