@@ -1,0 +1,10 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Tue Oct 31 10:40:07 UTC 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+100.1qingdao.com                                                                                     ACTIVE      404        Tue Oct 31 10:40:08 UTC 2017
+email.otherinbox.com                                                                                 ACTIVE      404        Tue Oct 31 10:40:25 UTC 2017
+www.credomobile.com                                                                                  ACTIVE      416        Tue Oct 31 10:41:21 UTC 2017
+www.tkdami.net                                                                                       ACTIVE      404        Tue Oct 31 10:41:57 UTC 2017
