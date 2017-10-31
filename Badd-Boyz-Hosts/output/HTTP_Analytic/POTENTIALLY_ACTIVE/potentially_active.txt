@@ -129,3 +129,6 @@ virtualcard.brunst.dk                                                           
 wantospo.com                                                                                         INACTIVE    000        Tue Oct 31 14:03:09 UTC 2017
 warrning-fanpa9e1.securittty4.tk                                                                     INACTIVE    000        Tue Oct 31 14:03:15 UTC 2017
 wellsfargo.tve.com.au                                                                                INACTIVE    000        Tue Oct 31 14:04:18 UTC 2017
+wiprint.co.id                                                                                        INACTIVE    000        Tue Oct 31 14:07:38 UTC 2017
+wjttowell.com                                                                                        INACTIVE    000        Tue Oct 31 14:07:42 UTC 2017
+yrservice.com.au                                                                                     INACTIVE    000        Tue Oct 31 14:11:53 UTC 2017

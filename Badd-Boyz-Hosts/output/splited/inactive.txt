@@ -137,3 +137,10 @@ virtualcard.brunst.dk                                                           
 wantospo.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 14:03:09 UTC 2017
 warrning-fanpa9e1.securittty4.tk                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 14:03:15 UTC 2017
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 14:04:18 UTC 2017
+wiprint.co.id                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 14:07:38 UTC 2017
+wjttowell.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 14:07:42 UTC 2017
+xoom.virgilio.it                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 14:10:29 UTC 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 14:11:53 UTC 2017
+zebramart.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 14:12:36 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Oct 31 14:13:02 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Oct 31 14:13:02 UTC 2017
