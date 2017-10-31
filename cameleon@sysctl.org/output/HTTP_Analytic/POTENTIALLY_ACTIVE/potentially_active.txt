@@ -71,3 +71,9 @@ st.n.ads1-adnow.com                                                             
 st.n.ads3-adnow.com                                                                                  INACTIVE    000        Tue Oct 31 05:33:27 UTC 2017
 tag.beanstock.co                                                                                     INACTIVE    000        Tue Oct 31 05:35:14 UTC 2017
 tracking.intermundomedia.com                                                                         INACTIVE    000        Tue Oct 31 05:41:11 UTC 2017
+update.smart-browser.com                                                                             INACTIVE    000        Tue Oct 31 05:46:50 UTC 2017
+wrapper.askmen.com                                                                                   INACTIVE    000        Tue Oct 31 05:51:44 UTC 2017
+wrapper.gamespyid.com                                                                                INACTIVE    000        Tue Oct 31 05:51:45 UTC 2017
+wrapper.ign.com                                                                                      INACTIVE    000        Tue Oct 31 05:51:47 UTC 2017
+wrapper.teamxbox.com                                                                                 INACTIVE    000        Tue Oct 31 05:51:47 UTC 2017
+www2a.sitetracker.com                                                                                INACTIVE    000        Tue Oct 31 05:53:23 UTC 2017
