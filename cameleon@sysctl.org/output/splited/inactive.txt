@@ -523,3 +523,8 @@ rpt.rad.msn.com                                                                 
 rtt.adrolays.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 04:57:15 UTC 2017
 s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Tue Oct 31 04:58:56 UTC 2017
 screensavers.lookoutsoft.net                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 05:01:01 UTC 2017
+securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Tue Oct 31 05:09:20 UTC 2017
+secure.signup-processor.com                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 05:09:24 UTC 2017
+servedby.revcontent.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 05:10:09 UTC 2017
+ssl-hints.netflame.cc                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 05:14:35 UTC 2017
+stats.atoshonetwork.com                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 05:17:48 UTC 2017
