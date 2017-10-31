@@ -43,3 +43,6 @@ cdn.eyewonder.com                                                               
 cgi.declicnet.com                                                                                    INACTIVE    000        Mon Oct 30 19:39:26 UTC 2017
 ch.p-digital-server.com                                                                              INACTIVE    000        Mon Oct 30 19:39:57 UTC 2017
 clicks.emarketmakers.com                                                                             INACTIVE    000        Mon Oct 30 21:56:06 UTC 2017
+delivery.usermedia.net                                                                               INACTIVE    000        Mon Oct 30 23:56:00 UTC 2017
+dns2.eguard.net                                                                                      INACTIVE    000        Mon Oct 30 23:58:00 UTC 2017
+dsa.csdata1.com                                                                                      INACTIVE    000        Mon Oct 30 23:59:21 UTC 2017
