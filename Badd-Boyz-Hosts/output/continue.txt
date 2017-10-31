@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list deutschland123.de 1789 1769 20 0
+/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list fincalabella.com 2401 2378 23 0
