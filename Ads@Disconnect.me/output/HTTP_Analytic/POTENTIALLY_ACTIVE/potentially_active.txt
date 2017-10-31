@@ -65,3 +65,15 @@ banner.joylandcasino.com                                                        
 banner.prestigecasino.com                                                                            INACTIVE    000        Tue Oct 31 11:09:53 UTC 2017
 banners.ebay.com                                                                                     INACTIVE    000        Tue Oct 31 11:10:10 UTC 2017
 bravenet.com.invalid                                                                                 INVALID     000        Tue Oct 31 11:11:23 UTC 2017
+c.compete.com                                                                                        INACTIVE    000        Tue Oct 31 11:14:15 UTC 2017
+clients.tbo.com                                                                                      INACTIVE    000        Tue Oct 31 11:15:10 UTC 2017
+count6.rbc.ru                                                                                        INACTIVE    000        Tue Oct 31 11:15:40 UTC 2017
+counter.avtoindex.com                                                                                INACTIVE    000        Tue Oct 31 11:15:42 UTC 2017
+creative.ak.facebook.com                                                                             INACTIVE    000        Tue Oct 31 11:16:15 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Tue Oct 31 11:16:49 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Tue Oct 31 11:16:50 UTC 2017
+euro-linkindex.de                                                                                    INACTIVE    000        Tue Oct 31 11:17:43 UTC 2017
+lct.salesforce.com                                                                                   INACTIVE    000        Tue Oct 31 11:21:32 UTC 2017
+memorix.sdv.fr                                                                                       INACTIVE    000        Tue Oct 31 11:23:02 UTC 2017
+mobilewithsms.net                                                                                    INACTIVE    000        Tue Oct 31 11:23:31 UTC 2017
+m.webtrends.com                                                                                      INACTIVE    000        Tue Oct 31 11:23:48 UTC 2017

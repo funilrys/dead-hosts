@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list cbx.net 1270 1187 81 2
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list netagent.cz 2001 1898 101 2
