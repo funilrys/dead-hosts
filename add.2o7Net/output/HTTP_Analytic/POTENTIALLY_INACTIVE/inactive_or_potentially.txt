@@ -57,3 +57,7 @@ toysrus.tt.omtrdc.net                                                           
 usbank.tt.omtrdc.net                                                                                 ACTIVE      404        Tue Oct 31 09:30:45 UTC 2017
 verizonwireless.tt.omtrdc.net                                                                        ACTIVE      404        Tue Oct 31 09:30:49 UTC 2017
 virginmobileusa.tt.omtrdc.net                                                                        ACTIVE      404        Tue Oct 31 09:31:11 UTC 2017
+webmdcom.tt.omtrdc.net                                                                               ACTIVE      404        Tue Oct 31 09:33:15 UTC 2017
+webroot.tt.omtrdc.net                                                                                ACTIVE      404        Tue Oct 31 09:33:16 UTC 2017
+westernunion.tt.omtrdc.net                                                                           ACTIVE      404        Tue Oct 31 09:33:18 UTC 2017
+wpni.tt.omtrdc.net                                                                                   ACTIVE      404        Tue Oct 31 09:33:25 UTC 2017
