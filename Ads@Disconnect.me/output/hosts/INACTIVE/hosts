@@ -1,11 +1,10 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Oct 30 09:31:24 UTC 2017
+# Date of generation: Tue Oct 31 10:46:18 UTC 2017
 
 0.0.0.0 a.collective-media.net
 0.0.0.0 ad2.ip.ro
 0.0.0.0 ad.980x.com
 0.0.0.0 ad.about.com
-0.0.0.0 adimage.asiaone.com.sg
 0.0.0.0 ad-images.suntimes.com
 0.0.0.0 adi.mainichi.co.jp
 0.0.0.0 adlink.de
@@ -79,10 +78,6 @@
 0.0.0.0 engine.awaps.net
 0.0.0.0 euro-linkindex.de
 0.0.0.0 gtop.ro
-0.0.0.0 idot.cz
-0.0.0.0 idot.cz
-0.0.0.0 idot.cz
-0.0.0.0 iliilllio00oo0.321.cn
 0.0.0.0 lct.salesforce.com
 0.0.0.0 memorix.sdv.fr
 0.0.0.0 mobilewithsms.net
@@ -108,3 +103,5 @@
 0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 traffic.liveuniversenetwork.com
 0.0.0.0 wads.webteh.com
+0.0.0.0 adimage.asiaone.com.sg
+0.0.0.0 iliilllio00oo0.321.cn

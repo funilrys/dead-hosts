@@ -1,9 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Oct 30 09:31:24 UTC 2017
-
-
-Domain                                                                                               Status      Source     HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------- ---------- ---------- ----------------------------
-accounts.pkr.com.invalid                                                                             INVALID     IANA       000        Mon Oct 30 09:32:00 UTC 2017
-bravenet.com.invalid                                                                                 INVALID     IANA       000        Mon Oct 30 09:51:06 UTC 2017
-seeq.com.invalid                                                                                     INVALID     IANA       000        Mon Oct 30 10:09:49 UTC 2017
