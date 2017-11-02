@@ -856,3 +856,9 @@ pagead.l.doubleclick.net                                                        
 partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Thu Nov  2 20:31:53 UTC 2017
 perso.estat.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:32:51 UTC 2017
 pomeranian99.sitetracker.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:35:00 UTC 2017
+ptsd.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:38:57 UTC 2017
+pussygreen.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:39:44 UTC 2017
+rewards.macandbumble.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:43:15 UTC 2017
+rpt.rad.msn.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:44:19 UTC 2017
+rtt.adrolays.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:44:43 UTC 2017
+s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Thu Nov  2 20:46:28 UTC 2017
