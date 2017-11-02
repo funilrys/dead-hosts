@@ -496,3 +496,9 @@ delivery.usermedia.net                                                          
 deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 15:45:34 UTC 2017
 dns2.eguard.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 15:47:19 UTC 2017
 dsa.csdata1.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 15:48:44 UTC 2017
+error.freewebsites.com                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 15:55:51 UTC 2017
+feedads.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Thu Nov  2 15:58:01 UTC 2017
+fertyu.allgreatvideo.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 15:58:21 UTC 2017
+fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  2 15:59:10 UTC 2017
+fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Thu Nov  2 15:59:10 UTC 2017
+fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  2 15:59:13 UTC 2017
