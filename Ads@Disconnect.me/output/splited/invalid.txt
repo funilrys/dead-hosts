@@ -5,3 +5,4 @@
 Domain                                                                                               Status      Source     HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- ---------- ----------------------------
 accounts.pkr.com.invalid                                                                             INVALID     IANA       000        Thu Nov  2 09:14:42 UTC 2017
+bravenet.com.invalid                                                                                 INVALID     IANA       000        Thu Nov  2 09:34:21 UTC 2017
