@@ -50,3 +50,8 @@ fertyu.allgreatvideo.com                                                        
 hints.netflame.cc                                                                                    INACTIVE    000        Thu Nov  2 16:09:39 UTC 2017
 h.ppjol.com                                                                                          INACTIVE    000        Thu Nov  2 16:11:54 UTC 2017
 load.passionfruitads.com                                                                             INACTIVE    000        Thu Nov  2 16:27:34 UTC 2017
+measure.richmetrics.com                                                                              INACTIVE    000        Thu Nov  2 16:33:04 UTC 2017
+media.intermundomedia.com                                                                            INACTIVE    000        Thu Nov  2 16:33:43 UTC 2017
+metrics.gamestop.com                                                                                 INACTIVE    000        Thu Nov  2 16:35:22 UTC 2017
+mfas.safesslredirect.com                                                                             INACTIVE    000        Thu Nov  2 16:37:04 UTC 2017
+micosoft.com-web.support                                                                             INACTIVE    000        Thu Nov  2 16:37:24 UTC 2017
