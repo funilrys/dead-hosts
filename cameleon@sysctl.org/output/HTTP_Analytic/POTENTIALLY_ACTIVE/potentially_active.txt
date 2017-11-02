@@ -97,3 +97,5 @@ clicks.emarketmakers.com                                                        
 delivery.usermedia.net                                                                               INACTIVE    000        Thu Nov  2 19:32:33 UTC 2017
 deluxe.spy-kill.com                                                                                  INACTIVE    000        Thu Nov  2 19:32:40 UTC 2017
 dns2.eguard.net                                                                                      INACTIVE    000        Thu Nov  2 19:34:20 UTC 2017
+dsa.csdata1.com                                                                                      INACTIVE    000        Thu Nov  2 19:38:12 UTC 2017
+fertyu.allgreatvideo.com                                                                             INACTIVE    000        Thu Nov  2 19:43:53 UTC 2017
