@@ -66,3 +66,10 @@ ads.advertisingz.com                                                            
 adserver.dotcommedia.de                                                                              INACTIVE    000        Thu Nov  2 17:51:36 UTC 2017
 adserver.nav2.net                                                                                    INACTIVE    000        Thu Nov  2 17:52:12 UTC 2017
 ads.geornmd.net                                                                                      INACTIVE    000        Thu Nov  2 17:54:34 UTC 2017
+ads.mail3x.com                                                                                       INACTIVE    000        Thu Nov  2 17:59:35 UTC 2017
+ads.maroonspider.com                                                                                 INACTIVE    000        Thu Nov  2 17:59:46 UTC 2017
+ads.mdotm.com                                                                                        INACTIVE    000        Thu Nov  2 17:59:56 UTC 2017
+ads.mezimedia.com                                                                                    INACTIVE    000        Thu Nov  2 18:00:04 UTC 2017
+ads.pennyweb.com                                                                                     INACTIVE    000        Thu Nov  2 18:01:47 UTC 2017
+ads.uniquemedia.net                                                                                  INACTIVE    000        Thu Nov  2 18:05:44 UTC 2017
+ads.usermedia.net                                                                                    INACTIVE    000        Thu Nov  2 18:05:53 UTC 2017

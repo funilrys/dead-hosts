@@ -798,3 +798,12 @@ ads.canalblog.com                                                               
 adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:51:36 UTC 2017
 adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:52:12 UTC 2017
 ads.geornmd.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:54:34 UTC 2017
+ads.iknownetwork.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 17:57:54 UTC 2017
+ads.imagine-inc.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 17:57:59 UTC 2017
+ads.mail3x.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:59:35 UTC 2017
+ads.maroonspider.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:59:46 UTC 2017
+ads.mdotm.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:59:56 UTC 2017
+ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:00:04 UTC 2017
+ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:01:47 UTC 2017
+ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:05:44 UTC 2017
+ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:05:53 UTC 2017
