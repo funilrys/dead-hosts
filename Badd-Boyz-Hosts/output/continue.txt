@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/inactive_db xoom.virgilio.it 305 200 105 0
+/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list asseenontvonline.ru 625 615 10 0
