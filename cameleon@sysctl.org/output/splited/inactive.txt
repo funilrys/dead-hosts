@@ -891,3 +891,7 @@ www.rk400.com                                                                   
 www.robsxxx.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:46:42 UTC 2017
 www.rx-24h.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:46:50 UTC 2017
 www.smart-browser.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:48:07 UTC 2017
+www.spy-kill.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:52:02 UTC 2017
+www.stockway.net                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:52:29 UTC 2017
+www.stressx.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 21:52:33 UTC 2017
+www.tarakc1.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:52:53 UTC 2017
