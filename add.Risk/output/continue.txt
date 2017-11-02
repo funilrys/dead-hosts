@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.cliop.com 2091 2043 48 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.torgi.kz 2784 2710 74 0
