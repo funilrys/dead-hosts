@@ -94,3 +94,6 @@ cdn.eyewonder.com                                                               
 cgi.declicnet.com                                                                                    INACTIVE    000        Thu Nov  2 19:15:07 UTC 2017
 ch.p-digital-server.com                                                                              INACTIVE    000        Thu Nov  2 19:15:42 UTC 2017
 clicks.emarketmakers.com                                                                             INACTIVE    000        Thu Nov  2 19:17:28 UTC 2017
+delivery.usermedia.net                                                                               INACTIVE    000        Thu Nov  2 19:32:33 UTC 2017
+deluxe.spy-kill.com                                                                                  INACTIVE    000        Thu Nov  2 19:32:40 UTC 2017
+dns2.eguard.net                                                                                      INACTIVE    000        Thu Nov  2 19:34:20 UTC 2017
