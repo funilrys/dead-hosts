@@ -816,3 +816,10 @@ adzone.stltoday.com                                                             
 affiliates.date-connected.com                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:24:48 UTC 2017
 a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:25:45 UTC 2017
 analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:29:53 UTC 2017
+app.passionfruitads.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:36:48 UTC 2017
+atax.gamermetrics.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:38:20 UTC 2017
+atax.ign.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:38:21 UTC 2017
+atax.teamxbox.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:38:21 UTC 2017
+banner.freeservers.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:41:04 UTC 2017
+b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:44:33 UTC 2017
+beta-hints.netflame.cc                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:45:35 UTC 2017
