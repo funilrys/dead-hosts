@@ -807,3 +807,7 @@ ads.mezimedia.com                                                               
 ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:01:47 UTC 2017
 ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:05:44 UTC 2017
 ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:05:53 UTC 2017
+adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:11:09 UTC 2017
+adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:12:23 UTC 2017
+ad.vikadsk.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:18:22 UTC 2017
+adv.punto-informatico.it                                                                             Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 18:18:47 UTC 2017
