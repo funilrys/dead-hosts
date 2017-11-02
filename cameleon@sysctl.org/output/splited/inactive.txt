@@ -811,3 +811,8 @@ adtxt.prbn.ru                                                                   
 adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:12:23 UTC 2017
 ad.vikadsk.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:18:22 UTC 2017
 adv.punto-informatico.it                                                                             Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 18:18:47 UTC 2017
+adx.g.doubleclick.net                                                                                                                    INACTIVE    SPECIAL    404        Thu Nov  2 18:23:34 UTC 2017
+adzone.stltoday.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:23:58 UTC 2017
+affiliates.date-connected.com                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:24:48 UTC 2017
+a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:25:45 UTC 2017
+analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 18:29:53 UTC 2017
