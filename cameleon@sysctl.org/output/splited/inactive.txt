@@ -444,3 +444,6 @@ Domain                                                                          
 5362399.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Thu Nov  2 12:57:39 UTC 2017
 5582200.fls.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Thu Nov  2 12:57:44 UTC 2017
 aa.toshiba.bavesinyourface.com                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 13:00:22 UTC 2017
+above-gw.liveadvert.com                                                                                                                  INACTIVE    SPECIAL    404        Thu Nov  2 13:02:38 UTC 2017
+acnetwork.flux.acsyndication.com                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 13:03:20 UTC 2017
+a.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 13:03:20 UTC 2017
