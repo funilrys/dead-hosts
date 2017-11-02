@@ -166,3 +166,6 @@ wellsfargo.tve.com.au                                                           
 wiprint.co.id                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 12:36:13 UTC 2017
 wjttowell.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 12:36:17 UTC 2017
 yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 12:40:38 UTC 2017
+zebramart.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 12:43:50 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Nov  2 12:44:15 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Nov  2 12:44:16 UTC 2017
