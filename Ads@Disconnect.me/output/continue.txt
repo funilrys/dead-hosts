@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db ads.massinfra.nl 115 13 102 0
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.jobsite.co.uk 648 614 33 1
