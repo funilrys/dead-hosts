@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.torgi.kz 2784 2710 74 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk zzz.clickbank.net 3062 2982 80 0
