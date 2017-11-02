@@ -41,3 +41,4 @@ cdn.appendad.com                                                                
 cdn.eyewonder.com                                                                                    INACTIVE    000        Thu Nov  2 15:24:11 UTC 2017
 cgi.declicnet.com                                                                                    INACTIVE    000        Thu Nov  2 15:25:52 UTC 2017
 ch.p-digital-server.com                                                                              INACTIVE    000        Thu Nov  2 15:26:25 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Thu Nov  2 15:30:33 UTC 2017

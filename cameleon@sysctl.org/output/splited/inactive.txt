@@ -490,3 +490,5 @@ cdn.eyewonder.com                                                               
 cgi.declicnet.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 15:25:52 UTC 2017
 checkmystats.com.au                                                                                  Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 15:26:13 UTC 2017
 ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 15:26:25 UTC 2017
+clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 15:30:33 UTC 2017
+clients.rx-promotion.com                                                                             Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 15:31:06 UTC 2017
