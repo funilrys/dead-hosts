@@ -49,3 +49,6 @@ morconsultoria.cl                                                               
 my-cash-bot.co                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 11:39:22 UTC 2017
 nefpcme.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 11:41:02 UTC 2017
 newslife24h.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 11:41:40 UTC 2017
+nluxbambla.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 11:44:11 UTC 2017
+pochemychka.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 11:51:59 UTC 2017
+popander.mobi                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 11:52:25 UTC 2017
