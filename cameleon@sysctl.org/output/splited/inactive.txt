@@ -793,3 +793,8 @@ ad.reklama.nu                                                                   
 ads232.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 17:37:01 UTC 2017
 ads233.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 17:37:08 UTC 2017
 ads234.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 17:37:18 UTC 2017
+ads.advertisingz.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:46:39 UTC 2017
+ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Thu Nov  2 17:48:30 UTC 2017
+adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:51:36 UTC 2017
+adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:52:12 UTC 2017
+ads.geornmd.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:54:34 UTC 2017
