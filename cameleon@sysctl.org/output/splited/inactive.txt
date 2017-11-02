@@ -844,3 +844,9 @@ hints.netflame.cc                                                               
 h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 19:55:23 UTC 2017
 load.passionfruitads.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:06:57 UTC 2017
 measure.richmetrics.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:10:41 UTC 2017
+media.intermundomedia.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:13:13 UTC 2017
+metrics.gamestop.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:14:50 UTC 2017
+mfas.safesslredirect.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:16:32 UTC 2017
+micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 20:16:51 UTC 2017
+motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Thu Nov  2 20:17:53 UTC 2017
+motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Thu Nov  2 20:17:54 UTC 2017
