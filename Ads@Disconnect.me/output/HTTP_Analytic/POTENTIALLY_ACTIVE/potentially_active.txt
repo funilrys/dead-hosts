@@ -65,3 +65,17 @@ banner.prestigecasino.com                                                       
 banners.ebay.com                                                                                     INACTIVE    000        Thu Nov  2 09:33:05 UTC 2017
 bravenet.com.invalid                                                                                 INVALID     000        Thu Nov  2 09:34:21 UTC 2017
 c.compete.com                                                                                        INACTIVE    000        Thu Nov  2 09:34:45 UTC 2017
+clients.tbo.com                                                                                      INACTIVE    000        Thu Nov  2 09:37:43 UTC 2017
+count6.rbc.ru                                                                                        INACTIVE    000        Thu Nov  2 09:38:09 UTC 2017
+counter.avtoindex.com                                                                                INACTIVE    000        Thu Nov  2 09:38:10 UTC 2017
+creative.ak.facebook.com                                                                             INACTIVE    000        Thu Nov  2 09:38:45 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Thu Nov  2 09:39:18 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Thu Nov  2 09:39:19 UTC 2017
+euro-linkindex.de                                                                                    INACTIVE    000        Thu Nov  2 09:40:14 UTC 2017
+gtop.ro                                                                                              INACTIVE    000        Thu Nov  2 09:41:44 UTC 2017
+lct.salesforce.com                                                                                   INACTIVE    000        Thu Nov  2 09:44:15 UTC 2017
+memorix.sdv.fr                                                                                       INACTIVE    000        Thu Nov  2 09:45:41 UTC 2017
+mobilewithsms.net                                                                                    INACTIVE    000        Thu Nov  2 09:46:10 UTC 2017
+m.webtrends.com                                                                                      INACTIVE    000        Thu Nov  2 09:46:28 UTC 2017
+network.business.com                                                                                 INACTIVE    000        Thu Nov  2 09:47:05 UTC 2017
+ngs.impress.co.jp                                                                                    INACTIVE    000        Thu Nov  2 09:47:16 UTC 2017
