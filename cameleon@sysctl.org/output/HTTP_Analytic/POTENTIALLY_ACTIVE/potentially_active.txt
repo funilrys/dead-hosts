@@ -23,3 +23,7 @@ ads.pennyweb.com                                                                
 ads.uniquemedia.net                                                                                  INACTIVE    000        Thu Nov  2 14:20:51 UTC 2017
 ads.usermedia.net                                                                                    INACTIVE    000        Thu Nov  2 14:21:00 UTC 2017
 adtxt.prbn.ru                                                                                        INACTIVE    000        Thu Nov  2 14:23:52 UTC 2017
+ad.vikadsk.com                                                                                       INACTIVE    000        Thu Nov  2 14:33:35 UTC 2017
+adzone.stltoday.com                                                                                  INACTIVE    000        Thu Nov  2 14:35:25 UTC 2017
+affiliates.date-connected.com                                                                        INACTIVE    000        Thu Nov  2 14:36:26 UTC 2017
+a.goember.com                                                                                        INACTIVE    000        Thu Nov  2 14:37:34 UTC 2017
