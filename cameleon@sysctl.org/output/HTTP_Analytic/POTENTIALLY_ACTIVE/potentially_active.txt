@@ -27,3 +27,8 @@ ad.vikadsk.com                                                                  
 adzone.stltoday.com                                                                                  INACTIVE    000        Thu Nov  2 14:35:25 UTC 2017
 affiliates.date-connected.com                                                                        INACTIVE    000        Thu Nov  2 14:36:26 UTC 2017
 a.goember.com                                                                                        INACTIVE    000        Thu Nov  2 14:37:34 UTC 2017
+analytics.amilliamilli.com                                                                           INACTIVE    000        Thu Nov  2 14:44:12 UTC 2017
+app.passionfruitads.com                                                                              INACTIVE    000        Thu Nov  2 14:48:26 UTC 2017
+atax.gamermetrics.com                                                                                INACTIVE    000        Thu Nov  2 14:50:04 UTC 2017
+atax.ign.com                                                                                         INACTIVE    000        Thu Nov  2 14:50:04 UTC 2017
+atax.teamxbox.com                                                                                    INACTIVE    000        Thu Nov  2 14:50:05 UTC 2017
