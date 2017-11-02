@@ -784,3 +784,9 @@ acnetwork.flux.acsyndication.com                                                
 a.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 16:53:05 UTC 2017
 ad468.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:12:55 UTC 2017
 ad-ace.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  2 17:17:16 UTC 2017
+adclick.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Thu Nov  2 17:20:55 UTC 2017
+ad.germark.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:22:46 UTC 2017
+ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:23:03 UTC 2017
+adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 17:23:27 UTC 2017
+ad.punto-informatico.it                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 17:27:14 UTC 2017
+ad.reklama.nu                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 17:27:31 UTC 2017
