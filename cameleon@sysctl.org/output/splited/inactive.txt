@@ -882,3 +882,12 @@ www.broadcastpc.tv                                                              
 www.conceptsbyteupdate.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:33:26 UTC 2017
 www.disable-uac.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 21:34:41 UTC 2017
 www.flashgamejunkie.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:36:16 UTC 2017
+www.home.superfish.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:40:11 UTC 2017
+www.mywebsearch.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:43:30 UTC 2017
+www.peruvianmarket.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:45:04 UTC 2017
+www.pscdns.biz                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:45:43 UTC 2017
+www.rank-master.de                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:46:05 UTC 2017
+www.rk400.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:46:41 UTC 2017
+www.robsxxx.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:46:42 UTC 2017
+www.rx-24h.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:46:50 UTC 2017
+www.smart-browser.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 21:48:07 UTC 2017
