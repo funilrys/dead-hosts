@@ -91,3 +91,6 @@ cdn1.eyewonder.com                                                              
 cdn4.eyewonder.com                                                                                   INACTIVE    000        Thu Nov  2 19:09:56 UTC 2017
 cdn.appendad.com                                                                                     INACTIVE    000        Thu Nov  2 19:10:31 UTC 2017
 cdn.eyewonder.com                                                                                    INACTIVE    000        Thu Nov  2 19:11:05 UTC 2017
+cgi.declicnet.com                                                                                    INACTIVE    000        Thu Nov  2 19:15:07 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Thu Nov  2 19:15:42 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Thu Nov  2 19:17:28 UTC 2017
