@@ -19,3 +19,7 @@ ads.mail3x.com                                                                  
 ads.maroonspider.com                                                                                 INACTIVE    000        Thu Nov  2 14:12:54 UTC 2017
 ads.mdotm.com                                                                                        INACTIVE    000        Thu Nov  2 14:13:02 UTC 2017
 ads.mezimedia.com                                                                                    INACTIVE    000        Thu Nov  2 14:13:12 UTC 2017
+ads.pennyweb.com                                                                                     INACTIVE    000        Thu Nov  2 14:16:49 UTC 2017
+ads.uniquemedia.net                                                                                  INACTIVE    000        Thu Nov  2 14:20:51 UTC 2017
+ads.usermedia.net                                                                                    INACTIVE    000        Thu Nov  2 14:21:00 UTC 2017
+adtxt.prbn.ru                                                                                        INACTIVE    000        Thu Nov  2 14:23:52 UTC 2017

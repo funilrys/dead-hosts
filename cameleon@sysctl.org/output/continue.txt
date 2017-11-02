@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list ads.movpod.in 4982 4522 460 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list advantageresearch.com 5638 5172 466 0

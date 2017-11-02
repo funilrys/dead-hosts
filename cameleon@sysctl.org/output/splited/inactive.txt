@@ -464,3 +464,9 @@ ads.mail3x.com                                                                  
 ads.maroonspider.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 14:12:54 UTC 2017
 ads.mdotm.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 14:13:02 UTC 2017
 ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 14:13:12 UTC 2017
+ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 14:16:49 UTC 2017
+ads.sopeng.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 14:19:21 UTC 2017
+ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 14:20:51 UTC 2017
+ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 14:21:00 UTC 2017
+adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  2 14:23:52 UTC 2017
+adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  2 14:25:11 UTC 2017
