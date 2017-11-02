@@ -101,3 +101,5 @@ dsa.csdata1.com                                                                 
 fertyu.allgreatvideo.com                                                                             INACTIVE    000        Thu Nov  2 19:43:53 UTC 2017
 hints.netflame.cc                                                                                    INACTIVE    000        Thu Nov  2 19:53:22 UTC 2017
 h.ppjol.com                                                                                          INACTIVE    000        Thu Nov  2 19:55:23 UTC 2017
+load.passionfruitads.com                                                                             INACTIVE    000        Thu Nov  2 20:06:57 UTC 2017
+measure.richmetrics.com                                                                              INACTIVE    000        Thu Nov  2 20:10:41 UTC 2017
