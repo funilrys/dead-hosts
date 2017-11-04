@@ -305,3 +305,7 @@ banner.date.com                                                                 
 banner.freeservers.net                                                                               INACTIVE    000        Sat Nov  4 14:43:45 UTC 2017
 b.collective-media.net                                                                               INACTIVE    000        Sat Nov  4 14:47:37 UTC 2017
 beta-hints.netflame.cc                                                                               INACTIVE    000        Sat Nov  4 14:48:56 UTC 2017
+bpm.tags.bigpondmedia.com                                                                            INACTIVE    000        Sat Nov  4 15:06:57 UTC 2017
+cdn1.eyewonder.com                                                                                   INACTIVE    000        Sat Nov  4 15:11:45 UTC 2017
+cdn4.eyewonder.com                                                                                   INACTIVE    000        Sat Nov  4 15:11:56 UTC 2017
+cdn.appendad.com                                                                                     INACTIVE    000        Sat Nov  4 15:12:25 UTC 2017
