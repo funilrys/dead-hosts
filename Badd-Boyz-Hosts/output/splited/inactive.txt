@@ -27,3 +27,5 @@ clayvasedesigns.tk                                                              
 confirmupdatepage.cf                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 10:39:10 UTC 2017
 confirmyourspage.cf                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 10:39:11 UTC 2017
 cos.entrope.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov  4 10:39:53 UTC 2017
+directoriodecomercioexterior.net                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 10:47:11 UTC 2017
+dpihatinh.gov.vn                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov  4 10:49:07 UTC 2017
