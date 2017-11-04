@@ -742,3 +742,11 @@ adzone.stltoday.com                                                             
 affiliates.date-connected.com                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:29:15 UTC 2017
 a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:30:21 UTC 2017
 analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:33:51 UTC 2017
+app.passionfruitads.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:39:27 UTC 2017
+atax.gamermetrics.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:41:05 UTC 2017
+atax.ign.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:41:05 UTC 2017
+atax.teamxbox.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:41:06 UTC 2017
+banner.date.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:43:32 UTC 2017
+banner.freeservers.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:43:45 UTC 2017
+b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:47:37 UTC 2017
+beta-hints.netflame.cc                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:48:56 UTC 2017
