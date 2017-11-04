@@ -803,3 +803,8 @@ tag.beanstock.co                                                                
 tracking.intermundomedia.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 17:17:26 UTC 2017
 t.trrker.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 17:19:38 UTC 2017
 update.smart-browser.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 17:20:58 UTC 2017
+wrapper.askmen.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 17:28:03 UTC 2017
+wrapper.gamespyid.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 17:28:05 UTC 2017
+wrapper.ign.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 17:28:08 UTC 2017
+wrapper.teamxbox.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 17:28:08 UTC 2017
+www2a.sitetracker.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 17:29:33 UTC 2017
