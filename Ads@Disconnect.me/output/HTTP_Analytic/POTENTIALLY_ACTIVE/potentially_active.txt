@@ -68,3 +68,15 @@ banners.lifeserv.com                                                            
 bravenet.com.invalid                                                                                 INVALID     000        Sat Nov  4 09:31:17 UTC 2017
 c.compete.com                                                                                        INACTIVE    000        Sat Nov  4 09:31:49 UTC 2017
 cdn.freefacti.com                                                                                    INACTIVE    000        Sat Nov  4 09:31:50 UTC 2017
+clients.tbo.com                                                                                      INACTIVE    000        Sat Nov  4 09:34:24 UTC 2017
+count6.rbc.ru                                                                                        INACTIVE    000        Sat Nov  4 09:34:47 UTC 2017
+counter.avtoindex.com                                                                                INACTIVE    000        Sat Nov  4 09:34:48 UTC 2017
+creative.ak.facebook.com                                                                             INACTIVE    000        Sat Nov  4 09:35:18 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Sat Nov  4 09:35:53 UTC 2017
+euro-linkindex.de                                                                                    INACTIVE    000        Sat Nov  4 09:36:54 UTC 2017
+gtop.ro                                                                                              INACTIVE    000        Sat Nov  4 09:38:26 UTC 2017
+lct.salesforce.com                                                                                   INACTIVE    000        Sat Nov  4 09:41:02 UTC 2017
+memorix.sdv.fr                                                                                       INACTIVE    000        Sat Nov  4 09:42:37 UTC 2017
+mobilewithsms.net                                                                                    INACTIVE    000        Sat Nov  4 09:43:05 UTC 2017
+m.webtrends.com                                                                                      INACTIVE    000        Sat Nov  4 09:43:22 UTC 2017
+network.business.com                                                                                 INACTIVE    000        Sat Nov  4 09:43:59 UTC 2017
