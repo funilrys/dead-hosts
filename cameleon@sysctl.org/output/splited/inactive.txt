@@ -714,3 +714,9 @@ ad98.ezcybersearch.com                                                          
 ad99.ezcybersearch.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:23:49 UTC 2017
 ad9.ezcybersearch.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:23:54 UTC 2017
 ad-ace.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Sat Nov  4 13:24:03 UTC 2017
+adclick.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Sat Nov  4 13:28:02 UTC 2017
+ad.ezcybersearch.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:29:39 UTC 2017
+ad.germark.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:30:05 UTC 2017
+ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:30:22 UTC 2017
+adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:30:46 UTC 2017
+ad.reklama.nu                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov  4 13:34:44 UTC 2017
