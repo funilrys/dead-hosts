@@ -79,3 +79,9 @@ www.sonyplaystion.com                                                           
 www.stressx.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov  4 08:52:49 UTC 2017
 www.surch.co.uk                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 08:52:56 UTC 2017
 www.tarakc1.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 08:53:05 UTC 2017
+www.ukantivirus.co.uk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 08:55:54 UTC 2017
+www.vroll.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 08:56:19 UTC 2017
+www.xtds.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 08:57:14 UTC 2017
+www.zoophil.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 08:57:32 UTC 2017
+zeus.rhsystems.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 08:58:29 UTC 2017
+ztb.cztv.tv                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 08:58:54 UTC 2017
