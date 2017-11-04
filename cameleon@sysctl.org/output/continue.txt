@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list ads.yam.com 5438 4708 730 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list adwarexeliminator.com 6148 5415 733 0
