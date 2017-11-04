@@ -309,3 +309,7 @@ bpm.tags.bigpondmedia.com                                                       
 cdn1.eyewonder.com                                                                                   INACTIVE    000        Sat Nov  4 15:11:45 UTC 2017
 cdn4.eyewonder.com                                                                                   INACTIVE    000        Sat Nov  4 15:11:56 UTC 2017
 cdn.appendad.com                                                                                     INACTIVE    000        Sat Nov  4 15:12:25 UTC 2017
+cdn.eyewonder.com                                                                                    INACTIVE    000        Sat Nov  4 15:14:25 UTC 2017
+cgi.declicnet.com                                                                                    INACTIVE    000        Sat Nov  4 15:16:03 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Sat Nov  4 15:16:33 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Sat Nov  4 15:17:57 UTC 2017
