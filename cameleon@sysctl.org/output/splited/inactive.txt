@@ -786,3 +786,11 @@ perso.estat.com                                                                 
 pomeranian99.sitetracker.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:40:12 UTC 2017
 ptsd.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:43:08 UTC 2017
 pussygreen.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:43:56 UTC 2017
+rewards.macandbumble.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:49:14 UTC 2017
+rpt.rad.msn.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:50:19 UTC 2017
+rtt.adrolays.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:50:45 UTC 2017
+s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Sat Nov  4 16:52:44 UTC 2017
+screensavers.lookoutsoft.net                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:55:15 UTC 2017
+securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Sat Nov  4 16:57:13 UTC 2017
+secure.signup-processor.com                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:57:16 UTC 2017
+servedby.revcontent.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 16:58:01 UTC 2017
