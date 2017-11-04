@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list zumobi.com 2760 2651 106 3
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db p.adpdx.com 86 4 82 0
