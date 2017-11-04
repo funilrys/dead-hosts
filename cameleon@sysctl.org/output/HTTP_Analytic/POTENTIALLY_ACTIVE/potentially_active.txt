@@ -327,3 +327,7 @@ metrics.gamestop.com                                                            
 mfas.safesslredirect.com                                                                             INACTIVE    000        Sat Nov  4 16:21:13 UTC 2017
 micosoft.com-web.support                                                                             INACTIVE    000        Sat Nov  4 16:21:29 UTC 2017
 ox-d.motogp.com                                                                                      INACTIVE    000        Sat Nov  4 16:34:30 UTC 2017
+perso.estat.com                                                                                      INACTIVE    000        Sat Nov  4 16:38:28 UTC 2017
+pomeranian99.sitetracker.com                                                                         INACTIVE    000        Sat Nov  4 16:40:12 UTC 2017
+ptsd.eyewonder.com                                                                                   INACTIVE    000        Sat Nov  4 16:43:08 UTC 2017
+pussygreen.com                                                                                       INACTIVE    000        Sat Nov  4 16:43:56 UTC 2017
