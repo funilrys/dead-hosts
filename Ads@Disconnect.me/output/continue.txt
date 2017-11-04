@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.massinfra.nl 675 641 33 1
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list click.absoluteagency.com 1317 1246 69 2
