@@ -277,3 +277,8 @@ ad.ezcybersearch.com                                                            
 ad.germark.net                                                                                       INACTIVE    000        Sat Nov  4 13:30:05 UTC 2017
 ad.hizlireklam.com                                                                                   INACTIVE    000        Sat Nov  4 13:30:22 UTC 2017
 adimage.asiaone.com.sg                                                                               INACTIVE    000        Sat Nov  4 13:30:46 UTC 2017
+ads.advertisingz.com                                                                                 INACTIVE    000        Sat Nov  4 13:53:51 UTC 2017
+ads.date.com                                                                                         INACTIVE    000        Sat Nov  4 13:56:44 UTC 2017
+adserver.dotcommedia.de                                                                              INACTIVE    000        Sat Nov  4 13:59:05 UTC 2017
+adserver.nav2.net                                                                                    INACTIVE    000        Sat Nov  4 13:59:45 UTC 2017
+ads.ezcybersearch.com                                                                                INACTIVE    000        Sat Nov  4 14:01:02 UTC 2017

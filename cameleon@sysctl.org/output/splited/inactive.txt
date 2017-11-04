@@ -720,3 +720,9 @@ ad.germark.net                                                                  
 ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:30:22 UTC 2017
 adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:30:46 UTC 2017
 ad.reklama.nu                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov  4 13:34:44 UTC 2017
+ads.advertisingz.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:53:51 UTC 2017
+ads.cobrad.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov  4 13:56:14 UTC 2017
+ads.date.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:56:44 UTC 2017
+adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:59:05 UTC 2017
+adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 13:59:45 UTC 2017
+ads.ezcybersearch.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov  4 14:01:03 UTC 2017
