@@ -6,3 +6,4 @@ Domain                                                                          
 ---------------------------------------------------------------------------------------------------- ----------- ---------- ---------- ----------------------------
 accounts.pkr.com.invalid                                                                             INVALID     IANA       000        Sat Nov  4 09:09:58 UTC 2017
 bravenet.com.invalid                                                                                 INVALID     IANA       000        Sat Nov  4 09:31:17 UTC 2017
+seeq.com.invalid                                                                                     INVALID     IANA       000        Sat Nov  4 09:50:20 UTC 2017
