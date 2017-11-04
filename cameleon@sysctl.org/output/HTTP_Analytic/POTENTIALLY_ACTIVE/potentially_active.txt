@@ -282,3 +282,11 @@ ads.date.com                                                                    
 adserver.dotcommedia.de                                                                              INACTIVE    000        Sat Nov  4 13:59:05 UTC 2017
 adserver.nav2.net                                                                                    INACTIVE    000        Sat Nov  4 13:59:45 UTC 2017
 ads.ezcybersearch.com                                                                                INACTIVE    000        Sat Nov  4 14:01:02 UTC 2017
+ads.geornmd.net                                                                                      INACTIVE    000        Sat Nov  4 14:03:51 UTC 2017
+ads.mail3x.com                                                                                       INACTIVE    000        Sat Nov  4 14:06:24 UTC 2017
+ads.maroonspider.com                                                                                 INACTIVE    000        Sat Nov  4 14:06:33 UTC 2017
+ads.mdotm.com                                                                                        INACTIVE    000        Sat Nov  4 14:06:41 UTC 2017
+ads.mezimedia.com                                                                                    INACTIVE    000        Sat Nov  4 14:06:49 UTC 2017
+ads.pennyweb.com                                                                                     INACTIVE    000        Sat Nov  4 14:08:24 UTC 2017
+ads.uniquemedia.net                                                                                  INACTIVE    000        Sat Nov  4 14:12:21 UTC 2017
+ads.usermedia.net                                                                                    INACTIVE    000        Sat Nov  4 14:12:29 UTC 2017
