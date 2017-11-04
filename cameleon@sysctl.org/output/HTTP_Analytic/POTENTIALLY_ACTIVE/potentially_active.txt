@@ -350,3 +350,9 @@ wrapper.gamespyid.com                                                           
 wrapper.ign.com                                                                                      INACTIVE    000        Sat Nov  4 17:28:08 UTC 2017
 wrapper.teamxbox.com                                                                                 INACTIVE    000        Sat Nov  4 17:28:08 UTC 2017
 www2a.sitetracker.com                                                                                INACTIVE    000        Sat Nov  4 17:29:33 UTC 2017
+www.broadcastpc.tv                                                                                   INACTIVE    000        Sat Nov  4 17:37:02 UTC 2017
+www.conceptsbyteupdate.com                                                                           INACTIVE    000        Sat Nov  4 17:38:26 UTC 2017
+www.disable-uac.com                                                                                  INACTIVE    000        Sat Nov  4 17:39:31 UTC 2017
+www.flashgamejunkie.com                                                                              INACTIVE    000        Sat Nov  4 17:41:09 UTC 2017
+www.home.superfish.com                                                                               INACTIVE    000        Sat Nov  4 17:43:12 UTC 2017
+www.mywebsearch.net                                                                                  INACTIVE    000        Sat Nov  4 17:46:22 UTC 2017
