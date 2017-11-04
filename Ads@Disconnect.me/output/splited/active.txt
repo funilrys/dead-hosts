@@ -2651,3 +2651,8 @@ zeepmedia.com                                                                   
 zencudo.co.uk                                                                                        ACTIVE      02-jan-2018       WHOIS      Unknown    Sat Nov  4 09:56:00 UTC 2017
 zenkreka.com                                                                                         ACTIVE      23-mar-2018       WHOIS      500        Sat Nov  4 09:56:00 UTC 2017
 zenzuu.com                                                                                           ACTIVE      10-dec-2017       WHOIS      Unknown    Sat Nov  4 09:56:02 UTC 2017
+zeusclicks.com                                                                                       ACTIVE      27-may-2018       WHOIS      200        Sat Nov  4 09:58:26 UTC 2017
+zeus.developershed.com                                                                               ACTIVE      Unknown           NSLOOKUP   Unknown    Sat Nov  4 09:58:28 UTC 2017
+zintext.com                                                                                          ACTIVE      12-mar-2018       WHOIS      200        Sat Nov  4 09:58:29 UTC 2017
+zmedia.com                                                                                           ACTIVE      27-jul-2018       WHOIS      301        Sat Nov  4 09:58:30 UTC 2017
+zumobi.com                                                                                           ACTIVE      05-may-2018       WHOIS      200        Sat Nov  4 09:58:31 UTC 2017

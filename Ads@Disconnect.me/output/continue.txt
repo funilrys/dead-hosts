@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list zenzuu.com 2760 2647 110 3
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list zumobi.com 2765 2652 110 3
