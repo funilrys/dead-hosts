@@ -1,13 +1,13 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Nov  2 08:02:24 UTC 2017
+# Date of generation: Sat Nov  4 08:00:32 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-disney-movie.org                                                                                     INACTIVE    000        Thu Nov  2 08:02:27 UTC 2017
-malwaredomainlists.com                                                                               INACTIVE    000        Thu Nov  2 08:02:33 UTC 2017
-www.apple-updates.com                                                                                INACTIVE    000        Thu Nov  2 08:02:40 UTC 2017
-www.disney-movie.org                                                                                 INACTIVE    000        Thu Nov  2 08:02:42 UTC 2017
-www.sunonsunday.co.uk                                                                                INACTIVE    000        Thu Nov  2 08:02:51 UTC 2017
-www.thesunonsunday.co.uk                                                                             INACTIVE    000        Thu Nov  2 08:02:54 UTC 2017
-www.wwwfacebook.com                                                                                  INACTIVE    000        Thu Nov  2 08:02:54 UTC 2017
+disney-movie.org                                                                                     INACTIVE    000        Sat Nov  4 08:00:33 UTC 2017
+malwaredomainlists.com                                                                               INACTIVE    000        Sat Nov  4 08:00:33 UTC 2017
+www.apple-updates.com                                                                                INACTIVE    000        Sat Nov  4 08:00:34 UTC 2017
+www.disney-movie.org                                                                                 INACTIVE    000        Sat Nov  4 08:00:36 UTC 2017
+www.thesunonsunday.com                                                                               INACTIVE    000        Sat Nov  4 08:00:39 UTC 2017
+www.thesunonsunday.co.uk                                                                             INACTIVE    000        Sat Nov  4 08:00:40 UTC 2017
+www.wwwfacebook.com                                                                                  INACTIVE    000        Sat Nov  4 08:00:40 UTC 2017
