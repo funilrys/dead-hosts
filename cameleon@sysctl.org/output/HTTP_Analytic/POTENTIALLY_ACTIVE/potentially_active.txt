@@ -293,3 +293,7 @@ ads.uniquemedia.net                                                             
 ads.usermedia.net                                                                                    INACTIVE    000        Mon Nov  6 14:27:39 UTC 2017
 adtxt.prbn.ru                                                                                        INACTIVE    000        Mon Nov  6 14:31:57 UTC 2017
 ad.vikadsk.com                                                                                       INACTIVE    000        Mon Nov  6 14:39:31 UTC 2017
+adzone.stltoday.com                                                                                  INACTIVE    000        Mon Nov  6 14:43:35 UTC 2017
+affiliates.date-connected.com                                                                        INACTIVE    000        Mon Nov  6 14:44:22 UTC 2017
+a.goember.com                                                                                        INACTIVE    000        Mon Nov  6 14:45:18 UTC 2017
+analytics.amilliamilli.com                                                                           INACTIVE    000        Mon Nov  6 14:49:08 UTC 2017
