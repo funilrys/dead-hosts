@@ -78,3 +78,11 @@ www.sonyplaystion.com                                                           
 www.stressx.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 08:55:55 UTC 2017
 www.surch.co.uk                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 08:56:03 UTC 2017
 www.tarakc1.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 08:56:15 UTC 2017
+www.ukantivirus.co.uk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 08:59:39 UTC 2017
+www.vroll.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 09:00:03 UTC 2017
+www.wmserver.net                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 09:00:30 UTC 2017
+www.wordseach.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 09:00:34 UTC 2017
+www.xtds.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 09:01:12 UTC 2017
+www.zoophil.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 09:01:26 UTC 2017
+zeus.rhsystems.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 09:02:19 UTC 2017
+ztb.cztv.tv                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 09:02:38 UTC 2017
