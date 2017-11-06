@@ -724,3 +724,10 @@ ad.nozonedata.com                                                               
 ad.reklama.nu                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 13:51:29 UTC 2017
 ads124.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 13:53:40 UTC 2017
 ads125.liteweb.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 13:53:47 UTC 2017
+ads.advertisingz.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:09:11 UTC 2017
+ads.bta.bg                                                                                           Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 14:10:43 UTC 2017
+ads.canalblog.com                                                                                                                        INACTIVE    SPECIAL    404        Mon Nov  6 14:11:00 UTC 2017
+adserver.dotcommedia.de                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:14:27 UTC 2017
+adserver.nav2.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:15:09 UTC 2017
+ads.ezcybersearch.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:16:38 UTC 2017
+ads.geornmd.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:17:49 UTC 2017
