@@ -191,3 +191,8 @@ virtualcard.brunst.dk                                                           
 wantospo.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 12:51:24 UTC 2017
 warrning-fanpa9e1.securittty4.tk                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 12:51:30 UTC 2017
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 12:52:33 UTC 2017
+wiprint.co.id                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 12:57:11 UTC 2017
+wjttowell.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 12:57:15 UTC 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 13:01:38 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Nov  6 13:02:51 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Nov  6 13:02:52 UTC 2017
