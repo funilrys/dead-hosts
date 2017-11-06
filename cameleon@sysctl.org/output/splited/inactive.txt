@@ -753,3 +753,4 @@ atax.teamxbox.com                                                               
 banner2.babenet.nl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:58:36 UTC 2017
 banner.freeservers.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:59:15 UTC 2017
 b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 15:03:20 UTC 2017
+beta-hints.netflame.cc                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 15:06:15 UTC 2017
