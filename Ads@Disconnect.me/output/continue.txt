@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list ads.horsehero.com 713 678 34 1
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list banners.babylon-x.com 1446 1379 66 1
