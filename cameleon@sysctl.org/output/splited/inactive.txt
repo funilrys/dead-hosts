@@ -818,3 +818,14 @@ www.disable-uac.com                                                             
 www.flashgamejunkie.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:56:33 UTC 2017
 www.home.superfish.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:58:49 UTC 2017
 www.mywebsearch.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:02:18 UTC 2017
+www.peruvianmarket.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:05:23 UTC 2017
+www.pscdns.biz                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:06:08 UTC 2017
+www.rank-master.de                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:06:31 UTC 2017
+www.rk400.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:06:55 UTC 2017
+www.robsxxx.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:06:56 UTC 2017
+www.rx-24h.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:07:02 UTC 2017
+www.smart-browser.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:08:14 UTC 2017
+www.spy-kill.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:08:33 UTC 2017
+www.stockway.net                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:09:07 UTC 2017
+www.stressx.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:09:10 UTC 2017
+www.tarakc1.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:09:30 UTC 2017

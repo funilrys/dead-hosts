@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Nov  4 12:52:21 UTC 2017
+# Date of generation: Mon Nov  6 13:09:48 UTC 2017
 
 0.0.0.0 08.185.87.00.liveadvert.com
 0.0.0.0 08.185.87.01.liveadvert.com
@@ -565,6 +565,7 @@
 0.0.0.0 ad199.ezcybersearch.com
 0.0.0.0 ad19.ezcybersearch.com
 0.0.0.0 ad1.ezcybersearch.com
+0.0.0.0 ad1.nozonedata.com
 0.0.0.0 ad200.ezcybersearch.com
 0.0.0.0 ad201.ezcybersearch.com
 0.0.0.0 ad202.ezcybersearch.com
@@ -716,10 +717,13 @@
 0.0.0.0 ad.germark.net
 0.0.0.0 ad.hizlireklam.com
 0.0.0.0 adimage.asiaone.com.sg
+0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.reklama.nu
+0.0.0.0 ads124.liteweb.net
+0.0.0.0 ads125.liteweb.net
 0.0.0.0 ads.advertisingz.com
-0.0.0.0 ads.cobrad.com
-0.0.0.0 ads.date.com
+0.0.0.0 ads.bta.bg
+0.0.0.0 ads.canalblog.com
 0.0.0.0 adserver.dotcommedia.de
 0.0.0.0 adserver.nav2.net
 0.0.0.0 ads.ezcybersearch.com
@@ -743,12 +747,11 @@
 0.0.0.0 atax.gamermetrics.com
 0.0.0.0 atax.ign.com
 0.0.0.0 atax.teamxbox.com
-0.0.0.0 banner.date.com
+0.0.0.0 banner2.babenet.nl
 0.0.0.0 banner.freeservers.net
 0.0.0.0 b.collective-media.net
 0.0.0.0 beta-hints.netflame.cc
 0.0.0.0 bpm.tags.bigpondmedia.com
-0.0.0.0 c2klog13.classifieds2000.com
 0.0.0.0 cdn1.eyewonder.com
 0.0.0.0 cdn4.eyewonder.com
 0.0.0.0 cdn.appendad.com
@@ -768,6 +771,7 @@
 0.0.0.0 hints.netflame.cc
 0.0.0.0 h.ppjol.com
 0.0.0.0 load.passionfruitads.com
+127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1 localhost
@@ -796,7 +800,7 @@
 0.0.0.0 screensavers.lookoutsoft.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secure.signup-processor.com
-0.0.0.0 servedby.revcontent.com
+0.0.0.0 securite.01net.com
 0.0.0.0 ssl-hints.netflame.cc
 0.0.0.0 stats.gamespy.com
 0.0.0.0 st.n.ads1-adnow.com
@@ -813,6 +817,7 @@
 0.0.0.0 www2a.sitetracker.com
 0.0.0.0 www.broadcastpc.tv
 0.0.0.0 www.conceptsbyteupdate.com
+0.0.0.0 www.counterdata.com
 0.0.0.0 www.disable-uac.com
 0.0.0.0 www.flashgamejunkie.com
 0.0.0.0 www.home.superfish.com
