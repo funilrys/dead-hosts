@@ -738,3 +738,6 @@ ads.mezimedia.com                                                               
 ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:23:50 UTC 2017
 ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:27:33 UTC 2017
 ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:27:39 UTC 2017
+adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:31:57 UTC 2017
+adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 14:33:13 UTC 2017
+ad.vikadsk.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 14:39:31 UTC 2017
