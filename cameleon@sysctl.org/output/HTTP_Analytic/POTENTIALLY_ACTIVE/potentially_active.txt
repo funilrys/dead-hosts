@@ -318,3 +318,5 @@ deluxe.spy-kill.com                                                             
 dns2.eguard.net                                                                                      INACTIVE    000        Mon Nov  6 15:48:58 UTC 2017
 dsa.csdata1.com                                                                                      INACTIVE    000        Mon Nov  6 15:50:30 UTC 2017
 fertyu.allgreatvideo.com                                                                             INACTIVE    000        Mon Nov  6 15:59:00 UTC 2017
+hints.netflame.cc                                                                                    INACTIVE    000        Mon Nov  6 16:10:31 UTC 2017
+h.ppjol.com                                                                                          INACTIVE    000        Mon Nov  6 16:12:42 UTC 2017
