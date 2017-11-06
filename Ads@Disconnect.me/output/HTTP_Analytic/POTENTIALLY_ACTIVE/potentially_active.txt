@@ -63,3 +63,16 @@ banner.alphacool.de                                                             
 banner.featuredusers.com                                                                             INACTIVE    000        Mon Nov  6 09:41:28 UTC 2017
 banner.joylandcasino.com                                                                             INACTIVE    000        Mon Nov  6 09:41:37 UTC 2017
 banner.prestigecasino.com                                                                            INACTIVE    000        Mon Nov  6 09:41:53 UTC 2017
+banners.ebay.com                                                                                     INACTIVE    000        Mon Nov  6 09:43:42 UTC 2017
+bravenet.com.invalid                                                                                 INVALID     000        Mon Nov  6 09:44:58 UTC 2017
+c.compete.com                                                                                        INACTIVE    000        Mon Nov  6 09:45:21 UTC 2017
+cdn.freefacti.com                                                                                    INACTIVE    000        Mon Nov  6 09:45:21 UTC 2017
+clients.tbo.com                                                                                      INACTIVE    000        Mon Nov  6 09:46:05 UTC 2017
+count6.rbc.ru                                                                                        INACTIVE    000        Mon Nov  6 09:46:31 UTC 2017
+counter.avtoindex.com                                                                                INACTIVE    000        Mon Nov  6 09:46:32 UTC 2017
+creative.ak.facebook.com                                                                             INACTIVE    000        Mon Nov  6 09:47:01 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Mon Nov  6 09:47:38 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Mon Nov  6 09:47:38 UTC 2017
+euro-linkindex.de                                                                                    INACTIVE    000        Mon Nov  6 09:48:34 UTC 2017
+gtop.ro                                                                                              INACTIVE    000        Mon Nov  6 09:50:04 UTC 2017
+lct.salesforce.com                                                                                   INACTIVE    000        Mon Nov  6 09:52:55 UTC 2017
