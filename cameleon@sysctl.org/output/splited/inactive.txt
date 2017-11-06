@@ -791,3 +791,9 @@ ptsd.eyewonder.com                                                              
 pussygreen.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 16:58:45 UTC 2017
 rewards.macandbumble.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:02:52 UTC 2017
 rpt.rad.msn.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:04:05 UTC 2017
+rtt.adrolays.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:06:07 UTC 2017
+s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Mon Nov  6 17:07:43 UTC 2017
+screensavers.lookoutsoft.net                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:09:52 UTC 2017
+securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Mon Nov  6 17:11:30 UTC 2017
+secure.signup-processor.com                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:11:34 UTC 2017
+securite.01net.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov  6 17:11:45 UTC 2017
