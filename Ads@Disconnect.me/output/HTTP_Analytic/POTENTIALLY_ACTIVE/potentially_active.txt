@@ -98,3 +98,4 @@ touchclarity.natwest.com                                                        
 tracking.yourfilehost.com                                                                            INACTIVE    000        Mon Nov  6 10:05:13 UTC 2017
 trafficcdn.liveuniversenetwork.com                                                                   INACTIVE    000        Mon Nov  6 10:05:17 UTC 2017
 traffic.liveuniversenetwork.com                                                                      INACTIVE    000        Mon Nov  6 10:05:22 UTC 2017
+wads.webteh.com                                                                                      INACTIVE    000        Mon Nov  6 10:09:50 UTC 2017
