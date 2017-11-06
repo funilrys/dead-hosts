@@ -1,15 +1,13 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Nov  4 08:02:34 UTC 2017
+# Date of generation: Mon Nov  6 08:02:46 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-disney-movie.org                                                                                     INACTIVE    000        Sat Nov  4 08:02:36 UTC 2017
-malwaredomainlists.com                                                                               INACTIVE    000        Sat Nov  4 08:02:41 UTC 2017
-www.apple-updates.com                                                                                INACTIVE    000        Sat Nov  4 08:02:47 UTC 2017
-www.blacksnake.com                                                                                   INACTIVE    000        Sat Nov  4 08:02:48 UTC 2017
-www.disney-movie.org                                                                                 INACTIVE    000        Sat Nov  4 08:02:49 UTC 2017
-www.sunonsunday.co.uk                                                                                INACTIVE    000        Sat Nov  4 08:02:55 UTC 2017
-www.thesunonsunday.com                                                                               INACTIVE    000        Sat Nov  4 08:02:56 UTC 2017
-www.thesunonsunday.co.uk                                                                             INACTIVE    000        Sat Nov  4 08:02:57 UTC 2017
-www.wwwfacebook.com                                                                                  INACTIVE    000        Sat Nov  4 08:02:58 UTC 2017
+disney-movie.org                                                                                     INACTIVE    000        Mon Nov  6 08:02:46 UTC 2017
+malwaredomainlists.com                                                                               INACTIVE    000        Mon Nov  6 08:02:47 UTC 2017
+www.apple-updates.com                                                                                INACTIVE    000        Mon Nov  6 08:02:47 UTC 2017
+www.blacksnake.com                                                                                   INACTIVE    000        Mon Nov  6 08:02:48 UTC 2017
+www.disney-movie.org                                                                                 INACTIVE    000        Mon Nov  6 08:02:48 UTC 2017
+www.thesunonsunday.co.uk                                                                             INACTIVE    000        Mon Nov  6 08:02:53 UTC 2017
+www.wwwfacebook.com                                                                                  INACTIVE    000        Mon Nov  6 08:02:53 UTC 2017
