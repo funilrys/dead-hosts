@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk sirius-expedition.com 1443 1408 35 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.dimarsbg.com 2140 2091 49 0
