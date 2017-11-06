@@ -313,3 +313,7 @@ cdn.eyewonder.com                                                               
 cgi.declicnet.com                                                                                    INACTIVE    000        Mon Nov  6 15:30:39 UTC 2017
 ch.p-digital-server.com                                                                              INACTIVE    000        Mon Nov  6 15:31:11 UTC 2017
 clicks.emarketmakers.com                                                                             INACTIVE    000        Mon Nov  6 15:32:30 UTC 2017
+delivery.usermedia.net                                                                               INACTIVE    000        Mon Nov  6 15:47:01 UTC 2017
+deluxe.spy-kill.com                                                                                  INACTIVE    000        Mon Nov  6 15:47:06 UTC 2017
+dns2.eguard.net                                                                                      INACTIVE    000        Mon Nov  6 15:48:58 UTC 2017
+dsa.csdata1.com                                                                                      INACTIVE    000        Mon Nov  6 15:50:30 UTC 2017
