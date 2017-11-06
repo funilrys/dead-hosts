@@ -812,3 +812,9 @@ wrapper.ign.com                                                                 
 wrapper.teamxbox.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:43:25 UTC 2017
 www2a.sitetracker.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:44:58 UTC 2017
 www.broadcastpc.tv                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:50:19 UTC 2017
+www.conceptsbyteupdate.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:53:49 UTC 2017
+www.counterdata.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:54:03 UTC 2017
+www.disable-uac.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:55:09 UTC 2017
+www.flashgamejunkie.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:56:33 UTC 2017
+www.home.superfish.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 17:58:49 UTC 2017
+www.mywebsearch.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov  6 18:02:18 UTC 2017
