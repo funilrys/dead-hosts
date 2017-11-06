@@ -310,3 +310,6 @@ cdn1.eyewonder.com                                                              
 cdn4.eyewonder.com                                                                                   INACTIVE    000        Mon Nov  6 15:25:40 UTC 2017
 cdn.appendad.com                                                                                     INACTIVE    000        Mon Nov  6 15:26:17 UTC 2017
 cdn.eyewonder.com                                                                                    INACTIVE    000        Mon Nov  6 15:27:04 UTC 2017
+cgi.declicnet.com                                                                                    INACTIVE    000        Mon Nov  6 15:30:39 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Mon Nov  6 15:31:11 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Mon Nov  6 15:32:30 UTC 2017
