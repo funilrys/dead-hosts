@@ -782,3 +782,9 @@ mfas.safesslredirect.com                                                        
 micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 13:03:20 UTC 2017
 motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Tue Nov  7 13:04:32 UTC 2017
 motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Tue Nov  7 13:04:33 UTC 2017
+ox-d.motogp.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 13:15:55 UTC 2017
+pagead46.l.doubleclick.net                                                                                                               INACTIVE    SPECIAL    404        Tue Nov  7 13:16:43 UTC 2017
+pagead.l.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Tue Nov  7 13:16:44 UTC 2017
+partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Tue Nov  7 13:17:16 UTC 2017
+perso.estat.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 13:18:12 UTC 2017
+pomeranian99.sitetracker.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 13:20:03 UTC 2017
