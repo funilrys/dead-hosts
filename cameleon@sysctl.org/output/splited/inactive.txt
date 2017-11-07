@@ -759,3 +759,6 @@ cdn1.eyewonder.com                                                              
 cdn4.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 11:57:01 UTC 2017
 cdn.appendad.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 11:57:29 UTC 2017
 cdn.eyewonder.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 11:58:03 UTC 2017
+cgi.declicnet.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 12:01:48 UTC 2017
+ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 12:02:24 UTC 2017
+clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 12:03:42 UTC 2017
