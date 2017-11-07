@@ -296,3 +296,11 @@ adzone.stltoday.com                                                             
 affiliates.date-connected.com                                                                        INACTIVE    000        Tue Nov  7 11:15:45 UTC 2017
 a.goember.com                                                                                        INACTIVE    000        Tue Nov  7 11:16:46 UTC 2017
 analytics.amilliamilli.com                                                                           INACTIVE    000        Tue Nov  7 11:20:16 UTC 2017
+app.passionfruitads.com                                                                              INACTIVE    000        Tue Nov  7 11:25:31 UTC 2017
+atax.gamermetrics.com                                                                                INACTIVE    000        Tue Nov  7 11:26:57 UTC 2017
+atax.ign.com                                                                                         INACTIVE    000        Tue Nov  7 11:26:58 UTC 2017
+atax.teamxbox.com                                                                                    INACTIVE    000        Tue Nov  7 11:26:58 UTC 2017
+banner2.babenet.nl                                                                                   INACTIVE    000        Tue Nov  7 11:28:54 UTC 2017
+banner.freeservers.net                                                                               INACTIVE    000        Tue Nov  7 11:29:27 UTC 2017
+b.collective-media.net                                                                               INACTIVE    000        Tue Nov  7 11:32:58 UTC 2017
+beta-hints.netflame.cc                                                                               INACTIVE    000        Tue Nov  7 11:34:14 UTC 2017
