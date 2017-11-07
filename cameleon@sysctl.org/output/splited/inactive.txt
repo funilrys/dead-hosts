@@ -813,3 +813,8 @@ wrapper.gamespyid.com                                                           
 wrapper.ign.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:05:30 UTC 2017
 wrapper.teamxbox.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:05:31 UTC 2017
 www2a.sitetracker.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:06:58 UTC 2017
+www.broadcastpc.tv                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:14:15 UTC 2017
+www.conceptsbyteupdate.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:15:44 UTC 2017
+www.disable-uac.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:17:04 UTC 2017
+www.flashgamejunkie.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:18:47 UTC 2017
+www.freeprod.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Nov  7 14:19:12 UTC 2017
