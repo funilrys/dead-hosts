@@ -204,3 +204,6 @@ warrning-fanpa9e1.securittty4.tk                                                
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 09:21:41 UTC 2017
 wiprint.co.id                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 09:22:50 UTC 2017
 wjttowell.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 09:22:54 UTC 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 09:29:38 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Nov  7 09:30:44 UTC 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Nov  7 09:30:44 UTC 2017
