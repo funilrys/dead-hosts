@@ -278,3 +278,6 @@ ad.germark.net                                                                  
 ad.hizlireklam.com                                                                                   INACTIVE    000        Tue Nov  7 10:16:58 UTC 2017
 adimage.asiaone.com.sg                                                                               INACTIVE    000        Tue Nov  7 10:17:23 UTC 2017
 ad.nozonedata.com                                                                                    INACTIVE    000        Tue Nov  7 10:19:59 UTC 2017
+ads.advertisingz.com                                                                                 INACTIVE    000        Tue Nov  7 10:41:29 UTC 2017
+adserver.dotcommedia.de                                                                              INACTIVE    000        Tue Nov  7 10:46:53 UTC 2017
+adserver.nav2.net                                                                                    INACTIVE    000        Tue Nov  7 10:47:35 UTC 2017
