@@ -35,3 +35,9 @@ dropboxlogin.name.ng                                                            
 dropboxlogin.name.ng                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Nov  7 07:36:00 UTC 2017
 dropboxlogin.name.ng                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Nov  7 07:36:03 UTC 2017
 elorabeautycream.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 07:38:44 UTC 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 07:42:45 UTC 2017
+floridamhca.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 07:45:51 UTC 2017
+free-floating-buttons.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 07:47:03 UTC 2017
+free-social-buttons.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 07:47:13 UTC 2017
+get-your-social-buttons.info                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 07:49:22 UTC 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Nov  7 07:49:30 UTC 2017
