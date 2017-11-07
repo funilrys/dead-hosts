@@ -1,7 +1,80 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Nov  7 05:56:12 UTC 2017
+# Date of generation: Tue Nov  7 05:58:56 UTC 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-ads.canalblog.com                                                                                    ACTIVE      404        Tue Nov  7 05:56:21 UTC 2017
+4d5.net                                                                                              ACTIVE      404        Tue Nov  7 05:59:07 UTC 2017
+51yes.com                                                                                            ACTIVE      400        Tue Nov  7 05:59:11 UTC 2017
+a32.g.a.yimg.com                                                                                     ACTIVE      400        Tue Nov  7 05:59:18 UTC 2017
+a.aproductmsg.com                                                                                    ACTIVE      403        Tue Nov  7 05:59:21 UTC 2017
+ad.103092804.com                                                                                     ACTIVE      403        Tue Nov  7 05:59:36 UTC 2017
+ad.a8.net                                                                                            ACTIVE      404        Tue Nov  7 05:59:54 UTC 2017
+ad.abum.com                                                                                          ACTIVE      404        Tue Nov  7 05:59:58 UTC 2017
+adaction.de                                                                                          ACTIVE      403        Tue Nov  7 05:59:59 UTC 2017
+ad.altervista.org                                                                                    ACTIVE      404        Tue Nov  7 06:00:02 UTC 2017
+adap.tv                                                                                              ACTIVE      404        Tue Nov  7 06:00:06 UTC 2017
+ad.auditude.com                                                                                      ACTIVE      404        Tue Nov  7 06:00:07 UTC 2017
+ad.bnmla.com                                                                                         ACTIVE      404        Tue Nov  7 06:00:14 UTC 2017
+ad.caradisiac.com                                                                                    ACTIVE      404        Tue Nov  7 06:00:29 UTC 2017
+adcast.deviantart.com                                                                                ACTIVE      404        Tue Nov  7 06:00:30 UTC 2017
+adcel.vrvm.com                                                                                       ACTIVE      404        Tue Nov  7 06:00:31 UTC 2017
+adcloud.net                                                                                          ACTIVE      403        Tue Nov  7 06:00:47 UTC 2017
+ad.domainfactory.de                                                                                  ACTIVE      403        Tue Nov  7 06:00:57 UTC 2017
+adext.inkclub.com                                                                                    ACTIVE      403        Tue Nov  7 06:01:03 UTC 2017
+ad.foxnetworks.com                                                                                   ACTIVE      400        Tue Nov  7 06:01:10 UTC 2017
+adgardener.com                                                                                       ACTIVE      404        Tue Nov  7 06:01:11 UTC 2017
+adimage.guardian.co.uk                                                                               ACTIVE      403        Tue Nov  7 06:01:28 UTC 2017
+adimg1.chosun.com                                                                                    ACTIVE      404        Tue Nov  7 06:01:35 UTC 2017
+adimg.uimserv.net                                                                                    ACTIVE      404        Tue Nov  7 06:01:39 UTC 2017
+adjix.com                                                                                            ACTIVE      403        Tue Nov  7 06:01:49 UTC 2017
+adjuggler.yourdictionary.com                                                                         ACTIVE      404        Tue Nov  7 06:01:52 UTC 2017
+ad.keenspace.com                                                                                     ACTIVE      403        Tue Nov  7 06:01:53 UTC 2017
+ad.lupa.cz                                                                                           ACTIVE      403        Tue Nov  7 06:02:04 UTC 2017
+admarvel.s3.amazonaws.com                                                                            ACTIVE      403        Tue Nov  7 06:02:16 UTC 2017
+adnet.asahi.com                                                                                      ACTIVE      404        Tue Nov  7 06:02:38 UTC 2017
+adnet-media.net                                                                                      ACTIVE      404        Tue Nov  7 06:02:41 UTC 2017
+adnetworkperformance.com                                                                             ACTIVE      403        Tue Nov  7 06:02:43 UTC 2017
+adrolays.de                                                                                          ACTIVE      404        Tue Nov  7 06:03:25 UTC 2017
+adrotate.de                                                                                          ACTIVE      404        Tue Nov  7 06:03:26 UTC 2017
+ads10.speedbit.com                                                                                   ACTIVE      403        Tue Nov  7 06:03:29 UTC 2017
+ads2.xnet.cz                                                                                         ACTIVE      403        Tue Nov  7 06:03:45 UTC 2017
+ads4.virtual-nights.com                                                                              ACTIVE      404        Tue Nov  7 06:03:51 UTC 2017
+ads5.virtual-nights.com                                                                              ACTIVE      404        Tue Nov  7 06:03:54 UTC 2017
+ads.adfox.ru                                                                                         ACTIVE      403        Tue Nov  7 06:04:00 UTC 2017
+ads.administrator.de                                                                                 ACTIVE      403        Tue Nov  7 06:04:01 UTC 2017
+ads.adultfriendfinder.com                                                                            ACTIVE      404        Tue Nov  7 06:04:03 UTC 2017
+ads.ak.facebook.com.edgesuite.net                                                                    ACTIVE      400        Tue Nov  7 06:04:06 UTC 2017
+ads.alt.com                                                                                          ACTIVE      404        Tue Nov  7 06:04:08 UTC 2017
+ads.amigos.com                                                                                       ACTIVE      404        Tue Nov  7 06:04:11 UTC 2017
+ads.asiafriendfinder.com                                                                             ACTIVE      404        Tue Nov  7 06:04:20 UTC 2017
+ads.aspalliance.com                                                                                  ACTIVE      404        Tue Nov  7 06:04:22 UTC 2017
+ads.betfair.com                                                                                      ACTIVE      403        Tue Nov  7 06:04:32 UTC 2017
+ads.bigchurch.com                                                                                    ACTIVE      404        Tue Nov  7 06:04:34 UTC 2017
+ads.bumq.com                                                                                         ACTIVE      403        Tue Nov  7 06:04:45 UTC 2017
+ads.canalblog.com                                                                                    ACTIVE      404        Tue Nov  7 06:04:48 UTC 2017
+ads.cc                                                                                               ACTIVE      404        Tue Nov  7 06:04:53 UTC 2017
+ads.cc-dt.com                                                                                        ACTIVE      404        Tue Nov  7 06:04:53 UTC 2017
+ads.cdn.rovio.com                                                                                    ACTIVE      403        Tue Nov  7 06:04:54 UTC 2017
+ads.centraliprom.com                                                                                 ACTIVE      404        Tue Nov  7 06:04:55 UTC 2017
+ads.cgnetworks.com                                                                                   ACTIVE      404        Tue Nov  7 06:04:55 UTC 2017
+ads.contextweb.com                                                                                   ACTIVE      404        Tue Nov  7 06:05:02 UTC 2017
+ads.creative-serving.com                                                                             ACTIVE      404        Tue Nov  7 06:05:05 UTC 2017
+ads.deviantart.com                                                                                   ACTIVE      404        Tue Nov  7 06:05:19 UTC 2017
+ads.eagletribune.com                                                                                 ACTIVE      403        Tue Nov  7 06:05:25 UTC 2017
+ad.sensismediasmart.com.au                                                                           ACTIVE      404        Tue Nov  7 06:05:39 UTC 2017
+adserver1.backbeatmedia.com                                                                          ACTIVE      403        Tue Nov  7 06:05:42 UTC 2017
+adserver.bing.com                                                                                    ACTIVE      400        Tue Nov  7 06:05:57 UTC 2017
+adserver.break-even.it                                                                               ACTIVE      403        Tue Nov  7 06:05:58 UTC 2017
+adserver.viagogo.com                                                                                 ACTIVE      404        Tue Nov  7 06:06:45 UTC 2017
+adserver.yahoo.com                                                                                   ACTIVE      404        Tue Nov  7 06:06:47 UTC 2017
+ads.expat-blog.biz                                                                                   ACTIVE      404        Tue Nov  7 06:06:54 UTC 2017
+ads.fairfax.com.au                                                                                   ACTIVE      403        Tue Nov  7 06:07:01 UTC 2017
+ads.ferianc.com                                                                                      ACTIVE      404        Tue Nov  7 06:07:02 UTC 2017
+ads.friendfinder.com                                                                                 ACTIVE      404        Tue Nov  7 06:07:17 UTC 2017
+ads.gamershell.com                                                                                   ACTIVE      403        Tue Nov  7 06:07:21 UTC 2017
+ads.glispa.com                                                                                       ACTIVE      404        Tue Nov  7 06:07:26 UTC 2017
+ads.gmodules.com                                                                                     ACTIVE      404        Tue Nov  7 06:07:27 UTC 2017
+ads.gradfinder.com                                                                                   ACTIVE      404        Tue Nov  7 06:07:30 UTC 2017
+ads.grindinggears.com                                                                                ACTIVE      403        Tue Nov  7 06:07:31 UTC 2017
+ads.hollywood.com                                                                                    ACTIVE      404        Tue Nov  7 06:07:43 UTC 2017
