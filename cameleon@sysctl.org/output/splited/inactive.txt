@@ -715,3 +715,10 @@ ad98.ezcybersearch.com                                                          
 ad99.ezcybersearch.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 10:10:29 UTC 2017
 ad9.ezcybersearch.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 10:10:34 UTC 2017
 ad-ace.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Tue Nov  7 10:10:45 UTC 2017
+adclick.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Tue Nov  7 10:14:52 UTC 2017
+ad.ezcybersearch.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 10:16:19 UTC 2017
+ad.germark.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 10:16:41 UTC 2017
+ad.hizlireklam.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 10:16:58 UTC 2017
+adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 10:17:23 UTC 2017
+ad.nozonedata.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 10:19:59 UTC 2017
+ad.reklama.nu                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Nov  7 10:21:24 UTC 2017
