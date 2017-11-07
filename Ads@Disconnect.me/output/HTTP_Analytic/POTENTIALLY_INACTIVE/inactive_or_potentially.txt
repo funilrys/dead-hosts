@@ -270,3 +270,14 @@ us.a1.yimg.com                                                                  
 utils.mediageneral.net                                                                               ACTIVE      403        Tue Nov  7 06:44:23 UTC 2017
 video-stats.video.google.com                                                                         ACTIVE      404        Tue Nov  7 06:44:40 UTC 2017
 view4cash.de                                                                                         ACTIVE      403        Tue Nov  7 06:44:40 UTC 2017
+web2.deja.com                                                                                        ACTIVE      404        Tue Nov  7 06:47:18 UTC 2017
+webmasterplan.de                                                                                     ACTIVE      404        Tue Nov  7 06:47:30 UTC 2017
+werbung.meteoxpress.com                                                                              ACTIVE      403        Tue Nov  7 06:47:44 UTC 2017
+whaleads.com                                                                                         ACTIVE      403        Tue Nov  7 06:47:46 UTC 2017
+witch-counter.de                                                                                     ACTIVE      403        Tue Nov  7 06:47:54 UTC 2017
+wondoads.de                                                                                          ACTIVE      403        Tue Nov  7 06:47:58 UTC 2017
+www8.glam.com                                                                                        ACTIVE      404        Tue Nov  7 06:48:03 UTC 2017
+yab-adimages.s3.amazonaws.com                                                                        ACTIVE      403        Tue Nov  7 06:48:23 UTC 2017
+yieldlab.net                                                                                         ACTIVE      404        Tue Nov  7 06:48:30 UTC 2017
+yieldtraffic.com                                                                                     ACTIVE      403        Tue Nov  7 06:48:32 UTC 2017
+zantracker.com                                                                                       ACTIVE      404        Tue Nov  7 06:48:41 UTC 2017
