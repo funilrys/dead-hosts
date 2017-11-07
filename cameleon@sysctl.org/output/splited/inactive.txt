@@ -818,3 +818,15 @@ www.conceptsbyteupdate.com                                                      
 www.disable-uac.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:17:04 UTC 2017
 www.flashgamejunkie.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:18:47 UTC 2017
 www.freeprod.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Nov  7 14:19:12 UTC 2017
+www.home.superfish.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:22:53 UTC 2017
+www.mytoplist.gen.tr                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Nov  7 14:26:27 UTC 2017
+www.mywebsearch.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:26:31 UTC 2017
+www.peruvianmarket.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:27:58 UTC 2017
+www.pscdns.biz                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:28:43 UTC 2017
+www.ptp4ever.net                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:28:45 UTC 2017
+www.rank-master.de                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:29:06 UTC 2017
+www.rk400.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:29:40 UTC 2017
+www.robsxxx.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:29:41 UTC 2017
+www.rx-24h.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:29:50 UTC 2017
+www.smart-browser.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:31:08 UTC 2017
+www.spy-kill.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 14:31:31 UTC 2017
