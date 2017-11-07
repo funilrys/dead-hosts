@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list bidtrk.com 1492 1424 67 1
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list megacash.de 2204 2114 88 2
