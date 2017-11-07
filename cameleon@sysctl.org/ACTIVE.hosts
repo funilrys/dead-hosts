@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Nov  6 13:09:48 UTC 2017
+# Date of generation: Tue Nov  7 09:37:50 UTC 2017
 
 0.0.0.0 000dom.revenuedirect.com
 0.0.0.0 000info.com
@@ -2561,8 +2561,10 @@
 0.0.0.0 ads123.liteweb.net
 0.0.0.0 ads124.hpg.com.br
 0.0.0.0 ads124.hpg.ig.com.br
+0.0.0.0 ads124.liteweb.net
 0.0.0.0 ads125.hpg.com.br
 0.0.0.0 ads125.hpg.ig.com.br
+0.0.0.0 ads125.liteweb.net
 0.0.0.0 ads126.hpg.com.br
 0.0.0.0 ads126.hpg.ig.com.br
 0.0.0.0 ads126.liteweb.net
@@ -3562,6 +3564,7 @@
 0.0.0.0 ads.bridgetrack.com
 0.0.0.0 ads.bridgetrack.com.edgesuite.net
 0.0.0.0 ads.bsplayer.com
+0.0.0.0 ads.bta.bg
 0.0.0.0 ads.bttbgroup.com
 0.0.0.0 ads.btv.bg
 0.0.0.0 ads.buddypic.com
@@ -8285,7 +8288,6 @@
 0.0.0.0 c10.statcounter.com
 0.0.0.0 c11.statcounter.com
 0.0.0.0 c12.statcounter.com
-0.0.0.0 c12.valary.com
 0.0.0.0 c13.statcounter.com
 0.0.0.0 c14.statcounter.com
 0.0.0.0 c14.zedo.com
@@ -8311,7 +8313,6 @@
 0.0.0.0 c1.zedo.com
 0.0.0.0 c1.zxxds.net
 0.0.0.0 c20.statcounter.com
-0.0.0.0 c20.valary.com
 0.0.0.0 c21.statcounter.com
 0.0.0.0 c22i.categoria.hpg.com.br
 0.0.0.0 c22.statcounter.com
@@ -8319,7 +8320,6 @@
 0.0.0.0 c24.statcounter.com
 0.0.0.0 c25.statcounter.com
 0.0.0.0 c26.statcounter.com
-0.0.0.0 c26.valary.com
 0.0.0.0 c27.statcounter.com
 0.0.0.0 c28.statcounter.com
 0.0.0.0 c29.statcounter.com
@@ -9976,7 +9976,6 @@
 0.0.0.0 delivery.myswitchads.com
 0.0.0.0 delivery.optimatic.com
 0.0.0.0 delivery.o.switchadhub.com
-0.0.0.0 delivery.outtds.com
 0.0.0.0 delivery.platform.switchads.com
 0.0.0.0 delivery-s3.adswizz.com
 0.0.0.0 delivery.swid.switchadhub.com
@@ -12512,6 +12511,7 @@
 0.0.0.0 loady.de.intellitxt.com
 0.0.0.0 lobby.sexlist.com
 0.0.0.0 loc1.hitsprocessor.com
+127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1 localhost
 127.0.0.1 localhost
@@ -16903,7 +16903,6 @@
 0.0.0.0 track.15x.net
 0.0.0.0 track1.breakmedia.com
 0.0.0.0 track2.homestead.com
-0.0.0.0 track2.me
 0.0.0.0 track.absoluteclickscom.com
 0.0.0.0 track.acclaimnetwork.com
 0.0.0.0 track.ad4mmo.com
@@ -18340,6 +18339,7 @@
 0.0.0.0 www.counter4you.net
 0.0.0.0 www.countercentral.com
 0.0.0.0 www.counter.cz
+0.0.0.0 www.counterdata.com
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.counterguide.com
 0.0.0.0 www.counters4u.com
@@ -18551,7 +18551,6 @@
 0.0.0.0 www.freehitwebsitecounter.com
 0.0.0.0 www.freenew.net
 0.0.0.0 www.freepicsandmovies.com
-0.0.0.0 www.freeprod.com
 0.0.0.0 www.free-proxy.org
 0.0.0.0 www.freerip.com
 0.0.0.0 www.freeserials.com
@@ -18909,7 +18908,6 @@
 0.0.0.0 www.myshovel.com
 0.0.0.0 www.mystat.pl
 0.0.0.0 www.mystats.nl
-0.0.0.0 www.mytoplist.gen.tr
 0.0.0.0 www.mytraf.info
 0.0.0.0 www.mytraf.ru
 0.0.0.0 www.naiadsystems.com
@@ -19068,7 +19066,6 @@
 0.0.0.0 www.proxy-bypass.com
 0.0.0.0 www.pstats.com
 0.0.0.0 www.ptp123.com
-0.0.0.0 www.ptp4ever.net
 0.0.0.0 www.pubdirecte.com
 0.0.0.0 www.pulsix.com
 0.0.0.0 www.puppykibble.com
