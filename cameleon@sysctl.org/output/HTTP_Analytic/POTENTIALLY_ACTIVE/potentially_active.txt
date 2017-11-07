@@ -290,3 +290,5 @@ ads.mezimedia.com                                                               
 ads.pennyweb.com                                                                                     INACTIVE    000        Tue Nov  7 10:55:46 UTC 2017
 ads.uniquemedia.net                                                                                  INACTIVE    000        Tue Nov  7 10:59:33 UTC 2017
 ads.usermedia.net                                                                                    INACTIVE    000        Tue Nov  7 10:59:40 UTC 2017
+adtxt.prbn.ru                                                                                        INACTIVE    000        Tue Nov  7 11:04:08 UTC 2017
+ad.vikadsk.com                                                                                       INACTIVE    000        Tue Nov  7 11:11:35 UTC 2017
