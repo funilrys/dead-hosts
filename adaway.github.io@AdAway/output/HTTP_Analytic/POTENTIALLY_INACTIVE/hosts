@@ -1,5 +1,41 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Nov  7 04:29:47 UTC 2017
+# Date of generation: Tue Nov  7 04:33:29 UTC 2017
 
-127.0.0.1 localhost
-::1 localhost
+0.0.0.0 a.applovin.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 admarvel.s3.amazonaws.com
+0.0.0.0 ads.adadapted.com
+0.0.0.0 ads.admarvel.com
+0.0.0.0 ads.celtra.com
+0.0.0.0 ads.flurry.com
+0.0.0.0 ads.matomymobile.com
+0.0.0.0 ads.mobclix.com
+0.0.0.0 a.glcdn.co
+0.0.0.0 android.bcfads.com
+0.0.0.0 an.yandex.ru
+0.0.0.0 aos.wall.youmi.net
+0.0.0.0 api.yp.com
+0.0.0.0 banners.bigmobileads.com
+0.0.0.0 c753738.r38.cf2.rackcdn.com
+0.0.0.0 c.admob.com
+0.0.0.0 campaign-tapad.s3.amazonaws.com
+0.0.0.0 cdn1.inner-active.mobi
+0.0.0.0 cdn.creative.medialytics.com
+0.0.0.0 c.vrvm.com
+0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
+0.0.0.0 d.applovin.com
+0.0.0.0 data.mobclix.com
+0.0.0.0 edge.reporo.net
+0.0.0.0 ftpcontent.worldnow.com
+0.0.0.0 go.vrvm.com
+0.0.0.0 hhbekxxw5d9e.pflexads.com
+0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
+0.0.0.0 hybl9bazbc35.pflexads.com
+0.0.0.0 i.jumptap.com
+0.0.0.0 img.ads1.mocean.mobi
+0.0.0.0 img.ads1.mojiva.com
+0.0.0.0 img.ads2.mocean.mobi
+0.0.0.0 img.ads2.mojiva.com
+0.0.0.0 img.ads3.mocean.mobi
+0.0.0.0 img.ads3.mojiva.com
+0.0.0.0 img.ads4.mojiva.com
