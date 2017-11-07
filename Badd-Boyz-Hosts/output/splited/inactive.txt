@@ -58,3 +58,10 @@ loftdigital.eu                                                                  
 m3gadownload.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:19:28 UTC 2017
 mir-business-24.ru                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:23:41 UTC 2017
 morconsultoria.cl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:25:29 UTC 2017
+my-cash-bot.co                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:28:40 UTC 2017
+nefpcme.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:30:22 UTC 2017
+newslife24h.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:30:59 UTC 2017
+nluxbambla.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:31:43 UTC 2017
+nordaglia.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:31:53 UTC 2017
+old.advisegroup.ru                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:33:20 UTC 2017
+pdns.download                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov  7 08:37:12 UTC 2017
