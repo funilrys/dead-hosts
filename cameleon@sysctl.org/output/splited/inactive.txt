@@ -1428,3 +1428,7 @@ h.ppjol.com                                                                     
 load.passionfruitads.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:00:01 UTC 2017
 measure.richmetrics.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:04:00 UTC 2017
 media.intermundomedia.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:04:47 UTC 2017
+metrics.gamestop.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:08:49 UTC 2017
+mfas.safesslredirect.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:10:28 UTC 2017
+micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:10:49 UTC 2017
+motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Thu Nov  9 23:11:55 UTC 2017
