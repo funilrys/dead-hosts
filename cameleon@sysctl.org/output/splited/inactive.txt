@@ -1445,3 +1445,10 @@ rewards.macandbumble.com                                                        
 rpt.rad.msn.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:38:29 UTC 2017
 rtt.adrolays.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:39:03 UTC 2017
 s2.video.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Thu Nov  9 23:41:03 UTC 2017
+screensavers.lookoutsoft.net                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:45:01 UTC 2017
+securepubads.g.doubleclick.net                                                                                                           INACTIVE    SPECIAL    404        Thu Nov  9 23:46:44 UTC 2017
+secure.signup-processor.com                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:46:48 UTC 2017
+ssl-hints.netflame.cc                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:51:45 UTC 2017
+sslt.tellapart.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:51:50 UTC 2017
+static.tellapart.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:53:45 UTC 2017
+static.tellaparts.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:53:45 UTC 2017

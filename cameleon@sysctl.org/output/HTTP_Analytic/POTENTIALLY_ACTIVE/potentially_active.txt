@@ -683,3 +683,9 @@ pussygreen.com                                                                  
 rewards.macandbumble.com                                                                             INACTIVE    000        Thu Nov  9 23:37:21 UTC 2017
 rpt.rad.msn.com                                                                                      INACTIVE    000        Thu Nov  9 23:38:29 UTC 2017
 rtt.adrolays.de                                                                                      INACTIVE    000        Thu Nov  9 23:39:03 UTC 2017
+screensavers.lookoutsoft.net                                                                         INACTIVE    000        Thu Nov  9 23:45:01 UTC 2017
+secure.signup-processor.com                                                                          INACTIVE    000        Thu Nov  9 23:46:48 UTC 2017
+ssl-hints.netflame.cc                                                                                INACTIVE    000        Thu Nov  9 23:51:45 UTC 2017
+sslt.tellapart.com                                                                                   INACTIVE    000        Thu Nov  9 23:51:50 UTC 2017
+static.tellapart.com                                                                                 INACTIVE    000        Thu Nov  9 23:53:45 UTC 2017
+static.tellaparts.com                                                                                INACTIVE    000        Thu Nov  9 23:53:45 UTC 2017
