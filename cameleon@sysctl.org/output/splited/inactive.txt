@@ -1413,3 +1413,8 @@ cdn.eyewonder.com                                                               
 cgi.declicnet.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:03:34 UTC 2017
 ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:04:10 UTC 2017
 clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:07:41 UTC 2017
+delivery.outtds.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:22:31 UTC 2017
+delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:22:37 UTC 2017
+deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:22:43 UTC 2017
+dsa.csdata1.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:25:51 UTC 2017
+error.freewebsites.com                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 22:29:13 UTC 2017
