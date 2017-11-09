@@ -306,3 +306,4 @@ atax.teamxbox.com                                                               
 banner2.babenet.nl                                                                                   INACTIVE    000        Thu Nov  9 16:05:13 UTC 2017
 banner.freeservers.net                                                                               INACTIVE    000        Thu Nov  9 16:05:52 UTC 2017
 b.collective-media.net                                                                               INACTIVE    000        Thu Nov  9 16:10:17 UTC 2017
+beta-hints.netflame.cc                                                                               INACTIVE    000        Thu Nov  9 16:13:29 UTC 2017
