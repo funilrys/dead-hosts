@@ -1,6 +1,8 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Nov  7 04:33:29 UTC 2017
+# Date of generation: Thu Nov  9 07:39:55 UTC 2017
 
+127.0.0.1 localhost
+::1 localhost
 0.0.0.0 a.admob.com
 0.0.0.0 ad1.adinfuse.com
 0.0.0.0 ad2.adinfuse.com
@@ -11,7 +13,6 @@
 0.0.0.0 ads.adiquity.com
 0.0.0.0 ads.admoda.com
 0.0.0.0 adserver.ubiyoo.com
-0.0.0.0 ads.mdotm.com
 0.0.0.0 ads.mobgold.com
 0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.ookla.com
@@ -143,3 +144,39 @@
 0.0.0.0 f60.smaato.net
 0.0.0.0 funnel0.adinfuse.com
 0.0.0.0 go.adinfuse.com
+0.0.0.0 intouch.adinfuse.com
+0.0.0.0 jupiter1.appads.com
+0.0.0.0 jupiter2.appads.com
+0.0.0.0 jupiter3.appads.com
+0.0.0.0 jupiter.appads.com
+0.0.0.0 medrx.sensis.com.au
+0.0.0.0 met.adwhirl.com
+0.0.0.0 mob.adwhirl.com
+0.0.0.0 neptune1.appads.com
+0.0.0.0 neptune2.appads.com
+0.0.0.0 neptune3.appads.com
+0.0.0.0 neptune.appads.com
+0.0.0.0 orange-fr.adinfuse.com
+0.0.0.0 orangeuk-mc.adinfuse.com
+0.0.0.0 p.admob.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 req1.appads.com
+0.0.0.0 req2.appads.com
+0.0.0.0 req3.appads.com
+0.0.0.0 req.appads.com
+0.0.0.0 saturn1.appads.com
+0.0.0.0 saturn2.appads.com
+0.0.0.0 saturn3.appads.com
+0.0.0.0 saturn.appads.com
+0.0.0.0 sf.vserv.mobi
+0.0.0.0 show.buzzcity.net
+0.0.0.0 sky.adinfuse.com
+0.0.0.0 sky-connect.adinfuse.com
+0.0.0.0 static.cdn.gtsmobi.com
+0.0.0.0 swappit.tapad.com
+0.0.0.0 tcy.smartadserver.com
+0.0.0.0 t.medialytics.com
+0.0.0.0 uk-ad2.adinfuse.com
+0.0.0.0 uk-go.adinfuse.com
+0.0.0.0 wwww.adleads.com
