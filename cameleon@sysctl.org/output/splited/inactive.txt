@@ -815,3 +815,8 @@ fls.uk.doubleclick.net                                                          
 hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 19:02:26 UTC 2017
 h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 19:04:33 UTC 2017
 load.passionfruitads.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 19:17:08 UTC 2017
+delivery.outtds.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 19:21:30 UTC 2017
+delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 19:21:37 UTC 2017
+deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 19:21:44 UTC 2017
+dsa.csdata1.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 19:24:57 UTC 2017
+error.freewebsites.com                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 19:28:39 UTC 2017
