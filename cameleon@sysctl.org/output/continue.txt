@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/inactive_db www.zhopa.net 522 10 512 0
+/home/travis/build/funilrys/dead-hosts/cameleon@sysctl.org/tested-list/cameleon.list 9am.count.brat-online.ro 1022 583 439 0
