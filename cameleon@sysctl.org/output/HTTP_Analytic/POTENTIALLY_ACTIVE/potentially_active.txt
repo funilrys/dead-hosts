@@ -350,3 +350,11 @@ deluxe.spy-kill.com                                                             
 dsa.csdata1.com                                                                                      INACTIVE    000        Thu Nov  9 19:24:57 UTC 2017
 fertyu.allgreatvideo.com                                                                             INACTIVE    000        Thu Nov  9 19:33:40 UTC 2017
 hints.netflame.cc                                                                                    INACTIVE    000        Thu Nov  9 19:42:05 UTC 2017
+aa.toshiba.bavesinyourface.com                                                                       INACTIVE    000        Thu Nov  9 19:53:59 UTC 2017
+acnetwork.flux.acsyndication.com                                                                     INACTIVE    000        Thu Nov  9 19:55:22 UTC 2017
+a.collective-media.net                                                                               INACTIVE    000        Thu Nov  9 19:55:23 UTC 2017
+ad00.ezcybersearch.com                                                                               INACTIVE    000        Thu Nov  9 19:55:59 UTC 2017
+ad01.ezcybersearch.com                                                                               INACTIVE    000        Thu Nov  9 19:56:03 UTC 2017
+ad03.ezcybersearch.com                                                                               INACTIVE    000        Thu Nov  9 19:56:10 UTC 2017
+ad04.ezcybersearch.com                                                                               INACTIVE    000        Thu Nov  9 19:56:14 UTC 2017
+ad05.ezcybersearch.com                                                                               INACTIVE    000        Thu Nov  9 19:56:18 UTC 2017
