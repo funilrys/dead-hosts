@@ -1425,3 +1425,6 @@ fls.doubleclick.net                                                             
 fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  9 22:33:45 UTC 2017
 hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:44:50 UTC 2017
 h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:46:58 UTC 2017
+load.passionfruitads.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:00:01 UTC 2017
+measure.richmetrics.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:04:00 UTC 2017
+media.intermundomedia.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:04:47 UTC 2017
