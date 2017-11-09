@@ -775,3 +775,5 @@ fertyu.allgreatvideo.com                                                        
 fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  9 17:08:01 UTC 2017
 fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Thu Nov  9 17:08:01 UTC 2017
 fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  9 17:08:03 UTC 2017
+hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:17:57 UTC 2017
+h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:20:07 UTC 2017
