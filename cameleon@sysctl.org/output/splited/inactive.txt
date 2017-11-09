@@ -1372,3 +1372,4 @@ ad.hizlireklam.com                                                              
 adimage.asiaone.com.sg                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:21:58 UTC 2017
 ad.nozonedata.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:24:33 UTC 2017
 ad.reklama.nu                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 20:26:12 UTC 2017
+ads.advertisingz.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:42:10 UTC 2017
