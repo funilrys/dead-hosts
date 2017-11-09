@@ -660,3 +660,4 @@ cdn4.eyewonder.com                                                              
 cdn.appendad.com                                                                                     INACTIVE    000        Thu Nov  9 22:00:44 UTC 2017
 cgi.declicnet.com                                                                                    INACTIVE    000        Thu Nov  9 22:03:34 UTC 2017
 ch.p-digital-server.com                                                                              INACTIVE    000        Thu Nov  9 22:04:10 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Thu Nov  9 22:07:41 UTC 2017

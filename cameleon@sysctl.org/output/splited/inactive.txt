@@ -1412,3 +1412,4 @@ cdn.appendad.com                                                                
 cdn.eyewonder.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 22:01:24 UTC 2017
 cgi.declicnet.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:03:34 UTC 2017
 ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:04:10 UTC 2017
+clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:07:41 UTC 2017
