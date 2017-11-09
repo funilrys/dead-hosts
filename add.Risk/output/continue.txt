@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk securezone33.xorg.pl 1414 1376 38 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.chilecapacita.cl 2060 2007 53 0
