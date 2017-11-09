@@ -65,3 +65,15 @@ banner.featuredusers.com                                                        
 banner.joylandcasino.com                                                                             INACTIVE    000        Thu Nov  9 10:51:37 UTC 2017
 banner.prestigecasino.com                                                                            INACTIVE    000        Thu Nov  9 10:51:53 UTC 2017
 banners.ebay.com                                                                                     INACTIVE    000        Thu Nov  9 10:52:14 UTC 2017
+bravenet.com.invalid                                                                                 INVALID     000        Thu Nov  9 10:54:51 UTC 2017
+c.compete.com                                                                                        INACTIVE    000        Thu Nov  9 10:55:17 UTC 2017
+cdn.freefacti.com                                                                                    INACTIVE    000        Thu Nov  9 10:55:17 UTC 2017
+clients.tbo.com                                                                                      INACTIVE    000        Thu Nov  9 10:56:10 UTC 2017
+count6.rbc.ru                                                                                        INACTIVE    000        Thu Nov  9 10:56:38 UTC 2017
+counter.avtoindex.com                                                                                INACTIVE    000        Thu Nov  9 10:56:40 UTC 2017
+creative.ak.facebook.com                                                                             INACTIVE    000        Thu Nov  9 10:57:10 UTC 2017
+dmtracking2.alibaba.com                                                                              INACTIVE    000        Thu Nov  9 10:57:40 UTC 2017
+dmtracking.alibaba.com                                                                               INACTIVE    000        Thu Nov  9 10:57:41 UTC 2017
+euro-linkindex.de                                                                                    INACTIVE    000        Thu Nov  9 10:58:30 UTC 2017
+gtop.ro                                                                                              INACTIVE    000        Thu Nov  9 10:59:58 UTC 2017
+lct.salesforce.com                                                                                   INACTIVE    000        Thu Nov  9 11:02:40 UTC 2017
