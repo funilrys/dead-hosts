@@ -755,3 +755,6 @@ banner2.babenet.nl                                                              
 banner.freeservers.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:05:52 UTC 2017
 b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:10:17 UTC 2017
 beta-hints.netflame.cc                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:13:29 UTC 2017
+bpm.tags.bigpondmedia.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:28:43 UTC 2017
+cdn1.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:33:29 UTC 2017
+cdn4.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:33:46 UTC 2017
