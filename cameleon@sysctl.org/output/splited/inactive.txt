@@ -805,3 +805,10 @@ delivery.outtds.com                                                             
 delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:40:09 UTC 2017
 deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:40:15 UTC 2017
 dsa.csdata1.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:43:35 UTC 2017
+error.freewebsites.com                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 18:48:40 UTC 2017
+feedads.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Thu Nov  9 18:50:56 UTC 2017
+fertyu.allgreatvideo.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:51:19 UTC 2017
+fiona.ai.net                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 18:51:54 UTC 2017
+fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  9 18:52:15 UTC 2017
+fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Thu Nov  9 18:52:16 UTC 2017
+fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  9 18:52:18 UTC 2017

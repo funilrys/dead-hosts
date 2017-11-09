@@ -340,3 +340,4 @@ delivery.outtds.com                                                             
 delivery.usermedia.net                                                                               INACTIVE    000        Thu Nov  9 18:40:09 UTC 2017
 deluxe.spy-kill.com                                                                                  INACTIVE    000        Thu Nov  9 18:40:15 UTC 2017
 dsa.csdata1.com                                                                                      INACTIVE    000        Thu Nov  9 18:43:35 UTC 2017
+fertyu.allgreatvideo.com                                                                             INACTIVE    000        Thu Nov  9 18:51:19 UTC 2017
