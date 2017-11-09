@@ -275,3 +275,8 @@ ad97.ezcybersearch.com                                                          
 ad98.ezcybersearch.com                                                                               INACTIVE    000        Thu Nov  9 14:43:28 UTC 2017
 ad99.ezcybersearch.com                                                                               INACTIVE    000        Thu Nov  9 14:43:32 UTC 2017
 ad9.ezcybersearch.com                                                                                INACTIVE    000        Thu Nov  9 14:43:36 UTC 2017
+ad.ezcybersearch.com                                                                                 INACTIVE    000        Thu Nov  9 14:49:00 UTC 2017
+ad.germark.net                                                                                       INACTIVE    000        Thu Nov  9 14:49:22 UTC 2017
+ad.hizlireklam.com                                                                                   INACTIVE    000        Thu Nov  9 14:49:36 UTC 2017
+adimage.asiaone.com.sg                                                                               INACTIVE    000        Thu Nov  9 14:50:00 UTC 2017
+ad.nozonedata.com                                                                                    INACTIVE    000        Thu Nov  9 14:52:46 UTC 2017
