@@ -801,3 +801,7 @@ fls.uk.doubleclick.net                                                          
 ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:23:05 UTC 2017
 clicks.emarketmakers.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:24:36 UTC 2017
 content.contentspecific.com                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 18:28:48 UTC 2017
+delivery.outtds.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:40:00 UTC 2017
+delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:40:09 UTC 2017
+deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:40:15 UTC 2017
+dsa.csdata1.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:43:35 UTC 2017
