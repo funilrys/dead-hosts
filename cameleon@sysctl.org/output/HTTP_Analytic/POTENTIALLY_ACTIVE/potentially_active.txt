@@ -654,3 +654,9 @@ banner2.babenet.nl                                                              
 banner.freeservers.net                                                                               INACTIVE    000        Thu Nov  9 21:32:57 UTC 2017
 b.collective-media.net                                                                               INACTIVE    000        Thu Nov  9 21:36:29 UTC 2017
 beta-hints.netflame.cc                                                                               INACTIVE    000        Thu Nov  9 21:37:37 UTC 2017
+bpm.tags.bigpondmedia.com                                                                            INACTIVE    000        Thu Nov  9 21:55:29 UTC 2017
+cdn1.eyewonder.com                                                                                   INACTIVE    000        Thu Nov  9 22:00:03 UTC 2017
+cdn4.eyewonder.com                                                                                   INACTIVE    000        Thu Nov  9 22:00:16 UTC 2017
+cdn.appendad.com                                                                                     INACTIVE    000        Thu Nov  9 22:00:44 UTC 2017
+cgi.declicnet.com                                                                                    INACTIVE    000        Thu Nov  9 22:03:34 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Thu Nov  9 22:04:10 UTC 2017

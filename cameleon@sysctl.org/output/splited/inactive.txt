@@ -1405,3 +1405,10 @@ banner2.babenet.nl                                                              
 banner.freeservers.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 21:32:57 UTC 2017
 b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 21:36:29 UTC 2017
 beta-hints.netflame.cc                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 21:37:37 UTC 2017
+bpm.tags.bigpondmedia.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 21:55:29 UTC 2017
+cdn1.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:00:03 UTC 2017
+cdn4.eyewonder.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:00:16 UTC 2017
+cdn.appendad.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:00:44 UTC 2017
+cdn.eyewonder.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 22:01:24 UTC 2017
+cgi.declicnet.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:03:34 UTC 2017
+ch.p-digital-server.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 22:04:10 UTC 2017
