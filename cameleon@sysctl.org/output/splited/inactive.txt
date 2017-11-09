@@ -1380,3 +1380,12 @@ ads.ezcybersearch.com                                                           
 ads.fiat-bg.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 20:51:02 UTC 2017
 ads.geornmd.net                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:51:54 UTC 2017
 ads.mail3x.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:54:11 UTC 2017
+ads.maroonspider.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:55:58 UTC 2017
+ads.mdotm.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:56:05 UTC 2017
+ads.mezimedia.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:56:14 UTC 2017
+ads.pennyweb.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 20:57:54 UTC 2017
+ads.uniquemedia.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 21:01:41 UTC 2017
+ads.usermedia.net                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 21:01:48 UTC 2017
+ads.zone-media.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 21:03:30 UTC 2017
+adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 21:04:33 UTC 2017
+adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 21:05:49 UTC 2017

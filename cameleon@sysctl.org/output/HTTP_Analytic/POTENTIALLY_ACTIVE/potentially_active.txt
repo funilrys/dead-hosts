@@ -632,3 +632,11 @@ adserver.nav2.net                                                               
 ads.ezcybersearch.com                                                                                INACTIVE    000        Thu Nov  9 20:50:50 UTC 2017
 ads.geornmd.net                                                                                      INACTIVE    000        Thu Nov  9 20:51:54 UTC 2017
 ads.mail3x.com                                                                                       INACTIVE    000        Thu Nov  9 20:54:11 UTC 2017
+ads.maroonspider.com                                                                                 INACTIVE    000        Thu Nov  9 20:55:58 UTC 2017
+ads.mdotm.com                                                                                        INACTIVE    000        Thu Nov  9 20:56:05 UTC 2017
+ads.mezimedia.com                                                                                    INACTIVE    000        Thu Nov  9 20:56:14 UTC 2017
+ads.pennyweb.com                                                                                     INACTIVE    000        Thu Nov  9 20:57:54 UTC 2017
+ads.uniquemedia.net                                                                                  INACTIVE    000        Thu Nov  9 21:01:41 UTC 2017
+ads.usermedia.net                                                                                    INACTIVE    000        Thu Nov  9 21:01:48 UTC 2017
+adtxt.prbn.ru                                                                                        INACTIVE    000        Thu Nov  9 21:04:33 UTC 2017
+adv758968.ru                                                                                         INACTIVE    000        Thu Nov  9 21:05:49 UTC 2017
