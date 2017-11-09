@@ -115,3 +115,5 @@ touchclarity.natwest.com                                                        
 tracking.yourfilehost.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 11:15:04 UTC 2017
 trafficcdn.liveuniversenetwork.com                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 11:15:07 UTC 2017
 traffic.liveuniversenetwork.com                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 11:15:11 UTC 2017
+wads.webteh.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 11:18:41 UTC 2017
+webads.co.nz                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 11:18:52 UTC 2017
