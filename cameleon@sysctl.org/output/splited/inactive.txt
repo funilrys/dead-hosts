@@ -778,3 +778,10 @@ fls.uk.doubleclick.net                                                          
 hints.netflame.cc                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:17:57 UTC 2017
 h.ppjol.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:20:07 UTC 2017
 load.passionfruitads.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:32:15 UTC 2017
+measure.richmetrics.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:37:25 UTC 2017
+media.intermundomedia.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:38:09 UTC 2017
+metrics.gamestop.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:39:52 UTC 2017
+mfas.safesslredirect.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:41:36 UTC 2017
+micosoft.com-web.support                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 17:41:54 UTC 2017
+motifcdn2.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Thu Nov  9 17:43:12 UTC 2017
+motifcdn.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Thu Nov  9 17:43:13 UTC 2017
