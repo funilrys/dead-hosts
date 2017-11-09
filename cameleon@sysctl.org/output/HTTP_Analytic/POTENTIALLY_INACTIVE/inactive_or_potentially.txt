@@ -7961,3 +7961,5 @@ bluechillies.us.intellitxt.com                                                  
 bms.msk.bg                                                                                           ACTIVE      403        Thu Nov  9 21:39:25 UTC 2017
 board.classifieds1000.com                                                                            ACTIVE      403        Thu Nov  9 21:39:37 UTC 2017
 boardreader.us.intellitxt.com                                                                        ACTIVE      404        Thu Nov  9 21:39:38 UTC 2017
+boldride.us.intellitxt.com                                                                           ACTIVE      404        Thu Nov  9 21:53:15 UTC 2017
+bolt.us.intellitxt.com                                                                               ACTIVE      404        Thu Nov  9 21:53:18 UTC 2017
