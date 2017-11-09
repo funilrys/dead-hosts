@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list dairyindia.in 1801 1775 26 0
+/home/travis/build/funilrys/dead-hosts/Badd-Boyz-Hosts/tested-list/Badd-Boyz-Hosts.list esnm.ru 2406 2376 30 0
