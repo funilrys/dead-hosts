@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Dead/inactive_db www.wwwfacebook.com 9 0 9 0
+/home/travis/build/funilrys/dead-hosts/add.Dead/tested-list/add.Dead.list www.wwwfacebook.com 31 22 9 0
