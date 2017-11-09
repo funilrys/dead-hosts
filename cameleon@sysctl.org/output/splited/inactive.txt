@@ -741,3 +741,9 @@ ads.usermedia.net                                                               
 adtxt.prbn.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:36:58 UTC 2017
 adv758968.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 15:38:14 UTC 2017
 ad.vikadsk.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:44:17 UTC 2017
+adx.g.doubleclick.net                                                                                                                    INACTIVE    SPECIAL    404        Thu Nov  9 15:48:09 UTC 2017
+adzone.stltoday.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:48:35 UTC 2017
+affiliates.date-connected.com                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:49:27 UTC 2017
+a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:50:29 UTC 2017
+altx.hornyspace.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:52:56 UTC 2017
+analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:54:07 UTC 2017
