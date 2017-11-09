@@ -334,3 +334,5 @@ delivery.usermedia.net                                                          
 deluxe.spy-kill.com                                                                                  INACTIVE    000        Thu Nov  9 18:02:59 UTC 2017
 dsa.csdata1.com                                                                                      INACTIVE    000        Thu Nov  9 18:06:07 UTC 2017
 fertyu.allgreatvideo.com                                                                             INACTIVE    000        Thu Nov  9 18:13:42 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Thu Nov  9 18:23:05 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Thu Nov  9 18:24:36 UTC 2017
