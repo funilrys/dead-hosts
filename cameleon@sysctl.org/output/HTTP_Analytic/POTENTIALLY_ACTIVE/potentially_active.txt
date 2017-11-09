@@ -627,3 +627,8 @@ ad.hizlireklam.com                                                              
 adimage.asiaone.com.sg                                                                               INACTIVE    000        Thu Nov  9 20:21:58 UTC 2017
 ad.nozonedata.com                                                                                    INACTIVE    000        Thu Nov  9 20:24:33 UTC 2017
 ads.advertisingz.com                                                                                 INACTIVE    000        Thu Nov  9 20:42:10 UTC 2017
+adserver.dotcommedia.de                                                                              INACTIVE    000        Thu Nov  9 20:48:51 UTC 2017
+adserver.nav2.net                                                                                    INACTIVE    000        Thu Nov  9 20:49:30 UTC 2017
+ads.ezcybersearch.com                                                                                INACTIVE    000        Thu Nov  9 20:50:50 UTC 2017
+ads.geornmd.net                                                                                      INACTIVE    000        Thu Nov  9 20:51:54 UTC 2017
+ads.mail3x.com                                                                                       INACTIVE    000        Thu Nov  9 20:54:11 UTC 2017
