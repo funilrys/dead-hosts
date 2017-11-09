@@ -310,3 +310,8 @@ beta-hints.netflame.cc                                                          
 bpm.tags.bigpondmedia.com                                                                            INACTIVE    000        Thu Nov  9 16:28:43 UTC 2017
 cdn1.eyewonder.com                                                                                   INACTIVE    000        Thu Nov  9 16:33:29 UTC 2017
 cdn4.eyewonder.com                                                                                   INACTIVE    000        Thu Nov  9 16:33:46 UTC 2017
+cdn.appendad.com                                                                                     INACTIVE    000        Thu Nov  9 16:36:09 UTC 2017
+cdn.eyewonder.com                                                                                    INACTIVE    000        Thu Nov  9 16:36:40 UTC 2017
+cgi.declicnet.com                                                                                    INACTIVE    000        Thu Nov  9 16:38:29 UTC 2017
+ch.p-digital-server.com                                                                              INACTIVE    000        Thu Nov  9 16:39:04 UTC 2017
+clicks.emarketmakers.com                                                                             INACTIVE    000        Thu Nov  9 16:40:41 UTC 2017
