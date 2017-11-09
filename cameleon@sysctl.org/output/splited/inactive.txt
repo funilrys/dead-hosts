@@ -747,3 +747,10 @@ affiliates.date-connected.com                                                   
 a.goember.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:50:29 UTC 2017
 altx.hornyspace.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:52:56 UTC 2017
 analytics.amilliamilli.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 15:54:07 UTC 2017
+app.passionfruitads.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:01:24 UTC 2017
+atax.gamermetrics.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:03:01 UTC 2017
+atax.ign.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:03:01 UTC 2017
+atax.teamxbox.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:03:02 UTC 2017
+banner2.babenet.nl                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:05:13 UTC 2017
+banner.freeservers.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:05:52 UTC 2017
+b.collective-media.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 16:10:17 UTC 2017

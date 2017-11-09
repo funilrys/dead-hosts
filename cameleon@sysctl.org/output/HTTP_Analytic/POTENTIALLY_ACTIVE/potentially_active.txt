@@ -299,3 +299,10 @@ affiliates.date-connected.com                                                   
 a.goember.com                                                                                        INACTIVE    000        Thu Nov  9 15:50:29 UTC 2017
 altx.hornyspace.com                                                                                  INACTIVE    000        Thu Nov  9 15:52:56 UTC 2017
 analytics.amilliamilli.com                                                                           INACTIVE    000        Thu Nov  9 15:54:07 UTC 2017
+app.passionfruitads.com                                                                              INACTIVE    000        Thu Nov  9 16:01:24 UTC 2017
+atax.gamermetrics.com                                                                                INACTIVE    000        Thu Nov  9 16:03:01 UTC 2017
+atax.ign.com                                                                                         INACTIVE    000        Thu Nov  9 16:03:01 UTC 2017
+atax.teamxbox.com                                                                                    INACTIVE    000        Thu Nov  9 16:03:02 UTC 2017
+banner2.babenet.nl                                                                                   INACTIVE    000        Thu Nov  9 16:05:13 UTC 2017
+banner.freeservers.net                                                                               INACTIVE    000        Thu Nov  9 16:05:52 UTC 2017
+b.collective-media.net                                                                               INACTIVE    000        Thu Nov  9 16:10:17 UTC 2017
