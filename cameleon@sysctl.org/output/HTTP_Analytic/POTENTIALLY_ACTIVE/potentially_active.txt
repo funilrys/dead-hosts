@@ -280,3 +280,7 @@ ad.germark.net                                                                  
 ad.hizlireklam.com                                                                                   INACTIVE    000        Thu Nov  9 14:49:36 UTC 2017
 adimage.asiaone.com.sg                                                                               INACTIVE    000        Thu Nov  9 14:50:00 UTC 2017
 ad.nozonedata.com                                                                                    INACTIVE    000        Thu Nov  9 14:52:46 UTC 2017
+ads.advertisingz.com                                                                                 INACTIVE    000        Thu Nov  9 15:12:34 UTC 2017
+adserver.dotcommedia.de                                                                              INACTIVE    000        Thu Nov  9 15:17:50 UTC 2017
+adserver.nav2.net                                                                                    INACTIVE    000        Thu Nov  9 15:18:34 UTC 2017
+ads.ezcybersearch.com                                                                                INACTIVE    000        Thu Nov  9 15:19:55 UTC 2017
