@@ -650,3 +650,7 @@ app.passionfruitads.com                                                         
 atax.gamermetrics.com                                                                                INACTIVE    000        Thu Nov  9 21:28:35 UTC 2017
 atax.ign.com                                                                                         INACTIVE    000        Thu Nov  9 21:28:35 UTC 2017
 atax.teamxbox.com                                                                                    INACTIVE    000        Thu Nov  9 21:28:36 UTC 2017
+banner2.babenet.nl                                                                                   INACTIVE    000        Thu Nov  9 21:32:23 UTC 2017
+banner.freeservers.net                                                                               INACTIVE    000        Thu Nov  9 21:32:57 UTC 2017
+b.collective-media.net                                                                               INACTIVE    000        Thu Nov  9 21:36:29 UTC 2017
+beta-hints.netflame.cc                                                                               INACTIVE    000        Thu Nov  9 21:37:37 UTC 2017
