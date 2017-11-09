@@ -789,3 +789,7 @@ ox-d.motogp.com                                                                 
 pagead46.l.doubleclick.net                                                                                                               INACTIVE    SPECIAL    404        Thu Nov  9 17:55:39 UTC 2017
 pagead.l.doubleclick.net                                                                                                                 INACTIVE    SPECIAL    404        Thu Nov  9 17:55:39 UTC 2017
 partnerad.l.doubleclick.net                                                                                                              INACTIVE    SPECIAL    404        Thu Nov  9 17:56:07 UTC 2017
+delivery.outtds.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:02:45 UTC 2017
+delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:02:53 UTC 2017
+deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:03:00 UTC 2017
+dsa.csdata1.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:06:07 UTC 2017
