@@ -793,3 +793,8 @@ delivery.outtds.com                                                             
 delivery.usermedia.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:02:53 UTC 2017
 deluxe.spy-kill.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:03:00 UTC 2017
 dsa.csdata1.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:06:07 UTC 2017
+feedads.g.doubleclick.net                                                                                                                INACTIVE    SPECIAL    404        Thu Nov  9 18:13:28 UTC 2017
+fertyu.allgreatvideo.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 18:13:42 UTC 2017
+fls.au.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  9 18:14:20 UTC 2017
+fls.doubleclick.net                                                                                                                      INACTIVE    SPECIAL    404        Thu Nov  9 18:14:21 UTC 2017
+fls.uk.doubleclick.net                                                                                                                   INACTIVE    SPECIAL    404        Thu Nov  9 18:14:23 UTC 2017
