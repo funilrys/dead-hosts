@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk shore-view.com 1438 1403 35 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.cnnnew.com 2099 2052 47 0
