@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.cnnnew.com 2099 2052 47 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk www.toomami.com 2778 2705 73 0
