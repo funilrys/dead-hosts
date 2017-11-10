@@ -1452,3 +1452,11 @@ ssl-hints.netflame.cc                                                           
 sslt.tellapart.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:51:50 UTC 2017
 static.tellapart.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:53:45 UTC 2017
 static.tellaparts.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:53:45 UTC 2017
+stats.gamespy.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:56:24 UTC 2017
+st.n.ads1-adnow.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:57:47 UTC 2017
+st.n.ads3-adnow.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:57:50 UTC 2017
+support.com-support-help.online                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov  9 23:58:43 UTC 2017
+tag.beanstock.co                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov  9 23:59:53 UTC 2017
+toplisted.in                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:03:38 UTC 2017
+track2.me                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:04:11 UTC 2017
+tracking.intermundomedia.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:05:15 UTC 2017
