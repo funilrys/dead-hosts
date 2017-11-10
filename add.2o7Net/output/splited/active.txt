@@ -1102,3 +1102,13 @@ yrkdsp.112.2o7.net                                                              
 yukoyuko.112.2o7.net                                                                                 ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:05:36 UTC 2017
 zag.112.2o7.net                                                                                      ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:05:36 UTC 2017
 zag.122.2o7.net                                                                                      ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:05:37 UTC 2017
+zango.112.2o7.net                                                                                    ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:14 UTC 2017
+zdau-builder.122.2o7.net                                                                             ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:15 UTC 2017
+ziffdavisdesktoplinux.112.2o7.net                                                                    ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:15 UTC 2017
+ziffdavisenterprise.112.2o7.net                                                                      ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:16 UTC 2017
+ziffdavisenterpriseglobal.112.2o7.net                                                                ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:16 UTC 2017
+ziffdaviseweek.112.2o7.net                                                                           ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:16 UTC 2017
+ziffdavisfilefront.112.2o7.net                                                                       ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:17 UTC 2017
+ziffdavisglobal.112.2o7.net                                                                          ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:17 UTC 2017
+ziffdavispennyarcade.112.2o7.net                                                                     ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:18 UTC 2017
+zipzoomfly.122.2o7.net                                                                               ACTIVE      Unknown           NSLOOKUP   200        Fri Nov 10 01:08:18 UTC 2017
