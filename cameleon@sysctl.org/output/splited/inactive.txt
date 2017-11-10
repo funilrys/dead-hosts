@@ -1469,3 +1469,9 @@ wrapper.ign.com                                                                 
 wrapper.teamxbox.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:16:37 UTC 2017
 www1.tudosearch.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:17:57 UTC 2017
 www2a.sitetracker.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:18:12 UTC 2017
+www.addaim.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Nov 10 00:22:08 UTC 2017
+www.adoperator.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Nov 10 00:22:34 UTC 2017
+www.broadcastpc.tv                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:25:50 UTC 2017
+www.conceptsbyteupdate.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:27:13 UTC 2017
+www.disable-uac.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:28:30 UTC 2017
+www.flashgamejunkie.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Nov 10 00:30:03 UTC 2017
