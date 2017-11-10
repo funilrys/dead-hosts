@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/tested-list/Ads.list zumobi.com 3059 2943 113 3
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db ads.horsehero.com 900 795 105 0
