@@ -696,3 +696,12 @@ tag.beanstock.co                                                                
 toplisted.in                                                                                         INACTIVE    000        Fri Nov 10 00:03:38 UTC 2017
 track2.me                                                                                            INACTIVE    000        Fri Nov 10 00:04:11 UTC 2017
 tracking.intermundomedia.com                                                                         INACTIVE    000        Fri Nov 10 00:05:15 UTC 2017
+t.tellapart.com                                                                                      INACTIVE    000        Fri Nov 10 00:09:49 UTC 2017
+t.trrker.com                                                                                         INACTIVE    000        Fri Nov 10 00:09:52 UTC 2017
+update.smart-browser.com                                                                             INACTIVE    000        Fri Nov 10 00:11:21 UTC 2017
+wrapper.askmen.com                                                                                   INACTIVE    000        Fri Nov 10 00:16:33 UTC 2017
+wrapper.gamespyid.com                                                                                INACTIVE    000        Fri Nov 10 00:16:34 UTC 2017
+wrapper.ign.com                                                                                      INACTIVE    000        Fri Nov 10 00:16:36 UTC 2017
+wrapper.teamxbox.com                                                                                 INACTIVE    000        Fri Nov 10 00:16:37 UTC 2017
+www1.tudosearch.com                                                                                  INACTIVE    000        Fri Nov 10 00:17:57 UTC 2017
+www2a.sitetracker.com                                                                                INACTIVE    000        Fri Nov 10 00:18:12 UTC 2017
