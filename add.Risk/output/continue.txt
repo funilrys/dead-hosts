@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk games4u.ws 725 701 24 0
+/home/travis/build/funilrys/dead-hosts/add.Risk/tested-list/add.Risk shore-view.com 1438 1403 35 0
