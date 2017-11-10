@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db ads.horsehero.com 66128 60822 5306 0
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db ads.horsehero.com 67027 61648 5379 0
