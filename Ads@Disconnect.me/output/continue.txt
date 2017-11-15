@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db ads.horsehero.com 337975 311562 26413 0
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db affiliate.mogs.com 338780 312294 26486 0
