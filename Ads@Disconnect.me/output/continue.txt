@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db affiliate.mogs.com 338780 312294 26486 0
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db ads.massinfra.nl 339694 313208 26486 0
