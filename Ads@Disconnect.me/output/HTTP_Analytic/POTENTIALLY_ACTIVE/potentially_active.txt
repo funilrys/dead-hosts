@@ -26478,3 +26478,6 @@ adimage.asiaone.com.sg                                                          
 cdn.freefacti.com                                                                                    INACTIVE    000        Thu Nov 16 11:29:22 UTC 2017
 rank-master.de                                                                                       INACTIVE    000        Thu Nov 16 11:29:24 UTC 2017
 ad.nozonedata.com                                                                                    INACTIVE    000        Thu Nov 16 11:29:24 UTC 2017
+cdn.freefacti.com                                                                                    INACTIVE    000        Thu Nov 16 11:40:01 UTC 2017
+rank-master.de                                                                                       INACTIVE    000        Thu Nov 16 11:40:03 UTC 2017
+ad.nozonedata.com                                                                                    INACTIVE    000        Thu Nov 16 11:40:03 UTC 2017
