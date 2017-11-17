@@ -160,13 +160,13 @@ showPercentage=true
 travisMode=false
 
 # Minimum of minutes before we start commiting to upstream under travis
-travisAutoSaveMinutes=10
+travisAutoSaveMinutes=15
 
 # Default travis final commit message
-travisResultsCommitMessage='Ads@Disconnect.me inactive_db - Results'
+travisResultsCommitMessage='Funceble Test - Results'
 
 # Default travis autosave commit message
-travisAutoSaveCommitMessage='Ads@Disconnect.me inactive_db - Test'
+travisAutoSaveCommitMessage='Funceble Test - Autosave'
 
 # If set to false, we generate only one file with the results
 splitFiles=false
