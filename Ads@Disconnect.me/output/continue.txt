@@ -1,1 +1,1 @@
-/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db ads.horsehero.com 489001 451035 37966 0
+/home/travis/build/funilrys/dead-hosts/Ads@Disconnect.me/inactive_db banner.webmersion.com 489807 451768 38039 0
