@@ -2,8 +2,6 @@
 
 Please report to https://github.com/dead-hosts/adaway.github.io_git_AdAway .
 
-`hosts` file downloaded from: **https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt**
-
 --------------------------------------------------------------------------------
 
 # About Dead-hosts
