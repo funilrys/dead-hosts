@@ -1,1 +1,0 @@
-/home/travis/build/funilrys/dead-hosts/Tracking@Disconnect.me/tested-list/Disconnect.list vungle.com 34 32 2 0
