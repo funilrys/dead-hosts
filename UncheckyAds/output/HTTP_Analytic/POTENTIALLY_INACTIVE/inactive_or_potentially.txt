@@ -1,9 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Oct 28 17:50:06 UTC 2017
-
-
-Domain                                                                                               Status      HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-cdn.download.sweetpacks.com                                                                          ACTIVE      403        Sat Oct 28 17:50:10 UTC 2017
-cdn.msdwnld.com                                                                                      ACTIVE      403        Sat Oct 28 17:50:11 UTC 2017
-tracking.opencandy.com.s3.amazonaws.com                                                              ACTIVE      403        Sat Oct 28 17:50:16 UTC 2017

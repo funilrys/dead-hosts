@@ -1,9 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Oct 28 17:50:06 UTC 2017
-
-
-Domain                                                                                               Status      HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-cdn.guttastatdk.us                                                                                   INACTIVE    000        Sat Oct 28 17:50:10 UTC 2017
-cdn.inskinmedia.com                                                                                  INACTIVE    000        Sat Oct 28 17:50:10 UTC 2017
-cdn.riceateastcach.us                                                                                INACTIVE    000        Sat Oct 28 17:50:12 UTC 2017
